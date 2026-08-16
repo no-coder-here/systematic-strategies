@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=65"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "systematic-strategies-backtest"
+version = "1.5.1"
+description = "Common backtesting engine for QR-INFRA-001 (frozen contract v1.5.1)"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=2.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

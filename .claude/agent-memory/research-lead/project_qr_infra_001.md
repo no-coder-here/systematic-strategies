@@ -1,6 +1,6 @@
 ---
 name: project-qr-infra-001
-description: QR-INFRA-001 — build and independently validate the common backtesting engine; spec v1.1 under audit as of 2026-08-13, no alpha research until complete
+description: QR-INFRA-001 — common backtesting engine; spec v1.5.1 FROZEN and implementation CODE PASS as of 2026-08-15; engine lives in src/backtest/, 157 tests
 metadata:
   type: project
 ---
@@ -14,52 +14,83 @@ work, no strategy research follows it without a new work order.
 here silently contaminates all downstream research. The user wants one shared accounting
 implementation so strategies are comparable and cannot self-report PnL.
 
+**Status 2026-08-15: COMPLETE.** `docs/backtest_contract.md` v1.5.1 FROZEN (6 spec audit
+rounds); implementation in `src/backtest/` + `tests/backtest/`, 157 tests, **CODE PASS**
+after 4 implementation/audit rounds. Uncommitted in the working tree. QR-DATA-001 NOT started.
+
 **How to apply:**
 - The engine must contain no alpha logic. Strategies emit target weights only.
-- Pipeline discipline: an agent that designs or implements a strategy may never certify it.
-  strategy-engineer implements, backtest-auditor audits independently.
-- **Status 2026-08-14: `docs/backtest_contract.md` v1.5.1 is FROZEN.** Six audit rounds:
-  v1.1 FAIL (12 blocking) -> v1.2 FAIL (7) -> v1.3 FAIL (4) -> v1.4 FAIL (1) -> v1.5 PASS WITH
-  WARNINGS (0 blocking, 5) -> v1.5.1 PASS WITH WARNINGS (0 blocking/runtime-correctness, 8
-  editorial B1-B8, recorded in §21 of the frozen doc). Implementation NOT started —
-  strategy-engineer has never been invoked. Requires the owner's explicit go-ahead.
+- Pipeline discipline: an agent that designs or implements may never certify. Held across
+  all 10 rounds (6 spec + 4 code); never violated.
+- Read `docs/backtest_contract.md` rather than trusting any summary — it is normative.
 - The frozen doc may NOT be edited in place. Any change needs a new numbered revision, a
-  preserved snapshot in `docs/spec_history/`, and a fresh audit.
-- Accounting core survived six independent numerical attacks (9.9e-17, 3.56e-16, then full
-  bitwise fixture reproduction). **Every defect across all six rounds lay at a boundary, in a
-  validation rule, or in the test suite — never in the central accounting sequence.** That is
-  the single most useful prior for the next infrastructure spec.
-- Spec snapshots are preserved under `docs/spec_history/` before each replacement (owner
-  instruction, 2026-08-14). Never overwrite a historical snapshot.
-- **Second recurring failure mode: cross-section contradictions.** v1.4's only blocking defect
-  (E1) was §9.2 and test CF2 each being correct alone but contradictory together — I added a
-  gating condition in one section while binding a test to a fixture that trips it. Distinct
-  from the float-equality class. When a rule gains a new precondition, re-check every test that
-  depends on the quantity that rule governs.
-- **Recurring failure mode to watch: asserting `==` on floating-point values.** It has now
-  appeared in four consecutive revisions (v1.1 R4, v1.2 N5/§8, v1.3 X6) — including once in
-  the same document that introduced a normative tolerance policy forbidding it. Pattern-matching
-  on the previous instance is not enough; every new numeric assertion must be re-derived and
-  checked against the tolerance policy individually.
-- **Pin the full config with every test fixture.** v1.3's X1 and CF7 fixtures were computed at
-  `execution_lag = 0` but published without saying so, making them unreproducible under the
-  config default of 1. Disclose every parameter a fixture depends on, not just the interesting
-  ones.
-- **Keep versioned spec snapshots** (e.g. `docs/backtest_contract_v1.2.md`). Overwriting
-  `docs/backtest_contract.md` each revision meant the round-3 auditor could not verify B1-B12
-  verbatim — it could only check the changelog's summary of them, and said so as a stated
-  limitation of its audit.
-- Do NOT copy a formula an auditor suggests into the spec without independently verifying it.
-  In v1.2 I adopted the auditor's own round-1 replacement identity
-  `sortino/sharpe == sqrt(2)*sqrt((n-1)/n)`; at round 2 the same auditor showed it was
-  inverted AND impossible under its own premise (symmetric series => mean 0 => 0/0). An
-  auditor's suggested fix carries no more authority than any other claim.
-- Lesson worth keeping: v1.1's §5 accounting *core* was provably correct (net-return/NAV
-  identity verified to 1e-17). Every blocking defect was at a **boundary** — undefined
-  funding window instant per execution_mode, undefined equity-curve index, undefined
-  terminal bar, undefined column alignment on universe exit, self-contradicting ruin path —
-  or in the **test suite itself** (three mandatory tests were worthless/impossible/flaky).
-  When specifying an engine, spend the effort on boundaries and on making tests falsifiable,
-  not on re-deriving the central algebra.
-- Key frozen conventions live in docs/backtest_contract.md — read it rather than trusting
-  this summary, as it is the normative artifact and will have moved on.
+  snapshot in `docs/spec_history/`, and a fresh audit.
+
+## The one lesson that generalises: defects live at boundaries and in the test suite
+
+Across all 10 rounds, **not a single defect was ever found in the central accounting
+sequence.** It was verified at 9.9e-17, 3.56e-16, then bitwise, then against two independent
+from-scratch reimplementations. Every defect lay at a boundary, in a validation rule, or in
+the tests. Spend effort there, not on re-deriving the algebra.
+
+Code rounds 2 and 3 **both failed on inert mandatory tests and nothing else** — tests that
+looked correct, asserted the right-sounding thing, and could not fail under the defect they
+targeted. Examples: an S3 fixture whose rebalance was unexecuted so the branch never ran; an
+F2 boundary test on a period holding zero quantity; an "X8a near-ruin" whose NAV_end was
+1_000_000.1; N3t whose fixture round-tripped bitwise so its EXACT anti-second-NAV-path
+assertion could never fire; `pre_trade_weights`, `fee_basis_notional` and
+`liquidation_modelled` referenced by zero tests.
+
+**Therefore: mutation proof is mandatory, not optional.** Require every agent to mutate the
+source, confirm the test goes RED, restore, and report the table. Then have the auditor redo
+the mutations independently — the round-3 auditor ran 63 and found 4 survivors the
+implementer's own table had missed. "143/143 passing" told us almost nothing on its own.
+
+## Recurring failure modes to check first on any new spec or implementation
+
+1. **Inert tests** (above). Acceptance criterion for any assertion: *does this discriminate?*
+2. **Float `==` on TOLERANCE-classified values.** Appeared in **six consecutive rounds**,
+   including inside the revision that introduced the tolerance policy, and once as an
+   over-tightening (round 3 turned a correct `approx` into an `==`). Pattern-matching on the
+   last instance never works; re-derive every numeric assertion individually.
+3. **Cross-section contradictions** — a rule gains a precondition and a test elsewhere trips
+   it. When a rule changes, re-check every test touching the quantity it governs.
+4. **Fixtures that inherit undefaulted config.** Pin the full config with every fixture.
+5. **A normative rule with no code path** — v1.5.1 §4.2 (`P = open`/`P = close` per
+   execution_mode) was simply not implemented for a whole round: the engine took one price
+   frame and `execution_mode` only moved `T_i`. A caller passing close prices under
+   `next_open` got a free bar of hindsight. Test E2 could not catch it because it fed two
+   *different* frames to two runs. **Check that each normative rule has a code path AND that
+   its test could fail.**
+
+## Techniques worth reusing
+
+- **Poison the unused input.** Filling the unselected open/close frame with NaN made all
+  ~150 fixtures actively prove the unselected series is never read. Converted one narrow
+  test into a suite-wide invariant; mutations that previously survived now cause 91 failures.
+- **Self-guarding fixtures.** N3t now asserts *in the fixture* that its prices do not
+  round-trip bitwise, so it cannot silently go inert if someone edits the prices later.
+- **Differential vs an independent reimplementation**, plus randomized runs (600–4000) with
+  a SHA-256 over the whole result surface. This is what actually cleared the accounting core.
+
+## Adjudications I made that a future revision should honour or revisit
+
+- `MissingPriceError` subclasses `InvalidPriceError` — the only reading satisfying §5.5,
+  §11.2 and §18.9 S2 simultaneously.
+- §10 `target_weights (as supplied)`: the explicit per-field qualifier beats the group's
+  `n_periods`-rows header. Result exposes the unmodified supplied frame; the resolved
+  execution-indexed frame is `resolved_target_weights`. **§10 is genuinely ambiguous here.**
+- §6.0 Step 0's EXITING price validation is **unreachable via `run_backtest`** (any symbol
+  with `q_prev != 0` had `P[i]` validated as `P[i+1]` at the prior period's Step 5). Code
+  keeps it; tested via the `_step_period` helper under §21 B1's precedent.
+- §9.2 drag preconditions 3–4 are **structurally implied** by 1 and 2. Confirmed independently
+  by two agents and by 4000 randomized runs. Kept as defence-in-depth.
+- Do NOT add an `initial_capital > 0` guard — §21 B2 is accepted frozen debt and the fix is
+  not in the frozen text. It currently raises `ZeroDivisionError`, which §11.2 does not permit.
+
+## Open items for a v1.6 spec revision (none block use of the engine)
+
+§21 B1–B8 as frozen, plus: `initial_capital = 0` raising `ZeroDivisionError`; §12.3's
+`annualized_volatility == 0` exact float trigger; §9.2's redundant preconditions; §10's
+`target_weights` row-count contradiction; `funding_events_excluded` not counting
+out-of-universe symbols; §10's `counterfactual_status` `__repr__` MUST has no covering test.
