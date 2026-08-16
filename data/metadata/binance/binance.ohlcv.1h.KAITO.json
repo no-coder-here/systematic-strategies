@@ -1,0 +1,179 @@
+{
+  "binance_symbol": "KAITOUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1740056400000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 203,
+      "sha256": "8d70cfc17a42bdf110305d7aea9369f735b7993d74ad9f331f164ab3c5fc5bae",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "f2d7aaddd5f5800881d41517a8ada4e46be93fc069a9be3b674b667482b51ad9",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "23d4c8aa3f0674a87f6e26f671c80f558f78110e6a64cd8ca402701e3f1c5578",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "40dab0630e492b2476a2df97680e7a030d90c61fddd08014fb7b3a18cc232ce1",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "6bea1151552d42fc70dba85e7e65a8a8928df14a851e78ba2f434ebd09464a98",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "0ae3a18d4691d180496a4f3e0b7fa4ffa6b910f93d773622968bf1f6007588f7",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "a0e9c98d6ed7b003c3a019ab8db85e433e03f4ea5295610f7c5124dc2a88dd5d",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "8ae3fd3a5f6a25d8f3d171e4f80be791beb519ff8adea4e243b041f3b3896d3e",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "4595b77e62f50e1d8d7dd79e84e8c06074ac714a37621c81ec83c5fde0e59476",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "ae54c1ddd395a7acbf2428b907c4b01eb3f2479769e3ba7f9c74037760cff266",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "bbfb80f743ac6c429b17c7bec0d3f4a25d0b1a878428e3a66ac2c5cf0c74c4cc",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "0d127e47deff982cd9932c7c01c3875971d694c74e53d58aabe54aeb2560c0fc",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "6bfbbce57c4a6dd236a8578bde21a6726effefa8c363c14a72c655528dc51fb7",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "71c4b32993f04b20860a2e9be4b07ab91bac56cf4edd5c4f8f61963b87cfba8f",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "01b0b187e6a511e94987403355dfabb6d70ab4424d7a3fbdf531b6443006e726",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "130345c9629b9c85999ae9979542e678a931cdb0234417371c15e7383410fd05",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "0e87138143287982bf08685d47d7886824b1e50327ec4603a8fd140d6c9bc923",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "3bfaac6da550090fc42626d6f4b14f5dd0960c1bd09a0e67433ed441c9af0764",
+      "symbol": "KAITOUSDT",
+      "url": "data/futures/um/monthly/klines/KAITOUSDT/1h/KAITOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.KAITO",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "KAITO",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:02.187783+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-02-20T13:00:00+00:00",
+  "unit_multiplier": 1
+}

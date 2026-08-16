@@ -1,0 +1,161 @@
+{
+  "binance_symbol": "INITUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1744783200000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 354,
+      "sha256": "383a6a82f1354d142551d997c7b8989444aa1789956f10d2d765aff2f8373ed7",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "274c274c7935fdf6b0a3619f4ed5feb17323f1c7ee42d82d5302b65eeeaa1a12",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "566486190d9145cebdf44428d55696d741f20c0926d5700e9c965e70b64d576d",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "48daf4a07d88602e4ef4d09b6dc53018f1dc2ddddd1bbb11f47b986899ed5d0a",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "f9701ee967711e7a6c81a48dee97797292b78b11d2d2983849ff26e6e79a9045",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "6c683d96b86281835e6ede3fb57ff4ca8a2e8e4c74c3bd3764669f7f279ea307",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "59798ef7948d805fa999ba44205f49ac2cc230a3c74037eda8eeefa921675326",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "4af0e2bb897c5b1a3a71494672a5923e1b589875e8b0297d6d051188fd7bc592",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "4daf6a4be72c9d33c9d2b140838458398c51c1e473a265818029825d38f4d921",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "a09870c50722bb2cc20e72fb4ccb3a9134381bb6718525f2cb3e303b11461211",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "0b911eb7f41d16f5a778acb7d1ad1352ef9b0510a03d682d1f4bf5e333ee14f6",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "89a7f3f04296e3dd7459050ce8d5240a40e7c1dfcb9ab385719f31109c8d5daf",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "bb0eeb591d64de60c8059633e9dd027c605b0fe882fc9c578a96c0816891ce8e",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "5c4be49c9754e59a8864903e9852d17591a2e39976f0d41e9777437c538acbbd",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "08efc20244942d027852e967da3f889621d6cd79ec8bcf433e933f3e417456a3",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "ceb89a5c3aaa71c62bc7b1bd9834bc97e03d94297f077bab29ba6a5ff1940b47",
+      "symbol": "INITUSDT",
+      "url": "data/futures/um/monthly/klines/INITUSDT/1h/INITUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.INIT",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "INIT",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:15.413376+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-04-16T06:00:00+00:00",
+  "unit_multiplier": 1
+}

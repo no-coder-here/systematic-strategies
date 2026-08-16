@@ -1,0 +1,683 @@
+{
+  "binance_symbol": "ALGOUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1592298000000,
+      "last_ts": 1593558000000,
+      "month": "2020-06",
+      "rows": 351,
+      "sha256": "72a16c3d6181b325cbcbf93ce142d57a1ef298b60bb1f5e0ee1c97715bec028f",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-06.zip"
+    },
+    {
+      "first_ts": 1593561600000,
+      "last_ts": 1596236400000,
+      "month": "2020-07",
+      "rows": 744,
+      "sha256": "cce17a98e82fb4ee0f01a9b6e2b0e4fb4bf97522352925cfebebf3943eea22f3",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-07.zip"
+    },
+    {
+      "first_ts": 1596240000000,
+      "last_ts": 1598914800000,
+      "month": "2020-08",
+      "rows": 744,
+      "sha256": "afe9de55a0b2e1459ca3a4c015192d81c3e1e87e1722495d1f85ccd16fd66b33",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-08.zip"
+    },
+    {
+      "first_ts": 1598918400000,
+      "last_ts": 1601506800000,
+      "month": "2020-09",
+      "rows": 720,
+      "sha256": "e8fe44f45735d6b011f205c42e13f8af203ea5eda871e6c78ea8a6704a9de5cd",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-09.zip"
+    },
+    {
+      "first_ts": 1601510400000,
+      "last_ts": 1604185200000,
+      "month": "2020-10",
+      "rows": 744,
+      "sha256": "cb59ee4e3bf74f9b5fa107bd177cbc24525ea203fb6cc775aadfc13e1bbf3a93",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-10.zip"
+    },
+    {
+      "first_ts": 1604188800000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 720,
+      "sha256": "7a2a847ad82125b2ba36f46155a68a5885b3972594eb39872c3cd09c5f0299ad",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "b8a3d71c41117e1e60e9d94fb3173c30609825dc1bf6a0fb182cc93f010a9fb6",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "1fed1ca19362332060e9ce0c0eb8053074b50b3092e1a5a83b75e1e7a8195ab4",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "96d01fd11038a804fbd8e77cb3f79ffb2965c4d5ce0c98a724441e4ee422873b",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "984f5731da745f73441071408020f233ff6109831aea19b39915c249bee81519",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "b9e9a6b219fc7039ac26e5f3a76603347e3424c6595caeaa9d730c69519939dc",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "8e413ae924c51e07453253903a4c5c42c5db933dfe5673e0d1b66e6f5094fa0d",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "97466a14541b284a1bfd87e3224a20ca77f74745c9a6c96342056abcb338c6c3",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "97c803f295b826cdfc2d58a322b693f624344386cc6d43abd1b5113d6790bbf8",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "8cc1db65bc63fbe35d508fba5eaf490d3b695f09a66fdeaf96faa2fc31cccf59",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "59a587775aa99a8d393bf1c0eb5900447f4b26633ab2e29b942df701cc0f3b40",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "7dbedc6cc83c5ca6bfe68a64d3cf5bfbac3f5abcf0e6bb67018e3fc6c3a243a5",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "c2905caee7833a75388d0173bdc6918077faf1d11ac893bbc8251bcdf3cd8811",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "e4ab0f20acb9ae9a8f4f19a8f62b921d84d70e2b5478faf9a2a36bf90cbdaf13",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "e5800d8b62b1ba8d4ea728acd7328b70d80b72f4b2cf093231bb550004a9dec2",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1646089200000,
+      "month": "2022-02",
+      "rows": 672,
+      "sha256": "cc047ce2959f5ceb413b8023340933dc6a8353b3ca0d9d83f1572bee74556ee4",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "b88abad515d28844cecac76dfc55cc6c283db2533ca7df08819e2f46e074fbd7",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648771200000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 720,
+      "sha256": "5dd74c7f6618bd5dfb9826544e1758a12e126f9d8581748044f8f0f36e569884",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "8733867a418ac1b2261306f15a4a8164e3aa5cd96bc55f10a839a171ab73d785",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "862c3f2f87da660cd6d84891782dea6baf0905ef16a2d960ee77b406e4f4e979",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "9078797cd6ed4e8d0aea95f2ebb6ceb21cd4efed958d4035717521ecc1ccd644",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "64942e8e57808ca146d02de5bb7474cb4141e1f8a956831b59847e61c9e51260",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "6bb020dc78a5f847fbbcdedaf35d2a3dcd233a488bb32b2124f16b39c6ee9208",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "1a698f14fe3ff2463926d0d4729106e653c05394cd83d21ad2d38688b7ce7bab",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "f133c95e9a6a7ded32e0c8ff53aa7c94af812b481e08ceae556d1bd9a8017898",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "3cf1613e6cb321f06480e6fb06548e3dc03ccfb49d33331f535c0c84449830c5",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "f7f745bef1e84df8cff7e03670a5a602777423da0ae137777cfc4e9a0a30561f",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "49a5a1d2654a166731920c0c5e9fff0b7ec29a2614acc7ff667d1cb1fa1d2a2f",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "2fc8d24a261c5bb2b451aa43605267838ca1ee1af0ea62ae6fc6968bee268625",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "92383e5dafbd3cabb134d9eb645e510d9d69674b3d75858a541996a885199c0a",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "ebe23b57b40576c21cde615c7f900d68e7849088f624453994904743d5904ced",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "cdea734d43a185eebd88aef2a0e2b89d92b71e998ccffde756245f17b62513b4",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "b6fa8250959108d920d7c01c97371362b67894d1a8af3867dfd5ddce59ee8977",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "5778216b7da45b40026ed81ddc15062e77bd3c1bd0c7c5b86cdb876d23b458e2",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "eeb9e317246c2abb73bfb04818ad48572be89f2c54867a224b853302e3c0944b",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "be990740576af06401e0b9fc4785d712918649a54ef7e75c0a0b93019605a340",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "8822f512f15a7b4b3e7714d8f2493bbe5acb5d9782e636067cace5daa9467c01",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "3fe8746f1ebccea1ee4dfd514986d4d5e7d93be87e4da1204c30bdcbcbd473da",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "d4830b7b974c0f62a7a1e05ca448840ed9c5a1577a213e4a181a3bf6951482d7",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "0a6a98395741912dc8c423d8a8c53272608740fe8de2388bdcab6ab505dffe4f",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "51bd475d03519b98a451d308cb793679a0e8d4d4e6d1bd24c8c5bc5ca6e8bbc1",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "682c051f2f4f5da3c89bcd552cdd5a0da5380f23c292772c129dc1e67a72e7fa",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "81ff043610c4e3277bccc186f67333fa11653a8d0aae50b5a9aaebf20ee158c9",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "12c2e562eae2bd3a667d70745bda1f3e8ccf0174717e6d999fe3a825662c8acb",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "2b37f53370565f31ba67d2700fcb4110f6afcb577acd3b13c41312b983992f7f",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "5dcfba6980a4dc52d30d5b10cbf03d2cc1c54e4a242dee9c980f296bccacac0f",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "411f5f6840c0103dd7bc13afe8258cb2b4beed28ab9eed711b05b35d223705c3",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "4638891409a31d21bce4694f7864ed6912974e634fa075370cb3f778fcdd8371",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "a1dc82a68cc5743fb5597261c4079ce0d41eb887d110a976ea5550a8ae8edaac",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "94fd49d0612fa0fd9fba557b073ca7d47ab6afb53816e98d44cdd13f56e33cdd",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "03851969d8046769b1915797e5304174cf716301997814701a5e684ce4f1f60b",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "2ad9e9a6871dc18e1ea7079044257b6fd8fa1694cb0f790167c21874031d10b8",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "d28e23637552a667ef85f01ed5594927e1c832ab4d66ce4430591ece7a7848c7",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "71cb16b526db793e72512a20ea883ccac8e3e194317af2ec199b05121904a981",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "9222e2345877835231666f2feaf697cdf955f86303f925afd29e60b064754328",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "ab0feb7be2a77c46183694ef93e3396b4670599c0e3d54d44d9a3fd32948c97c",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "534da87b822ac2b77c54c8c9834b842814ae9f454afe124c7765832eb0ee7978",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "66970f6963ddf205ce15bc065c2de4214cf33f84d9e30ac8cd39151fe099df6e",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "3ac3b67cf12a2b349b01a4ba94f408904ada5e8a8d573993f962e9479a97a6ad",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "5ce123268ab6dd91c58489e7ddc5d826a2e91b7ae7a72efc01cee5736b02fc66",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "3b27cd9060bbbe7836da464505e7f6cfe5caaadee65b6785225b9d06cbe9025c",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "4c1c29a024bf1baa1c9bc16c5d781295e26ac02cab90a78a16f3a05476eb7477",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "de85d8dba6f7fcb05da426e3bab2676d5ff36b1049ffc150b71df4de71859b95",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "b8460e0b9eb111e4a4f06e0e4471837410792aff604da814b14f69496e304c56",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "9104df1068df4a04c14ca972550405ce471a0dc0dda90112ff89d0fff95b5fb8",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "422decc12d0eeb16868a8c822fa2e23bb2ba04707736ceec2328075fbf4a264b",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "aae9e243ae3309fa56981cb5efe788c984564ade7fe71ba9abc2162c8c78af0d",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "c12d6f6081f6a32c02a9f8e342e6de7e22a830102e5f2d5a70fc7172bca08948",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "b93c37e5e6b650113f3cf4b39aeaf2553673137a03739fef0793411e7e02c606",
+      "symbol": "ALGOUSDT",
+      "url": "data/futures/um/monthly/klines/ALGOUSDT/1h/ALGOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ALGO",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ALGO",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:59:09.040189+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-06-16T09:00:00+00:00",
+  "unit_multiplier": 1
+}

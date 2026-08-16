@@ -1,0 +1,152 @@
+{
+  "binance_symbol": "SYRUPUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1746604800000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 592,
+      "sha256": "16044e3ff5ad804b5158759af5f374f554cad4864a53e9129427407d97c19608",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "67b212e3ce22de978dfb625ecd0b8acc508d0d75fdfd270037277db7aeee8cea",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "03df7140c5f63dfe55506fc28f08652ba68ef77798c0266f8bbbbee98f5c0a89",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "b6e80e06ffdc2978aaae2cddf93be38e7c0f03800df9bfc86c747f761ccbfc33",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "76a1c4db00798436b96a7c415a47b802f313f7149162c02296713371d0b6f165",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "344601be2542a924b66d785b97ba9b5d83ac2e5b22200d6bf8f045641e3ff3dd",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "81d7ac862ae80695f1077a547924afa718293fd84bfa70c98ed0e56fb077bb5b",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "90f0e6e716038782d69afbb6b340bb041a3059e5424c293f6f83333f15fa2852",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "b1cf1f7b51d5be31664bd9f0dd270248cf65def820621a57153be41a26981727",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "f1098d5def3b189fdb80e73d9bcd2a315ad6e323a9448366a57d0396972f5c74",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "0579547d752cdfabfe121514a9cf2a81f7aa30d46a9227c3eee203ed626a1feb",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "9c7ea59a8f7e1a962df3da0569820887acdf4a2d536f0ebc804f2e3709b6b3f5",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "437e2c6f3bb3bead7969f46652da58bbf07664fc843e76dfdeb75c2564681528",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "273d854649ab8e25c4b5a12207b81ff7811b8ce76cce9cac944c12ea7bb44ac9",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "c3cb57927ca38ad62783e9f6d897d11331099f20c6f2be9fb778ed38b2bcc762",
+      "symbol": "SYRUPUSDT",
+      "url": "data/futures/um/monthly/klines/SYRUPUSDT/1h/SYRUPUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.SYRUP",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "SYRUP",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:29.149142+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-05-07T08:00:00+00:00",
+  "unit_multiplier": 1
+}

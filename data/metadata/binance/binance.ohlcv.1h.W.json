@@ -1,0 +1,269 @@
+{
+  "binance_symbol": "WUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1712156400000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 657,
+      "sha256": "bfc365585b794a07531528b84beee54d6d129e2db2b4f0d68667816f43c9fc99",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "1e56d1a18e3311945834bdbee08fbd606bc335e770f12f4c43dd1fd6f783e7fa",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "222048a3574bde3671b456313aaf173348d91778694e3008ba57b8cb9f087977",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "b144d21f4780838a7070cb8fc6fcc6a07baa53bf452965264bff7d38fd443d7c",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "59e9b779439ae081d62e43a67f0713b7aec1a7d9cd8c423d624607193aa19dd2",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "7ce8486a1747ad881a8ea373a8b183dd1362a02f8164ae3475aa3d8d5f72fef2",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "1efabe59495db31f059e85d3ebab3959b9dc751a0e6925e35417dd44f517a0d4",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "bec215c9c68dd005ec0f8d88542bbcd06c294a700f676dbda10f81681633a031",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "884b8eb4f16a1724dc043306e6c33ec6393b147ef5a44f20177f4bf1be9d40cc",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "b3e517d09ff4cd851ea671bd5f6f8b5a314df2546449b8c7ece62aa0d75b529f",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "d9fd5ec8fee33d448215788dfbf491185ac66a473ef8253da706922e22fdc965",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "518df8d70a56e2c011cb07155edd307dd3cfbaa88580cb7b22366fbde01100bd",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "0728338eb4ae154b0342e22275b70351c6d700eee3db9a1910708fbc7105ebd9",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "b7d4e4b2f7c80d015ccb62b8c06e445a107dc3e3a7eea0b7f44a6cd74720cd79",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "2248f95ce56497f49d382a87080206ae5cfdbf6f9b0bbc8e4b5dd7992aa5c75f",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "2e1bbdd0cfa7fe7857c00167c274d6766492f1b84ec7508a0f8d43e4eb310895",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "1fd88ce1e4f717d6a0284de4d35e261197eb3bd039c9b1b94f71e181d39a2624",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "8b7051abffe69b88dbc8e47965b498222acc89986fc7b7d1806021b44a0ec521",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "1a06075b620390f366f6d51eca0e2069f38bde71abf50e1db5c1fa660067b123",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "34f27b0ec274bd5992d320a6db085b7cadbd90d6d81d5aa44f65e9b6bc5809a2",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "341661e7a5dd42680127cb83b7705734159364151e81c9380424ddc17b09aa28",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "1e203967aac7f0af5775405e0d0426350ee53e9065313455f62f8e7809d3ec5a",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "3a5497d49e4b051d1dd3d57b02f11d96d6621d47196abac12523979d529c6030",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "bc1cb54b685a3707ea0012b927407441d8a1456cc3010571d061d39b4afd1642",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "574d0d3c34f9acfe2ed2863d36f319fbec48df8b4ec7cb38cfe962468a8de2b6",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "5e76e33b7f8b5f911db7b1698210fa07367be8786aacec4046aa42da84c62c4f",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "202b8534c84bf8c2c7acf05e6e2e1916634dc1384988b7bb98a87fc04cf6a25b",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "b1989a511a81947955b67e4a483bbac10facb6471ec91ca3921b25690659af83",
+      "symbol": "WUSDT",
+      "url": "data/futures/um/monthly/klines/WUSDT/1h/WUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.W",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "W",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:55:14.580547+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-04-03T15:00:00+00:00",
+  "unit_multiplier": 1
+}

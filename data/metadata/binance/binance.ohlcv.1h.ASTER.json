@@ -1,0 +1,116 @@
+{
+  "binance_symbol": "ASTERUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1758283200000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 276,
+      "sha256": "f63bbbd41158bcfb31e10ef9ad92bfb3283e3b8940249df23a2d463f75fe9df9",
+      "symbol": "ASTERUSDT",
+      "url": "data/futures/um/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "a9df68feeab2b9a1ee443e0205a817e092851dbbf8599fbad9e2ed62d6add652",
+      "symbol": "ASTERUSDT",
+      "url": "data/futures/um/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "38053face0fe9fc0d21b646d7c61f06346d7513bf4bff6cdb519d4c009fb2a87",
+      "symbol": "ASTERUSDT",
+      "url": "data/futures/um/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "b1b83e6b9892a4d8d96ab282cdeb10084d6e6386960ccbfbdb3b3d51a8457c19",
+      "symbol": "ASTERUSDT",
+      "url": "data/futures/um/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "cdd3436460a261fd348b497acfe2a2657ac44fb423d744155cd8c03198f434fb",
+      "symbol": "ASTERUSDT",
+      "url": "data/futures/um/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "7a19d2393c95932f26b012a3a3c3da55a62a1c007a68e299bac5d98c958b4c54",
+      "symbol": "ASTERUSDT",
+      "url": "data/futures/um/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "444ad8e18a49fb52c74ba713100322f44f4c5137ff8911ab77b8d96ca408a9ff",
+      "symbol": "ASTERUSDT",
+      "url": "data/futures/um/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "30ca1eec8c5801ccca8b280bdfa517c08b5f7a074edcbeb3164f6846e167ae68",
+      "symbol": "ASTERUSDT",
+      "url": "data/futures/um/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "fc6bc9d7cba5f0126a9a95a4198725bec4ca29f6122e9b0e42836c0a3dacdbd0",
+      "symbol": "ASTERUSDT",
+      "url": "data/futures/um/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "63f0b2dfa51f51ac3f2a1e89f9ac64fb0e6de04caea9a14fe7bdba645d41d3c2",
+      "symbol": "ASTERUSDT",
+      "url": "data/futures/um/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "22d95c46a64bdfdc78c5708bbc60875bb24cffa58b8551e8fde3874b42cc1fc4",
+      "symbol": "ASTERUSDT",
+      "url": "data/futures/um/monthly/klines/ASTERUSDT/1h/ASTERUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ASTER",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ASTER",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:32.628346+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-09-19T12:00:00+00:00",
+  "unit_multiplier": 1
+}

@@ -1,0 +1,188 @@
+{
+  "binance_symbol": "VVVUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1738137600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 64,
+      "sha256": "07671e8cdbab18209c3290a178c87014a7cd54d39fd43373a0dcbf5b8edf3460",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "11d99f5291d758a34334bfa5576175adae548ac6e6b7b7525d943508f7edc760",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "24d639fcfe46de648075f463567bdfa4fff5afe5ae0cfb0cdfda632d72ce88aa",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "1bdc99746e6fbdabac44ecb125ee8ff96bd75ccf1ada95a3dd98bdd5a0c8225a",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "107c9e368847f3662d4b6a1f7518a9c73a838bf2df8bcf1790b37dd53efeaec3",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "be99d154cec2f7d2fe837456a0f2385724a5c58df068bf5f812d5555b1ffef42",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "8a653f157ed1e435d9d0e4166542d3625c966ea3c4129e2ceb5d572cce5fa31d",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "8e6f26a78aec4b50a8ccc3e14ca13050b14eb3ae84941738d91debdee31dcfad",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "176294649da84479f4ca463a9e835972ec5910c01a65096b14f856d41e81605b",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "b9aa92e2a5665ef08c4985d265acd62d28bb551f273e134dac9ee7be9bee0076",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "b85d540dc850f5b24bb4aa2dab02f789c4cf1a8dcde3479ad901b21195bee3bb",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "df8448296ed2e42020353da78c69204ae02964fe8485d054488171b287b9dbb4",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "d2b9081bd1d0d99fab15f9dd31e2c2f26715c942893262caa94ecf85b1fce5a2",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "a12a81d429ed7fd66985ee5cc35b68a847e4eb71eeb85c63d20d09a117968664",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "1529e772f8e0e61fc4c77b169a5d544d6ad0feee0b8ef451322bf26abad40ba8",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "0dde99aa667a7547e2dc21ea9539d2f47d6e997fc2b8afdf6c28880853306e4c",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "fec75b5d4157ec1a95e83440bb27550b0b577d907eda5aa8f03fb747f3de82f9",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "49ded9b67c07414205becbf553341c5b5e95b2441ba2591d0f11e9bfebeffc8b",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "a399e3f00a4e8765e8827deaebe91db8570e1f48034bca37734b9689fb4f4b0c",
+      "symbol": "VVVUSDT",
+      "url": "data/futures/um/monthly/klines/VVVUSDT/1h/VVVUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.VVV",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "VVV",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:57:55.565014+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-01-29T08:00:00+00:00",
+  "unit_multiplier": 1
+}

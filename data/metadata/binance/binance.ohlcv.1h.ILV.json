@@ -1,0 +1,314 @@
+{
+  "binance_symbol": "ILVUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1699632000000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 488,
+      "sha256": "03ba3ebe38e0d67d6e360f3caa90b9291273ed453167c6af95540e4a4298c29a",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "6a481aeab224d93d7a5557f875040f95dcb4626acb5ea2c5763fa40bcc181a52",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "957a1d8a5a798b2158c7f2ec8b44d3103184c19037d25362df5f4378f2bb567b",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "4287ec0120202eeb7705b186822e36c7b37a161142141e5816a455a917595176",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "2a3de364e16d0e1e70c536a521f2f5102b7b2bd70c448b64eb4b899534828049",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "8420d0e17d6d4da9952e818572d7b8eef84c25ffd6c9389dd3024771fdae22f7",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "e67576ce77e3dabbe4b2a4f026c0ce6bee90fa852dd021b253d4d9d90bfee9bf",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "7f2d7cab02a9939bea95b0afb767548dd504094cb0036bf1c7a1bcdb4e316906",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "c6f36fb802f96456914fd74048e73f2d90a7e57f468675f65526b1e17e53940e",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "fb4acbe5480350817e8e5cb7e88a5f1c55a2a09d708f7536a5000c6a9a94db57",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "053996afd1098e796402291c17256dc5c0d89d2adee687c8f310b86717bbb55e",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "ad24d8c6e3ef15547946e1f846ba7298fc77c25b70e77cc4633f304e3978200b",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "9f5a0986a4b48890698a5fe516cea6c2c31df17f00a0a0a4182ee3e134e17444",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "ce385b9a054395b898139415cdcaa0959cefb19f142d0d2e478521e77f910884",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "67586c4354ac7d022ae75933bbbcc04d8ffa4c360c471298a7cd1b2f1dca52ee",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "b5c031a2462f53a0f6f415da1fc8f92beeb6e60a3da3cc96b42bd4f4e4027244",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "7c4ef2bfc4e326c0b6eb81a26eb2248cc1f7d15d1fae1bc0bacca56c56276a17",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "0244dbdb21437d8446e07884a1fb8ab62e44e93346f8778bffa1145feade3539",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "e1c05685c8925a559df037c6a7675d0729295915338a5d8741a3927280134ecf",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "fbba3350c9d2fe554685bbd846f917a4e7229f5607230f27c360aac00d935bcc",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "615551111dc995dd6d7dc431b0623f161ac6c0f6713783482b9ae8caa535e97c",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "32f108fc8cfdb45bd383b6181010c4ea736ee40b0804b726a38af5700d3b7e8c",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "612519a7d401011dd9cf2a38e5fb35f3f1c152358e79b9cce618b74bfe835601",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "fb8ec30fd1f9dc99de152e4eabf5d8387556c0cc8a81f169ed539760bdc87a35",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "4e715baf3cf0e5088ac86c2c77c1bf47035e9a7b1601c860a9cad8a8a8216620",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "e927f3cad7d5798d7cd41ecc2ef0cea4bffcba4300e76ac93a00616a0fe0d5b6",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "debb39ac15b029c59911daf9241d769afbbf7d945da7697fd92cb54f2b98eec7",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "b4924b3009cd318f1b523bb9db788beaeabc30b3b0d0a13ba98c00c6ce54bf26",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "cc58e06f74296bd051c4fe3defe9c8e0f5b96827b4f7714e216a102337c28a2c",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "3d1f51790f63356d58c0e9498e03adebd7179cbe54a3bf519df879c68ec553d1",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "9d6e564aebd385d0ebc5ef44b52d18879a4754b83dd69229a569eef846d0696e",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "a3041a79474bd573bb5f4a882d31288e88ae44e5bd9e4147d56d0d812149bf78",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "a7fc819fbdbceb139f676421aa9878401ea2398fe909142ca001d2f95405521c",
+      "symbol": "ILVUSDT",
+      "url": "data/futures/um/monthly/klines/ILVUSDT/1h/ILVUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ILV",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ILV",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:53:36.020929+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2023-11-10T16:00:00+00:00",
+  "unit_multiplier": 1
+}

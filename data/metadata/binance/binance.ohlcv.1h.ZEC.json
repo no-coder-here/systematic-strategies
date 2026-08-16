@@ -1,0 +1,719 @@
+{
+  "binance_symbol": "ZECUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1580889600000,
+      "last_ts": 1583017200000,
+      "month": "2020-02",
+      "rows": 592,
+      "sha256": "6dea20f7e504b5db7a537cb3cb64e47a034f282d115baa7f8aa4e4a6c1a7a6fb",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2020-02.zip"
+    },
+    {
+      "first_ts": 1583020800000,
+      "last_ts": 1585695600000,
+      "month": "2020-03",
+      "rows": 744,
+      "sha256": "999298d05aa677091830bb0abb8a7b15b4b2e80a8aa97a027d6d4e38389fa06e",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2020-03.zip"
+    },
+    {
+      "first_ts": 1585699200000,
+      "last_ts": 1588287600000,
+      "month": "2020-04",
+      "rows": 720,
+      "sha256": "c3beef6fd995c74b2f1baae5c0447b08134b62610391d3e38c4cbb9076163196",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2020-04.zip"
+    },
+    {
+      "first_ts": 1588291200000,
+      "last_ts": 1590966000000,
+      "month": "2020-05",
+      "rows": 744,
+      "sha256": "151b3cb2f74a10b7c31deafaa0995532372798a8759911b97435b8436fa3de3f",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2020-05.zip"
+    },
+    {
+      "first_ts": 1590969600000,
+      "last_ts": 1593558000000,
+      "month": "2020-06",
+      "rows": 720,
+      "sha256": "063ea921afd920be30d0f22f3386947bf238f152fef9b8f55fbfd24d9be355b2",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2020-06.zip"
+    },
+    {
+      "first_ts": 1593561600000,
+      "last_ts": 1596236400000,
+      "month": "2020-07",
+      "rows": 744,
+      "sha256": "57a95cc306519155e8ed489a65bfd3b2db269413658f9743c322328f12279a2b",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2020-07.zip"
+    },
+    {
+      "first_ts": 1596240000000,
+      "last_ts": 1598914800000,
+      "month": "2020-08",
+      "rows": 744,
+      "sha256": "ad6e18bfd540cd323c13947f7d6709749222c4219ea79e7b69ab1a679d9d13fc",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2020-08.zip"
+    },
+    {
+      "first_ts": 1598918400000,
+      "last_ts": 1601506800000,
+      "month": "2020-09",
+      "rows": 720,
+      "sha256": "37135e28f68076fec9a7d5b12792f6b34a101eceb5fdaa2eb00b91cb6f705588",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2020-09.zip"
+    },
+    {
+      "first_ts": 1601510400000,
+      "last_ts": 1604185200000,
+      "month": "2020-10",
+      "rows": 744,
+      "sha256": "f39849a5ad6afe99862a07fd19707158e3f333126f57437eee60f28482427e72",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2020-10.zip"
+    },
+    {
+      "first_ts": 1604188800000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 720,
+      "sha256": "9a796c948e2fe3f08cd8944b282d34c1127d4003a74f64b4613e4e5ac2a149bf",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "bc125816fad8f78a11b647d8ffb51f1d40ea2fb07b7863685bc17e3cfa837f50",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "d70b76a2ecd6b2d4b9b682da7fd30849ac0ed056b1727a2b9d46d1a02ac47bfd",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "2a8e4612083d792afb6cee67347ecd65ca4032fcd84be2efe18740d700247a29",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "762847ac360631d71684736f2c93790c5b398ee48da35e0160b9a0dd99daeb28",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "3853f1449d873ebfbf1761a3e69b404c041722d7a032905e5cfb9e4bca1f3228",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "c8ed0781c8d4f8ab0fc61949a7a8b712c3e035625ef306f7a3f1e82cfd86c344",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "134938717bed451bf0ad29d3aede9484134d8a22492bc457e704351745084dee",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "98034c8cccab571fba97371e4f8d0abc3804ce90a4200d2c9fd89e810eada3aa",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "7ee4ca62854b56f8a33b432390c93fe0920597fc6ab67a3d8164fc24672540dc",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "b3a744a736c7399e474195e300825b63f0c5c93e769b5bffa346414073a50307",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "32e96b33bc01eb78da09fe1587a001d9284ed5287ceda61c4f94ec0bafaf3819",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "dba14176caa786f2c3ff2aabf3aa9326a59911e47e35a673ba2640e06ff95b85",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "313bc742968dc066292fa3cd2645431c5115687e9c979123fc86b3388580afdd",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "e71d1868a7559a31c951a5b334dc366feede0a1c0496cdf3b34db84f316f103c",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1645830000000,
+      "month": "2022-02",
+      "rows": 600,
+      "sha256": "64a1d119839ffa6dd43240ff578a8dc28ee85a16c4fc4845b05a963252f5740b",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "3ecdfda1aee8f2fc01699b5473053ec57a0d68944bbea8ea17e54b6ab952299f",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648944000000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 672,
+      "sha256": "3f69c4a75d4ddeea67a77e68b5d80395e05b36235c27b5623f81096b3c776942",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "310f6f43a343ad6875aae05b344df76298432e7318546bd819cce56ead4e584c",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "69ecfd64681d555efbe7a8d7cccbda2123de39148f6b86388709ade3d86deb86",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "45d1a6a879c4a9b1676dbcb781b7393588875c154ac9f0875eaf712005b94381",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "f88bc5da26fba674b65e2d9654dfc9b134da7c37b5d42d8e32fdb81843601058",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "6698ba99e85162df2bdc86a7fc69d00db5a8355d0e2c4aeea77c0b2d7b27fcea",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "04ea6d07daec91dd3bb060d453496cfaed620c508f00e91ecd0805b9416fb6f6",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "77288225888881ede83de8daca886e11c1965eebbd7c309583d41e2a2cc9ea22",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "5d1d9b2053d3a7b52656dacd12cc9b0afc0691c839c5eee710c2cf3e6dccbab9",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "9c539c778474ffbb3f489c32056c5672c083406d48ec3e7f00919715b9941e73",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "ce39e2f0a856077ef40d7ded5202cd5f0d2fc7df7cbc576c5155ed48c21d13cb",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "f063627c75a5b85f0f3e2ff63485ed242eb37d930056f0388421e93ece1d1f08",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "19bc6b1a195810acef2a78216e48aba3e1f6e635dcc596efa0eb3e239c2bae61",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "8f84c7c07c2f78c3f26914f1d502804b46d2d180404c5dfcb7974f0df37f0299",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "7679d3c0116648ca4f1467163009eeace09993b4e0f8f8bec19fc7ecb795f6bc",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "2f7fb351a7bda6dd507148a93772450a5f53fd1c9c8c2113b064cc76f52bbbd0",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "a79d4e0ac381e0e039f4218951f9920e8afba1baaf7050d747a5fbbd14feb505",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "66e2799761e7ca37fdf42237ef8f99c3e508ac88c8dbdfc03be2890ff2300396",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "cb876c07717206c09c54a0a0a4f234b08a8d2045ee797bde9d809d1ec791aaf8",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "c39f42565dfee0f8d679f0baa4a8dc81d0f501ad77bb592f88848cf2082ee98e",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "53f8fffa727c9249cad20b2fbf750459552a79fd2468c9c73ab6791dd602ab82",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "0bcfcbecf7ef0f7c84c961b9a793bec787aa21c8d045323b77ea24702f0634fb",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "471e8ba99ec6f3cef55611879e44dec143c484203dcf9cf2c34e13ced11db0d0",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "37a44f68304c9eec63dbb8508c821d424584672600664e7c950600649cd22df8",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "52b9b037f89c62649cd0b10c122bf88593911c7a270d7ef493369630b8113d58",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "4f1ce2a72ab737ccda78c0c19d11c4b553391220feaba0c30d5256182157fdcd",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "a647044c324b5fb6ed3044592b2ea7a8e65fa99f0b6525093986012b124bd4d4",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "b2f93e15085ac7915c2cfabfb7da4d67654092fdfbb4de94e414c61d5089fb88",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "205933f9a31d68547f12d66f461c1db9f79e02c5843851173d16ec762a6502c6",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "f9727a09905e2e7059a414674cf2ba36c826d1c374c6d2296265ed69061e311f",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "60743d6698514e0e65f3a0cae403b2f455ab86effbdeb93d4a1f14ee91cea711",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "29b1c8b6d14d82de3ef69717c18b0fe0fc0d30d32bc92586ee2ae42f38c80984",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "d6a046955ea54f1fea5d4dccb4f6071a47932bcf4f3666161628c5d9463bde3e",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "2cb730750d5f0901f0bdc0c228efb0a23eba66a1f9208a6ea97eb32f9e2a7bc5",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "851c5b2785845c0717978bf517c72092e6bf3d15d6a4bc4faf8a4f4b29878d37",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "f9470c0dbab5de80a25a9a2876ef5a35b254e1b5e31c395a1b1d4e68f769c9da",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "5ed523be2d1127b5bd718629ca79ffab4a496949a807bd4125704930138d799b",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "e286e918f3436cea794de030bbc9ab91cac9892e2c49b8073c82df4c0f7f3048",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "d2e4c9f89b3aad2adbb5a3700e8d87d1ff61968e7c33aa32b619c61998dd6ef4",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "a5f2e18d003654b37cc29df0f8976ee9ebb7e4bbdb450cbf73575d2f09792a87",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "a25324c35d6afdfd6ed0baddbec58850814ad0c33031992e4f87555534938f08",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "09dd2992b93d74796923dace758c47a898166f5a4781a2af91efc127bd7fef7a",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "2c6dce4acbac64f0f2781d9170b3e8d739ee67ea47ab502f6df6c9c54cab34af",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "f095710813773bae9832cecd7ebd4f9ee6b5943e201e7175218eec9bc37fa545",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "8db4c9d4dd8fd7e57d5d9734406a6572fe42e3150ed3d1cf12a0b92e9a290f5a",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "8383988462dc3d8c6b2b39f158edfd1e15a0a0a41fc3b0e95a215a8ea4ec692d",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "9aa0cb077e22f0419b73eaef9cdc927e6563b89e455591f3a85f3318c100e2ab",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "06387f30f7c73c77eb7af30ebbf7f69cf19b8bfd00a16e9ff01bdf6b2435b404",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "5fe2351c50b13e2f89b5899cf563bc9f9fb56193f128c79dbd1ef75cdf564b8d",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "4e8b552fb40710bac3e6facd5ba8a0fcd68af8d3e54ad531a345d0ca35b325c2",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "3479c4d11097104c1e530b49580f95dedd572ac3a88610f1a94282d2d0451e19",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "c0f4f0344fee7bb6e03ae2e1aed5ddc4ebd2c4d634a169f00acd64ece5b9b775",
+      "symbol": "ZECUSDT",
+      "url": "data/futures/um/monthly/klines/ZECUSDT/1h/ZECUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ZEC",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ZEC",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T17:01:12.291924+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-02-05T08:00:00+00:00",
+  "unit_multiplier": 1
+}

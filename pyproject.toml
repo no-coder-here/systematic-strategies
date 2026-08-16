@@ -10,6 +10,7 @@ requires-python = ">=3.11"
 dependencies = [
     "numpy>=1.24",
     "pandas>=2.0",
+    "pyarrow>=14.0",
 ]
 
 [tool.setuptools.packages.find]
@@ -17,3 +18,6 @@ where = ["src"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+markers = [
+    "integration: live Hyperliquid network validation (QR-DATA-001 D§11.3); skipped by default, run with --run-integration",
+]

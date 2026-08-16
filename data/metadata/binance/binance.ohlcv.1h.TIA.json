@@ -1,0 +1,323 @@
+{
+  "binance_symbol": "TIAUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1698775200000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 6,
+      "sha256": "046cd5b01e4d78bf651b74d8dffd0ec19c4525bbe0828b8769f6c53d19876ff0",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "a43568e82623300a2984f312f347d64630f578543c267fc01eba529325d96190",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "c0a9ee74f8619626308da0cadfa171fe36679e2356d5650740b58ed27e8adf5e",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "83dadf8e637638aef6870caa71039b8ac6df288d96aaa16ed023c40759b5be4d",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "594309790ecb3b205ad6345468c8fd96f4173fbd2dc978750b41287403fe5372",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "b6d419ca1e972bac944798c93f9c58347a4214612119fc047f843c953dca525e",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "e1ebf72a0a8341fcb3445076d238583591155a96b1cd0b666177378347d5cfaa",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "b803515694e46a0be8dbab2f1ea86865e1be1e83794232c6063bc213ee6cb36f",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "5b10411785dcc25384cdf97a9311a606840f045838724cbe468826412163c425",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "d475d992108792a7efce210c5f4e4aa9eb370035975051362ef0f33639729d40",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "1412b68ff73c4918045a9bfa5c4c3d5572cc96aa3ec628dd7609db8d5491f651",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "9b46f74b6dd9a8ebd66ac000a8747569afb6cef6551349ef6be984d8826fdba0",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "83090e2c45e28a11059f189e8d917778daa7bfc4e2b30849fed17021398d0ce3",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "4d5dada9d125bf3b45b841b14d3c1913c036b01bb3bbfd91d1880c448d5003af",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "48aa9dcd9ca28c840d77b97a3703186886a107aa2365932b08d59d7869b0ab63",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "210391456ecd448022760f04941656019c11d41c13a83db104ce04b221fa0baf",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "66aa981269b88f18738f056d0547b3fc207449559f5cb9a0e77c8b4343689263",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "1c4de067e8ce674398d02a033bd5ab833074b4465ee8f9a38125b5ad73950d87",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "57d5265d38061f2c04808c63815c81c85b6652ece0d08fe97edf7c5344867eec",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "a51cb2d8f45ce14e88b5b73d7233e1436a1a245439be85a90245478d53f6c9db",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "7dce562dd075111f7cad9817056978c4c9b34488b927a31a3f1524834a0c340a",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "1ca77f17c007ef738843e6cc360e3eaa23f4a3bdb1f251bc52ed04f489b0d6bc",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "a9432fbb664c059b759b89c3a03f97e9bd58639ac00fcb28cdcf58d4a1dcb8bb",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "c45cadbd549bdcda1389933924e92ef9eb3e39f23cc1f44a0e72c4b0eb2bf1f4",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "b14d7e36893be9aaf86c302509a9fb204258a74921f0d907d3b0b1b66ec8ff74",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "2ec1c3d2763674bc7e3cc872d21511e994905ecda869f693100c81ed82c3d4d7",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "6c57c449e9efc244e3e5cf86aef3da37f0c0eaa2b9a49ff9688f9f1dabb2ccef",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "23354f5a30cfb9b0d57273a52d4d43853f704948b906dbbd2d60a5726e4c3da2",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "80b283ca7fc774234d7966dfb072a8b2cdd4507f6b8ac200d06ce486cd6875aa",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "c8b4db40eae8a306ec5aa178405b63c4d3670e375b6a7b33390acb33a17de710",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "d2246812b392592a2e38e707d03f830768a4d3b5b1dd0a7ca26ffa60fd673ec0",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "e1d660dc2eba7d1a32c5d65098e933440da19ec6646e16da68a057cd82835c46",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "1f90b842d2150909fe4d94391cbf0d4383522734545f99a592dd1ce496597eac",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "d4198866915450e72413106797bb71a50603a0b4dc293df98d79b534ec495f5b",
+      "symbol": "TIAUSDT",
+      "url": "data/futures/um/monthly/klines/TIAUSDT/1h/TIAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.TIA",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "TIA",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:52:15.659929+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2023-10-31T18:00:00+00:00",
+  "unit_multiplier": 1
+}

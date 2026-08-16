@@ -1,0 +1,278 @@
+{
+  "binance_symbol": "TONUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1709294400000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 732,
+      "sha256": "08ede39c6950a13a9ebcf2de752e2baee3b79237fe6be933d24fc1cdc89f2344",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "73fc59e078475fb3179bb58adb5d4bf32ac1ae4902f250038365b65074150fc0",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "ca7212d45c0086dd7f4a7022ea147d708fcfcb8388c02899b27d7f34af6d9b97",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "bd20cbef1ecbe05fb086e89dfbe46c33b129a0abc73c3fc5be11f878bc75bd1f",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "35f4503bb6dfb2e3c3403323c935e0d7b960f5357b4fa6a59194aefea76ebe8e",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "7c00cf96c75d482422ea2fcb3ea928114341eedb20b6fa048d273ebbaf7c97b5",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "afb6326acad2ccdf2ac141aceafa6ae7b4b14c4e4a11c3e1b0239cdb20deed0b",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "5be1ba0797c89f88810f1fa1f849263285fa9fbab5cd798b7a3c6d2606f40c9e",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "e2b4fb2934d7387308bbd6dc91d7db1177741c533c926a75e08f3c6d422dd3be",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "4dab6ec0a21728320d6fd7a4600f4425174b0c4c0a34f7287f4ec911fd5ac5e3",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "46ae6d36bb8763fa5d8128668d18af9f1462ce5d73ffe05b5f12ba318fd5b179",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "7d81c322042fdbf7f70e8593583c032db0640606fa2fb8cbd0d6c38adbc8dda0",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "b1c922af71e642be1002605f73b46193f4acc7a40e97abe4bb9f1cbc3112c9bc",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "f8404e5f17c08563e42b0290c4f304193b302fffbc82236f9ce7b26ab3ab01dd",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "e501c6c71162a29893b46953ef1f0b6391a20bc2ab7498762edb60f056f7332e",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "56f996dca6f5fb1c3758254340f515ebd812dac957793688a2ddc47fb69574bb",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "45771d5125daf184341809a31d69815863842bb6eb3e0f379f637449f48ced85",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "efaf286393b62c9d50b488eb904f6d6866ec607852e9167233d06074de0a7111",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "6a18bec3af20477e4a5a3da2926be6e4c38fc10e4fd991e1078886a4874ffb44",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "03f83186db0438084b998e32bac247cb230c557863a93780d9960fe0c83a38dd",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "bc6a542661d03f3b8ad0f11c3b4ab68b73cb596aa618aff037e01119b40e6e7e",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "2b38e8fd270eb06e592c571cf7205346ad5040c5575a6b528d466ddc0a2bceeb",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "97917ccff77cf1564128616f0c51c42c74436ecc207aa27e936552f27d9b9fe9",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "c63a425c18c7b2bb72b137803501def82802cbd674ca7ab3490336689ec95adf",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "f46dcf948af1a180914036c7ace0d88f0e9396de7ab812368599ebe31b6da4d3",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "c0697d803a4c6f39fd786e1c551f86778c4bce881db7552ab46ebb08391c273d",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "8539955505ed125f3b8d2731a386d4e896421c3742c21ff192ffb26c98a49400",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "d6e49484b0e476b50497d10e2b54c104ba594268d1a1aaca9080ba25ea41a1fc",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "1435c567b7ec204f76d0b805fba1ef682a6d6cfd946151bb3e6e4b86eb622061",
+      "symbol": "TONUSDT",
+      "url": "data/futures/um/monthly/klines/TONUSDT/1h/TONUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.TON",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "TON",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:52:23.507283+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-03-01T12:00:00+00:00",
+  "unit_multiplier": 1
+}

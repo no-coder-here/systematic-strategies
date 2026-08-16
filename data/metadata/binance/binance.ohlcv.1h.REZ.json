@@ -1,0 +1,269 @@
+{
+  "binance_symbol": "REZUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1714485600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 10,
+      "sha256": "e4d8ea1df0988a31ae76ae2907906527d9140820b1e018aadbc573e279968e12",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "7608d704fb163f71c937b81dc8cced95679531684a33e619f18e87e0af7eb4ad",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "cb3e3cacfd3d4914e258d0ccf6308896d9bac8f7560ded082b5cacf69efd284e",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "8c9c29c55998436d2ea3c05fdba5e43368fd4853800c0d5ac3bdc4ce28b5f9ce",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "0c6c2ef4db0caadda58928ecd6dc5ddc8906f050861e4c637c821b6fa3bacafc",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "0c69b34af0927474287e5d1544a7697f8436188871dbc8aac8e35fa7b8ab87a8",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "86ed0cde53298880dae2f4118a672eff6d2c24608e5d8429f4cb24fc904d2117",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "5a6a41687e84a4397de7ad8102b4571311db3e1275aceaa09e0f37f53bd53de2",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "6d3cf0b8744f4bb49894a406090deeeb196ac55a8e47b0b95345e56697ce7bf6",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "91cb9eec65a0f623071f452ebab03894ba749122205b29ba4b979f73139eb5f3",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "4fb4188bb38ae508b1cb304ff75f1f77e5ee829fb3a4b16d73ea0e22b77a5486",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "009d8f9120b658690044ab68b7be79561ff2317392c6a71321471d594cb7f0a6",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "0789e6e5b5288109924dfd4727180c6ea340dc9411d35b23d53eab16d554e023",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "0d193a141213f1ee9b8cbb69d6791f830dbd9dbe435e87b1a16d5803f9c50920",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "33f5f75f3701d9983ebdd29623bb0d3bd47f94eef3a2158d4e2e0a9f863e4245",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "b05b0839121e47732c34d296e4d206fd8b27373bffb7235929d7f8a20a80d583",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "aa4a78ee7e03897ecd7f3e04867b4b70cbfa0f0f49f437f29200e4e876da3c09",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "73e68f76c9933c89f06340b138869c233f55f7f0a76d6b4b3dc7ebb18c692d83",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "df313f37d5513d6711545a986de315827da8b9c127b5a0161385c574d979e9a8",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "99c024baefd3aa34a42e8ca92c68ee0dee3d71de9a94f2854c7f48cdb2fe5e52",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "be690c450041561c6de0cce752601ff0df8a3af88716dc82955f2174e5d56140",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "eea11e2f726b1caf28f0b8c264874611a415373297f80437b22fcb53d2a7749a",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "b892150abfd31fca50c70dee19ac6f46c6a60f7cfa3be18ac3694135a5d4c865",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "46e3551d0ac993f0248f85168507512bf5ddaf3b52d053ba09d2b0f9044ad254",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "62bbf015644994f1d836a691a1c3671285e732256a525787336fe442241e9932",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "cdbff5b85ffe09f11d48370570c590683d8c9174a92b32c3ca9538efb835333c",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "2a4ffa842322d9704dfe899def0a3a60a222a146a74d1f7aea04b156a97cd2ed",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "f3458d6172a79a5febeb5760abcd0b2116f663dc79dafd9c16fc3431fe02482a",
+      "symbol": "REZUSDT",
+      "url": "data/futures/um/monthly/klines/REZUSDT/1h/REZUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.REZ",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "REZ",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:56:19.160412+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-04-30T14:00:00+00:00",
+  "unit_multiplier": 1
+}

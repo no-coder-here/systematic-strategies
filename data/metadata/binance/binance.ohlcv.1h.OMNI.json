@@ -1,0 +1,269 @@
+{
+  "binance_symbol": "OMNIUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1713362400000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 322,
+      "sha256": "b55d5416035d062f85f58b0f566acb5858dd3476958ef00106bafadaeb664f0d",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "6a235721729a2741b1f75fa12a32b460225862134a81f8813a0d812cca0229a8",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "26b01039e37467f01611082cd9d48601674b91e1fbdd18ad175c14f0a3fed419",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "71fdccc2058ed8fc6c6c49b9390eba2a8a09b7c48ff89f7f7dbbefbc269efa52",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "f4264670667a2d83c229e04b80959c559026eae23129ad4dae9922689e9af04d",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "d94c9d4b61c1a851a5a879a8970a6e04e276f65cb69c969260b54413b3935886",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "69b4ef4e483cb85408c964cae2fdf782d0b9f6f257a17a2d53419e6ac8a7deaa",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "c632c97067a296aeb35ddd748f08c6ba5f1ea5f68c59788c3a8a4da9cb7f7fca",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "de3ce9e5aa646eef0079fcde81dcef2654137276eafbbb740064ce56065e54e4",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "0e9213c65e53e87ccdc7aa70274107dd303156ae36b53ac81e72a9f432fea245",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "4656703b24ba5cad056b431b051c23092e7ecb0e632369aaffef19229c2d464d",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "757351ad5f7115d2b6a25fdaf61dfcea365b1111c7c25be036dd031e50324b3a",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "9ea77b0211339f8aac792fd09ea9ca56045b5122b425c6b0facc7bf38e0f9566",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "149137206743fb840a17eb8ebd1892c47d8912788175f305990357a0a23d77ba",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "8edd961e76d8949b5b8a82107eece0f68c4cae0cbe134601b39acfde6c7f3e82",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "db4e58e193c01a7c36d70d8cdd5b05243fe590df5daef4aafd20bfde1d04ff56",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "f51eadec891895d2273ed8587a2a41fd40458b2354e025dfc2f146128f153afe",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "810a999214ea29b1b6870675313c7aa3ecd9c877dc315d2435211319a061db8c",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "78163f34a11cc4882cff7d57bef54d1a3a904222ba3d9ecd18330385ce9d71be",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "f5d5445b5f9dd4f8cd0685cd458914abd2a468276b29cf22d6e2193b144eff7a",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "9cb05552a12620deaaa401854abb50132a1f6ce85fa2dfc866cd71bac209b958",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "b41f1701f146df66f8ade862fa4658821d13aea55771f219e3e3a8e872de62a1",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "3bb43a82629baa39f256ee5ad3e6a4a53acca9cdea853d0bc2012a3a28b03136",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "5ed9fbfa182027ef1f3a9e9c7b43bd9d7b9a21ab53b20fc33ed2af69e47425d9",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "c5dd9af50d6ecaf2f465bdbf2f62edf8aadc6cbe99ce30bfbeb058a1aa1d8451",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "e73995163a662a2b0e6bf35c0a74296a94f12a2cea978cb78ef7cd8acb02a0fa",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "4e178bb297f31abf1d1d48cf7a428bd22ef294c408a9ab6c880d6f4151ba699d",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "e28ca8b3d29ca2c7c3689939ef268e77dcf64f9afceb4d5525eb2e63a11f6b76",
+      "symbol": "OMNIUSDT",
+      "url": "data/futures/um/monthly/klines/OMNIUSDT/1h/OMNIUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.OMNI",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "OMNI",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:56:18.358113+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-04-17T14:00:00+00:00",
+  "unit_multiplier": 1
+}

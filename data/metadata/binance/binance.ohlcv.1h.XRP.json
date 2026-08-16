@@ -1,0 +1,728 @@
+{
+  "binance_symbol": "XRPUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1578297600000,
+      "last_ts": 1580511600000,
+      "month": "2020-01",
+      "rows": 616,
+      "sha256": "d5f716d9797ca06c5760bac07240bdf87557f2dc28b3c5a63e26c543c35086d5",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-01.zip"
+    },
+    {
+      "first_ts": 1580515200000,
+      "last_ts": 1583017200000,
+      "month": "2020-02",
+      "rows": 696,
+      "sha256": "530f7bac3e39ab3b5e82a78f961cd9b282d7fe579b9538caaf2a9ffbeb5d1dbb",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-02.zip"
+    },
+    {
+      "first_ts": 1583020800000,
+      "last_ts": 1585695600000,
+      "month": "2020-03",
+      "rows": 744,
+      "sha256": "7b6078802e433e531d9273faef0272572cb2d3688fff87737c3b114d5f242f36",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-03.zip"
+    },
+    {
+      "first_ts": 1585699200000,
+      "last_ts": 1588287600000,
+      "month": "2020-04",
+      "rows": 720,
+      "sha256": "0b5a8fade812f8d5563b4dbb8f15cb349efd1b6cf874bbc921f6b0f5a25ddf5d",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-04.zip"
+    },
+    {
+      "first_ts": 1588291200000,
+      "last_ts": 1590966000000,
+      "month": "2020-05",
+      "rows": 744,
+      "sha256": "b6257ecb5bd3c2c9d7588e9dac3d8d2d2da6fadbf9e86af16e30a16bc1c2dc41",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-05.zip"
+    },
+    {
+      "first_ts": 1590969600000,
+      "last_ts": 1593558000000,
+      "month": "2020-06",
+      "rows": 720,
+      "sha256": "0e3f4e423c51bf9b8f370b77056bf6c311317118a399e275fd7ba4d1433cbd3e",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-06.zip"
+    },
+    {
+      "first_ts": 1593561600000,
+      "last_ts": 1596236400000,
+      "month": "2020-07",
+      "rows": 744,
+      "sha256": "1e371f83752b1171dc0f4a9765d0592db1f5c6abdd58607a96a3bdbbaf58f37e",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-07.zip"
+    },
+    {
+      "first_ts": 1596240000000,
+      "last_ts": 1598914800000,
+      "month": "2020-08",
+      "rows": 744,
+      "sha256": "665fad96054bd7d0b2f9a5d45d3f77687ba9cdaeae9f429e51b3418973741ce8",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-08.zip"
+    },
+    {
+      "first_ts": 1598918400000,
+      "last_ts": 1601506800000,
+      "month": "2020-09",
+      "rows": 720,
+      "sha256": "63ef8d524c5ed7226d33af3fe377b9f7ca1c593e50514e757716b14d3a1c3cd2",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-09.zip"
+    },
+    {
+      "first_ts": 1601510400000,
+      "last_ts": 1604185200000,
+      "month": "2020-10",
+      "rows": 744,
+      "sha256": "a2d2b3489c939c8ed23b92cbe4fae9cccf26110ec52f33d345cf069836a355dd",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-10.zip"
+    },
+    {
+      "first_ts": 1604188800000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 720,
+      "sha256": "96dc9bd01daae53839a66a1f4fffd65a281e4b744e41f89b97edab3189b8b104",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "d4170f64ec1f8ffe46fc993974eb89d7be0f963c0eb1266acb6ebac7fd94910b",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "bee9c4bd2583bc5f5fcc64e0fd16f61564a5998143d77f83df692994f308cae9",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "cf7c0d118d34090bafbb573e72191c85fdfbb4b4b4a586b500d187dae7a2bf2c",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "f47e01250c1cf41b32e13d45df609a2cf958e96004060bad15147ac345ac03c5",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "6d02913dde0ba31a51867bcde37a4ab8ed7d96ad85b6458b9c623229d1249fcf",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "31da56ecacdd72ba58cbd0aa75a1571a066a2db0eab7db0fab073fa2ad0db6ca",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "58d5eff054dda2027e5b2f098b8525597062dac7bdd0e7cacf42a9d1fcedbd74",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "f61f7e69e4437e5c372ce105ffc6a045ab6a18e1ecb771d39afd53c663871265",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "f9dcae63eabae0cefe55d66b3267c3a23368351874432935b5d9e3d36813c40b",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "49773c0aef9b4dc0893a44c4f4207eb77f6130bfd8621cf9f4c7c4431aaf3c83",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "40437ee0dae2f0ccfd0900cc3c846d0f53afb851cb04b7ac9502fba5ade73402",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "5a9ed95a722819a9aacb1c842dced79f83045b6a046058d439b9573c07cce338",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "ddf125d3ff3fcf634978b26daa3865dff29946a85a36739df43902807d20d2b6",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "fa1aa72eb70c55d696b521a453e458268009f2f44c175a37e1427e8c13850be7",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1645830000000,
+      "month": "2022-02",
+      "rows": 600,
+      "sha256": "00f9537c6a7518307e24e5ab539cab76fadca6d07550eb1e0f68de915d985d63",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "b00b036f55d6e31fa434818b53b8c8bd1533a3e55032e8da5f822f26cdc90fb1",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648944000000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 672,
+      "sha256": "3fa8979cfeff750a2a3f8c5087dd4616d35bf2d9314a8b0e5a5771352375bae2",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "5ae10ebf8f3626f85e150ef4b4a04eecf3256416632e87a67db4306e75dbd6dc",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "3c456a74a660535f671fc7ba20d50447c16ce6faf92a3b36e7a5c8ed4510d5b2",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "df72f45ca8fb2ac1690f172d81d89c6642ac5525b11d5cbcca9121ee123eccfa",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "767ef65f91ddec0b808f799a6717f9c35bbf46bcf2a26dbf15eafbcbf6cf174c",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "fc44f4e30dc99662660c6523a0d7f424d7fb4df10e4ce755d6068167be370cd7",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "19278116198c87cdc787a27a4378da8ac50f1f290eda06708badee6fb8d65502",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "271d5f342ddd9bd7166f00d197e6d36ae76e542a301d6f335b170bbecbe21791",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "f557aa2a265dd1ebb1882db1228adebde9bf6524299b1e7143be903ea812e40a",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "8b4af2275e237f351656b4c93066fde1dec8fc56a91cf52fceb4b5764c0c5f48",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "9fc59722b16eac5910cc4f95d061863013dd5ebd63d5f7b86211252d03ddaf89",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "b792f6f78d3d68528d78410d8643549b717cd4c59d2699955ac30cdb632d56fd",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "b81cced30e6e0dbea2a92de014c0e2ff7adac5c200ea905eb3b4b691724352d4",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "bf6df6b988e40b518b49ed47261ed4e353a9aa70acb3f382ab1c838a1d17658f",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "0e9fe4c99cc414d42d898e344f5582c748f75d263ff8a4086808b5d725e173be",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "8a040848a9bf6b5049fdeca2cbab93018ae4752c6f2f903b168114f1cae70f0f",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "e7e1839b24530f385964ba505ac367b3989b8c5f58e6368ee66efd3495e8c637",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "ab09057b33873cf058d3c722ed861a55f7d2367de0d6f0f2c51ca967f671d03b",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "d58048df81578a59e6feb0506c3de26886fb01f54c6343cb25bce958001bab9c",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "29b7a4a3b9360f7b3be131af6b1fd619f18e7344eea99b5c964e955e667027a7",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "daf06e6735cfa9318a93b76957f4002524222ad0a8b4167d3fb9fcfb9b7b38fd",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "c049a552965aff83541ab07a965f7f42e00a7b681ca330cd186934e68a892751",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "5d9c866e89460894c4273114e5c6aa43655e927d6ad83e7f0ffbf22c327a52ac",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "2da416a11a2bed17be44fde0a734364e03d82c93d83046cfa6ab2623c88488a8",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "88c968c463a4059c859e4e3873afdba07b2cfd06c3f035f24dd7c7166bf66b36",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "77402b0b1c2e197484f3fc75e0e0f3d89fc45bfeeebbd06519ec6f25ac7c4c19",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "14c80125d770c6a55fa4f16c2bc7c8f41d9b9508ee876de5974560e14095828c",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "16b66ab8c8f27f7a9c58f4f1af89ec70432bb87ffe1ce0234e99f32c4965fb5c",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "bed4d40a2a26bccff168f3a2f786d9d0e9da4aa0314c8048c681e9ba115cd2b8",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "8991cb521b4cf5dfe3e249b6069147d0d80848563bc625a8779e17e381fc79a0",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "61cbf128a512f6465fa4f4b37e197be6a2c609425bc1ed47fa5fa3b769b3f0b8",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "a750faf8eda4dcaa25a8ad54dc7722a68933a437eff20aab15ebe9ab1a3015a8",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "08f0de25e68d8f913f16abbdc13f49047d8b6f624cb748c89900231f75b2bba5",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "480e6a9873f8186a2f4d3b2d6e4fd85a91b951f3cec01a3775c272cd76630781",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "924fde9c32553b6d2dc05259a6e963555a0cca9e8fe522d04a0adc71729c0d27",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "5efb970f41e93decca8a1a63565a96e7e254f005629f2c0eb0658a195441cd9f",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "332087b75ad18a7d26831c6d7f330b8b56ec4a48994ff4f2f631d841a021e91f",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "f915ca779e9a4374fdbf67e4c6fad61d658a1ba88ad6c87ab1c30e4a0e49ed81",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "fdc070996205a34c55c14eeed845d0bd1fe61df6fe88f4425de239e450410895",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "0ff42769eeadf4bc0980a5d4d9b072de8d67a2752ba90f90cf8d5f824ffcb6f2",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "7799b5fc05c2c545fb93f138a996e9668b620fb6a2efd8aeb02286c33729be0a",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "71b5dc897f0114388ac7abe9dbc9591179fdd2ccc51eac04cbb95956defa720a",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "f14f961a508616a7729228f99f493f4f33c60baee3dcc5fdde702e903a1ccb78",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "9d79ab1156dca1589557316f7657c898e0dfd20464b5eebdc71b65bd9a98f508",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "50eb3f3519bc4ebea682d886edc2eb61be66c399963fbc11605e1b96a67cee97",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "304aeb41cbe641e8e4d39d9c6b839dc372e07efdd49e5b14d9b62a5128f1deb8",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "bd95d4f6cb4988b981b3e6ae88d6a8ab4123364faf44d6e5ddd93956618d5564",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "916f1669dd934c78b9d94c655d9fe20e95ab355e11650f2aced3561efde05f1b",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "ab93b4954e1b531766ba46e4a079a06f767a40b16cc14a9f8f321ab80af19ae2",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "30273c8778fab32eff2cc1343b3f0fd1087005bca859786cffe4fe8169b4cd97",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "f26db58471a44843813bd757923e999a9d8d8b421fabb11292c015993795d2b6",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "9dbdf2f4b57be325d70455ac36cdf403cf8b90d56688bbe72e930fdf74b832de",
+      "symbol": "XRPUSDT",
+      "url": "data/futures/um/monthly/klines/XRPUSDT/1h/XRPUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.XRP",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "XRP",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:50:07.869257+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-01-06T08:00:00+00:00",
+  "unit_multiplier": 1
+}

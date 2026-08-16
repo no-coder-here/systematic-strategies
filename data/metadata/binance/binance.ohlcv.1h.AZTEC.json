@@ -1,0 +1,71 @@
+{
+  "binance_symbol": "AZTECUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1770782400000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 428,
+      "sha256": "c8d2becc994e9ec1f0c1608fa11ec54e41f2ee0978a699c5c379cc458e4480ae",
+      "symbol": "AZTECUSDT",
+      "url": "data/futures/um/monthly/klines/AZTECUSDT/1h/AZTECUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "8f333364f66d3590bd273e401eb49900ca58db76590a1a0d4c4212394d291573",
+      "symbol": "AZTECUSDT",
+      "url": "data/futures/um/monthly/klines/AZTECUSDT/1h/AZTECUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "b7d56f341d25358a1dfa1e6a6a6fc621fb2d390a2ff6bdc0b354d970af816ae7",
+      "symbol": "AZTECUSDT",
+      "url": "data/futures/um/monthly/klines/AZTECUSDT/1h/AZTECUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "58125bcbeb507826958ccccbdc661712a250a1283e15be306858059ff1d431a0",
+      "symbol": "AZTECUSDT",
+      "url": "data/futures/um/monthly/klines/AZTECUSDT/1h/AZTECUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "7418e10a75b21195c51ab3f27a9afa26b1d4549f1fae50ae62e5e00f84718543",
+      "symbol": "AZTECUSDT",
+      "url": "data/futures/um/monthly/klines/AZTECUSDT/1h/AZTECUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "67dc79fed9771f5ed3620dd4b6f5ea86a5115976c95e04fa99fdc95983fbfe75",
+      "symbol": "AZTECUSDT",
+      "url": "data/futures/um/monthly/klines/AZTECUSDT/1h/AZTECUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.AZTEC",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "AZTEC",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:47.387594+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2026-02-11T04:00:00+00:00",
+  "unit_multiplier": 1
+}

@@ -1,0 +1,80 @@
+{
+  "binance_symbol": "FOGOUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1768053600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 514,
+      "sha256": "05143b1debd505b3a3e6a168d92abfe3df763300a8191a497af5653316fe1362",
+      "symbol": "FOGOUSDT",
+      "url": "data/futures/um/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "c7d1238aa7a982858c93e47c81b902b00d8f798cf8bf57d21608dc73df804092",
+      "symbol": "FOGOUSDT",
+      "url": "data/futures/um/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "004d6db19f21afa4471b60507f442804988e2d46a15024f5b77bceed3dcf4b65",
+      "symbol": "FOGOUSDT",
+      "url": "data/futures/um/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "6fa1229b31e2c022c05703b3f7264d387fe493ab47d21e744f5ba92939374e05",
+      "symbol": "FOGOUSDT",
+      "url": "data/futures/um/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "555e130d5140359c76b17f9bf8f4a1401b8cc93a4fa5cf4ff740f7841acdaae1",
+      "symbol": "FOGOUSDT",
+      "url": "data/futures/um/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "219fe8c1765a66171f0374bd3ce52a3843542687e47a7fd480235392b48331d6",
+      "symbol": "FOGOUSDT",
+      "url": "data/futures/um/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "0d1865676da6c07d7c125f95e234e8bfed76252696e3292c505f512532e744cb",
+      "symbol": "FOGOUSDT",
+      "url": "data/futures/um/monthly/klines/FOGOUSDT/1h/FOGOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.FOGO",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "FOGO",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:41.374688+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2026-01-10T14:00:00+00:00",
+  "unit_multiplier": 1
+}

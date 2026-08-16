@@ -1,0 +1,188 @@
+{
+  "binance_symbol": "ZEREBROUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1735826400000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 706,
+      "sha256": "a4199a53dd6565088380b6efe1ce8d41b95db2b04cd0419f5f8f8d9f6ed95c7c",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "d58f0a26e62f7868434dbebc37fdb87539904f2e22e0855a1a30420a9e6d40a2",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "fd73894421e33b047d19c8da67c21e5ad863919de038d1c465f5c3851cf9df57",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "bcd2a7f8f0593af1e69b01e4a19971ddec8de5ea6ed3f57d49dbe23ea6273b28",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "00a1c9db89b7ad8916d8e471a8fbf9fc8f9e06e3b33924b6bf6659f7953ae612",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "9b4f3dcd72d59336110b8fd92038f028565581ba7e4284f10db09335a1a41a55",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "02444af4c2067088ad267199ce469d24261f5f99d5b98994518b66dacfc4ed6a",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "fea0690237b40ebf3b23f19c9122c4c9563109680f49d380f4c109b8576ae7fd",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "348c2631bea9e64b65ca6f7d5887b48db5080ec7ce9991d77cf1605db37be3ca",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "038f0001bc99a3cf431e66a1d2d74f5a213d3ca65183f960ff616bb5bbf58683",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "c96e244ddf237956ee882b36c8ca2c3d34a98e5e43b323a1d195171decb967af",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "415da4e3c7dbd716ff50adbaa9f68ca25488ac9d8a118ebabfb2dcceef422b54",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "cf95e679dc56e2c1ad0c9db2f1815567c6899b026889da355fc0091270728773",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "a79bddc80d186fdd8195f284985f6e2e7e0102054a0fdf73608e70cd8441b10e",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "bc516705838a0e7ecff815a92a02b7882cd58b2fdad8ef68c6a9f51e0c6d0690",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "e9dd4518033fd01a026a327fe5eb5bd1b06cd7a26208816aa9ead19906e6cb1b",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "0b312938812ac56d2a53bdbec97454f9a62ea9d6c153b516ea04edf6ac9dd994",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "5d1d8ab64f9ee5ba58ca23af272cd1f990f4b7312c007ea267d42ba8c1ffa951",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "bfc7167e313e0337c215816946f6b3194fb618f0641f41f9a164c4d3dc0ec3b9",
+      "symbol": "ZEREBROUSDT",
+      "url": "data/futures/um/monthly/klines/ZEREBROUSDT/1h/ZEREBROUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ZEREBRO",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ZEREBRO",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:57:29.442450+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-01-02T14:00:00+00:00",
+  "unit_multiplier": 1
+}

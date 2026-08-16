@@ -1,0 +1,224 @@
+{
+  "binance_symbol": "HMSTRUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1727352000000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 108,
+      "sha256": "03bf87d361a14de62296578617ffaece9dd1c4991901eb00d277d888c2676e81",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "b6c0bf57c37503dbac98e5f9f32dd1e3cc3b6eb3cc87c4c913ecafefc052ee44",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "6023252f14c32a016dbdcf74abeb560298bc388c548ca4fe60b4cfcf606e028c",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "164ae4d2db258131a626bb9ede4560e66e4c269c2ecfc2acf5d189ba59ea972a",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "53b846b257d08d1ef29518171f17b694ea6dc3f2cc4775d73f502d337ddefcba",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "df503bff1cff3397e30016bce5146547914d1df1adafc2c14cd8a6ed779d88f5",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "45614ab3cf63f5a1a81afb08866978202d0afa6d40e3611889f0f68e0886c05f",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "aad7973fc0e380d55c845592ddbcb9b430f1a130d3b2121b3f19fdc9b9b52b42",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "f94412a53f822a3cbebadd00d0b837c843d16d5273c22a6def1c417644f4b827",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "4e3237565ac777ed7cb0d7e64134e09ebb17a1cb1f8ae947eaf38b837c19d941",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "f9465b60e3b467fa9915d878f6c7c0babe19a91bc1231a2c3abb2c6f9c799022",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "db5dcb338a1aa0c0914d656bad367f33b656602b539435366bd0d853fe7447c9",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "69dfee18d008d6be8df14dce3582b9900d20111ba00c24cb57fda404ceb48ab1",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "8989224e3c07ee15fa1a5d50573961a862f794d77e6426200ad40d3ecc88d639",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "6772368ad3db3eecd1049bd9e4a307589741fe46c582f245ce8a11e07abea626",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "2cfca96f02308f1fcd82ca5f34cce3f13d511ceeb2fdb2dfa92faa0f63716f6b",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "8680a9e4b9323a0ad2e54341383e3d9b31d74f83124141eaa1ccb97877ab76d2",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "87d38ed5b8b06c102539e8cf961b085ff732e042c4f29950aeb91990b42b701c",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "1ea9facff3678f901ec45bd0a5a0e5fe9c0984c6013f985498625a8adea7024f",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "f7dc6fc351c09aad19a0f7a14c9356764759c61179d0556abd218ef5e3baf829",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "d8eb76a6b774c068bc5428df6847556e328fb501d3db9fb0665e3ed481a90408",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "ef6a56c66804fb1b6453e322d54455359884c0cab1e790a38e7781c38402dd73",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "62f33cfcedf962e13b950fa269e11ca017041e6a4a9627cf4a6b899f3f149f11",
+      "symbol": "HMSTRUSDT",
+      "url": "data/futures/um/monthly/klines/HMSTRUSDT/1h/HMSTRUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.HMSTR",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "HMSTR",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:56:43.803769+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-09-26T12:00:00+00:00",
+  "unit_multiplier": 1
+}

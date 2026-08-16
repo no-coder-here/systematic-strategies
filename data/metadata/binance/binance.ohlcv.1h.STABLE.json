@@ -1,0 +1,98 @@
+{
+  "binance_symbol": "STABLEUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1762430400000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 588,
+      "sha256": "cb908647631caf889b9f3cd6b2c52a9a99d021dd412d0e0347444d234e47d964",
+      "symbol": "STABLEUSDT",
+      "url": "data/futures/um/monthly/klines/STABLEUSDT/1h/STABLEUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "41e085d7a21c9f51fefea69b85c8cde3ff6f0647aab703f6e6acd0da8c7ed29c",
+      "symbol": "STABLEUSDT",
+      "url": "data/futures/um/monthly/klines/STABLEUSDT/1h/STABLEUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "34b95b01b843ced044b3c2052659993bda823005838ec71c99457c810f2a681d",
+      "symbol": "STABLEUSDT",
+      "url": "data/futures/um/monthly/klines/STABLEUSDT/1h/STABLEUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "3acfa046b823b825ade9eea7ed5a0ec57e90199bafe6f7054c8dcb300c333951",
+      "symbol": "STABLEUSDT",
+      "url": "data/futures/um/monthly/klines/STABLEUSDT/1h/STABLEUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "bc34f5d7ee4976fd512e0d11fc7d07f14860294609d7c4fd04bc2f61a28327a7",
+      "symbol": "STABLEUSDT",
+      "url": "data/futures/um/monthly/klines/STABLEUSDT/1h/STABLEUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "90d937b2fa01811fc46f0d1d1188d518be5fa1ddaf03aed5c2048b27b280a613",
+      "symbol": "STABLEUSDT",
+      "url": "data/futures/um/monthly/klines/STABLEUSDT/1h/STABLEUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "3f4a903e0adeb01347ad5a809f141340d11414a389559699e7f272513b32960a",
+      "symbol": "STABLEUSDT",
+      "url": "data/futures/um/monthly/klines/STABLEUSDT/1h/STABLEUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "a714c85f4bc7988fb2293c46e699c361e3eea479212784c47ce8780aefb9a12b",
+      "symbol": "STABLEUSDT",
+      "url": "data/futures/um/monthly/klines/STABLEUSDT/1h/STABLEUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "1506638dfdd9c4e0cf384a5d30795a73a7d4f709543ee6aa13c13590e982cfc1",
+      "symbol": "STABLEUSDT",
+      "url": "data/futures/um/monthly/klines/STABLEUSDT/1h/STABLEUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.STABLE",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "STABLE",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:45.922446+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-11-06T12:00:00+00:00",
+  "unit_multiplier": 1
+}

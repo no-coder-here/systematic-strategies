@@ -1,0 +1,170 @@
+{
+  "binance_symbol": "NILUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1742821200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 179,
+      "sha256": "dd237ce9b2fa5756936bec78d057cd725fec6c2fa8c2f92c8b2e2b5a9d4d807c",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "1f7648e55f204ad542e8a77e67a15745f7db151e59ef2c3dd513e4cbafd0ffbc",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "873f11afee08b32b5f77fb72547f65522f02200dbb9c2df91dd64a436ddcf204",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "c1f28025a424ac9fe45d8d3ddd75b3d714f845c36fb04c7f0eb9bf03caf649f4",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "e2826efa1f794fa152440aa798c9add4ec5244b090dec3453106e58e5bdb88fe",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "19c12660c4987b80fd735855b9f2b9cf268c796140e4d962c90d5f84ac24e177",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "f85db0fec3c10167c52e79b54e1d22f0eb7e788303069732f3fb233b4ff697e0",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "f40d6a192fca2c1ee709ffd71395791b908a688aef7498d3cfcf5218cd6a755f",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "75c85a82337a7532012e433e4ed76b6605cc11c96117d82421812efc6c0d1b9d",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "d237a1d6dd6cdceec1a7bdf7e0ce899065cce58a12570439d36c22350b0dae82",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "00150dbebd145cb6be146652a6623a4e1b067bae5915236a7902777ea4ec474b",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "9c4d353fb2a4e604590c51789697b0722cdea3ca954a7457e3411bcff705bba3",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "2b05de1e2f6dc389b0e49d85936a508c0da550a42054072b034c06755d6a13cf",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "057cbd7086e724df710d49ea0ccc16f84a73f8407a5ce6c0936a34a5ebf140cb",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "204e0a1f918a871dc223949c4bf334aab905bdf489c78659fd7973886834dbb1",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "fba836da446d0a135335cee4121c53442002cc0d44dc0d7646bfd6500b93f671",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "6d96c4949a13ef495147e015bc285edb45eb61ed90ae17a7c6dc1d3236f8caed",
+      "symbol": "NILUSDT",
+      "url": "data/futures/um/monthly/klines/NILUSDT/1h/NILUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.NIL",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "NIL",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:06.116045+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-03-24T13:00:00+00:00",
+  "unit_multiplier": 1
+}

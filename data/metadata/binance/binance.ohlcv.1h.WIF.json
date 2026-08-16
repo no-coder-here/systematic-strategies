@@ -1,0 +1,296 @@
+{
+  "binance_symbol": "WIFUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1705586400000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 322,
+      "sha256": "f4662f0962e8a45685b50a580f5463fbe8e13189d2afb4fbf1b50e2c1b8d5cde",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "9816df4ae704646752b451ea4e262d42148c4a52294f573b86a0ec0bd95097b6",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "5616b794fc4c870330f5c49fcf37a27eeb17979a5f0dfcd82f78b773675ddf25",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "3a1bee92fa5e8d10f7ff0f8d1c9d2e1586ab0fd27d70fe15309edb99e9d9aa26",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "0a2401c2167f820fa0169b78b1d5753b5d403a5408e0e953d5fd54db0a6ad0af",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "09edc6a79763ed37185e3e5130ca95cc2c42f7809903398e3aa7bf3695c1b4df",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "6496f52e4246daf00c8d207c814f6a106f95d6961a2b4b23f277d7efa49e787d",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "f3492d67bd7afe3125bc23a5a9992d28d5753f619e378cc122e002712b30d719",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "eb7aa72b4fa5305df67e29c4837f5737ba27cef5173d90e99eaade329f6c043d",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "0d965ab5543e854f3274c12980182a3f65fd298c2cc68ae4ca989adc6be3ce14",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "d3efec3da321e57e24a61a72e64f9a7722b7d1de8a7009fd42633b4c05a823e0",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "f13452d03a63b6c4bcad0c04ae16827d5a3cff965677a57d39ee5338abd3ae98",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "20a424b6f5301290d24e297cf3ba8a5de74b63191f580898591e24570a06e943",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "fd004b6c43f18ac5748c0a71abc4bef36098fcab4d56926e86101a558c68a8a5",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "dc04fe7448728d1747f7e858c36df5d27e98120d86acbfd0e4d028e4e485b983",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "961dd286f0354898a84d9a86b09dc3d479d4a312e34b3f4f24fd695df60fe339",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "28c0628f24e9a3f37c500a4ab4e8e9cd455542d0c6058d5c97a3af513aa97d3f",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "aabe6449ac76705d12c69b658e52d2a46a6299691a974c3b1ab39405fcfb0b4c",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "f31802a5c36631e8656aef7323c1998c75548fe62b1a74d74f5c8b25bb0238a5",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "17d6877246748789140fafe4c2c6dd9f87fab5161e380dc2134e85b6cdfa980b",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "1dae8b5418f1d4e388a51b5ce9d9751f371f9258db5331d498a4b5cdf2921ab0",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "17747eba25c4e7e88930d657db8634ab6cda0936de194b599490f254b4bd1add",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "b79ab92fff36d28f97ac7aa419b04b22d82260a55e500b7d1e27fd34da9a803b",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "090e6ddf799a63f789056e27f02621e745374a1738c8ca2b9f0bd5a46e86c3a9",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "31dad83420ee6e02d1ceb266f7678ea128b49cfefb092e11178450ce0518b306",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "9751688cf6fb10841bce806a2fbe1dd0fd5ede27bf81bd97cc63fdabdbda81a4",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "68401e0a1a3175ef2333503dcf0e8d88b484f0ff94ef2cb5c5ed98b6498441d3",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "0bae11cad4ee71d34e27ae6f4d7e9c876739e0310c1cddebd374b179ff945c22",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "2ce0a70ddf614c8e2ecc4b8be8346332c2f70d919fda4a1ba1594925569dea37",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "d4caaeed00ef413841168663314e6197e64595ec347c82ca7999d7d630ec160f",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "1765f88bb55281d538b6978e74014b980eec66b75b4052d5d2e8fc876c863b1d",
+      "symbol": "WIFUSDT",
+      "url": "data/futures/um/monthly/klines/WIFUSDT/1h/WIFUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.WIF",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "WIF",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:54:10.377463+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-01-18T14:00:00+00:00",
+  "unit_multiplier": 1
+}

@@ -1,0 +1,107 @@
+{
+  "binance_symbol": "CCUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1761912000000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 12,
+      "sha256": "cf69e0d90473f83cce63b6f29f9c31559d5eb4738fe83ec004b82633b0cf0c6e",
+      "symbol": "CCUSDT",
+      "url": "data/futures/um/monthly/klines/CCUSDT/1h/CCUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "645a84467317cfef9075ec1de016c7eb6876d26aebffdd4b0e8debd350e7a4f8",
+      "symbol": "CCUSDT",
+      "url": "data/futures/um/monthly/klines/CCUSDT/1h/CCUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "f9e09525b15c1dce67737a81290b4a386d22cfc75cedc9d418aa173dbc60cce6",
+      "symbol": "CCUSDT",
+      "url": "data/futures/um/monthly/klines/CCUSDT/1h/CCUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "163d10ed5b262bdfd81838aedcabdeb17c47e1c3046231d6c82bbe80722aa985",
+      "symbol": "CCUSDT",
+      "url": "data/futures/um/monthly/klines/CCUSDT/1h/CCUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "3ad5c0ae806ca1df2781ac32d90bfcbc651125f7de09ceb9094fbafed9f74d67",
+      "symbol": "CCUSDT",
+      "url": "data/futures/um/monthly/klines/CCUSDT/1h/CCUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "4a0b6abf4e94ac15e3e504b4d28367a60467990a54e67b96d5eb6b294f57449a",
+      "symbol": "CCUSDT",
+      "url": "data/futures/um/monthly/klines/CCUSDT/1h/CCUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "d27bc2d8fb33659bec75c08f193674e641e040b53dd4399b0d82e3341c093460",
+      "symbol": "CCUSDT",
+      "url": "data/futures/um/monthly/klines/CCUSDT/1h/CCUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "83132b098ce77c559a72999429b9756fd89eb009ed429a04d78ea88def384edb",
+      "symbol": "CCUSDT",
+      "url": "data/futures/um/monthly/klines/CCUSDT/1h/CCUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "1b3d26ea9871e6dae720c49a61be5baa041f621358530a0d1efd472b32d39ef1",
+      "symbol": "CCUSDT",
+      "url": "data/futures/um/monthly/klines/CCUSDT/1h/CCUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "c0a783175c162c005a5d46b697bfc2ae1a7c2281431eb33d330143dfbcfdd0b8",
+      "symbol": "CCUSDT",
+      "url": "data/futures/um/monthly/klines/CCUSDT/1h/CCUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.CC",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "CC",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:42.515435+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-10-31T12:00:00+00:00",
+  "unit_multiplier": 1
+}

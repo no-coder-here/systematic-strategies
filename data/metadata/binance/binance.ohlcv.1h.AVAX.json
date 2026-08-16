@@ -1,0 +1,656 @@
+{
+  "binance_symbol": "AVAXUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1600844400000,
+      "last_ts": 1601506800000,
+      "month": "2020-09",
+      "rows": 185,
+      "sha256": "0e481a1e50497d6c8cfce26ee80879a30893d2448e998d73df153ece2a8c9620",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2020-09.zip"
+    },
+    {
+      "first_ts": 1601510400000,
+      "last_ts": 1604185200000,
+      "month": "2020-10",
+      "rows": 744,
+      "sha256": "f54e405d43ecbd3725d021164bbdb77cf1595d4e34a4aedc5def8eb97ec0863d",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2020-10.zip"
+    },
+    {
+      "first_ts": 1604188800000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 720,
+      "sha256": "483372872825437dcfd641944754292a21dbe6e30c54b931bda39aa2724d409c",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "a76008f30c04f2de59c1446f60634510a0dcfc63c2a1a1369794c7c870c20fb7",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "10847c0ac7ca17752b91db6156301465d183816ff5c86f2601689aa740ded1d2",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "adcdf646ca2b4110cb77c1a54fb59f22a92d629737746e4893db281563b26db5",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "3a05cad628aa202a2c71a619b2fa108562c9f2304c4e402d39405f8b1c26633c",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "32a90a23c98a3db9ae44f76a3303d147dcaf255526c821314f23ce335d15b920",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "b7bacfc6b997711a0633b5a7927f17cac83921f3a644124b15a8ed3bdbdb4ca3",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "e9f81072795aa4c5d948ac76923c190f6843806f7605788fdcae9ea847544f56",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "dae43fa0a08ab56eba9a06bdc4c97a7bd963c2f5b23e4e70d1ac018a02d8354a",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "631276b27a6b238c4ce4c442907261e061f2bfc975da2169b4b8b2b04bc1e4e7",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "0dd5fe4341bf1304276a9b75f5fc0d7ff441c6f1c91b0834737182ebac3b7bc6",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "761b29a0794b1035b6342aa57334fafb68fc1594b6c3943c6d9d7a0a0fa1defb",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "2420a21f5d0941aeb4eaa29e26d0b38085170c45b36651e17a6f47eb14fe53cc",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "0d719df9be96b75bc868be3bd142a66aef7e3d132707d955d631c191a9984f78",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "dff5fac35064e5c2f500a5ba15cb70141f933b2445db68fd89cece6a684b0e61",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1646089200000,
+      "month": "2022-02",
+      "rows": 672,
+      "sha256": "ac01d95cb1d4679ca29ae31e78b9d4b8fc147c58112fd56e0179bedc5b1225d8",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "a4869228dfd2f8bb8d83d1daa7d50412e3e753fc35abc242e12e1fe5850743c5",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648771200000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 720,
+      "sha256": "cb0fa0dfeba8ed982a251c3d6e970dd81bd2ec8fb685cb81072fec7902955795",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "e64078f53a8d641f865adf77009bbc576dc7b1ae8133372744f0ae5b1b1bff12",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "e92ae6c929f05f7454eb8498172262d64f42626e5b5f9bf95d43e8818a3bbfea",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "af8bd72156f38924549d15a60b09ddf9574c8a9a6253a0ff96a96e64ca0b313a",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "cd06b492fb177eeaef98f5220e8e9c7b7e67aa67b80d7a7d26ee33fb057a295d",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "556864d134a71de56d9bdab5cb98a314d3c1738b02af1ae635fb7245a5643252",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "b529a467bb664873bb66230a08404e4c70f1f5b9d6f20d97f8c47b57ab131f86",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "07fbe4dd8b541078f5d814d3c50b13a17c001b93ba1c40c1e447182fdcb1964d",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "f5e49a5fa406726f409784788b39bb207c948aeef799377570537d80e8725a98",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "8e0ad6459e213a766470245f5c3018e1505596cfdf941109c6d77534cc8a04d3",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "3bafbc968a3489bdd600bb871b52b970dfa0d75fc5a113cbac279cadb5db8c03",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "091b118413004d06396109e998bd79ad2067f8f4afb826931f6f71c4815f4336",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "04c5a60475a3d876bf1dfd9e5ff11358208cafb2fbd8749dbfead6541bfb3ab2",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "f13c87ce247268803ff83d04686ef6bf35edda23a78f81435e97f718dc11f257",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "3a1ed3a3300b311c97443e38891b7b10aa063e999e8690d6edfff47b12b47ad1",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "dffd3198f43bc00598a11d764a9efb38388dc524a0ba4fcbfe23c52c73d529d1",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "5d259aa9d909dbeb14c8758036642250e4f185d4db263242629669f74905bb6e",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "4c6d59f80137e13b2f8fb4a051bc8cbcb4593ed7a4a7a191b70cc953eb988427",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "062e83e5cf97922340b3fe3bf1fa9c71537dffe95f862afc37d1bc0d024406a3",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "eacfb37596b54836f55e0f0e73c4e7d31fe43b05de0a4ae19090dac23c56792f",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "b6efcac9717241fd25c073889b79f973056d39e1f4f06cdeb0df9ec93cc613cb",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "4ce9201113b148b1aa786c08503066de74bb1b83d4b8c3f3d71f2f5878494aa7",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "fd15a880083ac32e78af8879a66bce0b64fd624c6ed97f9a13877b76dfa4e723",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "5a02732eba2cfcf8279efc853a7e3c24a089149dc2b018d612af1a4a4e9799d5",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "0b4f111fc4732dc3e47f7cfc04a2547fcac7ba38e5ccde0da5ab51593b47ea9b",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "d2ecd49d2983f3a50ff9a1a3ff5f30f41cb48d54d4ae58e3279e4de462c3d62f",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "4bc6dc7cf99607f166addd2d50de558d83b5dce4681d8a1b2dcac5b8d682e934",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "082a3a81b17553745109a7d0255b63cd16fa82b1aa1658f07eda9885e7495229",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "ba130191d273509dd6d198f4872a8467de5da51dd8261cf8aad64d2f8cfc8f5b",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "2d262e4e3fb08f8fdfa66a5d0556d2cb0dc90bd373bd5f9d3c52a286a5208d37",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "26e9695ff1240db2e55b470eb03b7513e0aa419fe64c21e5ff0d3cb00e2bd6d2",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "ae174ce29c78660acd502dda2d9d6099a97da38854728802d2b8aaafc1d824d8",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "9de45a59308307109b1a0356fab9a317685861e9e4012e33d2cb703d094ded51",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "53a311b0c7aa0cf0e5f5d4728b386a4ed81dca86dfc20f78dc507b3edc6e6761",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "04c24f476d0bcdb121daff8dac9ea979d657a2433a5b6c5c315744ca17af670f",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "23d01b3ff0e243d8daef911dfd392ffb905e221741afd7bb2159ef440e237cc5",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "058e73f16ca89b66a39c2fea121d228d36414358ffe23636165663c1c2fa4626",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "5a1cec74bf5966540cb917cba7261e9ee09129b2875c6e89d91cf2fa7a5b4a94",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "704b2961a9bc86f1e817962ba8cf63f3a6b0a55559595c6b51a020bdedf7771f",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "2790f3164f97785530cfb369e540b2efcfc0610f36782a63d0d765614660c0cd",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "28aca3def5a284c4c3bada1acb9f419c5afbf380f60322957013cb0b7d7eb5b8",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "78deea929f5962f785cc8ee57863189c4e51625f367eb3b86b9095e569793855",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "b8f43124972edb985af2443f69183ca128e75f93233c4eba1aa9f59da9bd848f",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "2615beaf43d4819a15264e6adc4cd6e9019539ab9620cd58b1027ff6e1462dbe",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "b422cc2a0e75d23d6e72e917d8655ebc50a3b7a2102b3592353893bbaa0d044c",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "841ad95dc050bf8235137aa6db14e379eb9a0cd5e904905bbbeb416226ca54bf",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "52b7c3ae67b9e5faa38d49697b0ab8a3058899dc159f949aa817eb91d0d43d08",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "dc9c74c842c8dc9d739f689bc1e6c843cfaa10a6aa9b66f7f14ef322e53f6991",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "330c5145366e46d3ce11c0554e549e250df703be7570184fefd86a4db4ad8eb7",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "eff9574f5906bbf0f026c91961f900c36e5379e5918802960aa6386b7946c141",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "d0deb5c979fbc81b7dfdd1b35c0bb5425941b5f7ac270f30baeaa466208e3edc",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "4375f0ac4ae192e863fb4722df9afec601409a3fa48e1f7bdcac0419f4159389",
+      "symbol": "AVAXUSDT",
+      "url": "data/futures/um/monthly/klines/AVAXUSDT/1h/AVAXUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.AVAX",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "AVAX",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:49:41.258308+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-09-23T07:00:00+00:00",
+  "unit_multiplier": 1
+}

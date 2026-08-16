@@ -1,0 +1,152 @@
+{
+  "binance_symbol": "MERLUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1748505600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 64,
+      "sha256": "fbdfa327a38b02357115a6c140d0391de3cd085d6a79cc686e0b923d5a2e9d99",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "994812b99296095f3edbe11e4dd9bcfe18448be2c54b4c5898d9a6fe4ca7eb70",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "5259d25edc91961320e25dc44f94b09754a217fd290e67dd4569f58fdb9cb9e8",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "e13acd655f7a9e19b2f48fb62b5101365629e1a5b821f82c279f3a713dd4813b",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "76df4f99264ec62c5a3a17bb06f95aa3709957504f9c557890efaa127918222f",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "44f8e01a18c97f24d84507b69cf269d568b3e670e69d8add12cdb93649989232",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "b900eac7f34057feec19fd97033bdbc44450660daedc55525857b4091190da5d",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "f2fb0e003203feaf0dc8c2488227c684fd8097c9c7671e42e7d054ddef163d29",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "55b96612370e5f512878de62aba3883e496aa2e0b8b6d16b7bce98c07c105bbd",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "d2d3df73cbe3962732a762252606aa6bbe84466a445cc82802e6efa129920f63",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "027c5270ebcaba31541fd54a7ff3b151f37a1b3f28f180819c67354ef62efd2a",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "fc66f2e92bcd6918c690bd29647764e3e26e12b946d846694fce885e7e8cce48",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "a12f48b0657bf2397f4ed5d495e91764d5bdef318efe348087d4aca85be2e9d3",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "c1110880c48243fd53cf794b95b21e9f3951ea36521772d426eca97c05dae2e4",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "7647bb9176b117dd2ab59ae8060db99e758186ccc47155632868aabf9e8f7ae6",
+      "symbol": "MERLUSDT",
+      "url": "data/futures/um/monthly/klines/MERLUSDT/1h/MERLUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.MERL",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "MERL",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:55:40.054705+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-05-29T08:00:00+00:00",
+  "unit_multiplier": 1
+}

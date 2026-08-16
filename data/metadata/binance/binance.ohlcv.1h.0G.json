@@ -1,0 +1,116 @@
+{
+  "binance_symbol": "0GUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1758121200000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 321,
+      "sha256": "aca5e0e9552002f96f6cadd6dd2334dd3981686ce163aca723129a0aee716692",
+      "symbol": "0GUSDT",
+      "url": "data/futures/um/monthly/klines/0GUSDT/1h/0GUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "b13a97a334ac3fff948b5dacb984ef84aea2eb234dd3f94d1816b5633d3f1708",
+      "symbol": "0GUSDT",
+      "url": "data/futures/um/monthly/klines/0GUSDT/1h/0GUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "a6194853649917ae354ce97f015ce54a0ec37260afa78983e9bce71bae2e6a7c",
+      "symbol": "0GUSDT",
+      "url": "data/futures/um/monthly/klines/0GUSDT/1h/0GUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "9668fee6fb1ab2c774b22a898ad29eb99bf16741ea496cec77b2c943a7f67635",
+      "symbol": "0GUSDT",
+      "url": "data/futures/um/monthly/klines/0GUSDT/1h/0GUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "e7a592d7abc76f1bd2c35c50844a899a01d1d0ccf4779eb848fa63137990e847",
+      "symbol": "0GUSDT",
+      "url": "data/futures/um/monthly/klines/0GUSDT/1h/0GUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "e738cd830a21a33cb4380f4e7c7349a21aa827529087ecb50898eff2ef42e9dd",
+      "symbol": "0GUSDT",
+      "url": "data/futures/um/monthly/klines/0GUSDT/1h/0GUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "842969cbd063625e4d20804543323524071de70573bc5790deb57611f5f79481",
+      "symbol": "0GUSDT",
+      "url": "data/futures/um/monthly/klines/0GUSDT/1h/0GUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "3a4b3c4027d2f3dffd3f33a1fe18a05498240f4be5a08f4282d61f520afac138",
+      "symbol": "0GUSDT",
+      "url": "data/futures/um/monthly/klines/0GUSDT/1h/0GUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "423463bf33ca9a1f9d07dd2932713f6df124d14a1088e6463c359caf5fde9b8e",
+      "symbol": "0GUSDT",
+      "url": "data/futures/um/monthly/klines/0GUSDT/1h/0GUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "fe025075eef0ec3de4fe000e4f2200955b4549827767dfa33dc8b3482da0cdad",
+      "symbol": "0GUSDT",
+      "url": "data/futures/um/monthly/klines/0GUSDT/1h/0GUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "af01c78ea672add84f57e18384b7e951e7bf4849533ec0740481d99911d38e5d",
+      "symbol": "0GUSDT",
+      "url": "data/futures/um/monthly/klines/0GUSDT/1h/0GUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.0G",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "0G",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:37.460784+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-09-17T15:00:00+00:00",
+  "unit_multiplier": 1
+}

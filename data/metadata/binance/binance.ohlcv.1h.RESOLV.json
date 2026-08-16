@@ -1,0 +1,143 @@
+{
+  "binance_symbol": "RESOLVUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1749560400000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 491,
+      "sha256": "fdd8258139028c506fb0fc5d0c0e986260daebf15076fb560891e5c20f4804bd",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "95dd17f3576ce36e0809a44f9a4a0d0a51f922c2755787db1d7821dab5a4d8a6",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "c60f85823d8e835da830885ba605ce852d6c3ab31346dea6957f865f083fc9c6",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "695dccf79f34c829e5c8a111bef21dd615cd46868cbe073e30e30d24452e2577",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "17933bbf3b4e14e8bccdce51db80aebc4cd5ac6c61b73578928f7578d08d8f4a",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "2bfe6dc119d637f3eeea72d1d6999cc0423960fcf7ce47e1bd8befdd752c816d",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "24b47c9652f71de6debe6030cc99f68a6fae589875056adf734bb7181eef1981",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "25f111eb7a7058f8f16a7c5e92267886f264db65571ee17ce9a9da384c58ed6b",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "b88fe175675c4c0ff4d8010409e107fdca713600ebab03696b33a8068412d776",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "1ca09ae99f75b6db75ec585606bb43539c3100f0bad148ede65bb929826a0600",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "e09d8a1561d0ae69ff8dc90007e0b33aaebc0acebf6775d8b532a350bb42969d",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "f1321f989146050be6a2bb79f529f931848010429f00137e36b14cb2f722bac7",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "55c2c06f87d5639f0e8a83899cc72d587f4784f0bba377b8fe97079ddb1057f6",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "3bdd210571f47acd8891071d0b656b5c05898a7d8316ed45750bb1b09c8114ef",
+      "symbol": "RESOLVUSDT",
+      "url": "data/futures/um/monthly/klines/RESOLVUSDT/1h/RESOLVUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.RESOLV",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "RESOLV",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:19.643694+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-06-10T13:00:00+00:00",
+  "unit_multiplier": 1
+}

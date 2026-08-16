@@ -1,0 +1,233 @@
+{
+  "binance_symbol": "BRETTUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1724148000000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 278,
+      "sha256": "acd42e1be1222a378e475794cd3e2d83f88a933d7dc77ac6dc31996e2491704e",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "d155f30f41e78b036a702bcd3a4d57bc6fa42fd33d382eb07fba558fba8f7721",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "617d1dbe0357a0dd4ca76e95c9a18c7fd8ae0800d79133e96360e487332fa884",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "2a95bbe1a4049976554312072f2036d4301be55a790c6bfe3c243164fa946ac3",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "0da00447234b1d93254d9882426bf67f6b8ee29744af70f7aaccd1bb41556bba",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "9c6752a2522ddc4a0b0c157b8e6252df1791802f6492d38a313c9ff9748af4c4",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "33d06e1a92f8655da69e55397e238c3e608f94e6eae55b31d9fe01fd2b3f0e81",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "f05d96f31c1b9994554e1d5f1d7583e1da0bebe5883859e7bba1d412e7951016",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "47e392c1feafd723fd5db6b9f7049c10b595c4392ebd1f9fb279b4774e644a2d",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "a2ed069e924156c7b1913275eb8708f142d6d8069b8079be4367ecd96c5ae44f",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "0ee8f61d5cf7605ce3d6c5305c6122c1fc946a0e40ec79447ec28b5a4e94848c",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "189d04d1d1f26854b6e73b40ae1ce78111ec16abfab089c6fa4a880d26e659eb",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "32b38a8dea911fda0f6032f7a05bbc89c952d2bff80d02b001a7126ddda7a103",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "4f67663c182c46969a08f8279e27538f245c10ef7d9c5d35971e4c439fba2b9c",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "b2e1308d987adadd7a022ab448215d0c256e9bfb891240772831ef1472bc6c97",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "a04f04eefe1bd8dcdcd0ee593676e1f2308c4b05fb45273f5d6f6759ef6cf86d",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "ea053c9abd085fdbf759b498b26d64d64ccee7d6e2c725fb4a4d6044a8f45893",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "9b1de34788b8dcde0c22200f045433b87b40c247052e60ca0eba483a1ac0c8dc",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "bc1a710e14a36b077048f0d1ace50541c69d34815e02ce68704fb3edeae548fd",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "9acc177eceb4df7b8a4b0f2a6a9016d81ad491496ec659f96c90b207ae5c1fed",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "e7cce26c4e8c6aa12652db32ce7298026cf9f091c14cea69838c9eb5949ff993",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "dc39104b96101951ce59b56828ede0e35d421f4e8cb6a2a3793ef79109abf7b3",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "e65a9582670c95f0de022acf6cc04142e2363441c2a8b1c3a1e21ee9176fa2e8",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "d6469d9a5b1d43f98f56392beb72c0c19a3595bf287fc4eebf7c2f9f615e6f2c",
+      "symbol": "BRETTUSDT",
+      "url": "data/futures/um/monthly/klines/BRETTUSDT/1h/BRETTUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.BRETT",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "BRETT",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:56:14.762992+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-08-20T10:00:00+00:00",
+  "unit_multiplier": 1
+}

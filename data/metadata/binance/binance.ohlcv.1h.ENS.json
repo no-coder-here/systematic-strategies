@@ -1,0 +1,530 @@
+{
+  "binance_symbol": "ENSUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1638241200000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 21,
+      "sha256": "3a113f5c602c9181dbe7a9357d1a958c32a9a9ea68af9d40c3d8af2f0166574b",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "208c79c676fd4b460b38e0901cc1c0c28792a118d1f095c79724e8a0a3dd5fa9",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "f63d05c47d1bbd77ac350b12f4ca244e33d5bbafa829b5565d1aa13b8c2f96c4",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1646089200000,
+      "month": "2022-02",
+      "rows": 672,
+      "sha256": "97676cda8c569c4475e2376cbf7985bbdc0bc356c907b50ec9f82712d8949511",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "d0fb07e5e02af7a305e5637a03ba41467d5d5f5aca8a55fe67e52cc7d42a520f",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648771200000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 720,
+      "sha256": "6b960c7f8c5bc119cdfc0ff3c6dc3dfdef27a567294930a146abe98ccdb8bab0",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "e140d12e6c58c44ba74dd4779606256bf3aa87fa47bfe25e59d810f1055e8392",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "dea76876ab15f87ee908484f93eb9f0f446fd60465e8dfe34864fbbd3f437180",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "5f16e614a498ec34291197e5e347892ee0b802f4d093a020902a5537875aa007",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "8527d867dfddd9623b865efe2a954396dccf0cab38aa650dd525844dd9548922",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "b43d770ce527f11190008fd63037dbe0d6040a9c9b490da62aa9dfaf91f7c465",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "e575c2c8e38cf9d278920982e29535e3e81313206e7562a57607714fda7180e3",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "4bfbedfb7f62ed07a4705a3ff641ffc205b45db3c93200527c3a08339559e6e8",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "f2a081c3442e53efd6bb4d36031b7f44f6b3501a702b358517a226e2e1623940",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "f9f16e37cfecdc27a674cf2fe52c050a9f72f28ec92c52daa7cbb6d6f66ebf3d",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "6c636ed1f86e3a9a57ba353911f423fd2cf8ce6e6eb2d066d8734550c33ee1f8",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "13421302606fb5e3cac979913cf5b85673bedf3e50f386bba696ab60a473a73a",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "ba4cd12149d0741834214bf6663f63755e0968c9ff10aa29c78b0aeced3711f2",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "f31d2525020bf3d370f0f74066954820b2a74db680a76e28c77ede9ddd450e13",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "ceda5c5832b1c9d957b991ec3c8e5189361ee3fbdf141ec384cf692bb9d30fc4",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "2c5a88ea885cc72189f4878b3e6bc38a8236b230d78f624d40a4513271f69d0c",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "82d3e8b1918f9f73f971db1a47f80e6c048ebe8a2b886f232e3f1dde4929e3c1",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "60be606cbee1668a93e350716d2d066c201735e82d0e7195a5583b9cd6b3fc97",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "369bc2621c4a377757cb9628b18949f2be6cbbb696e3c81852e39251ca8b1f88",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "98e58e69a3722bb9c3635cf449518438e80b6f89bf305f8cbc1cbf132d1c3d38",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "150a89479ab52ce6b7681e44e90f2a4e267a3a16a8f6c5144f61f18849febf63",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "69b7cf618a852e0273edbb2d2aaa0792b268920ca8b0e3c040c244b7e66fe58c",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "e79a4850e1fd5b8a887bbc571107adb52eb73e253276d6a03cd1d6ad4b8d6080",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "8fd4e63721e35e5412630f47ac1af3487bf8cc5e4621bce9925297cb1d7740d6",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "32ea0bb3ad019b2e387153cf912ce0b96673d8b7382b6c2563114444a54b5a5f",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "8af5282a2e2b303d06d8aba4c53c49f1a1d13adb6c3f2095484ad28f53f32713",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "f69bab738dfa12163e0d9d217f208847887ca2c67ba7a753c8bbb5be3bd57d85",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "d1c96d1118bb4891b9e2d812dd4a3f675663e9025ea55ee1fbfdf3f11da02a67",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "149f76ae57261787bd9de1014e53f54fe41a5180b457dfa6a1738093cdbd0376",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "aa87333f7340b62343f8b9f8f42303b33ab19b8f685ad386a4c1f25c576920dd",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "f09bf8520703e674e4404088e148da9fd7a72214ad2ed6fa4e2c00177cd7fa62",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "2b9161728a98d886af331c770574b96a0d45a7ae691d923da4e081c0c2dd231b",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "4650562389aabe4d191a45ceafc194bba0a6ccab0f301385d9fef186d0fc95aa",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "ec75ddc05381f558c431c94bbe7d4534910524f2672350727bad685de4c10afd",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "d64e4069ef13e1dc2a1051c605841fca2f3bc25082b87f2ed7c7ca9558bfef8e",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "98cac31726686f48a52b17b9f7afed489a87e947cf182602c86a7d396af87d4e",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "21e8d98cbf8ecd40793ddbf7b8673d0a9b951f269944207ab99107c2ec3fe434",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "4efad2bfe0d35ae96470493c5c5059ac0e096fdb1838b34dd583a5d10b0f9804",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "67687da985b7f5c7c94f619839f77434c811a04446e87479b2c2f80412c698b4",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "c7a23d11d2e782b8cbeca4fd44f14d24a10aa1c456ff0be85fc3eaee1c2219f3",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "721b06792c72dece2a77feccf3f49f38c02a4883e1508d860063cc2abd9e1644",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "662ed1e149a9e89306db9ee0ddf7c614b12d30ee64d58246f4f44d4927a4387e",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "d2ecb1f455553ec136d309eddfd92f82c9c297454a415f17441a6e397c20e82c",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "e8d251f5c11f36eec19fec1f8ca0a8f58d79411aba012a2b55ed431f6bc4a4ad",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "195d63e03a42c065219b90f23fd2fea153e6fff3c66b4f3682b07669bf066b0e",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "75c1f69242e43831c5cb134c02317289ea5c63d369bf33df1dad758e6f8ca482",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "a79daeb886dffa1a6fc4e771875134c2ac24af0ea3903f1d95ebe547d9b85168",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "f0612968801eb2c749067b55df19bdc343627d07ee0dd6a73f622e48223b49ac",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "fca27201176626fa1052f0928ea74c7ffe058527a1fe092bb09ce1d8688574b3",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "b58038bb17800953cd7dae40ad15ee3106a6cf4a822793f4525ccd79c206ef96",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "6af83fcbb8f6598899353ade554bae6a4bbec4103f3db094e534a37b2fa23d0a",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "62922763099bed8b73ca6eeefee99a172f601e6897755a1a8eccdb8fe964c565",
+      "symbol": "ENSUSDT",
+      "url": "data/futures/um/monthly/klines/ENSUSDT/1h/ENSUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ENS",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ENS",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:55:39.331578+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2021-11-30T03:00:00+00:00",
+  "unit_multiplier": 1
+}

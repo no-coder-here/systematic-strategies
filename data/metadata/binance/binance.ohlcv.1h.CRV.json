@@ -1,0 +1,656 @@
+{
+  "binance_symbol": "CRVUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1598943600000,
+      "last_ts": 1601506800000,
+      "month": "2020-09",
+      "rows": 713,
+      "sha256": "fa5492348d7f7ad093860859e887eb680c137d546753fb2f6052788de5151b8b",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2020-09.zip"
+    },
+    {
+      "first_ts": 1601510400000,
+      "last_ts": 1604185200000,
+      "month": "2020-10",
+      "rows": 744,
+      "sha256": "8229da578b1e4e46e01645423d2994a6eeb9cda47ee2ecfc9f99dde92fb034e4",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2020-10.zip"
+    },
+    {
+      "first_ts": 1604188800000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 720,
+      "sha256": "e5f1e5a4134685afc9cfa500f45fbd5bd785b867ea7e4c4e022277e99acecb25",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "8f6c86be36a194e84251be8cb7d74b8ff7cdb1889e7fb0759670168c6da72a55",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "f79bc33af54a3b70f05c475194b7eba1185e06c57fb7114bc05cfb4108581375",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "c0577eaa601f23b0fbde5df2e6694e2a5926d5193167a25ca1236b12a90a6a02",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "7946fd1a5aed837240d2355045be27a68f18e7de1e0bf0313e6a96c09ebb8c49",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "d9b6f7d9a618eb8d7708c87893e395343f00f3a3f0bd16a7c7e31c0557d347e6",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "1f1bc897eb386c36ed1bde96844ebf153b39bb30e774806ce0618a451692e6b1",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "9696e4889a1c7e072a5129699f2cde48382bc61508b328969aaf6038c8ac0c40",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "272f3bdf421eaf3fc5823c0c694c37c1104ee7daafe244a5247b6d178d16a570",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "4f01a47ed2f040dcdc43a566297afc778abdd02ea9438d6ca0fb83aff24a3fe8",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "e97776eca7e1649d566f87b6df6ed8a4a5d9dde7198272f96036e9845ae6fd66",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "6fa5edb201dba620a2d959397394db93952fed4f9194ddf1279734156e2dec98",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "7a24d69843f7a0fae9341a961e255c1ffb30a38a295ca5884e6c83b40b20b748",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "0e04c523f4dd6d1c79ab787e7dcdd46522f0b0301e53ad18ea23ff2970f94726",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "f38ae528b44cfbb303d11283d23cb910a91541f5e41366c30d31a5e0a4bb30b2",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1646089200000,
+      "month": "2022-02",
+      "rows": 672,
+      "sha256": "f39b6d2b85cb7b2c401885dabbaf94b5c6bf390fc4eb3b668c6feb0aeda0a171",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "7794f458620a722d27f935550eea0b224c09c1e0e5f1911ef7b4d90205236668",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648771200000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 720,
+      "sha256": "143b91e5b1a6a15ed26fbba623cdc463c18f86b823e214ebbdc3178d8420818c",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "d0b511ec06c3699db133c70d74be32d53ae294daeaecc4a8834efb98a4899a6e",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "8bee31d953c3c96dfa09c513db794e3bd592b17b7ee797d7b8d9ea4c380ba5fc",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "93a1bbadac968bc4ecb57a7a6a21d0db1cd1177a30dc5bb8e20f3997b8722662",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "7483f5f31704a5dc87e5a4d1d0b190ce99a0bc6b4c5544b605c9ce0de817ee90",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "daa59e95c8c14a8ccb4bd07b5142adf2ded5598afdbcf50f332f644c76f95fde",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "20e76b696a83336e5096345c7b6cc337de4ffb40b95427e8edaec2b1a0226bf8",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "3a4f83832417649d90c178afd1dd740884f0cc76cb8fba5fa38b347b65c22408",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "eea53beb44c4755630d7ada73b1c7dcdf80dc3392a8c043b9a3080493f820928",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "98361075da4017743fe7cc26b3c053ce5b7db3e08b8cc7bd1e1e1f012de33907",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "4cbb3ddbd3fd14bd02f19a9b2eac9b703e92696e1cd784fd95d8ec0cf0f57af9",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "396b20e31bc88927d6ef34bb74190a396a9ec0d230fef4afa5f330e950d9c169",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "7c43714fa5a2acc7ecf88ab5aa4f9f113dacec814291a3b9b6428cd72d964120",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "ec06cf8e82c258edd489488ad6e1c1bca6a0fdfb7fd645b5b7241b6347051b19",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "4c76236c2ef3c17eba902437d54951e799b42a91508866d088a7e28a2ff2a7da",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "9cf732dbe0b768bf7504b119c91382a130ffeea68c00c25d63e5e186122b57d0",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "2e66e3e701bdc095e566a4f11f80fcca886cb8300bedfe2a2c94ba41db1bb13e",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "fdb0f4823b30f5cbf170d88640f1dcc4b4626d7b6592d20e1705981721826997",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "13c364cd7dcf11f92986962289a904e123a26f9eb9777720e5fca0acfba96381",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "5977b3c20c302224c618ffbde343149075be9595bef250e42c906f6b9f9ab350",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "ec9c5b4417eae00cd84ca7098547f313363b7331e22f2902cc86fcd3fcab9da1",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "5822e7c95946aa04a728734fda946556328957cc445a51ad1be3b8b7f47465be",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "1783cac2590aabdcec159e625e5017ffb3a032a5f0b9a82f1c072fa0156f460c",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "917b8ad95a3b88c7c32bc6eec3a482f2261e3766bb679a806394652c1e3023c6",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "65472c90e9eee5d144b0205f2d55428a11ea276ce839ef0b688b172c0cbb588f",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "35662a14b9803c7a60cc0fdcbd35a5511dde0fa1d77368a2ab4e0016ec0f844d",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "fc2115916679e5d904bbcf2756be9654069c2d178eeba8c20a57775fe3190635",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "6f374a7ad795586b71387bf926613ce65042b1945c194526fda8f48ad46a060a",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "4a95b198c585b1fdb6e1f2295464a68931791f5a843377d726d7624726cd18ba",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "91febf7902552ae9641fa3ed5b9130a9709a2cfc9b8e9df491708f137853af94",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "b377ff2e9af50320a457d3672f8b27eff96cfcfa3192e7030d7eaf52349507ae",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "2477a17f82b24e668e100d444545bbf87035f5024a70ca46541b0ec403de0950",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "96826148f5f6d8ab5a27671b9802766f19e160656fbe7ec3b6535d1a0e39b362",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "67ad07b44f2890f8a710ef67764e978229bfc088c34207334bceaccd232496df",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "e63b33bb471412e1b2710c4c46a767efd9e74151b84adf8f347e3dad1aefe5ae",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "4b81e19d980e5550e18eab49e5fd51fd70cc651f86d7143c9c341c5b1cac82e4",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "40ab5174c69a1aa5f3bb5ca3a056149f73bbbb4b404303c89d9671bf0c1bc40b",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "bc868732745379ed13fc47cf219d38950afb41073bbc57c09199396825e9d48e",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "97c852cf81b055a8bf309f6b0482e35551a82ca863610d51fc79567ad5353432",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "bc493abf4efe80c502955eeba11b1c878c2d846520f35594fadf07d185792733",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "6f37ef69849a4d76055de82d51237a9dc8fcb3a6d3aaac00f86f19c18a484fe0",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "0591085be251213ce4d26c20e54914d72ab4336a9e985cfaaf7abe1799921617",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "ab96d4787f21f116c2187b3b42ed3ba5393c7d40fbc792680c05dd5d10d5c1f9",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "fc7674a379fa5c2b4b520d647115ab8d7a08f4c2459818ff31959ad99c57a611",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "739f8a02623f63f6b648ab5a3e48e5abecc8adbb3b84a3f9a3a3d2cf06d13c31",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "cc42fbee8dfec078b11906685dd2481fef6f942bc2804e6395f0d9769ba95a5a",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "39db77bf159350473e8e70450c0288bd99cf8ff9d981f487ba5e7353acc9a9b2",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "d8e9ab1599c1a4248b134a7baecc858bd955d5444780598396ce90c3636053e9",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "90ea1b2e6c2c573a1dce063e888b532bb0b3bba5844438d7fe8dff6818419773",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "1b183823a58683a487395f1c4955e4739ece1c98c7d3e1f078c912911df7779a",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "27fa93b68638f1e3a7beb849707f7e69aac700e5b726c40deb6957b447f643bc",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "619a4a5aae889516487f6c63eadb967b6cf0fdee7c56e730dc5e1704762d9674",
+      "symbol": "CRVUSDT",
+      "url": "data/futures/um/monthly/klines/CRVUSDT/1h/CRVUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.CRV",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "CRV",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:49:44.964263+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-09-01T07:00:00+00:00",
+  "unit_multiplier": 1
+}

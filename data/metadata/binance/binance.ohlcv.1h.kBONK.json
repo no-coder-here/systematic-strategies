@@ -1,0 +1,314 @@
+{
+  "binance_symbol": "1000BONKUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1700661600000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 202,
+      "sha256": "0e3a194efc4885977a56f843e47f8925f6180853ee17afd9f7771313d5034e61",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "f6e277d37167d81e538bf0c0464c73cf2c4139c45479e77f9ce46f3547a870a3",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "5738b75950e6f1a8ac420d59baf18422298fc172ba31fb489681ec050410e17c",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "010c8c2fc0ac59f7f0019898e935e919122233a19c4e292f3b370d3eab47a5ca",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "6ad9bc3f48e6cc113a5a91e5a772542e79ef2e24af6e28d37756d3c2eb0ed0cb",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "6d4726026998a54b9d15a7f2d3cd224c628363704dbf1f622891a88e4cf206fa",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "b6e9b41cf9216b308cb753bf0e718b998e8ecce45ef06dc65ff4e6250f94120f",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "24c1684c2634f0c5c47678a7424de6ee655fa4536bfac5129e551cf2081b3640",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "5775cbccb660b02afb1bb141373871935941508ec437b89736ca306571f4b0ae",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "da84e284b88765c8063f8d03c64dbf6124c84b1c4fcf95b6b3b47f88771f4de0",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "e1cd44cde9e783963db9cef4f28afbb559e140f727e054e64021c77ef23c4c0c",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "4ad9f056ca013d3c6b53644a0c7ead82c4639f6cf231e3eb2c3be702aa3bea29",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "318baaae7b2bc5f3473ea3466a899538ae924f19f46bed51acc791999cbf65a9",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "99f883b06e8104a72b1daf332025305d62949d10b95e3536e03ac0cf8598e575",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "816ef928c1614648ec6decbbe42861a200367c4f181c4ecdac25aedd2801689d",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "4a2fed6d20afb0ca41929c92877ddc663e1a3ec3b891c8c1cf7398376ee673dd",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "28f9e8b1248aaf81a0fe65fb890f6e140317be445758312bbd01594ff0b21b93",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "9fd434b2906f9bf6c0ec87379ecfad4fc0f433696e049597a3ef856c49101189",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "db0315db1a7c3357fccad15370d32b89a8538bb59093d925a93216309d891cb3",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "16b83116aa24e0a295ac4203144af02efb0637d6423f166401528bf390591181",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "7ba7217d5d28f2a230aad6eb98ef9ee3f0caf9a3e14ffdad17cb227ec0ef4a9b",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "1b275a5cd43c8053cfd6134cfa14129427d0347001cbeb4cf580a298baa9abf2",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "11522a7dcc21bdff1482fd230f2b028f877da4eaa43737bad9c5691fefa99824",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "a6e7c5940803a8c5874e64947808ecc8faef103f920f58fa6a815422f1966446",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "15e38f225d27830649f8811b39fa09618a44c13ee5b02f29c7833da9f563d512",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "4b5a9817b022a15f13edd1faabafa776f55b6c6b361625875b18736f74b9d377",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "ec672316d518e0b075e0cb2de171e19be74af85ae52ded4e603d7757bab7a8d6",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "7f7bdbb57672b123ed691fe5f397afa6e643e67e385a7475d21b47dc0184c16b",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "bf26eddbecd3b5bf41fb4da13691608261b35bd2898200e6666c749f20eb7418",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "01c1bd4f2e15eb436f53a491dc03871bb794d0c524ca565637357b5278328ea6",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "4f79def7557ca70ee86f82a70bcd981f8bfecccfc25f275c06725fb4222f0b7e",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "6bee417851811138cad7bd2b074c119c866a3c13d13d29a34f5cb14c2b1198ff",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "0b014f33ecce02e9e65b79a6ebe9c863108d3a5e4fb0598f82dec5c7ebf3fcfc",
+      "symbol": "1000BONKUSDT",
+      "url": "data/futures/um/monthly/klines/1000BONKUSDT/1h/1000BONKUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.kBONK",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "kBONK",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:53:40.644191+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2023-11-22T14:00:00+00:00",
+  "unit_multiplier": 1000
+}

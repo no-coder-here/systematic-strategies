@@ -1,0 +1,188 @@
+{
+  "binance_symbol": "BIOUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1735905600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 684,
+      "sha256": "b00281b058679691773a0e140c7881dd5b75cb7639e313786f8d486ecd8c7712",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "d6547040f583d9a9f4f2587904459f69c117bdd3d2d6e8f093a5e263f362cb98",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "9381c3f0cc90de9887d7e03328fc838aa20cb5472ea7775f4681ef991929e8ff",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "172cb667cfe9687c7577f550cad76d565573afe4a8fc4d061c7da1cc5da9a0f1",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "fe09da39606354111e61aeec628fba76611f61bc2a1b59a7844d3a522e2f06ee",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "a8e5cdf157d2e0bd4a5eb81193ad3726288adb7153d1e29cdefd5440aedcc4a4",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "b03bd1b9ca3f1e0a92a0edb0f7b629a551eb0672dc30f0d9dae148bb91c6c9e0",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "b5ad5112e232b72957af0d9027df13908212950d62e621d49330f0c082f3e5e0",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "ce824b4e6718b7cfec0133f568bc0b774c679474e0585623be3b0758eab3764e",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "60083c096bb720f0c41b131939303e8628bb5f4ae2bdfb2615818c66d8786281",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "47374b118c0d38b3dccdae218128ba57d333d6fc036ed5f8a71730da3fc35495",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "447a0141bf2279df3929b66aadb58ddc5b5ed28b9293a363091ad9bc0ea631f1",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "85d769a804d9ea32d9fa53f0fcf441398bdaa129355b9fa43a95357816b7a170",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "50794df94a863f91a86a6664fcd54068ee197781e47755a228498c48b4b16b16",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "52f366e47d118ba20f3a34b0fb2e13f8a0434b851d20fcabc12b896dc6cc806e",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "cffc5313b1baf0886fa2f2a152a04ca455a68d65e756d0b8072881903445aff3",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "83445662ce9052f375a0d270fbf3952d2482b44218d40a88db096a78f660c4b0",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "0bc065bf71742ffc4c70b2f160a1d90bea46c7c83c2a0fdaaba98445379df462",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "61e1a310bf3195959a8878d711b512eb5db42a4944ff48e0a927b375bc854ac7",
+      "symbol": "BIOUSDT",
+      "url": "data/futures/um/monthly/klines/BIOUSDT/1h/BIOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.BIO",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "BIO",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:57:28.063417+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-01-03T12:00:00+00:00",
+  "unit_multiplier": 1
+}

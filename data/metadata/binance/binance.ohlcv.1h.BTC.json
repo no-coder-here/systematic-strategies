@@ -1,0 +1,728 @@
+{
+  "binance_symbol": "BTCUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1577836800000,
+      "last_ts": 1580511600000,
+      "month": "2020-01",
+      "rows": 744,
+      "sha256": "512a1d725c8df97a1bbbee4f118e730e9628500a8f271c9e59d2a7fc5fbfcfcc",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-01.zip"
+    },
+    {
+      "first_ts": 1580515200000,
+      "last_ts": 1583017200000,
+      "month": "2020-02",
+      "rows": 696,
+      "sha256": "13d067e5c7b258764b8524e1d3c61b129c44838c2ce9850f4d86cae13c61f198",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-02.zip"
+    },
+    {
+      "first_ts": 1583020800000,
+      "last_ts": 1585695600000,
+      "month": "2020-03",
+      "rows": 744,
+      "sha256": "9fc0c560cce35fd083febee10c0c8c3ffcd56a9185f9b489f265a51bbf60ec6e",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-03.zip"
+    },
+    {
+      "first_ts": 1585699200000,
+      "last_ts": 1588287600000,
+      "month": "2020-04",
+      "rows": 720,
+      "sha256": "bfa6d2adc1aefd8a96b3cbd38932486741caa1ae40f1e646df3606205402176f",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-04.zip"
+    },
+    {
+      "first_ts": 1588291200000,
+      "last_ts": 1590966000000,
+      "month": "2020-05",
+      "rows": 744,
+      "sha256": "1eb7de25a14b8a6c70098b866a21ba2c35f1b55c9e1c1d4dadb431cd4d3e180d",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-05.zip"
+    },
+    {
+      "first_ts": 1590969600000,
+      "last_ts": 1593558000000,
+      "month": "2020-06",
+      "rows": 720,
+      "sha256": "5f5b7ccd40facb7ddecd6019192be8de148e0aeeec8c8adc30cab3c474406c5b",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-06.zip"
+    },
+    {
+      "first_ts": 1593561600000,
+      "last_ts": 1596236400000,
+      "month": "2020-07",
+      "rows": 744,
+      "sha256": "f116be7c0a36e71f771ae4987b95e1f6d098dc0dae3b71154c12e7c390cf1a4c",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-07.zip"
+    },
+    {
+      "first_ts": 1596240000000,
+      "last_ts": 1598914800000,
+      "month": "2020-08",
+      "rows": 744,
+      "sha256": "d4dff9c958c878c00f2f3f059043612ac051fdc4117c3e9e74261db28c4f13fc",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-08.zip"
+    },
+    {
+      "first_ts": 1598918400000,
+      "last_ts": 1601506800000,
+      "month": "2020-09",
+      "rows": 720,
+      "sha256": "b210c5ecfae463aaef862ea0e6d8ccbf63430f32d6a80bad0bdeb2eef83a7165",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-09.zip"
+    },
+    {
+      "first_ts": 1601510400000,
+      "last_ts": 1604185200000,
+      "month": "2020-10",
+      "rows": 744,
+      "sha256": "753bc2e366777b40294690c5bbee38da8ec99e3157739ba0f16850c94ac92dc7",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-10.zip"
+    },
+    {
+      "first_ts": 1604188800000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 720,
+      "sha256": "23694fa6fc619c159992db5325d37730a392e8ee23e9e5c375a7bfef6022fb82",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "9eca4954142f813a1ab404161b76facb56389a26fcd0b05bf93a19bf29578cb3",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "00de1eb2f3e3bc7f21b7ab321f1681385726fe7ba55306a7337acfd8f81fedfa",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "c5739d16db0aa917f9b4f196cf1dc3c9741b2889253c029571dcd2d00e83ccbb",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "518891de0fa643092cac84143c9b35a7cbcebfc75ae0846ce36c8e3adab1929f",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "0fdf8d01fa2eae368a63dcf709e6e6c5b0fd79bbe83b2f086aefbe2a7890924f",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "c209747915a1451a7b51d80d92e68332622c1dd1b9517dc7723f78cfa4f28ab9",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "5134cef4361e0819b721776da6e99f715141d122e3cfbf4be729e3dfc153ac33",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "97241c02191fd4694daf9836269e6f8ed04ef5bf858414de5a3354678552b54d",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "4c8290ad0baa9fcf37d45b893e8cae1a1e3b9ef77987a9d9abd64e44ab7deb09",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "22c55191129632daf70611af13e8f2b0f34a5e79f4876f41744a9848c43b9864",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "d3b55f8ae3689efe9bccc1d9b7082bda39fa7fa194e4c1197a63d1473ca57b4e",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "a013f6adfd3012130c0b0bc58895373ae478cd38c646ac87957b855682c7f069",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "f1dff81c6e322f7d5cee3c0808efd4e35b33e371f04ba613054264d9621318f1",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "5281a9c866e7d54b0a5b5e6a7dad5575ad7b96df67f05f74d614c54190ffff5f",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1646089200000,
+      "month": "2022-02",
+      "rows": 672,
+      "sha256": "b3a199287b2a8fed2c261999205d56cfd72ef9675c4b498a399601978d666228",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "f61ebcacd9a38f20b0ad89c64bbeb56baf368641fbbd6e25e987db2b96ede5ff",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648771200000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 720,
+      "sha256": "db7f9dbcc60cf68051b755346a5be32d27b0d3565cf6c02341b050a234ef44df",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "b1512041ade711819be114fee30668fbdd2783b73fa55607991ae14d1d43653f",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "1006ae5b8b4704da69f8f14fb4711d075d689fcf44cd0a98317df97953f1332d",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "72060f8608459b04817f652cbb945be28afef0ae54ccf38113911c194630c184",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "a1ad9eafd3dfecccfbc60c07de33ec2f7c33eab96f8ec04f88360b73b55dad76",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "92753ae32ed042ab7f10b90e3b9a49ddafc695c8e60eb563713855c73e2e6e82",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "d85a5f4bdbe93df2babdecf3b37f866655fa23c3fb31eeca96c3e3f6a1e9b872",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "e9b3f3b1929e3f6f255269c2d2eb564d9d9bcacbfc16651888e95765df383888",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "d313c2cb509cba13eff6538829245aedc993f18eff4a7bd48fe0eb6c3a9fa158",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "b9ac60cc3ffc1e16db96ca2314120ff7531988108ebef1733ee54234f4fedf7f",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "1ace9802f4da961db025a7b76a6171ef2c516c5307e5dee24267182f059110e0",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "35f0068cc41887ea11960c4bb10e251a404fef5ad4cb4c88699cc2419b6bc38b",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "ed6f0a84d1b2ed8f73fbdd4df10703e2ab49864fc4d657b0d8a9464a49dd4a29",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "2f278ad3ea09cc42e577ad7185de74391a1eb09b9d9836d375e2c540aef1667f",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "19bd435cdf58b426642c24a0df3b5fa755433f52a8c39f05dc5cfdeffa453aa0",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "ae9ebc03dff2bdeb805a1401b5cf1256b2b84283f5f9d92b1f454f33b223f499",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "599daa607ff593666036fe742d8272de6e0e9d284cd7d41d6585cf53baa20ca2",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "7849f82af86aabcb9a79f64d0527480f22117656a68f98280fe8b840a6ee1339",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "bbf0ef273c80f696ed9eb129a257812162487486692f124b9631ec38a924f6ae",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "26f1a2870f57925303edcf75581f0a33ff5e145c2126e15afc5fc1b400522428",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "5377bec9e6dc04027717836cc1c2a3789da4e4122d57e8395265a0414b766b7c",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "bf673f3d10804a951e8bac56dd2473486f113025971d43ebe5258ec40f9bfeb3",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "655ff5ac0fc570956756944c7afef4895c9bd149342f1e437de97292cbd1fe22",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "8138642b757ddf5a42207130277be4569afb4c581a0a1817be9f5f35a4415498",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "4bf3ca3574e0075c1b79f5b22c4253e26f6260f3621943205e3a8016c4c12318",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "1d607e3b26e6886ba742477bc97687f0b86c4c26ac564325dc5f1667e0362d35",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "7dba8642e56641fca2c7f3f363050ae88bf0d6c87d28e14b747fbd3267d4d3a8",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "920aacb84b2745ee8f31806a753cdc5b2d672e6814d9c50c0bf524ad45eb5611",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "8d8465eb4c8a4fd05ebc0126e4c14a217edb2039441546bf095229e975268de6",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "0a8118b3601f18ddad04a8afcf887fdc01661f66824a0ce49e0419be1f97f907",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "e3dcb9fe9d70fea19dfbdc5294044da69b9061c6f7411e99468825fac1ce8d61",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "0675e55056748489b8750cf6088a666f65dd4fd932d7ca5bd30491f5996b5f3d",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "b072f3147b3e390c81dcbf35830a12ff7d53a73236aa44a9eea78199502529cb",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "9ebc05c9b3d5ab3591edf65bc5c7e5dbc2f96c1efc4adc4ea198c651a99a41b1",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "077d761098eb5f2dbde65457833b9edab41ea6475284a77fcce0d4bec1bfb5cf",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "08043384c3336b0fa3eeee06e113a6f1eceb6d3fbe7b2971e9b9fa83625fdfb9",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "2adf7c1be412e43b04a128e997f4cb1e5e7f895f55b6e1bf66621807f221f274",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "2e736b9e792d5ae9d4607d7426e4530020762cb898d580b18d3fb0faf9d2ba8e",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "d1d9d5dbc540c19dd882305937f864f59ffffe3f5449a6b05b3f95efe7ca4fbc",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "3f471677b97cd3c5c21e9c1420bd7d58c1fe4041a3d2e195369277298ca01ea2",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "a240d3f766cd5c3db4e0702cf660ae54e327ec67aba169dda55abc90cae055f2",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "b15817c45e6ca13a907772591664a57e00b711fecbd4285f2a16ced3c7023019",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "b173469216acad36058ecfb0a5432471ec58b3c49032246d4d687dd3af8ae34a",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "75c4069b8ff93aa5e4064e885077426fd60f1cf6239a728b2d4ca543c0210d5a",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "41e977a06b7806ce1398aca5f9075befffd1e6303db891795f3b179c762709ec",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "6c15ac5fd895f26bf8e12b99df6ab9aff637dc94b37128e92c75c19887d0e3b3",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "886fca9764139a1d71d97ca28e0a2cb30fe7d6f44df9be2539452c02e3c4e775",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "41199df2dd62c333ea306d28de331bfffbbfed03609d100c63b2de1d173f7414",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "c822801b16eb317f4672e376a73664f2e5f9180409c57b6c7517707f4f873e8c",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "9a367708c90de999a7a9d3114fd111ff28203b13c8daef77d154b5216fb571f7",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "30bba473837a672a6a00a181a447446852414e6927bbda6684f873571788e9aa",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "a09f135066ace6925ce051ddbbdd4345c103423fbe35d32b568942de978dcc7c",
+      "symbol": "BTCUSDT",
+      "url": "data/futures/um/monthly/klines/BTCUSDT/1h/BTCUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.BTC",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "BTC",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:50:05.065385+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-01-01T00:00:00+00:00",
+  "unit_multiplier": 1
+}

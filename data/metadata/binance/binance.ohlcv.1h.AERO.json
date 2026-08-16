@@ -1,0 +1,197 @@
+{
+  "binance_symbol": "AEROUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1733320800000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 658,
+      "sha256": "8bc0d98b7ac29ef1db70e93dc7065f14dd95163e4bcb6a51bcf037cd463a7678",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "faea7d3db343da043e6bf369d397b2d8d992be0bd4629f33f70d8465afb32dc9",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "3860f8dadb5396dff70265bfe53be2993c5d72c9e3703c03dcab5c84dfc21d3b",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "890cb1ed182d8a1ee1fe0642347f437898b15627b38b97f1d19a7a542ae6dd7a",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "677f363cd6b868c8703a77bcd1656281e93eec44e04de09432a28a8c6c322227",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "c8e23936feae527202544c0dcaeb474ad615f1d2850e9e8a91c2ca8e59e1c9b9",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "2802b774c76e8a8d5ca4d3da2ae5c909ddd0207b519df8075473bd0c2d5042dd",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "a215f45af75660dcb186e2e4807284d610e6854730fc1161356893a3ae664be8",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "25db6d97a18bb5c8c1c87b57e242c887570f0e3ec919bfb234a4477d1aa1ddef",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "4dd09be9f1eb5cc178df22c7d211fe87580ae604121348d4206a5639ec12c5a1",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "7c410c218a533da38676fe216533d113a64eed323eb70f7688140d0b6b087c46",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "c07b16083326d754592f28f2a69c475ec5ae75fe79af0072a970cbf21da7f7d4",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "394040dcd82fa0f76986dc3cb2f07853229d298fed3f79f0cb8110c44335bbe1",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "c58873df127a422da6374bec1126d2fecdcb1b8a5130c1236722c59403ae53ab",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "8500331de0a4d330025303571e7e38597861766acd8872e4b8e11d25ec170589",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "d2ebab5716187219549ebe3f2042261035b69fab030bdd1e75b8766494f26af3",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "c6fef546030f59143dd746fb6b3e952dac8aa95fa2eb54358d696f8cc06fb702",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "5c234e4185ba8fd635664c1a4018eea7c2366759afd95f2facef5c69294ad766",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "00f3b6ba56a78dcb3a0ca90e2be21f3b14bc1c8cfba816feb331b5a5eefa30f8",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "323baa2eb71781bfa84e1c8326e9644208159016f61e785c4813f36972e9411d",
+      "symbol": "AEROUSDT",
+      "url": "data/futures/um/monthly/klines/AEROUSDT/1h/AEROUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.AERO",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "AERO",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:59:09.679517+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-12-04T14:00:00+00:00",
+  "unit_multiplier": 1
+}

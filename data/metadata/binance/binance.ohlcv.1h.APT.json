@@ -1,0 +1,431 @@
+{
+  "binance_symbol": "APTUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1666144800000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 310,
+      "sha256": "50e2e17bb686a14260f11087cc0b5c0d47c82b98d80869990005cf6674d97872",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "bf708eb4c03a0df0c727fafb63be83c957df7d4e2f62fc49c64f95455fcfbd27",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "94c92124ed86e8dc4eb448d21d6228c24980f978281433def73987d6f4af9030",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "37eb9bc025704f7151478cb3a675cbffd087856308290ef58b4c05821c7fbad4",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "9c7108613dfb242bfe031b3abff99a45090e2ae58e5d0f12e885ad96cd00827c",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "6220b0697c04f00b6e428ccdae72d69f882285aee57d8a13203b79d0b401d530",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "cca49e30f64d653a63ea0dc3f630a4870fc500052f577b65f6db29954a27c04d",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "66360e06a51af54d441c9796f5c78189a9efd1f6c07a2d88a475d261ce6f4b65",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "b1744a419c38f94c89eb7ab2b3c6bf3dfad97e3cc31665f0bb13922181456c10",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "1d223b6018b8e076eeb944352f7b967ea8162fb760034d16b08a693fce04ee81",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "0f41d341550a3d2e5fc590cfb96cfe69075bfcd78bfd8680110e127cc09ac4ff",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "a5208d40fd0cd1fdfa159b434394ff50656aad2d1189ad6a25f0b0776bb63d6f",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "23b5e1efc71f123fee0114bf3b1f652419775ca93e18e386d6dd7b91fe2ecdbf",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "4676cfcc8c4d8d35b128839d05914f236beff694257381b5371d088a5d658bda",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "f250ef797eb9c7481d4ed2d2349dc483fbae3c3c78f5344d0d36b60f553eca9d",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "f524c65ea3fe2940c15e8b0a1fefd268a4e8fc60243b8ca563b42e203f6d3eea",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "05130a09a42aebd4e04cb24468d6ff3fe820d48df0c907c31dced29cfa11f86b",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "5f3aacb4f4af2da53f607664b4ab2f18a1049a9c2c0e6127633783a6ffa067fa",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "b839acce7938cca0c4e077b7cf5519bcbb116cdfc29bb284f0ace9ef9e83af6e",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "3d76abccf766fa007e013d1b089e1e4e4bac846067a3a657689e7f80e3480214",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "6c6b3022e6b29b48fa4d6231d1de7200e86a7542c4bb3cb9bb2e207eba441b12",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "01d824bac7991d2bf9f4e093791a177e8ddfaf5310942bfb93a9b712d7200782",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "bd80d1ef30fccfc4d6b077b0761f10eadda0f119ad5d4c3be4bae71e151d5e52",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "ecc8e2c9afd3de75e60dfe2e14f2cb5f1d2183c03b8f964552b7c984a421f7ce",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "62ab994776ed4da6836006aebd6b71842e324c21c726f78d894adcc9adb52989",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "f50b2f3ac51e0dce12c6153172d644394ae405ffafbd4df70283e1f52f90a1c2",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "40069451572d6680a97204852710d90acc272abeb51758930ff659c65f4f4938",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "e7108539817f367abc08aa7fd35b3953e95cf874b1512eae7e6f2223735d6706",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "34aaee95bb389b65597e6cf40c8966370ff697d0634e8bf68efdb167ae4b3ffd",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "9504f6c64e0fe918325cc5dfc6da615d788b60f00371e4661973804c74a587d5",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "a1a63fdc9becc0c6aa03c3ea30dae6c268916a3447d3c095138e7e705faaec31",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "4ecae0674e7f0b6edb0ad270747e66750dd2c89441de796ac8e923b35d8d10a0",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "a34a0f7ac02c8ce2d67825aebf1815c6c632617ec6fc7884b5f326fa26dcba67",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "8b00838a17c2f34208d804c1e8cbf2cc0f9bb78fa8097183095d13bc5d51d32d",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "a97bae95c662e91e2037862438512e2ed4a28a052c9e8032f8bed86e01b875b3",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "516262e6a66c38347337a61af7d58f5ed11194c67784836642b401376324c3a7",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "73f7fdac7fcf32c931f5456be3d9b819d1ee50d19148a7099d298a8228a8012c",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "dc3628af2f0c67705377a5ba8ffcd3776bd4bfb0fe3cc8ca37a64cfd1ace9bb7",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "460d6133584897f087d8d8a1b29b9624c7b3d68fd79dcdef4dad9e89b83bbfd4",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "dd7461680e166a131c4e542e974831aa0fb414ad238eeeb7a4ff0da3b62ca824",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "307cfd0b7b392e0e2d13b6bfb869b50f7888e9a1611602c143a9d2079cbe9dad",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "6739f77e0b53d6b8c18b8ced192b0e1203ecec37e7faf7a205ec9d797486489f",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "2854ee23507afde38bc610933a7833004f03b3f54fd7489a7c3c628b2cd7e584",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "9f343e0381b7053679f2aae0965975e7689a63f1fac3eb8e977e82a81026b596",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "4dcaf4f565906360030cf06bdfe6f7a8670a5ecaebacafab3af32e104b4c99c6",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "aa6140734326c8fef0ce7b750df572c4f873bb600696eec1c07d33b8c13b8536",
+      "symbol": "APTUSDT",
+      "url": "data/futures/um/monthly/klines/APTUSDT/1h/APTUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.APT",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "APT",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:50:18.550239+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2022-10-19T02:00:00+00:00",
+  "unit_multiplier": 1
+}

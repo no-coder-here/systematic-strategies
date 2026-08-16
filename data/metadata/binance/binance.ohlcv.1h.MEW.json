@@ -1,0 +1,251 @@
+{
+  "binance_symbol": "MEWUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1718632800000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 322,
+      "sha256": "633c6c6e718c0d59d22ddf7d9925680070d14967ae24285786deddbd93881b0d",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "2b0536b77b2e109076c96ede9de757d2ae688262d22da76741ceb51ee3c92a91",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "3151dd5b4533dd8087961984900c31378fc7a0fbe84d3b5b6f8d9021a840bc2a",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "53d295fe2b99e87c9ac266c72200044344c4a85ee493b207bf8ef7b52185081b",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "3db295fd85d459891d25ccd8a8027a34076ab286bd314152a452ecdca1ce404e",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "486a32067b3a4c7de597cdec74fcaf28634d44a9e9f1dbf59f2e41f3f6d41f3f",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "be69cb6cbcec231faf8295ccdedec25e920f10fb067da53db003ff10754aab33",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "75a3b7ec13a1271059abd519c0e71a64605db4cd04fee05268036c8206fe3348",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "2bbece318305dd309c3519faa2f1f21b1e786eae008a3949ed9ec9268fd8a44d",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "ad4076545ab6b4daf83108a406c98417529710ebf8a5b2b29daf6d58f9b0fe72",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "b9c14e250600ea2c5ef954ad51a015277e7a7e7033be27ee3894da3512b8690a",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "872c5862416d9bbb43ae85a5fb53c8ff4f39cce49eb5410fb644cf7fb56edb68",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "5742278ef1c93ee6b6c42ec33196c49ab2e36c3a555205e2b18039d1955dce51",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "6ee1a338bb1bee48066e967ffb27513365514d4ed7c920585178ce538436e247",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "29f072e008fd650fd29e9944b43ba7d986fc152ec6f4410d88067582c6ed037e",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "bec75ca618a0800202784a5f5b80dd3efa34e1afb221fecd47f92897b87786d7",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "28155f855a334a8b8ec09c91f0b63adbd4f98a850caac6ed2668c22ae9fb1c24",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "de48da264476bb04af2a1ff858396895ed8bce0e26749d7050aef0458da65fed",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "92e1279ae4b915c0d22e8bb691c23c7fbcca8a34f2697d86ef992057da20b0cc",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "89605bcaeacd135811839554a36d21504c73a087630756089ac0a9455bd70bc7",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "971ca98c131ed3573d513b0c4e85428545b983dda041eec7d8794461ecebcd58",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "56d40690144715b44781ca5d2fbac4ee0f0332ca81c0e5542a7b688319cef083",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "cea84f18aa061cbebcf30478825162b5e14aafee29886006c19c472587988981",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "9df2b310cd206855f65a3a52c4c380c98d51d785e0ba22c80efe495e23b8b05a",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "00ab586ccdc270f73b4d772b8bce7e90c2e63fddf6968f7d96c11b084d898b6b",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "db93cd8814ad7da74272f27fe21a81c1eabc22afc12d6c36fbaad4eff6f9cd3d",
+      "symbol": "MEWUSDT",
+      "url": "data/futures/um/monthly/klines/MEWUSDT/1h/MEWUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.MEW",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "MEW",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:56:30.371307+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-06-17T14:00:00+00:00",
+  "unit_multiplier": 1
+}

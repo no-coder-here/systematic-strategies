@@ -1,0 +1,224 @@
+{
+  "binance_symbol": "CATIUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1726830000000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 253,
+      "sha256": "aec58b586b5ec6843dfdd234117794a3e78299745b220906c2e4bfc07c77980f",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "d54d61ae7276a503fe94d7fc96a16310506efefb5505b622b0b26ecc8687944d",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "6b44c6525ecd728956f120f611ada69ef2a4644334e21f9d017584a8a88475b5",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "9cbf8dbfcf478ee291fdd2793badcdad6a9dc8965a92c4bbf4774f2947a6d33f",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "7bb6a806fa2baccca57d8baada8e3ae2cb608b295e4a6f90aab05e8a14a97413",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "a9d84d51f20872f9167e1065e3ba5e98d90f60b6f3d38528bc8cde6132842222",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "462546e76a1775c39fab4c0ab4f6bfafef5f646cbf1b9369435c4dc734309d80",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "241d81bd100a0973d5a13c5b3c280f47edf1b5af4fce1a4b79baecf11d24ec7d",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "87347528bd5e725b8a8905d5d4cd77ce22f2155c534dd3b600d568ab8c042bfe",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "66d1422bea1c1f8270bc68afc7e449e7736f3b6625b7d6c7660903b87f3d1982",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "5321587a81159b1bbd0c69d1402b7d75fa76621274ce00efc721a5fc96cb70fd",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "09926ebd6464565c502d92f68848139558ba789b598d70aaf1585170c2f1f9db",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "6b585f6d67517f342d9d56013a8a8a2c51cfc6fcd207a9b896776be458a29280",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "5cb781163250131e2e46c5db13f211342b03ec73c93e9c344bb3d86f7345e272",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "c93fe55bfef3631650804537e8b94b38362c8d579d1c6dd3fcc991afdc16350d",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "5cb522d14ed9bc7be2ca5ac73148beba7ca6f0c02a37707859bc9dd2f07b9a1d",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "2cde63ffa690470f8c8d4a1460e4c210202df7555fa637d6346007bb4b117935",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "bed8ca934b3af1b3aab926ee6ae68e48c2f0b1f59618a365f30d441f929da8e1",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "86f52dc162b37eb9f36943f39f328e6198574a9fb4968abb120acfa32a801fc6",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "f38ca48d9869c8093f07d5f946fa53fef48bd00b881dae8c2d9cdfaff15afdda",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "108d627450fe02d50451c701ee44e0996b53af89cb884aaa99dfbef5af1b1d40",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "74f3c0e154d25d3b01144e89e42ffa17ca987ca4ff34414d5ef6e19dc882ddd3",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "a2fc0b65121e82bbe66cf441dbd0745d434dc046b2958a46c57e2588c3cbab7b",
+      "symbol": "CATIUSDT",
+      "url": "data/futures/um/monthly/klines/CATIUSDT/1h/CATIUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.CATI",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "CATI",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:56:33.218927+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-09-20T11:00:00+00:00",
+  "unit_multiplier": 1
+}

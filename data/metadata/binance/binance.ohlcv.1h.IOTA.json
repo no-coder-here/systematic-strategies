@@ -1,0 +1,719 @@
+{
+  "binance_symbol": "IOTAUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1581494400000,
+      "last_ts": 1583017200000,
+      "month": "2020-02",
+      "rows": 424,
+      "sha256": "62734d3d73d83278507fd6245b04b07b29e307440190876b9db43e137222083c",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-02.zip"
+    },
+    {
+      "first_ts": 1583020800000,
+      "last_ts": 1585695600000,
+      "month": "2020-03",
+      "rows": 744,
+      "sha256": "d1c1c710a76478dab2e57178140d3c326baad4a2ca91157e12721024485a26f6",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-03.zip"
+    },
+    {
+      "first_ts": 1585699200000,
+      "last_ts": 1588287600000,
+      "month": "2020-04",
+      "rows": 720,
+      "sha256": "ec93b968fdf8841b7e59459c4da54d680ac80085cbe24b0da1a404f2733787b7",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-04.zip"
+    },
+    {
+      "first_ts": 1588291200000,
+      "last_ts": 1590966000000,
+      "month": "2020-05",
+      "rows": 744,
+      "sha256": "536b3e83b40e6a01c8ec70b9785b59f86a11aa4709a9ae822b23f4ed806d46e4",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-05.zip"
+    },
+    {
+      "first_ts": 1590969600000,
+      "last_ts": 1593558000000,
+      "month": "2020-06",
+      "rows": 720,
+      "sha256": "ada8c7cede2856b58d57aa5b1d4984c915424c127267e65d786f05bceb212466",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-06.zip"
+    },
+    {
+      "first_ts": 1593561600000,
+      "last_ts": 1596236400000,
+      "month": "2020-07",
+      "rows": 744,
+      "sha256": "f4b4ffd2d62b0076114ac6b36bd0b73b835ff47e56f4a5a66c4c15b9fa33e066",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-07.zip"
+    },
+    {
+      "first_ts": 1596240000000,
+      "last_ts": 1598914800000,
+      "month": "2020-08",
+      "rows": 744,
+      "sha256": "18406ac0ea7508bccb4cb53418872e65637fcedf156d26251659a2f584695fee",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-08.zip"
+    },
+    {
+      "first_ts": 1598918400000,
+      "last_ts": 1601506800000,
+      "month": "2020-09",
+      "rows": 720,
+      "sha256": "c0c05f79c6d0cc782bdfe1bf2799394663752cb5809b92ec042201115a531023",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-09.zip"
+    },
+    {
+      "first_ts": 1601510400000,
+      "last_ts": 1604185200000,
+      "month": "2020-10",
+      "rows": 744,
+      "sha256": "d3f22f57af5e9634486ebf0df31dfce4c5f0ca0ba0a3dcf66d1cc42fede6290a",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-10.zip"
+    },
+    {
+      "first_ts": 1604188800000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 720,
+      "sha256": "969001ad39c22ba5a6e2974739821a4f5d7c2004e8617c4b89a87e848b348e4d",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "0be84e2a7325638299582ecf596977bd90b0ef9c5920cbfb8795f18d2c645b10",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "857bfcfdd8218e0916e806ad1bb92a57d05ab56ec91149b2da3c8d26fc36e24c",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "b2f14034265835a5a9f2dbff3131b27c924571d2b45315ab1909e27c0daf68f8",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "5178bbc4e57b1c8ed1583407be0fbd4a0bbe4dab6ee4297bd69f2002efd08446",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "52fd56f677f07e18ccd80710a4717eeac185d6058b78509cb65168a782c88e9b",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "395be9ecb7844128039970c1b10d1d3ebaa915bf4e8d6f19dd989c6345fbb9a0",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "d6db8c24e9dab4a8f296d4a7401a3827cec257f91ddbe9f74e297d7635ced03e",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "21e39b1a9c5235c747ba1bf3ab46e5f9838798c445399f082f816e58aafacf2d",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "3cd74955600280d012fd03e9ef1335247ac650922ad28289af70b9ce88a4c80e",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "d44c6546a3ba30a3f973837b244ab886edc54e7062d622cace499fed5e7e3e9a",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "091d1c8236132cb79ac2b038c138581955ea597434df2da5e211df816010eb86",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "89eac3db4aada226f8a26b766d6bdf7242de3946bbb79981e3319b6952862efc",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "14e79c4dcd0ecccbcc6b102ea20bd4b37627f98678b706d9ade705aa3ec7e074",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "fcd4e14f6325c71fff07b655ac6156ce73039d8e83db4815438d8dd6c779f36d",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1645830000000,
+      "month": "2022-02",
+      "rows": 600,
+      "sha256": "f221075c1aa7d72c4b881539fd0bc491e3d2f21336bf29c5fe40f9d844c14abc",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "e5e6c5efa4c7c2f7b01702a181f7c77492337dd3ec6e03450792fb51d5b791aa",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648944000000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 672,
+      "sha256": "24c561d72d2edec1183dbe34856f1a52047f3a0f016459f5136c8be0bf8b7e34",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "5d01bccebd244beae40e41d1c0676b516e5214f754058f0a000782dc7766b99c",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "68a710a4d3c144a67670bf2e133e7d57d8f4c0a6dd9a0f9e3b20492d08442ec5",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "771bb810c2de4e4ac1eb022670bf2b88cbb6272bca0118c05d1b04da819854b1",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "ce38569735ecb2d436efbd80a27515e16c2375d0c78fd963210214ca6be3319c",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "74dfa5d2cd480c38db38f7a4c690606fe867ecbd64b25a7ff350a3bd70e0290f",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "fab4ccb0fd8775540646a173afe79060ff92833b3dfd1384780eb918bc628624",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "aadc172809424d7de9e6031fa7825e5b508d9d9c8e934427c909e41c9e41fd45",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "aebbaec87f12194e93e6e21afc600efb3b8dc5e2cef11ca99f0f78631a8bb066",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "d5cedd80c2ae18a3efd0fe6f0ff1da8eb77ae1871d87c793beb555355c057f51",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "df912964671f55e7b7aaa000fc71d972f9dbd51fc60f9e0d7e50753eaf063277",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "a0c7cd8ff0229712bbdc59b16b53eeb4b582e916d116c44d89b71a4aba626e50",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "41e1d7bdfca22f9e72c785f4ed53856dc35c9adf529a9c1d8988ac1be4c3f51c",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "df8596557023f575f70468db1d0642aae649d6e96bd3923a04ad85b19743a341",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "266f0fb13a7435401c560a2ff75f94c845d0cbd0442232b9042d380f94d27121",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "64d1788b8b256502362422f9948454336ccde0fe3639cf1e39d18df69a5576a3",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "a93d8e5a80c9cf7f48ac5925ae143423b70080e842995bf796eb25aaf3d6928a",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "8878731f32f7146a38a7d3789f02e61960d6034143944a4bb2d0a5253ece2386",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "20327f4d95b9f36e69c34804fb7223da80f76fa53c83459b0578f529720ec0b0",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "50e22becccaedf8724ce0dddce8e933d7d6f05d7d8ce4f930074d12d1720951d",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "b6483ad3619e2cdcd3d0d17240f7eecc717036b61aabefef3878aa399b1cf8d9",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "93f78afe37a5f8891dec8fe3cec31d4c2c23370b87587f336297922a1fce374b",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "9e35a13e6206ae44491f28ddd67875d26b716bc96070ad3b29e593628e90127b",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "7a86dec580ffa23cf44bbed0506374bfe2185aa8464d7104246ae088386db4b1",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "d038aaf8040716f1222cae9c7c45c939370ee22e44316cba7c925252255c319b",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "b7b8792bcd628f240c3a4dbcfa65a3b31088503b428bd837930052ab55eacdd3",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "5f08804e512d48c470bcba4337262afa9871b1c95e147f8adfc34cd5c881f542",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "bc67a8051530ea570f5f10836779e2323bd0fd3f35d9ba16e9ddeaa5136ee94e",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "b11415a068b2053596d62bc255acc9a145a7e86bb8b6cebb324d828a28a90956",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "1896ae79441daf2866f7a7119327d42c7469131f91db11f445a2df3f456d9642",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "672abe3034a356dea85a46646c19c0c807dc470a21255d4b2b33855ae52804e8",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "9ac39986860e7d191b5ac7789075d78ec00023ca5bffe79bca6e2b82cd249bd1",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "1e9fea127ebe3af57649ba51526be341e0320a32d035a6d45a7752ae95925392",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "0c72ac8eae56aa729bfb718a9a18baea28410a011aabf65ce6ff675bbce9f6c2",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "62168cb69b587871ba511231026b76ac6e71429f8a398a233495526bfdc49506",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "d2508726ad9a6219c2769bcd70a675d10f6c30edb6d41dda7ac4b0a540108ffa",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "adb1354932e90dd37eb8ac828e8db74eb12e695f69555b0bf72b03f9a49ad322",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "7cc021f8d01b8857061fccdec2c5aeb37cc7be82e1d54f8b8f32c5b62a5e2704",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "329db3c7e82b283b292e44635259a695899f73f99095b8cefbcf7a5d9f1ec7b4",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "6854520a3af45e007ebc39504cbd42e518a9f1b7a98fd3e8d4193001f8c22320",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "59a0de41bef72b454149b33f8e42255228ad37b6cf5abf4d4b3220679097e22e",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "9c1f8833609d9a9baac174c79a0e857b28675a419744574972660096f9388f2c",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "ca16203417ef48fbd6b4a29166f2d8c26663e5f216bae097744d3c09373f4fa0",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "135674ed25ae761433b805333b875d4d3aa1fd63d45cbfb55bc13e814fee041e",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "35b1f9e4863a4a88d794e09bed328660bead3d0000329bd04abfc7717565620c",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "c811bedb91e885fe6018ae1420e66653321b3650ed0088886e942eb609a240d4",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "e55c7f8d60348d4e522d5259c21069161612189995c221be507168ea2cbcfa8e",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "bb9fce1b46517d4a63c2f8df44bcbeaef6a3d8956455df84c0a890db32abade5",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "40d4954515b59299775930a197b6fc129cca061005d7cdd0fe1e063e9bbba02d",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "07493b595bd89daa678d8650b18c7ad1f3cf87a308d4d8ab56b89ff50f19587e",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "9d3183f647b0d0d276656e8a3f43ea47d6704e8e24f663e6079f4d05a7795f9f",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "80ea79daf80d78acaf7f4fa2b22b5a4015efbd223eff0a68a256cdef9a0f3b8d",
+      "symbol": "IOTAUSDT",
+      "url": "data/futures/um/monthly/klines/IOTAUSDT/1h/IOTAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.IOTA",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "IOTA",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:59:13.823701+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-02-12T08:00:00+00:00",
+  "unit_multiplier": 1
+}

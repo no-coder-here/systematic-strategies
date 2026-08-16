@@ -1,0 +1,161 @@
+{
+  "binance_symbol": "HYPERUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1745326800000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 203,
+      "sha256": "df389ba2852d25e28a46b0126a5c577098a2e4c2367e72b08d489453cb3a8033",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "fe56b267ff12468ce83716c0587f6849fc4f6624b0e11ae3ca459e4d8ba4a2b9",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "21ae4f5dc3d68fed3616438c128a25e26995636407c503e6632237e11beeae51",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "b8cae8289e69fde10cc36edf2e2021c5d22ba63a3b8814b0958d2a297067cff4",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "4ed8579d6350049fe8e9f5f6a729792a8c6ac59b450970072dad7d25de8fd3d0",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "6d5bbc6900a3abbeff2bb413ba34921cf5c5ddc58550f6440f3d5b6ab008cca4",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "5e1c80d9d4777b07dfd5c440eef5e5ead0c60a2f9674ad391c5abe11ffb1a36a",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "51eb044c4c48bffd6fd061841a34f43e8efcdff726a1075b728ca9ec5a94745b",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "459082404b38dcad6c84780c95c60b3c4b815cb404a3ecf5d8760139d57ef87b",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "22423a8503cc5986cda6587ae2fe2a564907213e52d217ffa0bcf6273c7803e1",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "f416abba397cc0d686d03e984e4fa4a560f4e8fcc56094d98b2dd8ad4dac41ec",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "3973597273095a1e3d6f2b91f4424cc9bd10d3d19f625362f4e4a372035d73f5",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "644ecf94136d084341f1938a0459bdc00a2a7a5d17877d67339620831e837c6a",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "d9feb234da122ccf5b2e54e34d031c395fc38583a87d84066c4af7e6d7fea1af",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "d1a460aafa80ae07b6bf8e128495f12bfbff706692d6233cf4d17e62a0b26719",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "27cb0a2c516a961d4417666b26891d69d011bf5b42b59d8d12389fe4675f05ad",
+      "symbol": "HYPERUSDT",
+      "url": "data/futures/um/monthly/klines/HYPERUSDT/1h/HYPERUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.HYPER",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "HYPER",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:15.011925+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-04-22T13:00:00+00:00",
+  "unit_multiplier": 1
+}

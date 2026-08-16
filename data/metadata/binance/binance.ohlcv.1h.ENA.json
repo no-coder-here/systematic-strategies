@@ -1,0 +1,269 @@
+{
+  "binance_symbol": "ENAUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1712059200000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 684,
+      "sha256": "511b66cb2e473e062df32806751385742025941d25b06683c488a801f6a24aa1",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "15c00f45652e5bec65914d68ece45f72e4a69a80e202309792083c7303fa7a5d",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "c479119c3606f9e291b48b0c2faccaddc1e8465ac1f389e8eb696328840a46d8",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "d58fb58aaa8b01e1c69c13cd8774ae32bb225e8f8d1226159f704a6a6d6c51d3",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "ef9ad2ddc8d78e3e4dfb50c455dcfff82f67709a402b39d595876adb250821ac",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "b89db4177ace8de79c52245b7b4381f4ea58c3d045e0f40f749f012ff42e6661",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "fc95fecf472118eeaf5b50eff92d843ec48d3930c55bd9548e508f192279eca3",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "2c4e12382d9c397d7233695f2435241eb4c1e447b71382af325ba97b1bf1d83b",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "228bc9d311059744e4779bb4bae94f7f70e574cb8c12f7c75de2c17e871ebd53",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "61f15e5b07da300bfe33a865440e3213612e79073c5f0a7c896a7932833a5695",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "caa7f18462f2691bb68ae701f567ff5eb31b014bb4f9864d5f0da3e848ef0ad0",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "51bc330fe0e5275674bda7c21e2fb7f8d9339b0b337f21cf80fe32b8d24b6c14",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "703c1aa8f4c71889e14bacbe1999e242d925752f50af53d34401f57f16b38b47",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "92eafacbfad0da1798d011cfb4c54e73b066721f60fe1c5667b2e55efafc6cb2",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "2e0bc69a767e78ce68d232b10088ae559f68ea90619ab2009df2f632d8473b34",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "f1257e0f539dac691e48cf4783f2b0ffb0cdf20559e5a27a3eb8847951a2d274",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "b9282a5df38cb6ef8ef98d8159aaef1e1d26c5b908b67aad6f9ddc28e1aedcbc",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "013419a774fa2bff0c06102c3e015e6e76a8265e2bc40ce44c1421cae4cff041",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "0aa96d578272e66c85619ab31226d853cf472d011ada2a0d8fa20ad7a5337fbf",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "0b1c13845be52c838dee857248645062a89a99e90e855ad6c57b4ab99da1fa07",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "6032b3f416d0dd7d892a6d4a4c6f541e4da4830a59514d696d3a39a7ac7387ec",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "176fd4226e334c87dc4fa2feeecbc6e20eea84a44d8d9cdacf1eb7c678098ee6",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "d402e1b5c6995f955f8e1bb38ab057042956a7ccda98555b4666d5ea911bb318",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "68faacee5d23b78a51a6266f331c56152739b67ad8c94ddf021a70bc1d0bba09",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "780bcc84df450ee5a8d77dfb591fbe64c705f26d7130918637ed2fa8292d5caa",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "26dddf3a68ee3a1cd020ba4f270f76cb6a262c3a8edad98497ce781b149a812c",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "c5cbb4fd4dfe6b4151ca79d64d80cecad2ed0996f78546e91b0dec66e88695f8",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "88407373895b49b5ed34bf41e405c07ee304174d8a68f71a564bff69af649455",
+      "symbol": "ENAUSDT",
+      "url": "data/futures/um/monthly/klines/ENAUSDT/1h/ENAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ENA",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ENA",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:55:57.655910+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-04-02T12:00:00+00:00",
+  "unit_multiplier": 1
+}

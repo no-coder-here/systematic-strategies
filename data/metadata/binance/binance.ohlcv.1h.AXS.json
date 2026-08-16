@@ -1,0 +1,638 @@
+{
+  "binance_symbol": "AXSUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1605855600000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 257,
+      "sha256": "ea6be38efe771da981f07e81a996e3d9690e64f765dc34dc60c0f0ac68e730b0",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "5da3ecea786a828696f5f03cdab4f76350e4a88e230ddfc5fe866c5e46dd2f56",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "ba50f190d846ea5a7f41acd56195bee8ccb50ad334456dd1d5e565297b88b29d",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "3bfc7d009a184e282585b590f3e324336a7e9499344bb2732eef4dadb92b7df7",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "f6287154216b916240e362dd89e512aa08fc675c9fc5f979e1d7beeb9c060daf",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "f003bc51ccf36aa23989625799e04bd77df2ba547eaad6683a0125a33b6c0c82",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "8872049691c63c6d8f2638a33b0c87d1df2d26de662a5c91bb060df33c5ce4e9",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "4831dfc00d846ab6d1f1d2e2e6329696a18b6c67c9e800aba3d150c436e8a564",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "5538b225e22bf3fb79b24f562aca4d9d6cabe94b93b6ec96662df088b0331eeb",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "49eda8208cf1135a6e6d999bffc7d18b196e543583814a8b60991bcbfcf2fc98",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "b35913257a81591cd96df5a4e0e4a611416ae23ba4f4ee67a705ee8262ebe074",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "c0825541cf728cfdb052abe95b7b4c58f28d7767d2f75d738cfeb9598bdb589e",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "ae08a53c0fd6ef8ab9f2ce01012e5b85b952d1cd5842c473584116fd6a35f15c",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "eb7e09fedd3e5c6c1bb78f54fbd3c3a9613af24d0811fdb7b65d21750914149f",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "e38d69681a89e6465bb8f5a5deedd2b0bde3962bcb9dcb35f3e39b2245acca33",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1646089200000,
+      "month": "2022-02",
+      "rows": 672,
+      "sha256": "df97ec944546cf64a296bdeee7231011780654970e7da1620ea7cb2ba85c267d",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "9baa47fc8d925ec7f8d4959b18c235c32eb66fe0136343a1720859b78a56d1a1",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648771200000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 720,
+      "sha256": "2ef0cc6c4108ec0636d020733d2d6c94932ee762bbccd0598337c19cf35e47d9",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "a947c65a3286e264f5a8aaf9ef3248343e44e4f647a2269a080bf53b6d079b11",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "6772efa31582a45e717e6c8056edbc8bf82f9ef35f4fd8545b1e31a88aca0e5a",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "a29a4f63e224c85a5481b39a9e2f433c0ca040ec98346c00a81e664335861a23",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "86b87ed10b8e3cd4feb29b0b875174aadce0d37862bea816daaf39a89995e0f8",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "78599df9c7e3428f30363d1a4e8922f59360e59ad1ccd102cc144116aab40156",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "9dd57ac857dbdbc5e8892b840b83c58f66db857239bb675417caba99bacbb4eb",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "3e55e905770763f6dedbdccb84ad47ed51a049c4586b93bc5b84de565867139f",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "6689208157afd97f17aa8bfbb4d8f79b656075762d9bf0fded6d0f574114e85d",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "8a6d49fbbff0078813007fc48ccd1372dfc599cb72fc9b095d7ac099f05d63ba",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "de9f7f08f40c5880f674536239c34395b00216e0429cfdb4011ef9d4a2d1a780",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "ce1b70743928354d63f87daaba669f58a42100161881223a8080d1cbdf3c2d80",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "426a8b9a04ec0d00b5dcb7e6d77c646528820d84200e28ab2dbcf3f1c5bdbd5b",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "61a03928dc2642bf29f9a5f3c7c5b7bfa8150cacebd57b775ee368167c4144bd",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "f00bde11baa66ae52bb53dc59be0dac737f284a49d28cd4c3a84f5886585359f",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "962695803a2fff58ec1c0e57fcd8ecbb7a52e5ccfcd8ad851cb98b02e5011062",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "2a78587a029795287133d7cb0e0e6b40658ae71cde364fbbe392482555ea695c",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "ffafd449a01571ca25c4ce6792a5476293b618992756c47c47fd2f1c9b443f0f",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "35eaf2da20ec3634d8a195ee9f22810128d1787bf826bda3a31554a1d0813754",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "35ddbbe8ba0970bef10a112905b5be822aae03f3ccba0fea34eb0434f0f32c42",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "379dff1a0c88588f0fb7c9a5644bfa0f5bf8e8ec9f3b7c6ae984af1f343b1387",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "144c66ed13817ab9caf33331903811255a8db9813b0b3a228169fd7443bf464a",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "9203982b8cd566405394c530d215c777dd6872d0c9c9784b1cdeb16367e73962",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "1612297ea7ac700c9f67686050b27764aad5f9024724a80f91791a02ad24e606",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "1e33652732bcf0ca9e91c149b5ee6a20b5d6eb23c79ecda5e00fab16e16d63df",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "345804ea3cc0b3b06c063b8611218a6886611ffee90e2aff106d79dc8af12d2a",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "110d696b251b4fc05c555fc5cfba160dd92dabed3cfc3e8a2d5f7aae0edf371f",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "71cd0e2a8aedaf55842e50ef557fb9258083c7d1497820683f95f4bb75409d2c",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "f832e2d063b353be00fda317b479c1e6cf2b2874d83ac46fcba1772d7637e44d",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "9c5f6c17b8580cc9d65275551f4cb235ff5212a2eb0f33c749bf5df9229913d3",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "b1dc558d9a34383e79ab46e2cffdefc923b36e495c6f3a34aeed1e3add98ed84",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "7c0c29b9a90f02d8de64e677715aa333674da22ad89e6b0c2d87931931dffb64",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "18c69bfe2e324ad2cb5f304a9095c4fd2788fb69348fa149732cd69f08053bfc",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "ff7586ab3b3a3232463d287a8aede53872874dc19aef36008499f41f3f13e123",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "da91a30623a31810b47de97e77d4d20cc655b60d9bd6dbb26b78b7ae0a04218e",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "9b834c5d734412c742e108ebc2ee87ea4309ad8101f29c8fa9afa77e0443fccd",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "13084150fcadbe8d80d73d64aae76b4e99b824958c1993f1cac9cada408b2cb5",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "1babe9f2326a9ddb531c0e72588d3d326417e456252a06b5f0a34d41b0a3e9af",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "d83252d13d3de996e495caf61590116a0c1a524b2154f7dcf27e5ad80190c614",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "18ed2ce2338f655ed546cde3f5810ecdd14d43237cfe2aa4dfcbd41247197750",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "b15d545625205a92bef5696678acac70d07d0650b88a47d6cac2c0250e7c70e6",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "1f0dc79ff9e206afe27976864375bfd6924680c057976b54f47fa2ec62b31bb9",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "87ccaf3058056ec478dafb777dee7431186a0b37d871799c22acdeb146d2fab4",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "aa99b2170bd5b01cd44351d08941a40621ac5c1fd63b1e16f8ebaa61148f15f7",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "606b00566863fa9bd6c631b2c2dfb0d6209ed94d9e636a86e41d9fe586ead2ce",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "5d4fb14255b1d606b15503fa613a5f26aabf86a3b5ec6a9e4c27a16a808dae12",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "4b0577e7036c123cafe306554ba698b85245ce56367044932b10a689564262e4",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "536e0c7236ce0f7ceeb42766dda99c541f0f555761d4882cb57768ce8ac94684",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "28c95956fc9918d481041d86c3ff59cad0a2fbe2106f31b068609171578fe190",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "6df0c664bd8f61eb7805ceb1f459c41e37f8a3388d7b29200a64b3a91bef988e",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "23b315e9d6333ac011015d68764a56cf4c5e08a2007bc9bd65daac948ce3c05e",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "94587a503e534ed040623df1e9611b2a28b054c9a4dd3be2ad1a78d713acfe95",
+      "symbol": "AXSUSDT",
+      "url": "data/futures/um/monthly/klines/AXSUSDT/1h/AXSUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.AXS",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "AXS",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T17:01:07.848185+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-11-20T07:00:00+00:00",
+  "unit_multiplier": 1
+}

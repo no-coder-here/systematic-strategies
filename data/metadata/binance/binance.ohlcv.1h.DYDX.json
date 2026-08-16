@@ -1,0 +1,548 @@
+{
+  "binance_symbol": "DYDXUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1631242800000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 501,
+      "sha256": "62b138ed63fc2011329b50ab4f51f56b6193f7f8000d34cf02cb58e4e1fc2958",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "46407b1d411fff4a3ef517d6f5225ae1d1ba3eca213833d87e6deb318b66e6fd",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "85add21aa10ee9de70d9558094921e05d6466b1e2d50320619b46f387f21ff20",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "b93c0ef7070e89a3de318c003092a7cb5b11359a7a59000c6ce84329c1a6d867",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "f4fe8e0c6cf7c06af77eedd8a546643ca841ad300341197cf3a324015001cdfe",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1646089200000,
+      "month": "2022-02",
+      "rows": 672,
+      "sha256": "94398c3b8eecfc386094d445c0adbc2201dafdcaa20edf4593d196d6fabebebe",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "31c58b2e073bb8c4c951a7a037225a718bfa7af5363f24bd70af5b603dcedcca",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648771200000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 720,
+      "sha256": "6202c1b7d99c70df1c841fad1e873db913adecf1873daedb53890c5c8531264b",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "37d6be9ba72f866486a24d880a5b1e267f34d546c299e54f11d2eb92e351732c",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "e336cb96afc8fe79dc85f5d207fc65e8a5d96daa56b470f38f12e0b04c65b847",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "d49299273841509feb9e4a1871d02e96dcdf74ba2aa55bf948cdb09af3e197a0",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "595d87ee8f6a027d2c7d17991d062d938b09a1196977de700e7f8f71cebcd365",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "66a3fb563dc888e9c8683e0d1e60ea2aec4dd437ae464045b0002cad7a55985a",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "87c2d172fd2116128e7968624ff2682dd30eaf0eadbbe2f792f74c578011e7d3",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "d34d33073ecf1db383cbac94d92a1fae15f027d17cc9084d811bd1b098213afc",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "a05e45bc36d4f9eb11240c762688026554cb2ee7788f034d1664c7cbd0b1b945",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "03a8f5252de92257c8bba74acaa0ffc922ba07857b6b2d17a648863147c2fba8",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "54573d9d67e39b4a3e493f0f54c14b0df4765bd02d8823630834e60c8e362915",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "186639c7561d3085d2697496921ad331c70d764a972cf202ca89da310199ae0b",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "747a1a94cc5440b69b95d3808cf780c8b823e43ce8c531e15b69bbbb7e9bd118",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "7a48884d7ddb89af329559eabba09f829351c21bc99314a504dfb3c04d1a8912",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "20b63edbf0f8e25d1bc96f787470c6edfcaa48d17fa05937aae299f8af6790c9",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "707dabc4fd8148ce619484cecad82b808d18692d7f48dddffb93f599cabd6da2",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "1ad2f1f2fe6b9daefe8220b835f89849ede1a2ad439643604aeff1ef87dd3163",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "bd53094a2c7d0f3b3c65e6cdf730f1036addb64d02928fb5c9bbcb55692d7965",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "f6f59f97a8c8f456d7d7d3c03e35c7dc6c139205a6fa996942746be116a873b5",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "56b59a4274d3dc49133b97a462e209d415afc9f5237a6933f09adb0ad161b266",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "39970c49faeae82edb6ed44a391a0990a72863164297c8d7c7b63e00dbb7eecd",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "6bd8b8bc482e4c083619ea9588d8757cb14e0a63c150186513071d2e3eeab413",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "af8427d317b5afd92b426ad6aecd942cac598910807b814b1c80ebd0ef4e6fef",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "2fa71bcf99ccc7fcc2807706be77ccf3ce7dc125139558fa449aecf5f3792cdd",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "63e3e1c90c94cfc1ee24ac3bff98c7e397242daf4b63ea1f58fd18be603db0e4",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "c08ddabdb68e10dac1fdb336cca63163713dc79cbb3104d31e35712df4f4613c",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "073c142eb7270b1ed81b2f7159b52e2438785b07ccb7f13ec08f3a1e4f75884e",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "872990e350e55975829e00a4495f06cb507666ff1b39f94273ee2a1bc2676bf8",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "d7b78fe3d1cbbf4f012bc2a54f7e85b072312c6d34f05a6db6c9360a625471af",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "4d13867a1116817f51b22b44c8bd2add4fba537773f396be76358da69e05efb4",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "db4716013fca655fb52694c3572bb80e96e9ba37a7bd4eda7de67880960265ad",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "cc4bd48f1fd6306db317af5e81dd0cd2cae1feb23af8baeceee8d9374d38f93e",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "7dbae64d349001a8b0a0fe8cf300c873a349d41c05e4e0465ee023c072daf89b",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "bf2b51290f351e46afa9f8d78b2383500d8d13b6d2c9d8331b0121c70af02c76",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "bd14c799bba24b71021c36de41a83bc248273fe55b54b2826361eafeb35d42be",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "bb2f363e19e4336b975db8244d3438da6fdf981d86f313805dfd9bfb27a59b4f",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "3f967ca6103782fd058c853f7a71576f9fb5e28c5306a1e0c344b222e92b0e2f",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "9d1607e4bf82f12712e951077c35d5e5743b095162496aba5ef3e57fd7a73748",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "a1f2d7b10ee42762081a49d5a386312e6d036cb6e3b3a449bec640afbbf1d84b",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "458922d0a01412319d225d8d8b394f5d7d243f2a2c17d2d1d671d5c4036bbe8e",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "6e4565667f9d38fb13133ec62941d22cacdfbfc8b3d53479e29502714c5ee650",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "9dc3ea8cf3f7ee350ba34da841fc156e6c5ce2f2c3485478a6810b4594b72595",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "dbf7ad19d95f6a11fedaa621878ee3b37a789cda6b555b7f9160cab264b87737",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "128750904a8c73db3d00f957c7ebc0aae069639aff909ca72414e34c1bf94133",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "332482c58f66bbda42a3c45dafd0bc19690c5bf5bd9a02f82d706bf2e82de505",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "608ad9c77b3036d802259b62c48431fe926412bbd2ff7cf286ae517eef9370a5",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "c25e0d7fe4af3cd3704e29a5339f0a3fbe3f50f176cf63705d177aa9706ebdd4",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "18f8f7eca1dcd4332d3c17ff05d8f2fe2a946e56ece309279fd143041103c644",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "35be367bd066b3727590ae5d1b95b2668e6bbe2a4632993c5d4034f481f0edfa",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "601456fd9d2889454c956f00ea22f31ebcffc2348e45038fca787bddb11811e0",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "7dd9885da803b64bff35c486961cbc221e6df71cfbafe75decf9865ae75178c5",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "6a70a6f4a297b0be9c6f691fc10feffdd7a79ec5e1b7c4d11b1d2b9eb4f47879",
+      "symbol": "DYDXUSDT",
+      "url": "data/futures/um/monthly/klines/DYDXUSDT/1h/DYDXUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.DYDX",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "DYDX",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:49:19.901884+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2021-09-10T03:00:00+00:00",
+  "unit_multiplier": 1
+}

@@ -5,3 +5,11 @@ __pycache__/
 *.egg-info/
 .DS_Store
 .claude/worktrees/
+
+# D§8.2 (QR-DATA-001, blocking) — no market-data download may ever be
+# committed. Metadata/provenance JSON under data/metadata/ is NOT excluded
+# and MAY be committed.
+data/raw/
+data/processed/
+*.json.gz
+*.parquet

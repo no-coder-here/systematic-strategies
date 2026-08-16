@@ -1,0 +1,341 @@
+{
+  "binance_symbol": "CYBERUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1692619200000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 252,
+      "sha256": "cddd831d6c37a2aae4f8f9990ae7b032d2b376031cfedb7e07dea5b921bf14d5",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "ccc622e8f1a4e46f3530ca0f8dacb39169dd945b5b19d0eb7f861da541b7c5ba",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "8bc759b69aa435d59f9194f22657679008cf28ebb19ff71c94f9d2c19b6f1adb",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "ec95937b4beb11cf825f7e943493f911b5c6f4679e3d3ae6d3584c518604f9e7",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "9513ca3c94d289473db36b017d7d45a489aba23edbdf77ca0d3d94658323d502",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "0fcea6787f512d078639f168b1270d6a35cbf5e636af178a88fc5fd6d200b038",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "5b2c5daacea652b3eac88d82f120cd9c191f1c5de39a9fbf23f34dc7affe0549",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "21a334df024d60eacae78ef8df3642a5c754f9759c97e002d1e582e215d5fffa",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "1fb4e365ffb5a98f84e3b22f8db61cdf23c592451d250bd978539be999459147",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "db533e1d5a75f0b8f18b6a52814430628516f98fca08bacdfe45acd60d7303c6",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "19cfb46242f8624fef12f56b988cfe822ce778efce77cd37e3db2c5216b566b4",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "33394d77e63468438d22284ff0c6cebe0e926083c0dc468b27e4d226f2c3aeda",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "98bfa0104e2e5c4d8f130fe9797c94594843e5c6a9c6eac624df049090190405",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "0d978cdc265c03ecfe3edd8a85492a5b21a4e645263b318d1a1e862b6609da1e",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "3be53d01c28d83e33dcd254f536f61156b982736003ceac805d0088bfadf1aa3",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "f0b206e2cd435d804d0c5caba15c9bb41f87886cd7b865159ed9ea991c2a09e1",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "9a7390cd8659cb73c7eebe431c183d8a6a32d31e2b448101c666de3264441c84",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "fcf2690693513856e8d5d53a7fd268f65f1860de440c9ce5d8257183761f456d",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "26cc696f16263391f8fa21a5cf1de931df5cad0272742eeedbcd41054aad4e3a",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "877a094b7e6c1e8d049607ac79becbea6f8b7624ec2b69660d7d678babaf11fe",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "6aabffcd8abcf96fe4a7fa143132db223cb026a2219767a90bda1d6b2fb71b97",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "0910bc68e016d04b3f115f60d9583da26efe71b88caf596f8048ef2785d8523b",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "1d58cf9da3b224af90274f5eee67cf7c5154d163598aa5792ba4e2e2b2451520",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "b88140646f60f8192276e8984ce55e2c631a9942fd76e327fd4f78a1fd507351",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "1682fc7d49e615dae8822ac3806feebab631951b3f1be6fdb3df0655f9db5d09",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "43bfea7b1f20cd9c229b5be46fa2fb9c7bd8268b7531baa44300c3bc0990df1d",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "891d48e265afb4d68c0a8d963d6ab31a6bb2f268897e4a7cdc3e381877146cd1",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "c069704ce3822c3483bd05f189ac24c336044cede2f47c2b030ec5706059a810",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "ee67aa1fd70f1b9f2ed62f5b68e6fb0401ff3c65508c25161d90dd37642a64d3",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "55c84cd881cd72f50d1599c9055fb8a26e64ef39f82c8ba556f3c039624a2b9f",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "8cf4735ec1d4d132c62148efb0fade34d925d492ee354895a5a599da5c08e31b",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "8ab2c9a6ad78e8d03a98c2ea4b920616ba871ce765d53fb5a37dcbdab3ef6abe",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "5174ca67318a00ec0b09b6654ee08ef4f0c7b13a9dca9c98dcdf9fac81a14242",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "00877f30d25afa4e932f3e8ec1bf59e4e5374e76748a63ade3240dba22aba6f8",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "f9bde313e015d51e67bed3c8fbe768507aa4200601b9ce40b5f461b63ce5437b",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "e56db66764a4e32f23f35fbcb5fd3630e453206ec56147da9afd3a79c22d1be5",
+      "symbol": "CYBERUSDT",
+      "url": "data/futures/um/monthly/klines/CYBERUSDT/1h/CYBERUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.CYBER",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "CYBER",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:51:06.134425+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2023-08-21T12:00:00+00:00",
+  "unit_multiplier": 1
+}

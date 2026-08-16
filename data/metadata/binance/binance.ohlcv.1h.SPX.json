@@ -1,0 +1,197 @@
+{
+  "binance_symbol": "SPXUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1733832000000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 516,
+      "sha256": "0ed3d95bf3f073fee0e73e9dea3cf6cd751709b9175c362fc17d5807808b79e6",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "11e22c80493cdf594f5c0772691ed3712e7abb4d79fef5f4e1645fa0dc4c520d",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "6a0d043531f6b26a6acabd4ca1bfd3114190ca5dbbeff73f6053d7d14f6be276",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "863d2d6c276488244e38721885af6f9cbb1eb12afcbaa30b38e2bbddd473c4c6",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "9f7d4b638a13abbbd159f4c97b144f31e84c858657f0556fbf1b9406ebbd74c2",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "788b9da202a8844d3fd9931b38d86893dfa515375c0578de925cf8d52a33187f",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "e137c39ecb763e6d8dd3d45ac4045b2900d92dab965082e620d3bd0cd4087667",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "dc3338b061280fdf3f25efbe2afb934b1b91560e3816c5a3dbe9a9ebe9353316",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "21aab287b50a722cdb1461df4d42adad453de2cf186aa83f80232501f70d803e",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "707307980b90098122ce45f8c10874d720e1951c50e5f19bdbf98bfeccad1bfe",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "7a0b786737a6a87ea64821ec1ebde6e2058c7147581d84ba8a71af5f3491c995",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "f4c6e86c4850574e1851f1a3d6f09afa501b14a43b09a10421669886abe0cf81",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "3783c9ce3153401f2b148a7a35146aa2a3903dfb54a740ddb7424c9fa3e099cd",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "c4a61c79f7ce1264bc9b58693d86b18c531346c54a42b5522a2005b6d57931d4",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "1d1472a18ec6f207edd6526ac148ffd058275f0d352c9f56b9d8bf784de40d81",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "8891efdda4581e93aa2d2a60f2dbfc1f561ad4a69112189f6d4a3fe11885ceaf",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "287256a13f18bfb921b5a028855a4ad597a7554b6ae49dc42972d2e15ded833d",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "7a47ad830b2bb11fbf8005fccacfffe16a69f22ab5569a4ecd7268b7438f92cb",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "848fd47af0b4c346e7b8d261d806187b74e4dd8afc46fc6eac79e534672fa7d8",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "e089887e7634fdd6058144998922273260cfa5101f17e1299e3083499d2517ea",
+      "symbol": "SPXUSDT",
+      "url": "data/futures/um/monthly/klines/SPXUSDT/1h/SPXUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.SPX",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "SPX",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:57:38.822775+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-12-10T12:00:00+00:00",
+  "unit_multiplier": 1
+}

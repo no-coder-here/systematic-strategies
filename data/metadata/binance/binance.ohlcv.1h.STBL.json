@@ -1,0 +1,116 @@
+{
+  "binance_symbol": "STBLUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1758085200000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 331,
+      "sha256": "6b54346a36ccf032468e8f199c63c312bf379ad8e51c60300be7fe5f65b227fa",
+      "symbol": "STBLUSDT",
+      "url": "data/futures/um/monthly/klines/STBLUSDT/1h/STBLUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "ec84b9169f7bd135827fdb0bc549777f2fa1565346283fd7e47f2b2f08ddb128",
+      "symbol": "STBLUSDT",
+      "url": "data/futures/um/monthly/klines/STBLUSDT/1h/STBLUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "79ec0f93a04ef41b0238d189bc10039823330cc2263dd7b9d5b3fc506d67a445",
+      "symbol": "STBLUSDT",
+      "url": "data/futures/um/monthly/klines/STBLUSDT/1h/STBLUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "7b803d72692e057a005bf5312e370c8641c1346423cac58c5a299333c6eaf1f6",
+      "symbol": "STBLUSDT",
+      "url": "data/futures/um/monthly/klines/STBLUSDT/1h/STBLUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "9981e7ef786bddb4fbbd06001ac4de6a72090ed6b50799ebe9df9cef7cc7a6fc",
+      "symbol": "STBLUSDT",
+      "url": "data/futures/um/monthly/klines/STBLUSDT/1h/STBLUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "1ae6861008db092c7ba55705e366997338c783c0f50323a310cf5e7ed85d38dd",
+      "symbol": "STBLUSDT",
+      "url": "data/futures/um/monthly/klines/STBLUSDT/1h/STBLUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "1dfddb06f811664950a1e9dab8c5823e59d833af3c0164bf679baf04054e2545",
+      "symbol": "STBLUSDT",
+      "url": "data/futures/um/monthly/klines/STBLUSDT/1h/STBLUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "b1e8d934cd6f23740ea9f65f0b9b044a262676b28e1272b1793cfe64dd3c702b",
+      "symbol": "STBLUSDT",
+      "url": "data/futures/um/monthly/klines/STBLUSDT/1h/STBLUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "6e7d5fb2ba437f6db8b70413ef77694333ed79846c08c13c92964ed1a4c5843d",
+      "symbol": "STBLUSDT",
+      "url": "data/futures/um/monthly/klines/STBLUSDT/1h/STBLUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "a4e75c7e4e397cdeb0d979966d1c71ea842c19ddaf149e228b9cf929f8b1eded",
+      "symbol": "STBLUSDT",
+      "url": "data/futures/um/monthly/klines/STBLUSDT/1h/STBLUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "77ff937395c5000f7ea1e28eea477e1870418eb6d167704f08567d1d1fed8433",
+      "symbol": "STBLUSDT",
+      "url": "data/futures/um/monthly/klines/STBLUSDT/1h/STBLUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.STBL",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "STBL",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:35.852601+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-09-17T05:00:00+00:00",
+  "unit_multiplier": 1
+}

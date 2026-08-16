@@ -27,29 +27,19 @@ Examples:
 Allowed:
 
 - Binance or Bybit OHLCV as a historical signal input when equivalent
-
   Hyperliquid price history is unavailable.
-
 - External market-wide volume, open interest, price, basis, or other
-
   information when the strategy intentionally uses it as an observable signal.
-
 - BTC or ETH historical data before sufficient Hyperliquid history exists,
-
   for preliminary hypothesis research.
 
 Not allowed without explicit justification:
 
 - Binance funding used as if it were Hyperliquid funding cost.
-
 - Binance spreads used as Hyperliquid execution spreads.
-
 - Binance liquidity used as Hyperliquid execution capacity.
-
 - Current Hyperliquid listings retrospectively assumed to have existed
-
   throughout historical periods.
-
 - External execution prices silently presented as Hyperliquid execution prices.
 
 Every dataset must record provenance.
@@ -57,17 +47,11 @@ Every dataset must record provenance.
 At minimum record:
 
 - source venue
-
 - field/source type
-
 - time range
-
 - retrieval date
-
 - symbol mapping
-
 - whether the data is native or proxy data
-
 - what the proxy is intended to represent
 
 If proxy data is used, research results must clearly state this.
@@ -81,19 +65,12 @@ funding and market data wherever those data are available.
 Initial strategy research should focus on:
 
 - perpetual futures
-
 - systematic strategies
-
 - hourly to daily horizons
-
 - multi-asset strategies
-
 - market-neutral strategies where economically appropriate
-
 - cross-sectional signals
-
 - time-series signals
-
 - relative-value strategies
 
 The infrastructure should not be limited to market-neutral strategies,
@@ -109,29 +86,17 @@ Strategies do NOT calculate their own PnL.
 The common backtesting engine is solely responsible for:
 
 - execution timing
-
 - position lagging
-
 - turnover
-
 - transaction fees
-
 - slippage
-
 - funding
-
 - gross PnL
-
 - net PnL
-
 - equity curve
-
 - leverage
-
 - gross exposure
-
 - net exposure
-
 - performance statistics
 
 This rule exists so every strategy is evaluated using the same accounting logic.
@@ -149,3 +114,63 @@ Do not implement withdrawals or transfers.
 Do not connect research agents to live trading permissions unless explicitly
 
 added as a separate future project.
+
+
+
+**## Work Order Autonomy**
+
+Routine implementation decisions do not require user approval.
+
+Research Lead may automatically:
+
+- delegate implementation
+
+- run tests
+
+- invoke auditors
+
+- return implementation defects to the implementing agent
+
+- fix implementation bugs
+
+- add or strengthen tests
+
+- repeat implementation/audit cycles
+
+Do not ask the user for approval for ordinary engineering decisions.
+
+Escalate only when:
+
+1. a frozen specification must change
+
+2. multiple economically meaningful interpretations exist
+
+3. a choice changes research methodology
+
+4. credentials or private data are required
+
+5. live trading or funds could be affected
+
+6. destructive or irreversible action is required
+
+7. the correct fix requires a new architectural/design decision
+
+Unless otherwise specified, allow at most TWO implementation/audit repair
+
+cycles for one work order.
+
+If the task still fails after two repair cycles, stop and report the unresolved
+
+issues rather than continuing indefinitely.
+
+Auditor reports returned to Research Lead should be concise:
+
+- verdict
+
+- blocking defects
+
+- material warnings
+
+- affected files/locations
+
+Do not return lengthy descriptions of every successful check.

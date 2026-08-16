@@ -1,0 +1,161 @@
+{
+  "binance_symbol": "PUMPUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1744466400000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 442,
+      "sha256": "44e4f4ad3eec10e79c31b7a5afd8f8f596c4097aa1cc8fa7a3233d239d0623e9",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "aa715752da5f1a08ab0b920d04b5e6fde269075588b8b03f06eb602027344e42",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "09c0d36867b3154ba8fc8dfda4a35e9fed3b25181b8b036082a7cd239f8d6d8a",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 737,
+      "sha256": "1c89b890215249fd2df7e014515d8e6ba6f8fc52060885ae640a60eb766f6b8d",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "e176850c844fc4dd3968c4dce4e67d24e4bb15b34cccc6f3b83628a837bfdcd9",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "9bfa65543105145a2121ed16cc226ae4b49a9c0c9f9f69a3b65cac5311e3a77e",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "facd1efd29c8984451f5583d0d0d056f712c1d4d6d30ec385da331ce3010ed7d",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "aeb7271d3295e4778219821644c41c465af40226c43e21f9b790577c15709750",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "09f22a4fae0616a179df25998ad314d1b2dcc0355f6746206044922b232fc095",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "2c3269b1e4f61136f54d1d679424cac670fff06c050b3e080dc457e033b6d5a4",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "f15f5f6f992ce558b2bc2cc3100f44d60a5e493a2a2ac718eeb9dc61eb0885b2",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "48970ddfcc3e95adc4b8fb93b27b0f91d3c7e860dc1c71d251a243481befd5fc",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "634d22b198b01216da7d198e44e85c69b77015eff317181ae6d945de6a7b71ba",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "9a2a7f2b892fe26cefe5844850f39a67e7b890cfafae94ae4d2171030daf0010",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "caf00a71c7b59d9e72b5f55a49644c623e4d5a63cd6a5fad815dc0cd3bcb7018",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "16d401c11f31bfb1834922ae75be42d186097a5fbabddac36c175e93c01c0be0",
+      "symbol": "PUMPUSDT",
+      "url": "data/futures/um/monthly/klines/PUMPUSDT/1h/PUMPUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.PUMP",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "PUMP",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:30.801705+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-04-12T14:00:00+00:00",
+  "unit_multiplier": 1
+}

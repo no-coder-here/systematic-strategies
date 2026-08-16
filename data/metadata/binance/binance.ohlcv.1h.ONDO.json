@@ -1,0 +1,296 @@
+{
+  "binance_symbol": "ONDOUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1705755600000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 275,
+      "sha256": "db2d9e97aaa1713ccde60753eab5999a7c5a1795198907181cf58e6ef03b987b",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "e80ebf92c8a38bc21c744863fdeb8b1003ba9965b269a50d98073fd2fbcbe50d",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "35dd56601be173b0909d9111dba2304388dcb733cefe41b94a721e6d70c07462",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "ad47624ae9ad4da9e7e3d27aa53126e7688288fcc8d41e11f41c317050aecd2f",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "9707a0319b001a7d0ec0302ba40125a7fb3c13f2cd5596625376b3039ed9234a",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "ffa5a13c598b5f2516eaf2fdd33b404bf15d5311e44c2c5441198221882b26af",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "b35eef0daf32eae1da33ef7b78243221b18bd73b41b3327e88b9e492a5df0a7b",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "de5cf0bda0ecd3e4ead801662d1f3b9f308df6bf061259b928c0457e58bbb3d8",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "74a6bf8706f1d3fa3a5bc15c06be3204f4340b29c93c5c0dc07f3d78728ffffb",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "f7d9fa19b25f7012ee66c260ba18e4eb1a27385818177e2f2a2b18d18a751c9b",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "d5239daeb90b75286ed45f61a740667072a1dad1bb4f7b8c19c0e9aa31c5bcbe",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "6c2a0c72da7094cd3e77b5bf4adca4334f50df3d96b93f5256d43bfac002e7ae",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "396871e0be648f39853a89b5e9168b45f7ea68fdefa248a3030b3f3eb0564773",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "52704d6a0ce3fb10712bbe78c74b6939f8ea10359b80ec6b13fcc888cdc01743",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "bd625fb48990730a1e25cc2d3692cde7f5690d414fbbc7441ba4de97eca3eab7",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "dda5f0092807c33413e6af149de7d40bc8743576f5ef055ce4d5c9f717904188",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "759b26dae3da66070f678f9aff92747dc0fdc47553248e0087fdcdc864e783fa",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "6cb81e84da450df0a306d3a759e6c41c127f3050011f4fe95d66496058de88c1",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "5e821ed01026908ceb83de955887b5d647e8096476891b5748809fd7cea59ff7",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "c9b7bec4e1e4e86a7d9fabf93343ba712700be4a551da8e2ed43e6ef6a8a2f6e",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "4b89757af3a4c4472e474f46fd54612df04735403d929590df166a66bc14c5d5",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "efcd2f40e3d9705f4519edde88b0de6412d75297788603e6741b0421797084f3",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "6019521c105ee06dfe7fbd06d40fc82e1115d04879002317701fa0d0f6b15ce8",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "7a4719c01429f20b48f793b960ba790d3657a2755beb309cab5f14a6551ef8b2",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "3b22b5137881a07d7e8a99926904b1a4d60952971624178cdff0a63c474dd37d",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "4135ec50c1a5cd1a34851c6f7f796201465e4559744b2f9fc52ae5d90e9af080",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "a64f222c4be9fe1301cf3176bc2ba896b553e49336642c17c51b632f7b53e323",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "843ba4756000ebaed823d2bde78d476f6d218d5600ead96dd256f52e08e8244d",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "8755e08efc1e8b7c1ff40e235ecaa5226836883081c1c327cc8c26b3efff3de6",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "e642f2a367ec64b131655959821352cf0b59516f3e3b54c64214311d2b1f8a22",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "404175eead4e65bbb7d4f47a39cb9dff9122a71ffdd4d8cdd2f4863118bbd209",
+      "symbol": "ONDOUSDT",
+      "url": "data/futures/um/monthly/klines/ONDOUSDT/1h/ONDOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ONDO",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ONDO",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:55:07.084224+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-01-20T13:00:00+00:00",
+  "unit_multiplier": 1
+}

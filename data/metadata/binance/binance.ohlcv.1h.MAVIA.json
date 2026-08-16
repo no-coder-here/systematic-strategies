@@ -1,0 +1,287 @@
+{
+  "binance_symbol": "MAVIAUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1708509600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 206,
+      "sha256": "5b4d041edaded163df132cae7a9bfe532b80d61a9e689968dfee860dc3c5eb8c",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "0334ffb382c8931f65b3762cbcf1e004fd68243425e75d362a057f36a1063907",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "2e46ba99eee179efc90ddcb4112a06f0de81acf2d9e8ef36113d83a32649f09b",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "644789933875a43db14cca83f25114dddccd0516e00b7d9815b8f8e6289f1a20",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "f9aa5ed7ac48227ee80642097cab9da32c90a90127dc0f2405fee6cc73c26d10",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "27f67cbcce25c8774c1c195bb09bec70132595caa293d3ba2c0a741585930cdc",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "eb99509f04916b9e0588eacc12e258f4405a3f4363e8d770e972e25ec002b146",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "1a501ce8af11cb136619de942abff0f4a29e10504c05cf39833514218d2fc908",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "e4c224020e1cb1c2e448953475e785d08ca6a2d515ea4673c61918c89b1ce416",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "e0eebb102fe172ac8d73541836464e981a2bd368f6251c6c471b2e2f57d95c4e",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "eb170a2fc4b4a2d742c90d552c1d2a36e4abe8a0091a48e5384dbcbf282598fb",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "742e8acd6379c4b50e50a8d448622e31278e9f799f97fd86abf9a376c70db3c1",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "31c9feb1d94ec573dbc4d2831ed4c807120ac06d6a7166de0bb161f5934a7558",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 727,
+      "sha256": "b1cc229af733d7ce32a016d17a97a8eef4b52c5e09629f2b4a05f4e9ec5df9f7",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "c7e1f91be022d2f8f60ef2a0c1379b0e381dcd76bb5b0f359ec5a512de68941b",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "d8a5afe8722584add530857c19e61149e41c98f16252f48fcac95be1078c5885",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "a273a469109b71e39d2cf9ae92b88398a93af26b777cead36f0e323ae8f01e77",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "34f1453c31feaa473804f90f9b04222ea14f6c00ffe80005a0afac6bfc5c9881",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "67ba6c051ece8a0a84d07cf985f0ee9df7e1e65590096ec297c7ccbce3f1e154",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "8dd6a36962fceee3233f632768e013839e62368a551ef7bcb7313393c2102a7f",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "130f967391c2f4349e52d891c2b0dce8a29159d40513720f0edb43b6a1fbb22a",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "986c32d8eccb8d69c112fe90f13c12d316e5af3f669caecc269789fc64fa9a01",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "330fc7485d8a30c0b12d25e0af20977cf6504a0223eb050db08b0251edbc8a82",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "d2b9ccaf8c5231c1819bc4d9578114af74f7bf5e3e85a242e59da4e442c10aed",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "7d2b8ded557cb2cf46158df32e344c645dbc20953c018dc11b44fe8cb4e13afc",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "a1a6fa339462d3d2bc079065cce0ab019915728e8e7a7e1a2f4a20de5f15af66",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "ffe9d32d30fe61044c25a42475182478dd650cb0aa7fbce284a02e8b75db86ec",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "3fc03ba62f16723d5266046837405328255807779c9a3c11df5c68d9d62f0caa",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "c7d1d5dc1df6cc0051cc247ece44960df446d4133cf1966abbcd1a8dbfaa54c1",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "7dbd8db8687fec382b5ab631d738fc369d3aed2e1f55d5f36d5151e33f634190",
+      "symbol": "MAVIAUSDT",
+      "url": "data/futures/um/monthly/klines/MAVIAUSDT/1h/MAVIAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.MAVIA",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "MAVIA",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:55:16.441420+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-02-21T10:00:00+00:00",
+  "unit_multiplier": 1
+}

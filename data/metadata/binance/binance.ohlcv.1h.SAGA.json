@@ -1,0 +1,269 @@
+{
+  "binance_symbol": "SAGAUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1712656800000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 518,
+      "sha256": "e768601247247f2c7ee4f98222141f88f2c550f7289de2e69898fd8bb53685bd",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "814bfb56648aa8a0833b673f394fa6a5ca69398649b05ca79e23b1257ff4366d",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "430bc67d718939679a9eb002312048b002be567e8dd2903a878336071c7bc6f0",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "f46225b23bf33f95ea84480546619a64dc07002f9961801889c1984bf849821f",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "ccfb04f05ab0bed7e2c371fa66bbe22d078c5019efd290f67788a800bcffeaf9",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "a4fe7f35ab21ba77c2982c5a5c117601c9045d8f7d7cd58eaa2eae1be9c39c19",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "ca54634cee33ec33309f43c48a1400ef6d64e0437cea70f7728bb90c9e10118e",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "e733ab1c11fed0963936b1d8b3453eb5d149fdd69bae6e6c0055dbd3c906a812",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "0b817b215f7c10b3d9c2b54d79f7e0e6f6a4447d561942efee36848358bcd4e5",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "2de2b70366afa636f55eaf7074d1dfd3f5a650aca45e5187d7fb761156f61f06",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "34131716c37d0a0efd231a4e3c8e5736233ffed6c75a0f420d63478f9dd11834",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "34efb01ab5b54971bb91038aae1719f4cdc18ebd9581d2c6abf1a65849e458eb",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "82be9592a312aa6dd34f7b51b137f18781792d7adc4ef1ab5db06a2536dc7023",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "372623ffaae3cd617e3a847fe56cb0b054e17318108088e05baa4b4905cfcfac",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "87f1cb1f7dd46e3bcb9a5e78f9cfc2675bb4b19b18e7e518011b9bb135d7ebff",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "6f3df6874f1c6eeeaaa2bc35dec30274aa6b9237f071a26e1a984a8609edf283",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "a90044997f6ce18b0c4e917ed37937984486b762cf9a37876300636e6ad11e90",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "cbcb0901bb8557912407c2dad8ed70e4e476c7e6582c1b4d42e2c4f7a8a199dc",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "620016683621d928c5b60b09dc2367e84f127c90ff9b28b8feb215a1b710de40",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "d65f36c8fcefd5ea2a6d37d028f2d8662cf1f456bc8f6f31c0596c062570528f",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "e1f739058edfcdc55eb44eee345e2de2544b18cf965c396fbb6233feef26de93",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "dfb688710b7dd838c9b8e170877277dba64c3d119a9018b9d89ae567d3dd1e00",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "9f5cdcce60228436ae0a5a2f40420c92ead745de3d1c7e57c0487e86b0fe9860",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "2f9f306c4ec7c627cac17c6257967fbc29581a14a1dcab7102eef4bd682ed873",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "40e22bb9eb8b0fbcc854e7a84ba4c0db675162614e3caa430be95ae4a46cbe18",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "67d13e04666d5fe56f609ace4846653791d5d8ab5a18c76c74dd7560c8697385",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "c2f794fbc95cc058006462ca5694e8cf0262250f176645ecca0a4c36893d33c4",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "d985438ce001622b34dba8ae5ad2a72b075cc0c1fa9fe1af95225df432ebde88",
+      "symbol": "SAGAUSDT",
+      "url": "data/futures/um/monthly/klines/SAGAUSDT/1h/SAGAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.SAGA",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "SAGA",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:56:07.533795+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-04-09T10:00:00+00:00",
+  "unit_multiplier": 1
+}

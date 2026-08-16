@@ -1,0 +1,116 @@
+{
+  "binance_symbol": "SKYUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1757401200000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 521,
+      "sha256": "225ceae2959437571096b46a676f2d8f6b6764ab0bcd1b1aa2fc62e2a5e41e7f",
+      "symbol": "SKYUSDT",
+      "url": "data/futures/um/monthly/klines/SKYUSDT/1h/SKYUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "d420f72e73bb2468a92ce93fe802bc1667e29a3c5a1dd9169e7dfda131f3ac8a",
+      "symbol": "SKYUSDT",
+      "url": "data/futures/um/monthly/klines/SKYUSDT/1h/SKYUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "51473f910670f228a1e1fb3bb7c2dfdf4077fd776e064ea9e7ba6c935c2fc51c",
+      "symbol": "SKYUSDT",
+      "url": "data/futures/um/monthly/klines/SKYUSDT/1h/SKYUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "91a08258e8cb83492eac3f2b076bb57a9de413d87411cc05860c7464d7459aa7",
+      "symbol": "SKYUSDT",
+      "url": "data/futures/um/monthly/klines/SKYUSDT/1h/SKYUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "2a60a701e5f97814dcff8bfd50312b3edaefb16a100608e7941cb31d3ae661d8",
+      "symbol": "SKYUSDT",
+      "url": "data/futures/um/monthly/klines/SKYUSDT/1h/SKYUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "038e22fbcb27de77521ebcfffe01b65ce07d2e025b9f2a8431a2fd1183b129d1",
+      "symbol": "SKYUSDT",
+      "url": "data/futures/um/monthly/klines/SKYUSDT/1h/SKYUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "cc37c9b44474de6d066d065099cb9dfaf8f6a9cef2fdaaea4ef77a706cc34a35",
+      "symbol": "SKYUSDT",
+      "url": "data/futures/um/monthly/klines/SKYUSDT/1h/SKYUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "83ffed85d87f22303e0ed94b8385ebdd6eccd52c4430dfd8c7bdff826371c8a8",
+      "symbol": "SKYUSDT",
+      "url": "data/futures/um/monthly/klines/SKYUSDT/1h/SKYUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "dc9da0ce1214f10f1c0e11180cda96dcf518338bdf79d15e1d24c59c9c7883f5",
+      "symbol": "SKYUSDT",
+      "url": "data/futures/um/monthly/klines/SKYUSDT/1h/SKYUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "a5a606b6bd614248762ab0ea6972b813e2eeb19efe4d39b11737df72238b70aa",
+      "symbol": "SKYUSDT",
+      "url": "data/futures/um/monthly/klines/SKYUSDT/1h/SKYUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "2c674d3bc5324139305c330804bfa56bdd0b3598c7ec78a95a77d2e4751b693c",
+      "symbol": "SKYUSDT",
+      "url": "data/futures/um/monthly/klines/SKYUSDT/1h/SKYUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.SKY",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "SKY",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:29.131082+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-09-09T07:00:00+00:00",
+  "unit_multiplier": 1
+}

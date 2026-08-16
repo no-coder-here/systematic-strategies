@@ -1,0 +1,107 @@
+{
+  "binance_symbol": "METUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1760184000000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 492,
+      "sha256": "75241349201063923426b9c0ef36d20739b6b7cf836a757ef79eb51fcffabc35",
+      "symbol": "METUSDT",
+      "url": "data/futures/um/monthly/klines/METUSDT/1h/METUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "7a2b7d4b698bceb2426cfc60f582144b5bc9f682fa45ed859d8400ca82c451fb",
+      "symbol": "METUSDT",
+      "url": "data/futures/um/monthly/klines/METUSDT/1h/METUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "148899020a56ea69c0347a544a9a14723362e52b47bbe7cd93faf1f9b4414f19",
+      "symbol": "METUSDT",
+      "url": "data/futures/um/monthly/klines/METUSDT/1h/METUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "b353e6d3b08b5c46197bbdc86e464e3be9629f0c380e91b7832a8c18156f7ba2",
+      "symbol": "METUSDT",
+      "url": "data/futures/um/monthly/klines/METUSDT/1h/METUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "b5275f47a00c35a3fae7af0fd0d51f07c3fc06d2275e01d1173f78c7cd1a21e6",
+      "symbol": "METUSDT",
+      "url": "data/futures/um/monthly/klines/METUSDT/1h/METUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "d1e7fc3504c09c7c9eb26603b04e1265110d8065abd4dd4f70e1d51391ce703a",
+      "symbol": "METUSDT",
+      "url": "data/futures/um/monthly/klines/METUSDT/1h/METUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "dd4ae0527b857c819ee2b2a9514a701277ddc0b880f1fb6f1d8b70eb49239217",
+      "symbol": "METUSDT",
+      "url": "data/futures/um/monthly/klines/METUSDT/1h/METUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "96860ac6bb8189f83079ccfdea7e7ef6ee4805e11b5c0b9a65659d6a393ab602",
+      "symbol": "METUSDT",
+      "url": "data/futures/um/monthly/klines/METUSDT/1h/METUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "1b667330b685fe6a42a7914dd2397affc90e4eb23ce8be9090d9e0f04b152115",
+      "symbol": "METUSDT",
+      "url": "data/futures/um/monthly/klines/METUSDT/1h/METUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "99942c48f0fda280eb88b683c8b595e4d7857b30893f7f217f73dfa19e79b6df",
+      "symbol": "METUSDT",
+      "url": "data/futures/um/monthly/klines/METUSDT/1h/METUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.MET",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "MET",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:38.448436+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-10-11T12:00:00+00:00",
+  "unit_multiplier": 1
+}

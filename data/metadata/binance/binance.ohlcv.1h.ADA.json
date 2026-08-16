@@ -1,0 +1,728 @@
+{
+  "binance_symbol": "ADAUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1580457600000,
+      "last_ts": 1580511600000,
+      "month": "2020-01",
+      "rows": 16,
+      "sha256": "c8e1642cf66f4e8454c41d2932f01df5d29d706e23f0c71dc5f121d614882793",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2020-01.zip"
+    },
+    {
+      "first_ts": 1580515200000,
+      "last_ts": 1583017200000,
+      "month": "2020-02",
+      "rows": 696,
+      "sha256": "e2410766c0c52b0f6015bdd7790b970836c7254eb22d3ee79e76c1373d8fc654",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2020-02.zip"
+    },
+    {
+      "first_ts": 1583020800000,
+      "last_ts": 1585695600000,
+      "month": "2020-03",
+      "rows": 744,
+      "sha256": "dc730323d7e8c687fae3684a3d1f0320d7232b249c88e118179dbcd57ca4fe90",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2020-03.zip"
+    },
+    {
+      "first_ts": 1585699200000,
+      "last_ts": 1588287600000,
+      "month": "2020-04",
+      "rows": 720,
+      "sha256": "2b868720089f1d39de9a22f78f078b9a50fe69308983cbc267831541a5e451f4",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2020-04.zip"
+    },
+    {
+      "first_ts": 1588291200000,
+      "last_ts": 1590966000000,
+      "month": "2020-05",
+      "rows": 744,
+      "sha256": "1f5b73a6e3a036d361815c2347b6474f321990f5011718c6ca4ddb57fe25eda2",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2020-05.zip"
+    },
+    {
+      "first_ts": 1590969600000,
+      "last_ts": 1593558000000,
+      "month": "2020-06",
+      "rows": 720,
+      "sha256": "f850adfe0bd05390ce8ef001e59035389df5105168034a1740db4b83bbcfe8c8",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2020-06.zip"
+    },
+    {
+      "first_ts": 1593561600000,
+      "last_ts": 1596236400000,
+      "month": "2020-07",
+      "rows": 744,
+      "sha256": "605d354ebcf3ef721ae88186101ba7f514df7798a520939cccdd7aee0b67f68f",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2020-07.zip"
+    },
+    {
+      "first_ts": 1596240000000,
+      "last_ts": 1598914800000,
+      "month": "2020-08",
+      "rows": 744,
+      "sha256": "7ff1dda42939b494d76bd2ef86a70a93b00540d40b654797b4c984b8e7a4a379",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2020-08.zip"
+    },
+    {
+      "first_ts": 1598918400000,
+      "last_ts": 1601506800000,
+      "month": "2020-09",
+      "rows": 720,
+      "sha256": "641ff765b2d80eb1365d04c4fa6f2daea1a22d061fd80c9bf20351e82da5a1bb",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2020-09.zip"
+    },
+    {
+      "first_ts": 1601510400000,
+      "last_ts": 1604185200000,
+      "month": "2020-10",
+      "rows": 744,
+      "sha256": "d91ff80a70010bab4d43725c7de1778f3216ccf0f91609b29d8a894375e76ec8",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2020-10.zip"
+    },
+    {
+      "first_ts": 1604188800000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 720,
+      "sha256": "66de21e02f102db80ccc6f791881eb33e7826b867655bd95fba7709bad0d70d9",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "4d960278d906e66582b8221a560d8d77de1ea195483ea24bb32494df44ae75e3",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "804046a9b776736a53e1a6b0338e8b0e3c43bd2d3bcceb9154de4111cdb5c731",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "52c7316a74da266201317d3ce0f6448c9649fb116b807c31aaa762bbf41a21d5",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "92f68481bcd690ca82118d5a8bf6ecc5d2f1d95ae692a6604130d6a67af3700d",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "88428379b5036eba64c8ec80042bf9ca2ba069243d5351e0a8d705db415b4c4c",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "f52106e3ef87162bd84a4133962f51fe559566fdb4a42a38f99a0bac789e5950",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "f13df21d924337468a862cbfe6446718b64d3036d2c1d40427d282d41db0c3d7",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "470ac372466a5023380d15dfb34aac0f03546c3e3f1a60cf3ed986620134ac8b",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "267d500e0e0a028b976c7ae7faaf63796ace5af5bc58968a7d9b5e47a55524ff",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "ef5a17fdd36556765e7c8c60559ef1fced20fb36f05c1eaa16eb4773ee2455ad",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "a8a41913edeeb2afea8f8a4baac00d77c823e08832252454ecff7d9aa4bf657f",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "bf88879dd2eb6e9fada19ef5ef858cecf2008cc5187d6d9e12b13b7ab3a1deb1",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "5e3b33f69344ede98eedb5b664feab736e14ab16e9add79fa40df963f96770d1",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "c1ac50ff89120890db0f9a01fd9ddb72e9fe55052a1565d5314aaf562053e39f",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1646089200000,
+      "month": "2022-02",
+      "rows": 672,
+      "sha256": "f25d273bf1c0fe81c45dc481b1efcce3e39584432013492234a3cbaed1df01c5",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "e8f3e8cd0b49c2cdcee5cbaa36b752b45ec38610b32535c0c4d9c831028e5a26",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648771200000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 720,
+      "sha256": "710033214f7c2e29bcc6af89f5373d07d3c7e623c54681d23bd6b557f13b00cd",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "0b91e6f8aef7d67c435943bcefa6f561eff912023d1630a7e42a91f33062706d",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "35d1abb065eba4a8fbd5b24ab88125e796e215fe340a9a91c49e49931fa811c5",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "99172d8a39583d968bb603b00302428dac06937a07e8ad50473559a5ec2420f7",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "6073f3bcadcfa6e1ae301cdfde5a12630b1d5f090b51a91ff022f638c5f41ced",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "b396b76d50efca76485e7942b98ff6b38e5e133c5de434fb6ab92751d995d55c",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "2b941b838bb66c6336adb8ea15645365f00b0f8da7eb2dd89ba148bccbf95fb3",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "4e88d2d285ba1165691aa28cf894f7019ea3d66d57b476507bb497f6b7193b18",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "a892958c5293ef29c9167259b879573f3dd62291cd6c73e0d8fcaa0340bd2083",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "413096563032c354c157cf6a6000d4e8f9c76b4e7d03c03d645265624570901b",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "b8505ef2db9205c496f47b5ae475189ed88a520612704ac108f48423f3d5a32c",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "df0239e12fa89d7660fdd225be2f41406f26480d54653360449dc9149280cc8d",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "aaf14f6edaee67331da5467ddcfa462b7be9b819145435ee44408e31e38f7c9c",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "bc66f0491d252fb8f0d36b8138a6fada55bec3cebe616f7a37ecc8c844db99ae",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "177c3d21c0c01a971f130f80d98ff9dcacd631439e8140f351f8aadfe15b0586",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "d725d3590b024eac6f41a83fd3ee25b8a56d16c65932e1508dfb6445daeeeacd",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "1e787d556e03e767c3bd53bfd5210aa289bda1589b7feefcc3f257b8a522175f",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "66a09c042be3aa1249eb056664f83378e23294ca3b934821402b8575fa366624",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "eb0c5c0258d9ba66a90ef0ce69c4eaa4f3f98b953110132c91046f17b5aa239c",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "b25a9f502f08ca5299b97f7b67dd4a826b77fd89c13a68885cbdb7c5ae037ab5",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "41ff03e0bbbba566f2cb6beb77275a6a9edb58ee60b397bbf9ff93e19e6f1ec4",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "d71ac8948df0b3d778b0b0738d6c4b91ac6b778fb20e0258214c1c23ea1b228b",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "3d6b6ae941d4ee02efda78c4ad0fa360a13d5df316528f7e99f28ced2090bb68",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "183287d015b5ba3b6577c347d7cc3bf9a7ee1f39015b67577a4177a0782a555f",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "b9032b0a7a00f8ee356ac7172360b0d48e12e3242320bfe1775b7ade43a7738f",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "58e1930af06bd88c2777819b511b11c4c519a513133fb200f1ddc2e53fec5715",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "28081b73aa20ed8db9c0468eda7731c6fdcaa6cbb38c06389d63f2afc9f720ad",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "888c76793fc6efe0ef911f77ecf94893f015acd5508b27771485ef0a58dfff50",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "60e35784b8c363b3155afadf97ba31e530b0d040508fde5e0ee38ae3c9fbd3da",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "b56f3633cbd2d8a19c028c20488182a44f2ed78bdad1fe41b02e69dfcf64f45c",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "883e960011b0a10a773bad66c66ba54695f72ba2435d91b3b283d2dd5d95cc00",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "6bf7afb2126cfaa2ace32b3551de1e9cf7cf3d95ab6636f686ac0a3494850d40",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "989a91a71dd93b5511c5ce7c2374acd215c0a51a2d0ddf477d35a8261fae90f5",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "27fb80bcc9c164ae67ce8bf2084c748d4c28d956083e1cfe61c0d9f803ce0ee7",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "f79607b33b72502f72d13676a1d30609bb42ab0ad865a55d725ff87b0efa8f36",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "6ed5c1f5b931720d693f9ade3de8c03a825a53d97fc1f6d8f0a964b0fe295639",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "e328a24f922020dd2de0481ee828e3ea9e003a6524c5ba381a8ec5b8644bff43",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "fd2dc99c786632bd85279aa1fb8bb7f8c9ef16b17cc1d9b5cde68552ab5abbcf",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "6db0555c0976c8795430b788ab0e811714f784bb177dd523750fd9cf053dbb39",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "66fbcda819d8ac503c4e0a9ce8194b3f089242df17155a4843e958dab33d2a4c",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "f9cbef69305dbd4902bf33a0607f676fb8370688055444d7beb641fa1270a21b",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "beae8bca90347d2be4ab0ce2a805b048d1fa9ab62a87d16d61d0fb3f621d0271",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "bff3332ea1dae3c96608d181d2559ade917a5316f5158d3b6a8b74faf1be9dfb",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "db3a259d5f89d71c936c5241aa76985c88d3cdddca5697ab27c0e02863fe85e9",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "1b6199268628f8a656b3591fc87c2997b464aff42ea1d9affcbbf054a1eaba7b",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "0980489110cafbe0340bed14dfe08d6ec6b5afd31ce1123c17b7fd655cc672f0",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "2cbecbc4e3291b363895e93618cac3d4328f737ee34af2b1dbb446b3447522ce",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "ff5904ca0403f13d03dd46f2e84992f328f05d1c19b6d35702882981b123fc87",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "50f5e57f0a20a83bb49e485afd0bb6725a01ad4bd16e179dc9028ad4ea9ff7de",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "946ae68bd3e3e97eaa5a94998b67130aab3bed1c9bcde0444280d6e22c1ad12e",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "d09ab1f1574e388622ac742fae2988e3e0ff7041cf1b1a40835a4e4fa3a76209",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "00ed276f06a95b516d80deabf294d9bcb0dc646878454ac70e7840e684b8ffc4",
+      "symbol": "ADAUSDT",
+      "url": "data/futures/um/monthly/klines/ADAUSDT/1h/ADAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ADA",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ADA",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:54:04.878541+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-01-31T08:00:00+00:00",
+  "unit_multiplier": 1
+}

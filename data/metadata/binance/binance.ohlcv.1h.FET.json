@@ -1,0 +1,404 @@
+{
+  "binance_symbol": "FETUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1673920800000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 358,
+      "sha256": "061855df7a2cac43375ad06a00afafadfb9eb463358387e11a9359dd34d71d40",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "aaa6c103e2876fe2d8e776fd2af75c04f82d79d8bcfb8b840c90029bf1dec32d",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "fe7e1565155e131bb3f85e823fc27d3c3d9ecc9ca5e707e120d6c76173b58faf",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "d7efd615f206d9f5474726b24fc58145a60b2bd98ac11e53015837c256f80138",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "57ff7a66c231f7471380162ed42f7947dfeaf62cfa57ef25cd6f5c1dda28b54d",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "a10c399cdbfbcb5f18db4ed9a703cbad146294e70fb74a992ff171d9c08fcecf",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "234f4a6e2f2dacd41d85bad9e392d033d13c8969441f3f61d2be7de8fd9f60c3",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "9d832a51e887b3d40ac5377190bca46d568c442572b79cfa4d95ffedd14d11be",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "088414c7990b9a198652641248dc4a2c930e858de44643523e3ffb0eac4756a5",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "fa3f88fdb6c629a2ff2017efcd6ed26836ad4b6ffe317a970cc690ed27a25346",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "8d8553e0a7bb2e5f2ebeff11fdf7952dc72f0897f738d54a84e40e266227670e",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "e53f371b983c4376d341ff205e4aa3bf00e2f2f0347d2960d9258e4d91141ffc",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "1903c10c0478270197442d5f08ec9bfe9b95fd09aea54f93be87ac0aa7d7d360",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "c374106ab45df1e96045171f83822e5489a09418c6ab963bd6eefcaff1d6203f",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "28752a3c9816777dd1367213ca084a58bbcb0ed77c54c8650d45dfef589d9325",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "e20747b5710dc6e87cbe1e07ad2598370e1757987130460b318b8c52a184fbea",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "5d0045d4c303469daa7b134c56edf4022cb90e03092983fcabd3e75602f44637",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "41cc62277c91d6d39457fdb51237f7b7b85586038e12afe6fefb24a4d1821d09",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "a76a984f21d369b653417ba4bbd657f7681911109b60401ae860fbfc84fe9740",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "27ba4815a4931609422cc569f2784e1eea5231eb08f696fa129121952f9e829e",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "d62fc9299d35eef94073d8825cdbb8aea4512c1ec641020a567c639729b26ecd",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "12772fac41cb690c56a2ceee24f802665f7cce14a286b505b40155685173b6d1",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "92ca3bf29c2cf0d023ade4e6ef07d241879d6f51483d46cf7163e786e40e8d4c",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "f0af614260a899fc10ea00a732b047200efb8c907b1583c38e9ab601d33f1399",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "595ff1956b2f60863eef12f7f1ccda59c1be7685338c13e7ea97c1e9b9376bd0",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "a1dcedb43483e9e4b73fcf2f3b7c5580a19514af23678a00a9c68affc1e01f85",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "fd2302f13cfcdfb05c88f57b2e92f81c276e4eea306c2ca07479d168766ab4e3",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "649170790ba29dc3972b04104e698c978653b88b3eb69249f48ef5b169de61e6",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "70576c602e7eea31eaf3a8934c048f5f05257588719f4c7395b758908d942314",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "1ad0644b2a2de68852e4a51ae1945be48a5f1e5d61b27437d87d0f60798b050b",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "645bef2bc69b92f5ba17bfdb44d8ce811d83216889461b8ce2ba195b5ac0e507",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "35789baaca162d0a7037a08e4d1e4911e207017074ff7375f473acca998aeae4",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "52e0acaf0b04e372de611d22264ddd4eeaf08d0a02de1116da658f4d6d34c919",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "e9f7061b8087b9e885b9edf7754add583f243f61d7c3be6f4dcc3acecd792a39",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "2407811c2be3fc344f674dc4fc3dfe334696edf546c161946ca2891d9a7dddb5",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "6b65cd93bf19f108e557248e546a892fdf057eb89e8f20a89987a6cff3c76ed6",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "fe525f4e27c1b61b2b71d3c03cdc2cdf5d9bf3ff1dcd5b41c523c706cde0d64f",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "5ee603a7c8bec3d93888e93b6f7930ac8eb94acaec27bc99737a055a0f13f100",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "106dfa6a497f96d11de471dcbb25c3e26fc72415d4f8df07981eedff1d682421",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "6305afe59a0ad1af3149f7a768feba6f017bbef91731e7631a0bee03f3aa2e3f",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "0a87b0c3a4fbecdaf8ab10ec5a6b6fb0052f6847c53fe0fbfc34fa14b0328f99",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "3ea86ad176e6e171dbfc02c815436ffb9333d607cf26dd9b25dd3eaf570efc44",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "eaf1c3dbd5dda4e5aebde9c29a779b7c719ce93614937a819cffcba7b0e6d159",
+      "symbol": "FETUSDT",
+      "url": "data/futures/um/monthly/klines/FETUSDT/1h/FETUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.FET",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "FET",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:53:10.626820+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2023-01-17T02:00:00+00:00",
+  "unit_multiplier": 1
+}

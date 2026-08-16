@@ -1,0 +1,152 @@
+{
+  "binance_symbol": "SOPHUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1748437200000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 83,
+      "sha256": "56630388dc4204bb6d0ef6b08e9d0a829a1584552962b9815ac792289f85fee8",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "25bd2deff68c0fd3936bf23fe2231788bb262e35618007692a33bb6ffe2e0b7d",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "25e4be83799e59492650b44015ff58fd46048cb8b55e1c81b5e9caf1222b9244",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "42250ec49d8915be15432f7d863de0cd4ad709cae5dccfdebd05557fee332ea6",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "02bc10175b235e0aae3f1ece6cdffd35ff3a1e744100b0260baadbe3b239b76f",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "1371b9e603231ef43bf1dd9f02aa637db8de4a4c7595af32f1e6b61f9f58905d",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "0f03538d720ed26730b1353796207147ded8a414797261000aa613a5f6229583",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "0da52ce4ee6e365fb444617f824bc733dbe23303444ca35a254bb66bc063f6dc",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "a790624081322dd2c0887d06d48a1ace49cd2ab591e8cf4538949c94ad731540",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "5e5c72531ce35e8398253a7b8d9828a33aee247ddcb2a000c1e673380f1b5b04",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "f39aa9cf98a98121e58ba48c8b4073cf6e95b59cfaea255c010721dd115caf79",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "6efe1692872443283a93563d90f85ed8c93e7ce589ba8c0446dec39115d6de4d",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "600db1e7643a63eac196a13aa07084e28d92ec7ff1c218b58439be594354c8df",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "c85b1dbf177b60278a7e3568121d3e83382386afead0e07c2c9c6cfdd94dc9e7",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "c2b71e7537509c0b104b4b5fce88d598deb156cfa827ec47a2ae07855dd6573a",
+      "symbol": "SOPHUSDT",
+      "url": "data/futures/um/monthly/klines/SOPHUSDT/1h/SOPHUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.SOPH",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "SOPH",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:18.916773+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-05-28T13:00:00+00:00",
+  "unit_multiplier": 1
+}

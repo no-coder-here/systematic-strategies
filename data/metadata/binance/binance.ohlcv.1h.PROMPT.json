@@ -1,0 +1,161 @@
+{
+  "binance_symbol": "PROMPTUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1744351200000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 474,
+      "sha256": "e2dde25a22789820fd2fc6a55b990ab8a7ca4871b305b375e17a908927a06cee",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "447fef2b09db5d4319273a74a4610f3db82e259582c2d798c41d11ad313daaaf",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "edde2f46f8af8758332571edd0298ef48553aefbe7ad54cbf1873e72b4d940d2",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "68dde0e414bffb21682393966d4614dfd149ed2bbad7b67743ff1f36aa0e2441",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "8d79f9502c3442fdb600368584590ccf85f911e1e0a65dbd30d22848a5b62eef",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "aa65b16b6a76c779408dff9d850992acb9cffd606dda4cda0aa8ec17c693d002",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "1dce7caee17e588ca8b32d99bf6095a0bd11beabef912af342788aaf0a767039",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "0e9be5a429e2bf533fd218f7db9348db1759771aa4cf8617fe3461aca3745406",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "ccec4bb76e25d81ac14e482e22697575f08e212eeafd52018a80cd492f71065b",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "9950943dc758e8bb3db1d79ed24330b4c2047ccdcc6df6ca936019d847650746",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "9da294ff54bc060659eb18d9ff3e3acb6505b0454137bb6e3c61b75a41032f9d",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "465308fa11254b4fa9ce96f660ed0094bcc425aa3a9db17af6be7b316584c807",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "4bef19deaa0fdb9e9d6a4bb28481b2303f41b59cfad2f17ee2a132d73f6c43da",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "cd4a468c15e511bd3cad9953c82441a065b6e029bf9af314f2258f5eaae178c2",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "2fdfdb163e6054a3aac40ff8693d7a8eb9f45910d9d222197f46478cf168d2bc",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "3e369f8f311ea491d0e748bdc996ead5ca850b9c37594e150b69bd700c23712e",
+      "symbol": "PROMPTUSDT",
+      "url": "data/futures/um/monthly/klines/PROMPTUSDT/1h/PROMPTUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.PROMPT",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "PROMPT",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:08.742886+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-04-11T06:00:00+00:00",
+  "unit_multiplier": 1
+}

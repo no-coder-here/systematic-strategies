@@ -1,0 +1,368 @@
+{
+  "binance_symbol": "UMAUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1683720000000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 516,
+      "sha256": "252cc5aa8716a3e5dddbdd1639ad4466b1d31bfb31b325db675e0fda6db4bbb0",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "e131a56fa82d9093d583ae6d9db792514fe2219be50deb8529bf65f9b5ee632c",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "7595a5da121c6dfe1ba691e1e1255b168135834ba70c04406fec154604c92cda",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "7a5ecc921b0389dc80841ed8d48bf6dca17067014941e1f23d3956f5f25c091d",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "6a76d6d1f70334b93d1558e7aba043ab36ddb79c059f7af47d4e55731a5232b5",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "f67dd4a3d59a3050097e9edbbc92db1323742134262db2265f9d203e242c3a2c",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "dd25649c5321ecc68aec4db767913cae69ab6656e84a09e5de7a2f1652ed7a39",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "1392d76046d7501644d583aa12a0ebf5f93e9bfde0453a9e16d856e384f760ca",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "3001147da980cd5f5ff8d74e0f570ec014bff50912b32f0a5678eef13575d2e9",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "12638273c064e607b963b0884c650a372ff84717858f97c8438bbd0af6914c73",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "437148f4df07d96ea90e943f2d9b816bb8c7aa6d34506744ea7c8bdbc0b5f081",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "61c93bd37be57e727b912f009eb3dc8de10806ceda0583cc6a9adba2dbe8a56f",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "9f86e9c9db76ed18c4468ac8ac25a624adde807c9ca2271c4dea4a853f01da8a",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "b9081b28a56b5fa664f4ff1a018f59982ddda4b419734da9243bca03a31779d7",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "d1032c586f701ed99675dfcbe1f39d4ae48f784bf5abdff09ff5d2fe391db518",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "ce6ce542024b73e7b77c45ea367b50512f37acc3cf941ffbd72482c5ad255fcf",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "ce3f6512e96bc9570ac58ec9b0a2c12f7ad3b9eb9b8526f25ced15e52f1c5930",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "62d17950ea615bc8ab8b88a4218a716368ae52ffbe96065c1eead8e729ae1238",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "35f8b22bd9cbdd06dc3ba15fa8e59f4b71af7d27387111fa3d6fb894a5d3927f",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "921cb0bd95335208fb94b477aa02eb448541daaebb267fcabbc0a09ed4e66ac0",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "1086a01a6e3098ffb897576dd1f6a56cfd65c343f185fc0418947a4f98b9314a",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "293b8038f2cd09fbe5a6566013a88e4f144448187ffbcde8f3d0aaed0ff9dcbd",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "248d9be091fca83af9a11e23cd33b20a69e123ef23e7fee11f447d56213d20e9",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "20599968f16fdff4acc28a09edfd39439c7587297a5d449e932987a7d8b42625",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "2c7e881dac3d49db99e3c1630839262373d51055c5574c594633b9f54b550731",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "e68075276fde14302239599abe5b6304feeb8908dfd56c0808414fedefc21716",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "3e2cc2fd071f9a1cf07b0aa5ae530fd944a02e17b5248ec3a665e269656ee7f5",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "b3894278a4392e356c28f1a62f0c3a5d2a08f18c4dd5c131c3eac129e54b529a",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "9d5c6660de5fce27210c17511d9693f40266fd08b7d2dc6394ab20e8756d1a27",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "ead9fe427eae5727e1f9bdf0a3c9e18863a9c8e50702d0782ccb734cecf1ad1c",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "4a0ab18310115550788a0e3c30fd9a0850972ead63dcdece422e95c5b3cf7604",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "4bdc9abd4f6168f662f03eb554ca4000c0aff9b2dcffdb16fb2a750e69c6dca6",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "dc4abd4d26692e0bb61495af791bb8814f501fae4de69dce54bf225d7b41e59a",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "431c4bb9571a58798aaac150d077f77a95e7ad36ea58f6394e83e43223e3fefb",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "96a798810621b4d46bf49313bafff18b84e5a9cd3d6d338e2a7670f637a765d2",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "a342df1c884e93ba18425b26debebad6eb107b7fa780759603d95f3e00e5da26",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "d44e82ee959fe9ebf75c1c9054914ada3f12a29000b1eb12468e314cf0fe646e",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "9b424dce76a437acad4ffe869dbd3cc37e6a146737b8198f8a4f5a427c624dd0",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "752481be59512f91d3542cdc47d0b1bce9e274857dc1171328610fb484f083f9",
+      "symbol": "UMAUSDT",
+      "url": "data/futures/um/monthly/klines/UMAUSDT/1h/UMAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.UMA",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "UMA",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:55:21.597303+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2023-05-10T12:00:00+00:00",
+  "unit_multiplier": 1
+}

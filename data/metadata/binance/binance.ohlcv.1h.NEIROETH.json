@@ -1,0 +1,224 @@
+{
+  "binance_symbol": "NEIROETHUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1725631200000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 586,
+      "sha256": "d9c01aaec50420d72ce09ce3c25860707cc160593d3998b72219823a1ccbefe7",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "a440b100ee63d5c23e58197213a86c5dbea95d863587b074a1bb83617a6b2f94",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "0d55a0efb3861a268b86a7bbef4dc6b973e250dbf79e45ab388c083159164bf3",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "6bc1a6be89b7b92c92d1a2ac98d9c8416636375659af40d86e1b476a10d6f66f",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "9fccbf56795896db9271277fb92ceb18f30821b40a4a4fc90dd6b95d35d1e231",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "e61a19c02a44089d96f9d412f135be27899f4c7d72fb307471f41a6ad18ddfa1",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "f59d83887a57643c524e7a1b12650c0bea10f036c8254850f7498d202d63dbab",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "59e63bb5a5d61022df2bf9d449b5c75e99ec213d48aad22ce070cb064ade4ca8",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "7102fe94eb176628cc058c4a08c17591de3d406749f9093bb48781023d2e6d7b",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "722ffce993f229ed842a2d30b59df2da4d85baa8019e677e828e4cdee3284679",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "cb55438e0ac68353b79297d36864c2d7a820f720f323b9a8fe8337ca444ddf55",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "08f1e365e3feb78a0a39f7ef93a5f207e0c1501820027b1b09a7e54958bb0921",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "94dcefc391077b51c2f07e0023592da6c94e9ebecc4ca325fb2a4c23a8966ba9",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "1f3263fc81882f6fe2d99451c5e6933fcb6796f406fb74f0c959dd8015c95929",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "20fd0671c6220525abc5b91e6e69ea48d869fa681e293daaecb2f7623b84d876",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "bb653efa2d24dc64cc1548898b1579ec635fd15e2e197f3f90a23cba8363f4c7",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "6cc15a5885b5d4d590362b1837e36bf8e11a39b4bc685914f46c9ba4f9a0d4bf",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "824a477b82efe1f70e2202cfa57a91e7693f51647ecca712d50904ca2da079f5",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "0d8d94051c4e899ccb4cca1f5e2453205fe6ef8c9758ab47a0d2b2c3e1569f06",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "0f7b97bef9aa32c2036a6c96e19a262b8886b64715562f722730668fffa445bf",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "9363edca0337a354e13ab532f4489bbb15258363a21ae8435f9f286ed1d37bb3",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "f90b86f3320f02b118939a6512b19ffd208070b8c55f2a985b77e677dcbd2ce8",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "87b46bc405b75963287d3092f87fb8741e205428d52ad3b8e87831a2dffd5678",
+      "symbol": "NEIROETHUSDT",
+      "url": "data/futures/um/monthly/klines/NEIROETHUSDT/1h/NEIROETHUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.NEIROETH",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "NEIROETH",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:56:50.336407+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-09-06T14:00:00+00:00",
+  "unit_multiplier": 1
+}

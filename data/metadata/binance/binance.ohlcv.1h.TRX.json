@@ -1,0 +1,728 @@
+{
+  "binance_symbol": "TRXUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1579075200000,
+      "last_ts": 1580511600000,
+      "month": "2020-01",
+      "rows": 400,
+      "sha256": "fa1dab29482bc9dde649d04f140a5f9e09ca3fad6cc627b1f455c4dfecf01973",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2020-01.zip"
+    },
+    {
+      "first_ts": 1580515200000,
+      "last_ts": 1583017200000,
+      "month": "2020-02",
+      "rows": 696,
+      "sha256": "21dff80ff58087a162393bb7adeba70911f763301392c6aaa0e7b8172ec5ea56",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2020-02.zip"
+    },
+    {
+      "first_ts": 1583020800000,
+      "last_ts": 1585695600000,
+      "month": "2020-03",
+      "rows": 744,
+      "sha256": "9c15a1f21f95111b6927b8a84bf721e777e76336b196918c45eebfbd323bd762",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2020-03.zip"
+    },
+    {
+      "first_ts": 1585699200000,
+      "last_ts": 1588287600000,
+      "month": "2020-04",
+      "rows": 720,
+      "sha256": "ab6b072b4d0c362a1ad2f7d0ed705520a4900694d83df7b32609964c6037da84",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2020-04.zip"
+    },
+    {
+      "first_ts": 1588291200000,
+      "last_ts": 1590966000000,
+      "month": "2020-05",
+      "rows": 744,
+      "sha256": "6d3bfdeb001eac9614f74516359542b2d37d7c77fc016e53497b129c074177f1",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2020-05.zip"
+    },
+    {
+      "first_ts": 1590969600000,
+      "last_ts": 1593558000000,
+      "month": "2020-06",
+      "rows": 720,
+      "sha256": "d662598b0f6576b084d86c7f8342346c1279ffa0520f955c8552d2e4c3a173ca",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2020-06.zip"
+    },
+    {
+      "first_ts": 1593561600000,
+      "last_ts": 1596236400000,
+      "month": "2020-07",
+      "rows": 744,
+      "sha256": "120931485e7fb986a76da18a8c4c75418e4b2df2cd283c82516e034fe3515539",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2020-07.zip"
+    },
+    {
+      "first_ts": 1596240000000,
+      "last_ts": 1598914800000,
+      "month": "2020-08",
+      "rows": 744,
+      "sha256": "17d2f167d7a41c1d690b247a6b152981999d78e89d95cac31f90b0b8e92fcd76",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2020-08.zip"
+    },
+    {
+      "first_ts": 1598918400000,
+      "last_ts": 1601506800000,
+      "month": "2020-09",
+      "rows": 720,
+      "sha256": "e0e2d089acd3badeb0cf23f68867c31710ccb0880cf01a5d5fcfc1beb1299d0e",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2020-09.zip"
+    },
+    {
+      "first_ts": 1601510400000,
+      "last_ts": 1604185200000,
+      "month": "2020-10",
+      "rows": 744,
+      "sha256": "4f6a9c6c74121d548edae3425fc91014009fe5c1c4429f644ecd08de073a3eae",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2020-10.zip"
+    },
+    {
+      "first_ts": 1604188800000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 720,
+      "sha256": "565d55918740f362c9839a737a707958af91ab77af61e1b4c82b9ead154b596b",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "66babbcc7b99d2244b400ba2921705dfaeb15fda5b5f78e4ef93b14c34f4e984",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "9658adccb18b138f7ce23f6030633aaec3be220612e1b3ed3c9579966a89b735",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "37b98c9e10163e8c4201dd2e798be2cb819a7fdb084c2ecd75801cb86e11afb7",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "56a4fd8e7bc707098cf138fccf5700d79b5fef81ef12a18dfb000d3388799a3d",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "9d8517a2994a5e43f64ef4d50bec1634e1ab66293cca732e79b24f148c0b7ad8",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "4e22d182f94c06463bfa30295ab2eb02fc2dac0c7fb068c213b04810ecea4d72",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "7d3086401acc2e83d0314257283e23621bab3c0afcb7c39edb795afd6c40ba80",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "8c18916bf8317125aa8677147b73c5d3e7fedb49a94b3cb891d137da043fe563",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "54f3947fd41865fe88acae27340f1e53d853cef357a9d293b0eadee632933e9c",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "3c2fd76a55955a581c07b08c5bae84a2da09bb949dbaa246759d556bdce97cbd",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "754c461f6a4542a936fe7065b0828410a0f4e9956c41d5b87c84479bb1e3a0c3",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "94f26977a5c562deae5ed12eb0c094139438f2ef81bb42e99bba43643d1bdeb9",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "3a6711e71af38430a3c0db44f192d002159ea44a3c437e3b5502fd6123b55f84",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "c1ff9e7489c6adbf58c9d1c2970b53435cdade5a6beec5797273ec113fe92aac",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1645830000000,
+      "month": "2022-02",
+      "rows": 600,
+      "sha256": "e960c9147b5c0ca10439ce2c9572015ba408d7f2c0ce6b4854878eee49c708cc",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "dd4fe3a15ff5f019052fdb8b3fb3a4bcd914c4de7216335d5f69d743b5e2036e",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648944000000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 672,
+      "sha256": "783ac2ccb4609fc86765deef2a763628f0d73c8cfc306d2490b5d5f2b3546a84",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "435604cc072728bb9ff0695ab4f9d993538355acd2608309c62470473c51fc23",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "128fe489bbc903f1e168b47638baa0b2bd3b5688d1a9575e1fbbc3ba14356ef4",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "91dc7da7f5dce7dbb2e8c24aa1c17e66f51bc4ff7c5a0b917d9f2e2af153eef9",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "1f2ed7b600aa3bb7ce1a38bfcb4186f123dc9ace91e6a4d0cc4b3e746bb7130f",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "e22545510b645beda3fb8e8ed01cdb27441bdd0ec2451cddc102310a93d1eca0",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "9a49b531757074ff297a98be8e35c88c2cd6b8444eb197a651ec2c90458f8826",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "229b3cfae8e59b638c8fcfb6d4c13aa9e2722bcbd333abcdcb7e0debc70e198b",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "51ec62149977ab4a3327ba2c25580c87d0ecfeebeae31b1f0ca33c2b65adb186",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "b96d08363cfe2cfc75abe7959bce11198c188f5a50d2e079246e747ba834d79f",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "4f5c4063860370bf5021f823bfe9c50285f0494b7f846cfb2de080e344c45152",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "b1da4ffa6ab9cb907f196a8a64c859fdd4a5eb17abbf71f1050ed316f5dd828a",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "c9fe47ef439d582c3cb3d6d46923093aed88db086189fb63c6aa81bf420e0441",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "6677cd0a81a67fba67ea1af68f8a0aa195de7ecf4a3d20b468854ae7451d8735",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "5865db1530da4bc8998ae4734f9b2fa6dc107f7430936a5bdecd112113a30025",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "2165c4c42a3ca15a6cb234c97dee9692e3f43829963d71aa3d79e6c54405da86",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "800fc7c45905bd575e7e45c53e96d25499aa0382e68c0580e33c7d427c09bf1b",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "15dd5d159002e2f1359436d751c2b51e09162c9d6e5fbd85d3734f633d1cf7dd",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "627078543e0dcf2124d2f4f7c6eb85dab8af766096de6133be38209073628a42",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "bd83150a3b6fcc0cf418af9a9af67540de96f58560796d6066d4384cc3f8b8f2",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "6293d1b1485056762f27548fd585c4de3fda0f7c4627f93eb427bf096642a676",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "d11cccd800a21b9fc32f6c26095b7d214c3e751bcf258aeef551770a7fa30bb3",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "8874579ea4a9b72ad8719ad645150dd6a16ffc76bd92699c56cbec57414e55b8",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "7f0abc49455550c3ddc7c8b6f8c87c95c3ed9415204b60592fae683c9a516fca",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "e430a54d3540a5e7005ed1de7953df8bcf1caa1c46448c94936a36eadbe59ea9",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "42dfff9a3700f2ae6d958e0bbd4ade928a5a4dd6ceb23d6eedfc025962aa474e",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "f039b7edf3292493c93ecb544d191ea8412eac23fd5b3ca54cc9c838c2fa367d",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "b8e058216b1771b57b8b322062b6892c6cb3f9fc3fefbe47769710a78157acef",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "cb6fd04b2a25d0bca36a7223e223dc83f3628ec6d54ed966c3583fa0d21dc64c",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "26f682a2c71ddb222a8dcfb9499cea97a98f1a8bf0d6bcc9eb5e06a8ff70522a",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "3249cc0b563fa60663f3e6fccf8fc667766e85edd551a3d55c159ef20afcceb1",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "c15a5c243411e74bd5121bcb238f534a94468978a160807439825fc31393ca7c",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "e57ccfac748da229eaba9c4b50695eb2a162f173a317a087c5e71cd6af269a10",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "664701ef65ee72c7bf86bf648be76ba982b23f607d82a2e50497ab54e5bde347",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "e474656d29f4cf6bc26f6c9734f75f97e274915c9a4786aee34e5c9b790263c3",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "51793c7ed20436d966309fd409ddc058c2ef7784f1eb9a481e418b97bf8f132e",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "0092c011e1420207ac264b02d8c07c72a4f0d955ae356aefc97df40b43d99d79",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "c41afcf5a0ed2a1fb3f231dbfb32c1b613afa973794a9ba6eaa060f71c0243e8",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "9282c1d0bdede69eab16e5ef9f7e2fbbf3d35d65d744a2e6648ab7e6c0bdb78b",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "2f441aea2b66f9e078d4e3e905cd670d03b42a1883ea0ae4cee8e94be332f161",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "d100dbfb99c49e243842203fae2a00a0231781277267fa3f2b7435bfd5ff5541",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "9998f9890bbdfcc6e4ba5c47a09af394b87f57644a688fc4cec728eef0d491f9",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "1a7b1fb6f31cd0965e23f76310b00cebd34c9eded62ffb587c40480353e3dfa9",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "ed8942cbc2f4ce19e67af19ffe27236203fd690923a54fa72c52d5eb9991b0d9",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "a96ccb9e5fb058727b265f547f321c2f90b34be8a460864677590923fbe38b7a",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "fac33f09d275a0198d958f4b8ceb300a1c6fe7b2176c34ed932701c64385feca",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "072bded6f574dbb7255982eaefa2e43d863a7335e40bfb5f0afba6d6d4df0645",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "256a9a040f31d8a151f24d3271cf260929894d66019605f1c4d95cb51bc685b2",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "6928deff5ceca78de609592bee7240bc581c1c08845cfa381b77a88258b6e110",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "bf3bee79539eef9517284a1eba3137dacc5b7228fa4bca0626094531d9f60862",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "9878a38bae598b468264725f9910ed68d9371e5045376c9ff63d13fd3f32ac9a",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "06d306e4b14d6d12a2b15edb00d8dc833111948ecbb502cfd093ab628cc9188a",
+      "symbol": "TRXUSDT",
+      "url": "data/futures/um/monthly/klines/TRXUSDT/1h/TRXUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.TRX",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "TRX",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:52:01.593246+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-01-15T08:00:00+00:00",
+  "unit_multiplier": 1
+}

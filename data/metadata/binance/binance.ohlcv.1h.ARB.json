@@ -1,0 +1,386 @@
+{
+  "binance_symbol": "ARBUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1679583600000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 201,
+      "sha256": "f9bcfb103cab40cb8b41740cf6290f5fee44118cc1851a76f01754ba13fa3814",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "cec0ea01b68c6a7ac5df3466d419426cd61dd160c741b82712c287fbe07a8adb",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "81895accac653e0cde9eaf8545c30d68d16ce6a3d87d24c514946fbd978597e2",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "d11ca740e78dbba3d5634c7308cf3e43012fc92244c56545fde3aa33c9fbd530",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "048b7dc404e01bb473f4d6dd6c6eacb1dd1a208d07a2eeddcda47bf1a35a9cf5",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "b515d952057a03845241252ff40d4d9cff7d302cea9105bd34610e1da6a19403",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "5ca0841581a2d3bb0ecb0c34c87c161035d823cc4da8b8129b421280da825479",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "8016d6206db5147f1aa3940bb11deced8d7edf79239459da2ccfc4cf1488c2cd",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "4a0dc5143475aeaf2ad8fe206891ecae37d0e74c8133d0b471d24737c7a70a49",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "a0d1abc9750398d16ae9d694e01be78dfba99decce809c1ae3726d3b21fe842c",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "9c7536612e3d7b90d6c66557c6c46979522774a9068fca6d45d716b2d2185d6f",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "c382db5f14ac94f978e628c791d1ff830d31f5b43fb8a6ccbb6927e58ad45280",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "2007bbae29a06cb2f6fc868c6504a9e6f729ee2f81952dc53b0828b6549a2a7f",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "62c60ca55593f1e89cdf5ba61655b1edbd124de871e49b02480d78b8d3211b97",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "5321ab2d5e7744eda3ffedd6c64294b5277cfa5200fb55d33f1a227a7b61b4d0",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "fd0756410a9341a0b71ab88de3f65f972b5a5da8c86490e7b363c4d47fad14c2",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "8e8d0e07c74ef515f2814f7b4d5e96a18a728837346f1b4634a6a82c4eda2f6a",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "cabb93140cc375aa05e3ec58f9495e80b2306c300ba27f9392703700b7fb02a6",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "611c4ce603a9a096eb690c8ea85713bb82daecc8b3884b8f20b0ae748bd3ac4d",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "f36430a62f349ae64e3d9e5beb0dd93e829b0c521ac0e8601fca09b1e971dd78",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "6cbd4d82f6b94422b0adb9de3458c2c920e6e34f1add5de6855840c1bbb2b4a1",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "966034dcc8f4a4103c0f84ec5b64e965648f2c24091ff4f2c115e1fd34664ac8",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "9ce6a79d65c0df0e6044ee4dae079f25fbb6ceaadaa8a7179822f071b3c1a470",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "9f50ca12cbdaa1d6ae6ded1eabb2cd7d313c5e74bc387e2446561bd4d5c1592c",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "5e79d8d244c1480017de71a16128c712f5b2fd35e5ffd466316dcea7fdd2edf0",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "a052b45ea5a4d30253f345d606ed3cca51b95e8b72034bd52a0d00859d90a275",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "2eb0e49b392729fd96de14f27dce1ee4c04cb00c7a0e7c4b8bbe0ea50a394ad9",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "09703cc620fc9afa1cbeec774695b24e8738fb6a020dd8ab162f0ba85abd4f88",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "d9f34ea9bab084632b71c494caef9ba53c26de2fc10e52672cb59f0891a964fc",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "781b1bbd2c329750dc2f17bf5113e57a67f740d03f39623531af52899b061f37",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "a4fe38866f78f47274bec4c8c133673d3090a09cf76657ced7833013fa8bf7db",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "9a746aa574f9d22c09c472a04e5e68d62c41f1420dc5b15920d002343a1f106c",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "e5386aee9dd53a8061658d849eddf6058d2a4d44ca9abee5c217f2048c242719",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "358d76700abcc7e90e45960fb2828123088b640f4622c3365858b58a589a8ade",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "cd341bcb66dd67630a49dfcce44a5895b5993a7ef612c08dd9dbc3e306a9ae1b",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "e4edd7ef8e3dde38cc31fd4cfea297b55b2d8351a6980df5b636b7fcd9251a7f",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "d45dfce326269d84f7f8ec465d9a0b8d922403c36c4b30e917fd352ee596784f",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "13dea384da82f2b63c306ddbbd657ef6aa41f855003cb61a43f4e6f15eeda361",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "5073bf3f5021dc48962878fe7874aed8d9fed752d23eb8d412a00a7e4aa3a1e7",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "9c408b49d4a85a44d3e8ae473d6870ecc1494e7ac1bf2d2bec9989108c31a971",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "661f085be8f6e1f112ca127379bf4729e7ee255e527c909020165aa8c773afa3",
+      "symbol": "ARBUSDT",
+      "url": "data/futures/um/monthly/klines/ARBUSDT/1h/ARBUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ARB",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ARB",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:48:37.787812+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2023-03-23T15:00:00+00:00",
+  "unit_multiplier": 1
+}

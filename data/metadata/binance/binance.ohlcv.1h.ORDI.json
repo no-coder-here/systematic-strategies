@@ -1,0 +1,314 @@
+{
+  "binance_symbol": "ORDIUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1699358400000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 564,
+      "sha256": "22996d3c6031bf18561692bb1e073f56cfae932eb69dfe50485acd0b510a392d",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "3b7ef932f5ac9cb0321e8dbcebde970783f0f0f7843c0cc2a1037d083129a9fc",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "71e12d389c7da99c85595736d26b32fb931c07f75c58d7c31fb49a246a0709cc",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "42f88bb9bc327482413105c068910c3b5bc8bcb3f86d76d39d7e4ce4c5e7384b",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "70b0b6783807a9f29f89c602284e476734c895b9202a0669125480abc84d8332",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "d1eb06e612e5c7c56a18f245b03e3a65e2866a69f01686aa5d858d32b3f3c617",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "a05f05ce90bb22505016934b5792a2c1f522f3e26686ecd2ca0cc1338d4519a0",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "822f8c714f38fcc9d7a57008fcf4e4726776d4a1e20a040a52df5f066e5c8061",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "d8e127a1bf689be265f025a90876af4a445a411c06171b859539a729a1992677",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "aca7c323859f63066c04ed24cee582185731068cb5328e426d7c0505e98778ef",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "8de3f1b7c45d742bfc4eb5abedba31dce33822443ce959ce5824bde42202ce39",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "a4ea56186353da36786622ac5d9736baa33b367ce79b2ddd09fbb6bbc92da2f3",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "b6e42c6f082f5696175332d1ac6d22e71f4bd98d2ad9eb4991f942365f2dc29d",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "18294760724708049ad678b03e584d118f0014f675698681d5ef251fd4b397d7",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "4426e47309d3779c104d60059d22c3db1b70ce23560bae5485890e6f16717c3f",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "8b474a77afb464aa3c5fe45605f54ae9c89d343b5ed79c97847335dac5c2c097",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "b22858e3a43d9210e2420fe9a30aa51cfc5d1a4e0aa5cfc8dc9f72ce003fa854",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "d14fd3a3a8ca77f64da522f033fc20c71526b59f67f17d2268a6517b20f3b233",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "d2ac105aa19c3424a98e01cdc3d1ff5506b0b86319fbc19f02f63dd723599f56",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "df667f4c9a08386451ee022535a09ab4e3316520f3b4e2460c35db4b5609d1cc",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "ed77d6e2ceaa7c5d3065d80ce7a78d44e0dabf201dbd82405ae5834f2c8ae4b7",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "1a736fecc5735ee8109f29321ddd621abb63ff0f6f1b41d1f088ce314f44918d",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "57d420bd8dcdf30ea25ccc9f6f1594b1a478358c97ca55e709492ee7854a15d9",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "b23502368f8164d510d2330c26f63528c010d31cda12d630a14e3b70bcce9720",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "e918f5c755734df2a237406254943a4d2dcdec23ae3f5884e6d15e15d46e28c2",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "0849ad58f426ce61a98ea281e9e27e3fe561067ca66995f462dc8b4a2a252d1f",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "802a753012022039541520e8da5942b15e11b31587a7d2b4128d0512e4ee648c",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "e40ef797b5d52b7f455e170a39e159413820b0aef708f5c56e67547e8abcb558",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "c6e115da5fd70a818aac792315fd50082a20ea09d6e829f3a562564a8daa5dcd",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "56f328f816f650c02e4a7e80692e8900d2a117e556a658fa4209129bfff7940e",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "2404c648f36e3b724f692814526f91f236bc2bc27522ef07dec5f0856f0ebc2e",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "54d582ceebd959296af7b2fffa8871c48f5d9d9dcc8dd49a120220001a284a10",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "e3e081f53e0d16eadc45b52a028543116bc22c0ec0b7de360c1336edfeafbd7f",
+      "symbol": "ORDIUSDT",
+      "url": "data/futures/um/monthly/klines/ORDIUSDT/1h/ORDIUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ORDI",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ORDI",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:52:53.126222+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2023-11-07T12:00:00+00:00",
+  "unit_multiplier": 1
+}

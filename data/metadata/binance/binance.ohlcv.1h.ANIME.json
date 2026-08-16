@@ -1,0 +1,188 @@
+{
+  "binance_symbol": "ANIMEUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1737651600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 199,
+      "sha256": "4812759e1106a3b9401a7c3db2acbca066476327eb56f190700fe10f79165237",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "9af7fea4235646c2eda12c6275d6a34ad02ea40cf58eec41e1bf1bae7c1b80f7",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "c26235a06757debb582b8cef5c8be213adae059955f8ca1b4af756bcc2d91d86",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "980cbd9f43f5933baeb929e667ca7563695ca946f6e53986d23401753935289e",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "49eed40d24a89594573742af59b8ecfa8ac69f5b09661f529256587813e570dd",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "e9a05e7f0843905df69c844d4ef52b601559cc7fce299fac2f2125753e2f37a3",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "c6b54ff8226664469babf2dbc0bdc4ea8d0e88a77be250df46788300f44c7aa4",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "7376aaa7cc2abecb1c8ae9224c8d10b374d12017d94c287e9d1d50de1a37f470",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "9ba45fc7f343efe14f53637eb2c557acdc5f0d301f51ab6f2754bd7b37ef74c4",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "d98fc249179deeaf9572e0aced3fc89cf566304bd9d60c2b22099e38c3cb54d1",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "7e0f576c5ec09255d8b86b0e679782d34bac33ee2eac189079184c1805fbd7a6",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "d0d8304a0eb48a228cf864ef07128fae84b9c73df52f8024f9d5e758b28ade84",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "ed0ce91c15512dd2eaeb882171002e4508c1b34e305b9e6d2a709d4ad8b566a4",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "5b86ec7caf9944325aaae7dd7759223d008430761c9e7a7f07927b9504edbb24",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "bbfed3650822fa7d700b9ccd9720c5e2ea5d2728d6ac7352746a54f2162d327b",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "2a1395da0cb5556584749bb7f7b22bda01e55273035ad0281158c7241e11c1db",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "d81bff2c18c02fcf826f32555d7756cfbb6350a37cf437ce7c24d11623c02740",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "1696d9f9f319813a532b021c421af38c89a63c53fdd4822c1db91a5a761cfd6b",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "fd4f7079269da072038fac3bb61ad9ec00f500a1d6feb1928aaac4efa968c790",
+      "symbol": "ANIMEUSDT",
+      "url": "data/futures/um/monthly/klines/ANIMEUSDT/1h/ANIMEUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ANIME",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ANIME",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:57:42.764419+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-01-23T17:00:00+00:00",
+  "unit_multiplier": 1
+}

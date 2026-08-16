@@ -1,0 +1,323 @@
+{
+  "binance_symbol": "STRAXUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1696989600000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 502,
+      "sha256": "f9e4b44a2f01facfa4290635dd61015ae79e2c2a9a0aa6d365c847fcde639a12",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "0da4455fcbc59263c4d083bb8adb081600403effc9006a305b9212fcc13be482",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "ba5e642c4cdbabccb53ace2d184f1365139230c239725d864e1eea526f5ef165",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "dd63c6a576a6e756895ac72ff8e2c66f671658406c1b0dbb93a8be08cfb4d05b",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "0b8bd1fdf864d144f7f0916c905b2b8b0618a2090761eac047a5bec04cf517e7",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "11a4749deab997e6822652958db646f0e0c68f7e1fb21fb176915eb833f6d783",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "b2759c880cc441c167e3a069c09f2a2165914f33792643810d5506a83e57f92e",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "259e56fb6de9173345650a09c3ec99b947d161f92872240ac56cefd448273856",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "f7e1ea81f09948afec92a8dfe3e2193adccc286ee0f2b8f875459afb2a47df40",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "de49dc82f82c946a69daf36f10f7eeddd18fc52a5bc9a117b090caab22608eda",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "32fd089ab131bb6f98036470579aba76173f9efacf6f3c89f3bfafcb3a93470f",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "ac818372ed229ddd6803ccab5b6213bec1ae1984dcd2aa474a34143c5fda8e3e",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "a929d7d7d6b0a3f8cb951d864419566d1342cf05a554e51d1068b895c4f355e8",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "04ebb91d11d6c0f57b0cb23158c32f70207fa09760196bbf58e27fc7c153821e",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "3ef3b5b3a5b036c945cb04c578940a9e0db4df8024bc7533f44915c16956c1ea",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "478dc70ed759394272eb1811d0c49441297461e0264427ceb600aa18ef494836",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "4d30d7d301683b4089b05845bbb61bc61f074c300d6e5ffed218963e865ebbfd",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "0f3c15093c31c30dcaf549f8fb8aad4118256c349554cc467165f203463eb0a8",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "b246fb79fecc4821fe6864f494dcfa7be1e23d1ffda54802f78dfd7b2f4d6beb",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "ab3291f75a665715cec43b0b2f07cc02465168617743f70f795c8e1097497dbb",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "b63d23d9629cce6b82bda32fe211db360bfa131c14ac8104bdfd6b7a6544e10e",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "abdbe267ad43fad563c8609be355a6e0a90062eac16d9b35d07ec043dad8cd17",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "d93fa674337deffab4fd5edb822f73d5213ae92343f736cc628b8a349bf5c2dd",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "e36c15e658e07edecf88e55c96e31c1f3a55396dbdacb742c61a102013eb390a",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "a28084b063caf5e567584451566cf29ad8f9fe3fa914a91a85bdbde06a14ae3c",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "7689c01ed713874b62a5d6bb138a50e02f1d3d483fc640b40f0e06145e8c5000",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "e7cd683e21b3ab25cde229afe2c64c1ae0e3e253afffbc1f6322ba6e9e5c7625",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "985fb9cca43509664f5b98fd1f4732dc19e2ddda96cabfae36e11058edeca434",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "decab881b4ef898a0a2b59c2b9fea8e3a0a8dec11abf05312dd5905b11b21e48",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "5cf81a1ee3edbc06cb21e3e0e52ee57a27a73c26c6847a3878ab76965927069a",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "24df9c7af8eb78ddb6bd4d18ce863908591bddc64e7240baaf9da7c570d92e3f",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "e5ffd32bacac1c47d700c58acb21735416bae021315e51bcba8bb3a826c64838",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "8e991faeda061d287e6ad51ab804517ca0f10aebf35b2f2233f4e3043d813ca9",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "17ab6b982bb13b698353658039fcc008103197b29533645604d10da0b9386d41",
+      "symbol": "STRAXUSDT",
+      "url": "data/futures/um/monthly/klines/STRAXUSDT/1h/STRAXUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.STRAX",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "STRAX",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:52:46.243259+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2023-10-11T02:00:00+00:00",
+  "unit_multiplier": 1
+}

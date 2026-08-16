@@ -1,0 +1,179 @@
+{
+  "binance_symbol": "LAYERUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1739286000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 417,
+      "sha256": "99efbd1d0d73a9917b0f502b775a53095892b3245f83c01b476b2d18770278ac",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "b6f61c38e3fbc8918e3f9a925ca74e2842c04c111f2d5b8c32007fe1db38dcb9",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "225d589aae408763dcc3dee88d342ab0368a548bc4e4ead5bc60a8116e730981",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "f0e0f5795f1edd86ddcd58f0482ddb2d40267d870021c4e0bdcd5948c77a1488",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "47b1bf29488b1b56f4f6fbc1dc7ad3e00bf58919854d02846479b35f82a1207a",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "10939303bc6b7d9e0ac74d8621a05181f04f834fb02a20e4140b2bcb484a7361",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "757d0afd655cceaceec9c274fd8f78de3f430261f045f933e60f1cd9b84d8ad7",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "e2069ecf278ec4c90220554ebee2dae34d3b1c11e63b0487ec16f71601c786db",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "e46b4ffb9afc8c950d9ee282beb4a1b12ff7b6e988cd3b371a9c3d2e92f1bc6b",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "f31d7bd4fa32fa0615f4b42d05b805c47c8eda265ed93a1e547a649dac10ef96",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "d2a92aa22fdad1b5472db75f5122e2ed7699ddd3a64740a67c6829d86047c482",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "e1ca25cac653c3f66b9738f2b9c8a1f8a7f98a7000440ce3939a8ced413d7251",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "a004f3730cb36c33ef55ee4fa6db5a18c09743e43945c1ec6fb0b49bc6160392",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "55be4242a8e5e12efe715b66c3b61268e3538e77934f3fdd7e3925d74f20ff57",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "c190a4a48f4855f2e3c73df69e601ba9598dd3fa7ba36adb8d58ffb8b40e01dc",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "a5e891eb4848781e9968b50b97ad2191d437cc68fc5f447d1c7f1f0a5a9e3883",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "c5406569a9fc35f5c76db88c7a8c41434725d1f466b676d20841c2356e30ca53",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "8d0733714fb7d1a73ba9c261222e67b03b454577422f17bd4a18a004a1c71f66",
+      "symbol": "LAYERUSDT",
+      "url": "data/futures/um/monthly/klines/LAYERUSDT/1h/LAYERUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.LAYER",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "LAYER",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:57:56.581393+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-02-11T15:00:00+00:00",
+  "unit_multiplier": 1
+}

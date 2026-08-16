@@ -1,0 +1,674 @@
+{
+  "binance_symbol": "DOGEUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1594371600000,
+      "last_ts": 1596236400000,
+      "month": "2020-07",
+      "rows": 519,
+      "sha256": "cb5abc84d349de346fe5cd716d35daf17329df413e2bc5d729aac9fa03f919ec",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2020-07.zip"
+    },
+    {
+      "first_ts": 1596240000000,
+      "last_ts": 1598914800000,
+      "month": "2020-08",
+      "rows": 744,
+      "sha256": "5f24b3b9f6bcff31c343d1836302a4e4f2e5aaddde1e5b140ae63ba67dae152f",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2020-08.zip"
+    },
+    {
+      "first_ts": 1598918400000,
+      "last_ts": 1601506800000,
+      "month": "2020-09",
+      "rows": 720,
+      "sha256": "80d6632844e554d25aec5a35e0f143f0b641327e00a5ef1a6168d749b2330c60",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2020-09.zip"
+    },
+    {
+      "first_ts": 1601510400000,
+      "last_ts": 1604185200000,
+      "month": "2020-10",
+      "rows": 744,
+      "sha256": "615d4394552bf163e875bfdf1893d704627b6192cace3463d5178945ba3f6a72",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2020-10.zip"
+    },
+    {
+      "first_ts": 1604188800000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 720,
+      "sha256": "0df182adcef55008913ded0009d3b199e8050328ae144359e49dc9302c6953f1",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "e6364bc96e2e6816128a69b96cbff9652e4017b9359c003d6aeea33064e2251b",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "a3db1c662f606c47c9f55b052ac642199f966c25e26494f3ee73df54d12e1768",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "efa72e5973cc31857fb182dd8bbd66ad021a98fe28b9a124e9461b27b8c6b564",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "3ab1410d70e31b8dda9019435e5b4f56a8b17a48d7f2d406646b832d1570250f",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "1b421c10a06375f35d61ac40988fbce48ba031169765d8530b5baefba389a7cb",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "bc839697ce27d04de1a212fffd23337ce7f9906b00911c75295b63ee9c8e0534",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "0a670f9d49cc1aab310ff4fd6bb2fbcfdc22293a1e2aaae70e9d2d65cce1f730",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "ab9bde30a7fa8b54c87a9054ae5625c90ae844ddc6e2e5d951f6ed44d4efc55e",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "da917b8ed9e39692a01fd57ebdac164aeff451e9bbdff4ec4261edb3c1073319",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "145ef5e542d57ba10bd0ecddcb1878eb60effcc29a1ca83aeffe1925a040887d",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "40372d96653370a8194958360057bb68a863de9e565150ee89672fadf9bcbe57",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "eeef1ab8f468c214d36d4a7b2128b15142f884585f4a532e1540604cec390d61",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "91e8086e6db915af645789e6c9e0fa57393ba74cb6f1abf1d9c3d62e13aff979",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "1417d750b0d2e0fe19f578b060bfd1ae327d1051b4943a88b8231045535c16ac",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1646089200000,
+      "month": "2022-02",
+      "rows": 672,
+      "sha256": "97b1e5e7dc5fd4eedf8b1e67279796ceff6675032ef1bba566d1c3e3360dba9f",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "8ca9334f2e589b01ed7277991fad925378bfd24c8610a4dfe14ed51f0d020e2e",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648771200000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 720,
+      "sha256": "d2f91910d09008597cfcc945334670935fff05166135480efe38bd82cc0415cf",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "2a28fa3641ff56c5f2a55535400d0f2e364f52506ea3eea37caea8698d38d04a",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "f0e19aed256a190e872e2173f777dc7ef5fcee2fc78a2a136136c11f96d3720c",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "b04a5ace57dfcd34da3bee593cff05560dfbdce1bb76038344eb7d0802aa208c",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "bcf881fdfd14256af7f39a404b56778492897a165741b45ec495e486454cb8b5",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "2b22c8d2da2388d4e9c384c4b5da7c4daff99e2b1659003c0f9f9dfa3c4f97c8",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "d14b4ade4dd0c13c83337ffcbbe2fcfa0477a0193bc66b3d296bd7b7008fefcb",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "51a354259d5428f943d8484410dec113f07d5843b395d23cc0ae0ae55d78246c",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "6d6edb59ad96c86000870a1e880584a385d52b8213f0ad17482d83c3d9ad6829",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "51a0cc4fca1e099633e8c3767bf85afe59b87757115f7a42de920caa0a54f4cf",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "309de0cbef565d301fd67863cd27214d0cb744c2dd32b29c94d59bce3871020d",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "b58511d3e39ea5f14e2df2a2518352fcf81c31968a57ecbaeb569c702cdcad00",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "a004b7e057367815fa62e704a6ca7ad6bd572021ff39b0c2016d5a590cd19b8a",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "7ce4eacd1e2b780c3a18c08316b3ab71e7885d971587befa3d26de7b55b758b2",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "7dd0d00a2112e5c7e9b11ba558ee719a0c3dec9139ecbc43af150a2e3ac9885e",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "bbf241b72f8f43226c779a9744cb884955566618d7ec12cf2c335176916ae0fd",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "6beea794899f31a542216fb91aff7501404845bf35206bfb2c1ea840b5e0a9ff",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "3923f8adb8d5199154c7b2f90a82f738b730b13773acce8c9303f084b2b5b1bd",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "477ac096445ab3588c80b0db900e77910ecca1e5a454c60a9584a332514f366a",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "c4d5144663da92a1fcb281ed40fc716cb691276b2cd7586f951d3ef3b329035f",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "873d3114e98a54a374272e6f4c6399f4e58e8500e7c483504f6cb7ffef583c10",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "8bd80cc22d069646651ce212c5e2f10e83950cc2b82a5d9a8e9a360e48361a56",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "d60a999ffbda06d4adb044a45f77b088124c2e5ec6cbf4abfb9e4ddfa65fc355",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "dd6ed8ea3c2ef5240075ecbf41b11ee265ac7bf6bb8962eecd8c51daf4f1b0f9",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "fabca76879e2dbd1b41b768d6aff3265108bc95f0879d5029b73e07f19888b74",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "ef242832bf94e941b6e7d7e28334ee1bf0e81b9ef950019dbcfe2715e5c1a10d",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "319161d883c80a04c4a164d5775323e3e849469809df7b3a6ee1671e1291ef0d",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "0d7f434a5616a61b98b14b8bfd384e02d946877687dc2b487c3c01bac01d3264",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "34c14183d9a32aeb06a206be68cbd7627392da974730a184857b43f0c3ead2cb",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "a962590bf0df0d4b75e26cbf3e4683de0b8a6fc59e44e76f4fd0d1dbf569db0e",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "c7e5bcdcb880bbbeb2d01f7e71aa13399b9527419b904ecd7fb7b2af52c0cc34",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "0371403300da1fc250d657f7261093366ee38faf8ff09da926d1866065ff8cf8",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "8d1c5b6c642ab19b5d5427b54fb72f3794aa548640c2c6b92afb371ddb4c812a",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "427a82105e4175baad3486e4b47e1cc604aef880865fe30236a7b6b431703481",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "617fe97855251983542f1bfb8badf2a30f908d4c88ad87d89d6ac205944fc056",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "adbf47f194daaee202e2de6d4d607b393705d17d3c84bafa84fa79480419d187",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "54ac07724ed6db19c0600627b318f1efa36bcacdb727538f9aa0c2085c01be0d",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "5efb8967b310b24a583a3ee67ee1777519cd4ebb2d6e11cf5521ffe03e899d1d",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "9a15a61f50ede3a051bcd04f31f5989f01bc4d07c4421fa84d53e65bb75eee04",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "e69cbf8ea04f67369d12bc54d26e2e041c33a0099b398d7372500efeff0130d7",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "bc384b2253ad9d7fc4e6633aa053ec91df72339b2dc7760bfa33187d021cdfd5",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "39e138a7cd56e74f5f18eff6569712f86dc87789621c75d8787cc544d6f60881",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "df73f1b2509f9d33d2956c8adc42f1d5ceb7c54aa1622cd5b2ca5680a7b38dbe",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "ba04cf65120b38cda631142bf739a7c69f330021d7b568173e4678eb60c81d55",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "58a8271d49a8dd9fcf3044849e8fdbb4722b70b4e00061464bdcb069529b5442",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "cbc685e1bc177a494010c94b040bebcc9eaba60b7650f38fec08cbdfcaa57e2c",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "eaf60970a1ec65c6249ea96ab981a2c408c80905a3bf86069b526a0ac3785e93",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "a860e9dd8d6f336f8b00ced16765c7204481eb62a8ae07b38cbfc6979b922a41",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "5ff55e9f57612317342b5b7376a173ded35f303b952c2deb46d33d2379449ce0",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "57b1a7622b5dc452882376e8aa9374d94a054f68f54719962ac9bbd6d1a10e3b",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "a7f64ab230b73294500e5e12efcb2ca7e6124e067dc5509f4874909a578f7dfd",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "74da55c804cb4a3bea951205b24bd2583c360624e0abdc43eb51dd54d4920ccc",
+      "symbol": "DOGEUSDT",
+      "url": "data/futures/um/monthly/klines/DOGEUSDT/1h/DOGEUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.DOGE",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "DOGE",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:49:52.363064+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-07-10T09:00:00+00:00",
+  "unit_multiplier": 1
+}

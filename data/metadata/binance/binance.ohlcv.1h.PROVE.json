@@ -1,0 +1,125 @@
+{
+  "binance_symbol": "PROVEUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1754413200000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 631,
+      "sha256": "2a746620246196cc73602d2a41915c9d273c5e685810ea63b55017556caf0a94",
+      "symbol": "PROVEUSDT",
+      "url": "data/futures/um/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "52f3c8a9e29fca6d2eddc273a02a279561c75878830e1b989b3ea01814497a8a",
+      "symbol": "PROVEUSDT",
+      "url": "data/futures/um/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "9cfc3123d937a69e58fce0fc1a1f0f283b97f9ea86689d520334cec2dcec3abb",
+      "symbol": "PROVEUSDT",
+      "url": "data/futures/um/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "982dba83ff216511fe003bbd1aa6dc30f15d2fec86f039c8b7abaa2cd54ea85e",
+      "symbol": "PROVEUSDT",
+      "url": "data/futures/um/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "a2f8f2ad3909f1ceefba80e601317372efb78f063981f3cb26cfcf50be733422",
+      "symbol": "PROVEUSDT",
+      "url": "data/futures/um/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "f494e255fe0cedd0769fa5fb812080ff4216e1893b948e3fb5308b5b6d52ea86",
+      "symbol": "PROVEUSDT",
+      "url": "data/futures/um/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "7a67ba8cc7d55d1f94331aa129d54de3c63dfcdefc615ae669c65c1358eae723",
+      "symbol": "PROVEUSDT",
+      "url": "data/futures/um/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "b0d778a4a01422263dac299274fb0108bf5cd1ba4a67e964ac88b70610c26d68",
+      "symbol": "PROVEUSDT",
+      "url": "data/futures/um/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "995f7ef5ebf29ee841cc9a186eb8fa2e191ca221a255eed84e7576f2b47742ef",
+      "symbol": "PROVEUSDT",
+      "url": "data/futures/um/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "0a2744a1a4231db7b68f15bb84b4906eff61bb0da3409c625450b8a3ec13fb16",
+      "symbol": "PROVEUSDT",
+      "url": "data/futures/um/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "ab0b83d217e1691deafa3faa8dd521b9dbf1d0a5eae463c7eed887c145b786b8",
+      "symbol": "PROVEUSDT",
+      "url": "data/futures/um/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "2c7cc7969928ee80e1c460aabe4669461b1d4dda16642c0c5e38a9cd00584218",
+      "symbol": "PROVEUSDT",
+      "url": "data/futures/um/monthly/klines/PROVEUSDT/1h/PROVEUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.PROVE",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "PROVE",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:24.292835+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-08-05T17:00:00+00:00",
+  "unit_multiplier": 1
+}

@@ -16,7 +16,8 @@ implementation so strategies are comparable and cannot self-report PnL.
 
 **Status 2026-08-15: COMPLETE.** `docs/backtest_contract.md` v1.5.1 FROZEN (6 spec audit
 rounds); implementation in `src/backtest/` + `tests/backtest/`, 157 tests, **CODE PASS**
-after 4 implementation/audit rounds. Uncommitted in the working tree. QR-DATA-001 NOT started.
+after 4 implementation/audit rounds. Committed (`26d784e`). QR-DATA-001 started 2026-08-16 —
+see [[project-qr-data-001]].
 
 **How to apply:**
 - The engine must contain no alpha logic. Strategies emit target weights only.

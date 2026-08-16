@@ -1,0 +1,269 @@
+{
+  "binance_symbol": "TAOUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1712844000000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 466,
+      "sha256": "cb115aeb338a4add6f8aa504ee52d9302209c8d783fcf852fa2986464db33abe",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "4070621da5fbee5e39d8dfde90142f96a49579cb80017ce2c02a7b8d9beba4ae",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "c8dbf26c1d974f07dedc23510bcaf1aefa68467150e98472c56be26c3ea704c2",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "2ad61a0d3f2be83b5dd9178ee2aef7a72ba0ad278f3a85edd8602b8425948182",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "6d64cf2b974a2ad260a6b1c83eddd20058217330fbd7d83962c766acb3b5c5d5",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "4c04d2dd3de6ea418f5ea6ca760132d885ed0a46a3ffc368aa4c14f6010e02c8",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "2ff76e81920bb45332344309677727e135d81c60eabba47b9db9dc2c58e95474",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "9dd2e06e676025ea3ce390af48d620067c29bb3cffe531de6518ba027b12aeab",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "09942c3c4bab3ba279dd6bfcceea293d7c30f178f8304075b4d9edf91db3309e",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "8ff55b744af2acba1fe7dd3f42011879956481e8dc8d2f1c838c64da8d843883",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "88365a47c7541dd5e25edfe2e4146bb02d7ae7781d372c566eaa51882abe1532",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "2f9c93c6527138599cb264c944f5d6dc5cef22e08aedc93bbaf4666a0ef28626",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "1b39ea8b611953a479d98c445f1f87d3dd3e670c3b59ef4c106babea6193f545",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "61f770faf708f6dff69833a67c17ef51ea1bf78b7b564dcc0fd6e876ee294841",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "21f4c204d90c6483e83634e3ac107bb3b078ecf3fa93dd2b85b9dade0367bcbb",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "9f39952350c57a9a2c08bd82cfc0c5c1893e877500d14c3f1b2835cadbd7dde9",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "9a55881ab6d3b4482ff7438b968100822f1fa96ac5567802fcead534230ba9fd",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "d878bbd331690540198ffd663ec99aed7666f870add4b84410d26dfb2d8e492c",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "b294dc4325982dd889b15be2a1231d92b6774f33dfad5bcd36baba0a35898103",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "0d4c402e32ca487f6fc5b34a46108eb9eb11293d43510736e3873e23b14a6ed5",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "415a8adda54bc1165444cc105c71452c76bd619c595282d352ccf3634ab6e031",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "d88dae34064a90f72883189f461011403861b0cb6ee2ac3d2fd9406bff34f2fe",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "4e7b956fe88371c5d84d737f03c1300bd1de1b5ba51b5a597e48a9a950551684",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "1678cefa701f1738b07e439e159119b0292cd718a1f207354debc310200b2f4b",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "45adeadd54650d996af1136815785334f1eed01423d18091baf8ec0e9b803b5e",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "96477f8ee085ec370e824c88e6d9e897e9c142bcc8a5c7e193180efd8894334c",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "87e3bd9487a88c38119802a7ce56cd9f4faf83e49325c3a89731a67418320b6f",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "987f65f336ddeb279729c958eed02aa4de07ffb2819ea26a0ff8da73259b2cc1",
+      "symbol": "TAOUSDT",
+      "url": "data/futures/um/monthly/klines/TAOUSDT/1h/TAOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.TAO",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "TAO",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:55:32.317285+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-04-11T14:00:00+00:00",
+  "unit_multiplier": 1
+}

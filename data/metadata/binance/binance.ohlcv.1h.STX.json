@@ -1,0 +1,395 @@
+{
+  "binance_symbol": "STXUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1676988000000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 178,
+      "sha256": "79911dd259ec9498dc5d4c70674205ba747136ba6768ae72bc08694a88cee26d",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "0d9a897baff219c332cfb347a823eacb057fd88fb2fcaf09053075167bb4f346",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "0ac258575ba5278980c0d74eb88eeecb3e48bd77b031d0255b60f9d2f57bf4ce",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "d1c75176fd36990ec90488853fc0511860013f86f069b6463872807e4b9193dc",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "2781c0a2d93402f684e18d1b284c3a82a567c74f1be393595b809bcf5a6d606c",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "5fa3d19f0e9c4b6fe305e135ed4ee8629a5b55fd2cb23254f437cd797da232f9",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "999139999a4c8d4692ffe7d06ac8f955547108c6f26e6b8642aa94f8ba599b07",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "efda518bc5d8207da48b4d7bbda32a11ec91134a139ab2dee908f6944ad669a0",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "3f4d859d3ee5b77a07a665ae5736863436da885dad326df2657b57b301ebed1e",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "3b6e434dfc8898a982dd4f0b6740104f668330a905530278f760d7ce970593b5",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "6744603af1c511989aae1870b0085fca12332dce6ab17c02b637c2b81069d6ef",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "8884094828b59739ca99c81113c8f96e8c9c8476327589a1da064b1b3bb65c85",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "c2124c9a2a2c1466c1fa5cc25203d1a6ef7386a653e67c9d05bbd02397155374",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "eea320870f982f963fd1afcf152664fafa63e1053996069bf432a37665f88733",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "dc8deb8cefe26f694633e2644593d4e42b1e43717355b4a8641b81dd9117ee65",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "46114b8a2f7f21b09735da6d8854d912225d48460279e682198a71f67d69b013",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "d6cb4295596372df0605c118adb089da4a10b4b259188d8e9493819f61ba5d1c",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "3d7de71c93df25696ea27d7db6b0b675ee03008542c125df4126d72a73d82e4c",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "ba2e59cba185759b72bda71fec8fe33127c813424ab8770105d2db993d7146b9",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "8ac0077947414329e5dca0ecbc4c67eff0c430834614f3087afe4e64ff73632e",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "4dc0a932bb837910591394ec6ee48e52022f18170274c7dd79315b4db7de25c4",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "e78fac92fe489b4701f55fa90be77fb44dc1f45d5cf042a98d5750f4cd1ef972",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "a5f8be934ca82e6f807392024d54684c8310aa55c00f47b9b854e9a201e784de",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "5b0d3fd7442dc3f84864df44c4ff7c4685c104d04e17ccbefbfcdf15cf2e1247",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "f85cc75f89b10d77cb2ae5aa55385728f641b129ff42c023fe4d6b4092a6b584",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "512b279e5256e3f962dd7ff352630fb53b8f22426c7e2797e412625b0445692b",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "a7aae4913bca3eb892b31efbd3a8e5ebce53d51e689ecad4d2af1ce168cbf4c9",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "d9bd60bb31ee73eca300bb44cd7148698a1504da0e6698f7c0baccfe1000cd75",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "5a056e4f8feab3804748ac646cc9278e712900ea7240cb8366daafe32208131f",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "309f165da7ed59cff60013d8bdbb9ecc095ea330219d731aa781abc5064c7c2c",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "df6c796a842e80d3291569edcc50c76713d6eb09a00bdf7a21f64e75c339df7e",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "8ea08ef520f3373af5db32fd39df8bbf63df881968bcdea716145b567af11149",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "ee2342ff6b57dd850542b3754b4b79757f406cb4adaa8e7e92eaf1c4984fbe08",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "fdf0c8c1944c0bdb5151e46c9d103925b0dc90da90951400fef3b35dd9dc53aa",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "cb7e8f54f3d0162a7218f9ac96fc36ce5b2b23815c804741e7fd165966fca39e",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "652d733703334d3373746c3b4aa639d05020e72473a9c332e9ebea329a8d08c9",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "e62b5c30beb437305014a9e2bf5ff8b6eb3f3d9c0f9f64b16b45373004a61975",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "1681d29f75f1baab7991f809e4b6424bb5f1fad18691b55980bab79e4719a4c3",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "e053dc48460149a8bf2024c11a5e672e9a84c754bdc60b5afc36d432495323eb",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "2549d873c0b1d84fc35c0524146abb13e8959d5e12b0f5b6024a6d9a1d09ad76",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "55b1f8eaca19f5597bcd4c709681ff1229492a1fb54c1f8dda7af454962ab00a",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "69cc475729156fcf749a8bd7ad02ce92114483e7fc92585e65a3cbf7dcc4e208",
+      "symbol": "STXUSDT",
+      "url": "data/futures/um/monthly/klines/STXUSDT/1h/STXUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.STX",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "STX",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:48:39.105748+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2023-02-21T14:00:00+00:00",
+  "unit_multiplier": 1
+}

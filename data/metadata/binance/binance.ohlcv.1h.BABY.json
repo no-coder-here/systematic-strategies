@@ -1,0 +1,161 @@
+{
+  "binance_symbol": "BABYUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1743858000000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 611,
+      "sha256": "c6e3588ba2c24f3c771378ddd4a5bdcbd8bda5f382fe986e8de450e861e9ebb1",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "f238ec5fde572a1993fad7412efa56a8e0baef416df9b9ce1d859671f576a750",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "8351cad50a3429634c6e04c06666319f1138abfe52a7ae27715b95b16e6f3472",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "8c25f51b9591deddae7e5b2172d28df455014d6fa98a6d1cc1cda3ec0bd1811e",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "e43e9284750d6d1812fbb6e96cc762a0821632eaa4a46efcc6cfc89a790acd7f",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "81bad2884cd25042e3a892476a863772d7a1033885627a00c6725f25fdd6a1ba",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "e8ac693ce10febb3a6634b5b75b296af5de8f7b6154006fd8e1b5e1618335ca7",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "f75c9fb9aecf657aebe129107383c8a3a1f8a0f994b052cc9d65c3a0236376ae",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "0d9d46c4874a5420bea30ded053c0a36349a6040a77797e109080a4a4f7a4aa6",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "a41b060eed0c0c007d59b3ea89bc529f89e6cfdce5ebaaf019f76b4bf14697e7",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "71af02801f1f26c29bc32f2c5246709b18058e49f74be5d1aac5d740afce5af3",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "d123853483597f08c0846df480033dd2735e9e012426cc208a83c967b4b55402",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "105b9b4a0725d26b176417988b4176b507fee47b3c4d10ae7984d07c12667504",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "d3b07036145814d7a9e89d2f0002b105421ba18b47362c9e96e17b3de198e4a0",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "7b6eda26402d132b9f1951b0f319570cd000a7d48b1b52db9b07af33c74bb326",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "729f7946b5d065bb823963789a5d8430ae1eca8cb64afae496a114c7e23eb9c4",
+      "symbol": "BABYUSDT",
+      "url": "data/futures/um/monthly/klines/BABYUSDT/1h/BABYUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.BABY",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "BABY",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:11.266460+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-04-05T13:00:00+00:00",
+  "unit_multiplier": 1
+}

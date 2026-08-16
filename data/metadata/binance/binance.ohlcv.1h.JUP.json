@@ -1,0 +1,296 @@
+{
+  "binance_symbol": "JUPUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1706724000000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 6,
+      "sha256": "e5a60756fa7eeb9607492078ea3fdb34e4e39086399047eec7a797564420d160",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "bbfe27c72e841c683a3edc9965f3e127b819f2ee4757b501e70c5fd2554866e6",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "435023b8a8c959024a48fa71db862f1cfc43b4a8ff75872092a69804f35be63d",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "697c5b3935aeac66d109640df7bfec5917064fea1f69de7ee3cbf63651a5771c",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "bb3e84e3f4ffd03216dbd8914d4d2ab5aac8955377c3d4992dd50f497bd03488",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "5c9a6ce497e77cce9a4bdf83f7ebfea8aaa6707dfb4ad362589a50dec6d7df81",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "a9110347bd7ff528754356de89be1cb0097b31da83c7b7e9e945b1a5167cadc5",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "5c29ca0ae94a55f243e689bb62df9fdb426650ac4dc48f2e43575729c3dbcbf2",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "f978fdc305e09985663ad9914fe2dec52c7be9d169ef0000dade860156d0ab0b",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "716ffb2b4754abf66bbb628562467125aac584433c6a57a911197de7f7fbe13d",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "ede426d5b0dc0def6cac94e5f87735ce8e0d1098a7f63fad16f5cd4152b554dc",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "e0184c2f214c5c308da06d6dbda03c25a0804f7212e89bc660a081933761b419",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "8012b5875cb831f5851c857639f24af89481fd3e2cf6384b4dae4c34aa9c9852",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "5aca87725b3186d9c8e6f8b32fa648e179c122a2ab34c5022ad85eb7cc9d680d",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "d6164933312d9f4b9080329fe0b2cf511cfd604ebaac45d73c0806b4ba02a47c",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "15e6229b8d1193c7013d0d09cbb9f4e360565a95fb4d819af3810d2ae0e6ffa5",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "ebf6ae405b8ba95b912d1e37ffdfda0c4d7f5f597966b52ec4114a805bc4cfff",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "5bc4e71f2b38c99681df3d5b8c69cdcc6e79cc40d07a0fa9466b65954f0e8f66",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "a2517c0ca3dcbae47ab8ea174f06253e794ffcd8cbbc1129a0f235354adda414",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "28789068b2f993f47662d7a821a34cbf22079e3838187c9469da49714f5a212e",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "a3e71491897d14f129a7e658a88680d877b9706d2cd8df73ed6ef122db3ba9d8",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "279cd76db840dc0270b8da799ed2ab85c116b07323ae830d3dc35175f5230f67",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "89bc3caf4c260eeb5e8dfc60b0348aeef1202fff2bb34842045bd51402cf255a",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "fe03b6776040629aef24938a5372caeed35097eb271ec3e4a09645fe785ba149",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "349689e9114870f406c5012382622bfd4dfee2ba9a0bd306ad4d8243c7bd5328",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "c20f8dabbaca84f9b3fd16e0c8ef19cb321b82ca2d2cf12e3e21fa8cb8b60ad0",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "5b6e80907e3476cad878d62977a29da3a909e468ecdb86c7855d87c3fa0c237a",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "c8341e212417f363b2bbbf2bd4bdb341cdcb4da8451c6340d1d8cff09c941e0a",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "70d57c8f0d4df03af6469d64cddd50b3b4c7cb690f304783af6d5c632964502d",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "ac3243dc3bc2022424ffa1f911c983c28c5eef0e9e2030494c612eba288d5a86",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "f563708dc59006a4241c92517cc39e90d56feaa4d43b5bfdc36bec45a4bc57da",
+      "symbol": "JUPUSDT",
+      "url": "data/futures/um/monthly/klines/JUPUSDT/1h/JUPUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.JUP",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "JUP",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:53:52.631248+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-01-31T18:00:00+00:00",
+  "unit_multiplier": 1
+}

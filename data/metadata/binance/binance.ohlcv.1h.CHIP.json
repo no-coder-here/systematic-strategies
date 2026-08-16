@@ -1,0 +1,53 @@
+{
+  "binance_symbol": "CHIPUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1776322800000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 353,
+      "sha256": "a13696517b01f997a4a31cf7ea95b7a0c93bec573150dcd5717f93a91c844d8b",
+      "symbol": "CHIPUSDT",
+      "url": "data/futures/um/monthly/klines/CHIPUSDT/1h/CHIPUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "b79d44cac99f640000d50036b3eb6b7c55e6519b4c7c2018afabb6be5db6b1e9",
+      "symbol": "CHIPUSDT",
+      "url": "data/futures/um/monthly/klines/CHIPUSDT/1h/CHIPUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "6ff551a3791dca1685e8392a195523b3c206ff7d20a5f865b7027cbe0d2e6559",
+      "symbol": "CHIPUSDT",
+      "url": "data/futures/um/monthly/klines/CHIPUSDT/1h/CHIPUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "f1818c47f0791ca66c7940165ef04d2a063bc7ed5a6e6b40b52792ab9ad5e637",
+      "symbol": "CHIPUSDT",
+      "url": "data/futures/um/monthly/klines/CHIPUSDT/1h/CHIPUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.CHIP",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "CHIP",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:43.611809+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2026-04-16T07:00:00+00:00",
+  "unit_multiplier": 1
+}

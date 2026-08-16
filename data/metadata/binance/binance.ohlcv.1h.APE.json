@@ -1,0 +1,494 @@
+{
+  "binance_symbol": "APEUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1647529200000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 345,
+      "sha256": "9be916e015f63e005d5e90744701112a30a78fd23ee9c1a007119dc8e0c5b5f9",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648771200000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 720,
+      "sha256": "b8823b65c44a6766315acf1cb5b5d3d067170305f8d4ae1223c6e76d37f934d3",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "d137ad39dfe00a8d16af1a6b259ac08397a995fc76a97276fa8e733ee3deaa8b",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "68f392d84a96e3b05c90a1051d06cfcb62e1040970db32dbf5f3c01dfea5cce9",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "302915df5325f5403ab2995a8dc24db78113949d4d3c4d70dce08b0c9c96e81f",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "a7b633af7f5eef8c64b537489468d1614eccc17bfcdeea684047c799b36a0918",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "35672cfc87c91cf903b0209427b46ac07b27852c3c560b063b603b058cdda838",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "e9b8ed0d1a491025f8bab132fa8c064e25e7e69816770e9f4d8df27a97c1ea60",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "cdebf15b37256b0dd3edc2bb32c21851866a3852c9c14de1402e760b72c3dde7",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "7400f262885c288a92a529db3dd87fa9113be9e6952dd8dfdde3ed734a3b82da",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "c5b195003489518823e9f4ad8e5b8b8d1ecb318ad17f623687b493e8cfa502b6",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "367b2aa72033357068e17ed1a19323442bb487fda8c81418b39f470583d6b25a",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "3cc6e427b5daae8a40d3c82aeedbd8e7d8f9c9d6e4f3d10b38d4c0b03a32df0d",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "8749c52ae476c5761d4baca525eb7177844b291f207cec1303bf6cd955736e8d",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "71062a68ab0614c207f911d636ad8b778a14db3e17086615ab324b09082dcc28",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "80ce8da5c866a22536eae9baa5d08f2dc201b485e2ec60aba3a7eeb78b00a107",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "e3a636d1dab63543be6e4d0e58ddaefb1cfebadea232c3cb9fe184552dbccadf",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "e7097ebf74cd7ef6c7aa786a028a664773d469c34c8d6a7ba26d4b0b80cf41e5",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "adbb6328fb80b3c3e44843fc616436ebfaae068a6730a20a9b51d83d5e00e5ab",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "f462636b999614dee38460c5a1b3de9dd271a70fd33459d8cdb8af1fa72be793",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "ffb886a78e44f6e6752ecf6066c9b550fa66041c8c153277eb2659efab0ebb35",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "8a5c2fa9bd981b1f51455b1c4d9ff49c325d5de499c3aded9f0ce6d2ee21e7f3",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "314e82901ec7bdd1e3c711f541a000469f6bff3ddd5f9b4c3e8e32978d0fd65c",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "0f9697e7237a1ac14de061de03ac4f470cf58a4581f89068d34e7321fa1def92",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "ad2400ae527834c2f5cd0eb537333ebdb332c69eba938f5c2582d5fea8601b7c",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "8552c6970e5b3d5109b5b7c87998dc03bf87a49d7d09fc830eb5b42a924a064a",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "ba81f672b9016382ebfd3da4b9d8428d0d30751229c5d8a1b1e710c7b372d3fa",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "1930ca50cb1bb4aa6f36005487fc2d2beeddc836b3cfec2fbb46a42203c902b6",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "fc726109f9b8f539af128c4b0af85df4aaa1604337a7c451612822451a7e7ac3",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "4e5dd214f0483c2bdac2d707f29f78758c8002fcf99711810a32de6487fb70ae",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "35ccdf249d841e16128e515f0e465fb4cc056959b8a20b9933c1c6fa495ea1d4",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "f2ce1509826515d33a862e18f88c7c53fdd1090e0babcd47b31d88e5c31709c1",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "734489796013d1cff99d9e08de586e4a68cbef7ec7b3be0a752672c1b8de143a",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "1f9028503717f4c7e8b570f3e4e562a2acdfb11f1b905d2c24c8812253c3bc18",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "8adc88b13ec320c4031e46d748ad708716966edef2d13fa8659d7c391823ed81",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "c7d36d0e93bffeb28acf2702a3041166cb438943d78c8e2c21433d639d8954f2",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "b522f3db7aa9cd0c0ae041fee04be9da17333886f06ab8537d656c7860fb3a5d",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "fbcdb694781e7491e50f742304bd22fbb9af838e2110a80e5e29d3fc05a41985",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "eceedd32f4c0e4398388485f9b24b5c5537ccd7c4c5e84fbd8ca0c92d43d1a61",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "f686fab202b0ab1337178849cf6937f2869c604f6edeb6c986909b3abec12902",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "5faef656bfe3c23448411bff961d7bc695f8557934587456b9d0e19309f579e2",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "a95e932329c95f3a99888fef80ae7acc77147f20c5553e83a6ce7252b64141d0",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "d41b73b02fd33e62c10910c8dab3b9ac09d209aedddff9a3569e3ab1dd75d1fe",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "030267cf5e95a3952b588d7d050caf614ce48871ee60680cbf8d1f71a63b533b",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "c3afe03e02a0e2ba58c1cbd14b367859d88be309731d7d3d279e645d99b1170c",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "9bff9f94cd5c8f9085a22cfd5050bdbfb0075b65070a354e4579d3589ccee551",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "e293ba35bd19b3e1695668cd4c1735e370a869e3175718881e6fe5e871763942",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "bfa81b90adf42ce5eaa7dbfc1adea9b15f3284e8bf2f707efe0cad8c54448aca",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "4f166fbc21a0b8002554d4b2400df7bd958c99e4882e8551b4ac07d97557b41e",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "d86612ed90950c3bb86fcd99876130bec2659497131d13ca1ad6860df191f8c9",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "d11291185a57b74ce50f451d0aa89923ead8048e31eed9c1a96e53f1025460fb",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "e06e9ca14d63e46057238df466a8304868f2a767fdc184f58e09658c59f2e2ed",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "f5acfbb454835ce614f0b1ddfd6c86e2dfa308aa27ebe376a9ac199befd63a50",
+      "symbol": "APEUSDT",
+      "url": "data/futures/um/monthly/klines/APEUSDT/1h/APEUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.APE",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "APE",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:49:05.079833+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2022-03-17T15:00:00+00:00",
+  "unit_multiplier": 1
+}

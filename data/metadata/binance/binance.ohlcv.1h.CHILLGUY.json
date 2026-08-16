@@ -1,0 +1,206 @@
+{
+  "binance_symbol": "CHILLGUYUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1732716000000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 82,
+      "sha256": "35e77a518bb0a1a9af3382692cdbc9cb1d1b25c444a6731a1c38834571cd7e07",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "21386abea29dae002a874544df52b0f5a2261c830299208c7fa91fe6565be6be",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "c2c04eff59be3fa09090069569ef84fae6382b4154148612011854f2657bf188",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "2546572e5b6a306a30b9c93d5ed43d9983d602d9c8d833543c13fec9ce35469c",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "f1ca94e51b256015d1bf4bdc2cca34666ded1d9c15711b18600e43ae0a552ca7",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "4b98de4ee7ba37ca06d1913da148bc32f54271758b3551ca37571271154f0001",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "33e7b0117a163e438a3540a9553052523fe4e1fac4d903509696a9f0d7a8ee32",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "84470b8ded12634ffc282aa0637adb61c52a8168d795ba2b46df3e8f93b5bed0",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "f2827bfdb8087562c81bd987c341625ff0878007c35949aa88c5d2ce2833453a",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "60b3d403b1316acd9fc209ee834894f525cf59f664783e9545db8bb861244dc1",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "4f4b5bef2a81aed90a6b3a067fb8a411701db20fb3f9300b8fe52f6b0832a7e6",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "95f3e82fe3f2544f87040b66bd2eec072f8738ffc44a7e939c2a0992b89af06a",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "97dd7beead34d6c1031e25ebb716aee9861d9ec6e4d8e309e8751cafb981a120",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "ed4b7d34e30df31dc1740a8281ed6786e841b443b0695526c5af7933452dc278",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "ae95052f52bb3f52d789b676b8f60c4226ec743b099291ed77b2262b774007cd",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "14742bb7f8eb5055dd7253d0650a303c726fb634e8423331fd26f44cfbedaa21",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "854663b91d2c9bf4d5510dc49df2cddc9d0940b962a5b15d6ce56e7d0ff4b7ac",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "f7b0b583cdd986275efd49abfad0886a49a3ce6f0a6a29317b0820b191c07306",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "b0ee714e9bd54a0d18ca3bc3a644874d0b86d92f0b7c3744bf7ad38e2acf4dc5",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "6c7e785b7f4eeff42903b897815ef2573601d83ba0ee58cdf0ae68b10634b794",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "a9eae4a29f4efd23d8fa5479b9f2fa806c9400c120ba025fce65f43c10098686",
+      "symbol": "CHILLGUYUSDT",
+      "url": "data/futures/um/monthly/klines/CHILLGUYUSDT/1h/CHILLGUYUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.CHILLGUY",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "CHILLGUY",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:57:04.348323+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-11-27T14:00:00+00:00",
+  "unit_multiplier": 1
+}

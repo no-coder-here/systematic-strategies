@@ -1,0 +1,1483 @@
+{
+  "per_symbol": {
+    "0G": {
+      "binance_symbol": "0GUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 11,
+      "rows": 7617,
+      "start": "2025-09-17 15:00:00+00:00"
+    },
+    "2Z": {
+      "binance_symbol": "2ZUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 10,
+      "rows": 7260,
+      "start": "2025-10-02 12:00:00+00:00"
+    },
+    "AAVE": {
+      "binance_symbol": "AAVEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 70,
+      "rows": 50753,
+      "start": "2020-10-16 07:00:00+00:00"
+    },
+    "ACE": {
+      "binance_symbol": "ACEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 32,
+      "rows": 22958,
+      "start": "2023-12-18 10:00:00+00:00"
+    },
+    "ADA": {
+      "binance_symbol": "ADAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 79,
+      "rows": 56968,
+      "start": "2020-01-31 08:00:00+00:00"
+    },
+    "AERO": {
+      "binance_symbol": "AEROUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 20,
+      "rows": 14506,
+      "start": "2024-12-04 14:00:00+00:00"
+    },
+    "AI": {
+      "binance_symbol": "AIUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 31,
+      "rows": 22452,
+      "start": "2024-01-08 12:00:00+00:00"
+    },
+    "AI16Z": {
+      "binance_symbol": "AI16ZUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 19,
+      "rows": 13811,
+      "start": "2025-01-02 13:00:00+00:00"
+    },
+    "AIXBT": {
+      "binance_symbol": "AIXBTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 20,
+      "rows": 14118,
+      "start": "2024-12-20 18:00:00+00:00"
+    },
+    "ALGO": {
+      "binance_symbol": "ALGOUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 74,
+      "rows": 53679,
+      "start": "2020-06-16 09:00:00+00:00"
+    },
+    "ALT": {
+      "binance_symbol": "ALTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 31,
+      "rows": 22042,
+      "start": "2024-01-25 14:00:00+00:00"
+    },
+    "ANIME": {
+      "binance_symbol": "ANIMEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 19,
+      "rows": 13303,
+      "start": "2025-01-23 17:00:00+00:00"
+    },
+    "APE": {
+      "binance_symbol": "APEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 53,
+      "rows": 38337,
+      "start": "2022-03-17 15:00:00+00:00"
+    },
+    "APT": {
+      "binance_symbol": "APTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 46,
+      "rows": 33166,
+      "start": "2022-10-19 02:00:00+00:00"
+    },
+    "AR": {
+      "binance_symbol": "ARUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 59,
+      "rows": 42429,
+      "start": "2021-09-28 03:00:00+00:00"
+    },
+    "ARB": {
+      "binance_symbol": "ARBUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 41,
+      "rows": 29433,
+      "start": "2023-03-23 15:00:00+00:00"
+    },
+    "ARK": {
+      "binance_symbol": "ARKUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 35,
+      "rows": 25112,
+      "start": "2023-09-19 16:00:00+00:00"
+    },
+    "ASTER": {
+      "binance_symbol": "ASTERUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 11,
+      "rows": 7572,
+      "start": "2025-09-19 12:00:00+00:00"
+    },
+    "ATOM": {
+      "binance_symbol": "ATOMUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 78,
+      "rows": 56796,
+      "start": "2020-02-07 12:00:00+00:00"
+    },
+    "AVAX": {
+      "binance_symbol": "AVAXUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 71,
+      "rows": 51305,
+      "start": "2020-09-23 07:00:00+00:00"
+    },
+    "AVNT": {
+      "binance_symbol": "AVNTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 11,
+      "rows": 7809,
+      "start": "2025-09-09 15:00:00+00:00"
+    },
+    "AXS": {
+      "binance_symbol": "AXSUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 69,
+      "rows": 49913,
+      "start": "2020-11-20 07:00:00+00:00"
+    },
+    "AZTEC": {
+      "binance_symbol": "AZTECUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 6,
+      "rows": 4100,
+      "start": "2026-02-11 04:00:00+00:00"
+    },
+    "BABY": {
+      "binance_symbol": "BABYUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 16,
+      "rows": 11579,
+      "start": "2025-04-05 13:00:00+00:00"
+    },
+    "BADGER": {
+      "binance_symbol": "BADGERUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 33,
+      "rows": 23892,
+      "start": "2023-11-09 12:00:00+00:00"
+    },
+    "BANANA": {
+      "binance_symbol": "BANANAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 24,
+      "rows": 17182,
+      "start": "2024-08-15 02:00:00+00:00"
+    },
+    "BCH": {
+      "binance_symbol": "BCHUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 79,
+      "rows": 57696,
+      "start": "2020-01-01 00:00:00+00:00"
+    },
+    "BERA": {
+      "binance_symbol": "BERAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 18,
+      "rows": 12969,
+      "start": "2025-02-06 15:00:00+00:00"
+    },
+    "BIGTIME": {
+      "binance_symbol": "BIGTIMEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 34,
+      "rows": 24562,
+      "start": "2023-10-12 14:00:00+00:00"
+    },
+    "BIO": {
+      "binance_symbol": "BIOUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 19,
+      "rows": 13788,
+      "start": "2025-01-03 12:00:00+00:00"
+    },
+    "BLUR": {
+      "binance_symbol": "BLURUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 40,
+      "rows": 28572,
+      "start": "2023-04-28 12:00:00+00:00"
+    },
+    "BLZ": {
+      "binance_symbol": "BLZUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 71,
+      "rows": 51449,
+      "start": "2020-09-17 07:00:00+00:00"
+    },
+    "BNB": {
+      "binance_symbol": "BNBUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 78,
+      "rows": 56728,
+      "start": "2020-02-10 08:00:00+00:00"
+    },
+    "BNT": {
+      "binance_symbol": "BNTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 36,
+      "rows": 26076,
+      "start": "2023-08-10 12:00:00+00:00"
+    },
+    "BOME": {
+      "binance_symbol": "BOMEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 29,
+      "rows": 20820,
+      "start": "2024-03-16 12:00:00+00:00"
+    },
+    "BRETT": {
+      "binance_symbol": "BRETTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 24,
+      "rows": 17054,
+      "start": "2024-08-20 10:00:00+00:00"
+    },
+    "BSV": {
+      "binance_symbol": "BSVUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 34,
+      "rows": 24372,
+      "start": "2023-10-20 12:00:00+00:00"
+    },
+    "BTC": {
+      "binance_symbol": "BTCUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 79,
+      "rows": 57696,
+      "start": "2020-01-01 00:00:00+00:00"
+    },
+    "CAKE": {
+      "binance_symbol": "CAKEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 33,
+      "rows": 24060,
+      "start": "2023-11-02 12:00:00+00:00"
+    },
+    "CATI": {
+      "binance_symbol": "CATIUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 23,
+      "rows": 16309,
+      "start": "2024-09-20 11:00:00+00:00"
+    },
+    "CC": {
+      "binance_symbol": "CCUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 10,
+      "rows": 6564,
+      "start": "2025-10-31 12:00:00+00:00"
+    },
+    "CELO": {
+      "binance_symbol": "CELOUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 59,
+      "rows": 42453,
+      "start": "2021-09-27 03:00:00+00:00"
+    },
+    "CFX": {
+      "binance_symbol": "CFXUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 42,
+      "rows": 30178,
+      "start": "2023-02-20 14:00:00+00:00"
+    },
+    "CHILLGUY": {
+      "binance_symbol": "CHILLGUYUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 21,
+      "rows": 14674,
+      "start": "2024-11-27 14:00:00+00:00"
+    },
+    "CHIP": {
+      "binance_symbol": "CHIPUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 4,
+      "rows": 2561,
+      "start": "2026-04-16 07:00:00+00:00"
+    },
+    "COMP": {
+      "binance_symbol": "COMPUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 74,
+      "rows": 53343,
+      "start": "2020-06-30 09:00:00+00:00"
+    },
+    "CRV": {
+      "binance_symbol": "CRVUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 71,
+      "rows": 51833,
+      "start": "2020-09-01 07:00:00+00:00"
+    },
+    "CYBER": {
+      "binance_symbol": "CYBERUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 36,
+      "rows": 25812,
+      "start": "2023-08-21 12:00:00+00:00"
+    },
+    "DASH": {
+      "binance_symbol": "DASHUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 78,
+      "rows": 56872,
+      "start": "2020-02-04 08:00:00+00:00"
+    },
+    "DOGE": {
+      "binance_symbol": "DOGEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 73,
+      "rows": 53103,
+      "start": "2020-07-10 09:00:00+00:00"
+    },
+    "DOOD": {
+      "binance_symbol": "DOODUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 15,
+      "rows": 10763,
+      "start": "2025-05-09 13:00:00+00:00"
+    },
+    "DOT": {
+      "binance_symbol": "DOTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 72,
+      "rows": 52073,
+      "start": "2020-08-22 07:00:00+00:00"
+    },
+    "DYDX": {
+      "binance_symbol": "DYDXUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 59,
+      "rows": 42861,
+      "start": "2021-09-10 03:00:00+00:00"
+    },
+    "DYM": {
+      "binance_symbol": "DYMUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 30,
+      "rows": 21737,
+      "start": "2024-02-07 07:00:00+00:00"
+    },
+    "EIGEN": {
+      "binance_symbol": "EIGENUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 22,
+      "rows": 16050,
+      "start": "2024-10-01 06:00:00+00:00"
+    },
+    "ENA": {
+      "binance_symbol": "ENAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 28,
+      "rows": 20412,
+      "start": "2024-04-02 12:00:00+00:00"
+    },
+    "ENS": {
+      "binance_symbol": "ENSUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 57,
+      "rows": 40917,
+      "start": "2021-11-30 03:00:00+00:00"
+    },
+    "ETC": {
+      "binance_symbol": "ETCUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 79,
+      "rows": 57328,
+      "start": "2020-01-16 08:00:00+00:00"
+    },
+    "ETH": {
+      "binance_symbol": "ETHUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 79,
+      "rows": 57696,
+      "start": "2020-01-01 00:00:00+00:00"
+    },
+    "ETHFI": {
+      "binance_symbol": "ETHFIUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 29,
+      "rows": 20769,
+      "start": "2024-03-18 15:00:00+00:00"
+    },
+    "FARTCOIN": {
+      "binance_symbol": "FARTCOINUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 20,
+      "rows": 14118,
+      "start": "2024-12-20 18:00:00+00:00"
+    },
+    "FET": {
+      "binance_symbol": "FETUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 43,
+      "rows": 31006,
+      "start": "2023-01-17 02:00:00+00:00"
+    },
+    "FIL": {
+      "binance_symbol": "FILUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 70,
+      "rows": 50634,
+      "start": "2020-10-16 06:00:00+00:00"
+    },
+    "FOGO": {
+      "binance_symbol": "FOGOUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 7,
+      "rows": 4858,
+      "start": "2026-01-10 14:00:00+00:00"
+    },
+    "FTM": {
+      "binance_symbol": "FTMUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 71,
+      "rows": 51161,
+      "start": "2020-09-24 07:00:00+00:00"
+    },
+    "FTT": {
+      "binance_symbol": "FTTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 52,
+      "rows": 37653,
+      "start": "2022-04-15 03:00:00+00:00"
+    },
+    "FXS": {
+      "binance_symbol": "FXSUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 43,
+      "rows": 30933,
+      "start": "2023-01-20 03:00:00+00:00"
+    },
+    "GALA": {
+      "binance_symbol": "GALAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 59,
+      "rows": 42669,
+      "start": "2021-09-18 03:00:00+00:00"
+    },
+    "GAS": {
+      "binance_symbol": "GASUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 34,
+      "rows": 24262,
+      "start": "2023-10-25 02:00:00+00:00"
+    },
+    "GMT": {
+      "binance_symbol": "GMTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 53,
+      "rows": 38348,
+      "start": "2022-03-15 04:00:00+00:00"
+    },
+    "GMX": {
+      "binance_symbol": "GMXUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 42,
+      "rows": 30250,
+      "start": "2023-02-17 14:00:00+00:00"
+    },
+    "GOAT": {
+      "binance_symbol": "GOATUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 22,
+      "rows": 15491,
+      "start": "2024-10-24 13:00:00+00:00"
+    },
+    "GRAM": {
+      "binance_symbol": "GRAMUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 1,
+      "rows": 712,
+      "start": "2026-07-02 08:00:00+00:00"
+    },
+    "GRASS": {
+      "binance_symbol": "GRASSUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 21,
+      "rows": 15129,
+      "start": "2024-11-08 15:00:00+00:00"
+    },
+    "GRIFFAIN": {
+      "binance_symbol": "GRIFFAINUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 19,
+      "rows": 13811,
+      "start": "2025-01-02 13:00:00+00:00"
+    },
+    "HBAR": {
+      "binance_symbol": "HBARUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 65,
+      "rows": 46985,
+      "start": "2021-03-17 07:00:00+00:00"
+    },
+    "HEMI": {
+      "binance_symbol": "HEMIUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 12,
+      "rows": 8084,
+      "start": "2025-08-29 04:00:00+00:00"
+    },
+    "HMSTR": {
+      "binance_symbol": "HMSTRUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 23,
+      "rows": 16164,
+      "start": "2024-09-26 12:00:00+00:00"
+    },
+    "HYPE": {
+      "binance_symbol": "HYPEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 15,
+      "rows": 10262,
+      "start": "2025-05-30 10:00:00+00:00"
+    },
+    "HYPER": {
+      "binance_symbol": "HYPERUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 16,
+      "rows": 11171,
+      "start": "2025-04-22 13:00:00+00:00"
+    },
+    "ICP": {
+      "binance_symbol": "ICPUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 63,
+      "rows": 45163,
+      "start": "2021-05-11 03:00:00+00:00"
+    },
+    "ILV": {
+      "binance_symbol": "ILVUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 33,
+      "rows": 23864,
+      "start": "2023-11-10 16:00:00+00:00"
+    },
+    "IMX": {
+      "binance_symbol": "IMXUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 54,
+      "rows": 39045,
+      "start": "2022-02-11 03:00:00+00:00"
+    },
+    "INIT": {
+      "binance_symbol": "INITUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 16,
+      "rows": 11322,
+      "start": "2025-04-16 06:00:00+00:00"
+    },
+    "INJ": {
+      "binance_symbol": "INJUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 48,
+      "rows": 34678,
+      "start": "2022-08-17 02:00:00+00:00"
+    },
+    "IO": {
+      "binance_symbol": "IOUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 26,
+      "rows": 18730,
+      "start": "2024-06-11 14:00:00+00:00"
+    },
+    "IOTA": {
+      "binance_symbol": "IOTAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 78,
+      "rows": 56560,
+      "start": "2020-02-12 08:00:00+00:00"
+    },
+    "IP": {
+      "binance_symbol": "IPUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 18,
+      "rows": 12799,
+      "start": "2025-02-13 17:00:00+00:00"
+    },
+    "JTO": {
+      "binance_symbol": "JTOUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 32,
+      "rows": 23198,
+      "start": "2023-12-08 10:00:00+00:00"
+    },
+    "JUP": {
+      "binance_symbol": "JUPUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 31,
+      "rows": 21894,
+      "start": "2024-01-31 18:00:00+00:00"
+    },
+    "KAITO": {
+      "binance_symbol": "KAITOUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 18,
+      "rows": 12635,
+      "start": "2025-02-20 13:00:00+00:00"
+    },
+    "KAS": {
+      "binance_symbol": "KASUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 33,
+      "rows": 23710,
+      "start": "2023-11-17 02:00:00+00:00"
+    },
+    "LAYER": {
+      "binance_symbol": "LAYERUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 18,
+      "rows": 12849,
+      "start": "2025-02-11 15:00:00+00:00"
+    },
+    "LDO": {
+      "binance_symbol": "LDOUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 47,
+      "rows": 33804,
+      "start": "2022-09-22 12:00:00+00:00"
+    },
+    "LINEA": {
+      "binance_symbol": "LINEAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 11,
+      "rows": 8008,
+      "start": "2025-09-01 08:00:00+00:00"
+    },
+    "LINK": {
+      "binance_symbol": "LINKUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 79,
+      "rows": 57304,
+      "start": "2020-01-17 08:00:00+00:00"
+    },
+    "LISTA": {
+      "binance_symbol": "LISTAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 26,
+      "rows": 18516,
+      "start": "2024-06-20 12:00:00+00:00"
+    },
+    "LIT": {
+      "binance_symbol": "LITUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 66,
+      "rows": 47616,
+      "start": "2021-02-18 07:00:00+00:00"
+    },
+    "LOOM": {
+      "binance_symbol": "LOOMUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 34,
+      "rows": 24586,
+      "start": "2023-10-11 14:00:00+00:00"
+    },
+    "LTC": {
+      "binance_symbol": "LTCUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 79,
+      "rows": 57376,
+      "start": "2020-01-09 08:00:00+00:00"
+    },
+    "MANTA": {
+      "binance_symbol": "MANTAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 31,
+      "rows": 22210,
+      "start": "2024-01-18 14:00:00+00:00"
+    },
+    "MAV": {
+      "binance_symbol": "MAVUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 38,
+      "rows": 27084,
+      "start": "2023-06-29 12:00:00+00:00"
+    },
+    "MAVIA": {
+      "binance_symbol": "MAVIAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 30,
+      "rows": 21381,
+      "start": "2024-02-21 10:00:00+00:00"
+    },
+    "ME": {
+      "binance_symbol": "MEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 20,
+      "rows": 14359,
+      "start": "2024-12-10 17:00:00+00:00"
+    },
+    "MEGA": {
+      "binance_symbol": "MEGAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 7,
+      "rows": 4380,
+      "start": "2026-01-30 12:00:00+00:00"
+    },
+    "MELANIA": {
+      "binance_symbol": "MELANIAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 19,
+      "rows": 13383,
+      "start": "2025-01-20 09:00:00+00:00"
+    },
+    "MEME": {
+      "binance_symbol": "MEMEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 33,
+      "rows": 24036,
+      "start": "2023-11-03 12:00:00+00:00"
+    },
+    "MERL": {
+      "binance_symbol": "MERLUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 15,
+      "rows": 10288,
+      "start": "2025-05-29 08:00:00+00:00"
+    },
+    "MET": {
+      "binance_symbol": "METUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 10,
+      "rows": 7044,
+      "start": "2025-10-11 12:00:00+00:00"
+    },
+    "MEW": {
+      "binance_symbol": "MEWUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 26,
+      "rows": 18586,
+      "start": "2024-06-17 14:00:00+00:00"
+    },
+    "MINA": {
+      "binance_symbol": "MINAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 42,
+      "rows": 30493,
+      "start": "2023-02-07 11:00:00+00:00"
+    },
+    "MKR": {
+      "binance_symbol": "MKRUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 72,
+      "rows": 52169,
+      "start": "2020-08-13 07:00:00+00:00"
+    },
+    "MON": {
+      "binance_symbol": "MONUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 10,
+      "rows": 7073,
+      "start": "2025-10-10 07:00:00+00:00"
+    },
+    "MOODENG": {
+      "binance_symbol": "MOODENGUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 22,
+      "rows": 15470,
+      "start": "2024-10-25 10:00:00+00:00"
+    },
+    "MORPHO": {
+      "binance_symbol": "MORPHOUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 21,
+      "rows": 14674,
+      "start": "2024-11-27 14:00:00+00:00"
+    },
+    "MOVE": {
+      "binance_symbol": "MOVEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 20,
+      "rows": 14386,
+      "start": "2024-12-09 14:00:00+00:00"
+    },
+    "MYRO": {
+      "binance_symbol": "MYROUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 29,
+      "rows": 21088,
+      "start": "2024-03-05 08:00:00+00:00"
+    },
+    "NEAR": {
+      "binance_symbol": "NEARUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 70,
+      "rows": 50656,
+      "start": "2020-10-15 08:00:00+00:00"
+    },
+    "NEIROETH": {
+      "binance_symbol": "NEIROETHUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 23,
+      "rows": 16642,
+      "start": "2024-09-06 14:00:00+00:00"
+    },
+    "NEO": {
+      "binance_symbol": "NEOUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 78,
+      "rows": 56560,
+      "start": "2020-02-17 08:00:00+00:00"
+    },
+    "NIL": {
+      "binance_symbol": "NILUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 17,
+      "rows": 11867,
+      "start": "2025-03-24 13:00:00+00:00"
+    },
+    "NOT": {
+      "binance_symbol": "NOTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 27,
+      "rows": 19354,
+      "start": "2024-05-16 14:00:00+00:00"
+    },
+    "NTRN": {
+      "binance_symbol": "NTRNUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 33,
+      "rows": 23772,
+      "start": "2023-11-14 12:00:00+00:00"
+    },
+    "NXPC": {
+      "binance_symbol": "NXPCUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 15,
+      "rows": 10626,
+      "start": "2025-05-15 06:00:00+00:00"
+    },
+    "OGN": {
+      "binance_symbol": "OGNUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 64,
+      "rows": 46625,
+      "start": "2021-04-01 07:00:00+00:00"
+    },
+    "OM": {
+      "binance_symbol": "OMUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 30,
+      "rows": 21586,
+      "start": "2024-02-13 14:00:00+00:00"
+    },
+    "OMNI": {
+      "binance_symbol": "OMNIUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 28,
+      "rows": 20050,
+      "start": "2024-04-17 14:00:00+00:00"
+    },
+    "ONDO": {
+      "binance_symbol": "ONDOUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 31,
+      "rows": 22163,
+      "start": "2024-01-20 13:00:00+00:00"
+    },
+    "OP": {
+      "binance_symbol": "OPUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 50,
+      "rows": 36514,
+      "start": "2022-06-01 14:00:00+00:00"
+    },
+    "ORBS": {
+      "binance_symbol": "ORBSUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 34,
+      "rows": 24450,
+      "start": "2023-10-17 06:00:00+00:00"
+    },
+    "ORDI": {
+      "binance_symbol": "ORDIUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 33,
+      "rows": 23940,
+      "start": "2023-11-07 12:00:00+00:00"
+    },
+    "PAXG": {
+      "binance_symbol": "PAXGUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 17,
+      "rows": 11798,
+      "start": "2025-03-27 10:00:00+00:00"
+    },
+    "PENDLE": {
+      "binance_symbol": "PENDLEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 37,
+      "rows": 26398,
+      "start": "2023-07-28 02:00:00+00:00"
+    },
+    "PENGU": {
+      "binance_symbol": "PENGUUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 20,
+      "rows": 14192,
+      "start": "2024-12-17 16:00:00+00:00"
+    },
+    "PEOPLE": {
+      "binance_symbol": "PEOPLEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 56,
+      "rows": 40220,
+      "start": "2021-12-24 04:00:00+00:00"
+    },
+    "PIXEL": {
+      "binance_symbol": "PIXELUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 30,
+      "rows": 21441,
+      "start": "2024-02-19 15:00:00+00:00"
+    },
+    "PNUT": {
+      "binance_symbol": "PNUTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 21,
+      "rows": 15060,
+      "start": "2024-11-11 12:00:00+00:00"
+    },
+    "POL": {
+      "binance_symbol": "POLUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 23,
+      "rows": 16476,
+      "start": "2024-09-13 12:00:00+00:00"
+    },
+    "POLYX": {
+      "binance_symbol": "POLYXUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 34,
+      "rows": 24262,
+      "start": "2023-10-25 02:00:00+00:00"
+    },
+    "POPCAT": {
+      "binance_symbol": "POPCATUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 24,
+      "rows": 17003,
+      "start": "2024-08-22 13:00:00+00:00"
+    },
+    "PROMPT": {
+      "binance_symbol": "PROMPTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 16,
+      "rows": 11442,
+      "start": "2025-04-11 06:00:00+00:00"
+    },
+    "PROVE": {
+      "binance_symbol": "PROVEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 12,
+      "rows": 8647,
+      "start": "2025-08-05 17:00:00+00:00"
+    },
+    "PUMP": {
+      "binance_symbol": "PUMPUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 16,
+      "rows": 11403,
+      "start": "2025-04-12 14:00:00+00:00"
+    },
+    "PYTH": {
+      "binance_symbol": "PYTHUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 33,
+      "rows": 23578,
+      "start": "2023-11-22 14:00:00+00:00"
+    },
+    "RDNT": {
+      "binance_symbol": "RDNTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 40,
+      "rows": 29124,
+      "start": "2023-04-05 12:00:00+00:00"
+    },
+    "RENDER": {
+      "binance_symbol": "RENDERUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 25,
+      "rows": 17654,
+      "start": "2024-07-26 10:00:00+00:00"
+    },
+    "RESOLV": {
+      "binance_symbol": "RESOLVUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 14,
+      "rows": 9995,
+      "start": "2025-06-10 13:00:00+00:00"
+    },
+    "REZ": {
+      "binance_symbol": "REZUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 28,
+      "rows": 19738,
+      "start": "2024-04-30 14:00:00+00:00"
+    },
+    "RSR": {
+      "binance_symbol": "RSRUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 70,
+      "rows": 50561,
+      "start": "2020-10-19 07:00:00+00:00"
+    },
+    "RUNE": {
+      "binance_symbol": "RUNEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 71,
+      "rows": 51761,
+      "start": "2020-09-04 07:00:00+00:00"
+    },
+    "S": {
+      "binance_symbol": "SUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 19,
+      "rows": 13478,
+      "start": "2025-01-16 10:00:00+00:00"
+    },
+    "SAGA": {
+      "binance_symbol": "SAGAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 28,
+      "rows": 20246,
+      "start": "2024-04-09 10:00:00+00:00"
+    },
+    "SAND": {
+      "binance_symbol": "SANDUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 67,
+      "rows": 48209,
+      "start": "2021-01-25 07:00:00+00:00"
+    },
+    "SCR": {
+      "binance_symbol": "SCRUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 22,
+      "rows": 15542,
+      "start": "2024-10-22 10:00:00+00:00"
+    },
+    "SEI": {
+      "binance_symbol": "SEIUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 36,
+      "rows": 25918,
+      "start": "2023-08-17 02:00:00+00:00"
+    },
+    "SKR": {
+      "binance_symbol": "SKRUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 7,
+      "rows": 4574,
+      "start": "2026-01-22 10:00:00+00:00"
+    },
+    "SKY": {
+      "binance_symbol": "SKYUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 11,
+      "rows": 7817,
+      "start": "2025-09-09 07:00:00+00:00"
+    },
+    "SNX": {
+      "binance_symbol": "SNXUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 72,
+      "rows": 52265,
+      "start": "2020-08-14 07:00:00+00:00"
+    },
+    "SOL": {
+      "binance_symbol": "SOLUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 71,
+      "rows": 51401,
+      "start": "2020-09-14 07:00:00+00:00"
+    },
+    "SOPH": {
+      "binance_symbol": "SOPHUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 15,
+      "rows": 10307,
+      "start": "2025-05-28 13:00:00+00:00"
+    },
+    "SPX": {
+      "binance_symbol": "SPXUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 20,
+      "rows": 14364,
+      "start": "2024-12-10 12:00:00+00:00"
+    },
+    "STABLE": {
+      "binance_symbol": "STABLEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 9,
+      "rows": 6420,
+      "start": "2025-11-06 12:00:00+00:00"
+    },
+    "STBL": {
+      "binance_symbol": "STBLUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 11,
+      "rows": 7627,
+      "start": "2025-09-17 05:00:00+00:00"
+    },
+    "STG": {
+      "binance_symbol": "STGUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 48,
+      "rows": 34476,
+      "start": "2022-08-25 12:00:00+00:00"
+    },
+    "STRAX": {
+      "binance_symbol": "STRAXUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 34,
+      "rows": 24598,
+      "start": "2023-10-11 02:00:00+00:00"
+    },
+    "STRK": {
+      "binance_symbol": "STRKUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 30,
+      "rows": 21415,
+      "start": "2024-02-20 17:00:00+00:00"
+    },
+    "STX": {
+      "binance_symbol": "STXUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 42,
+      "rows": 30154,
+      "start": "2023-02-21 14:00:00+00:00"
+    },
+    "SUI": {
+      "binance_symbol": "SUIUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 39,
+      "rows": 28448,
+      "start": "2023-05-03 16:00:00+00:00"
+    },
+    "SUPER": {
+      "binance_symbol": "SUPERUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 33,
+      "rows": 23483,
+      "start": "2023-11-26 13:00:00+00:00"
+    },
+    "SUSHI": {
+      "binance_symbol": "SUSHIUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 71,
+      "rows": 51641,
+      "start": "2020-09-04 07:00:00+00:00"
+    },
+    "SYRUP": {
+      "binance_symbol": "SYRUPUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 15,
+      "rows": 10816,
+      "start": "2025-05-07 08:00:00+00:00"
+    },
+    "TAO": {
+      "binance_symbol": "TAOUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 28,
+      "rows": 20194,
+      "start": "2024-04-11 14:00:00+00:00"
+    },
+    "TIA": {
+      "binance_symbol": "TIAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 34,
+      "rows": 24102,
+      "start": "2023-10-31 18:00:00+00:00"
+    },
+    "TNSR": {
+      "binance_symbol": "TNSRUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 28,
+      "rows": 20263,
+      "start": "2024-04-08 17:00:00+00:00"
+    },
+    "TON": {
+      "binance_symbol": "TONUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 29,
+      "rows": 21180,
+      "start": "2024-03-01 12:00:00+00:00"
+    },
+    "TRB": {
+      "binance_symbol": "TRBUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 71,
+      "rows": 51665,
+      "start": "2020-09-03 07:00:00+00:00"
+    },
+    "TRUMP": {
+      "binance_symbol": "TRUMPUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 19,
+      "rows": 13427,
+      "start": "2025-01-18 13:00:00+00:00"
+    },
+    "TRX": {
+      "binance_symbol": "TRXUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 79,
+      "rows": 57232,
+      "start": "2020-01-15 08:00:00+00:00"
+    },
+    "TST": {
+      "binance_symbol": "TSTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 18,
+      "rows": 12899,
+      "start": "2025-02-09 13:00:00+00:00"
+    },
+    "TURBO": {
+      "binance_symbol": "TURBOUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 27,
+      "rows": 19017,
+      "start": "2024-05-30 15:00:00+00:00"
+    },
+    "UMA": {
+      "binance_symbol": "UMAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 39,
+      "rows": 28284,
+      "start": "2023-05-10 12:00:00+00:00"
+    },
+    "UNI": {
+      "binance_symbol": "UNIUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 71,
+      "rows": 51425,
+      "start": "2020-09-18 07:00:00+00:00"
+    },
+    "USTC": {
+      "binance_symbol": "USTCUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 33,
+      "rows": 23460,
+      "start": "2023-11-27 12:00:00+00:00"
+    },
+    "USUAL": {
+      "binance_symbol": "USUALUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 20,
+      "rows": 14171,
+      "start": "2024-12-18 13:00:00+00:00"
+    },
+    "VINE": {
+      "binance_symbol": "VINEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 19,
+      "rows": 13286,
+      "start": "2025-01-24 10:00:00+00:00"
+    },
+    "VIRTUAL": {
+      "binance_symbol": "VIRTUALUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 20,
+      "rows": 14364,
+      "start": "2024-12-10 12:00:00+00:00"
+    },
+    "VVV": {
+      "binance_symbol": "VVVUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 19,
+      "rows": 13168,
+      "start": "2025-01-29 08:00:00+00:00"
+    },
+    "W": {
+      "binance_symbol": "WUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 28,
+      "rows": 20385,
+      "start": "2024-04-03 15:00:00+00:00"
+    },
+    "WCT": {
+      "binance_symbol": "WCTUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 16,
+      "rows": 11341,
+      "start": "2025-04-15 11:00:00+00:00"
+    },
+    "WIF": {
+      "binance_symbol": "WIFUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 31,
+      "rows": 22210,
+      "start": "2024-01-18 14:00:00+00:00"
+    },
+    "WLD": {
+      "binance_symbol": "WLDUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 37,
+      "rows": 26484,
+      "start": "2023-07-24 12:00:00+00:00"
+    },
+    "WLFI": {
+      "binance_symbol": "WLFIUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 12,
+      "rows": 8224,
+      "start": "2025-08-23 08:00:00+00:00"
+    },
+    "XAI": {
+      "binance_symbol": "XAIUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 31,
+      "rows": 22426,
+      "start": "2024-01-09 14:00:00+00:00"
+    },
+    "XLM": {
+      "binance_symbol": "XLMUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 79,
+      "rows": 57112,
+      "start": "2020-01-20 08:00:00+00:00"
+    },
+    "XMR": {
+      "binance_symbol": "XMRUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 78,
+      "rows": 56896,
+      "start": "2020-02-03 08:00:00+00:00"
+    },
+    "XPL": {
+      "binance_symbol": "XPLUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 12,
+      "rows": 8247,
+      "start": "2025-08-22 09:00:00+00:00"
+    },
+    "XRP": {
+      "binance_symbol": "XRPUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 79,
+      "rows": 57448,
+      "start": "2020-01-06 08:00:00+00:00"
+    },
+    "YGG": {
+      "binance_symbol": "YGGUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 36,
+      "rows": 26205,
+      "start": "2023-08-05 03:00:00+00:00"
+    },
+    "ZEC": {
+      "binance_symbol": "ZECUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 78,
+      "rows": 56728,
+      "start": "2020-02-05 08:00:00+00:00"
+    },
+    "ZEN": {
+      "binance_symbol": "ZENUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 69,
+      "rows": 49697,
+      "start": "2020-11-24 07:00:00+00:00"
+    },
+    "ZEREBRO": {
+      "binance_symbol": "ZEREBROUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 19,
+      "rows": 13810,
+      "start": "2025-01-02 14:00:00+00:00"
+    },
+    "ZETA": {
+      "binance_symbol": "ZETAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 30,
+      "rows": 21856,
+      "start": "2024-02-02 08:00:00+00:00"
+    },
+    "ZK": {
+      "binance_symbol": "ZKUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 26,
+      "rows": 18589,
+      "start": "2024-06-17 11:00:00+00:00"
+    },
+    "ZORA": {
+      "binance_symbol": "ZORAUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 13,
+      "rows": 8917,
+      "start": "2025-07-25 11:00:00+00:00"
+    },
+    "ZRO": {
+      "binance_symbol": "ZROUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 26,
+      "rows": 18514,
+      "start": "2024-06-20 14:00:00+00:00"
+    },
+    "kBONK": {
+      "binance_symbol": "1000BONKUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 33,
+      "rows": 23578,
+      "start": "2023-11-22 14:00:00+00:00"
+    },
+    "kFLOKI": {
+      "binance_symbol": "1000FLOKIUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 39,
+      "rows": 28376,
+      "start": "2023-05-06 16:00:00+00:00"
+    },
+    "kLUNC": {
+      "binance_symbol": "1000LUNCUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 47,
+      "rows": 34115,
+      "start": "2022-09-09 13:00:00+00:00"
+    },
+    "kPEPE": {
+      "binance_symbol": "1000PEPEUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 39,
+      "rows": 28400,
+      "start": "2023-05-05 16:00:00+00:00"
+    },
+    "kSHIB": {
+      "binance_symbol": "1000SHIBUSDT",
+      "end": "2026-07-31 23:00:00+00:00",
+      "files": 63,
+      "rows": 45799,
+      "start": "2021-05-10 17:00:00+00:00"
+    }
+  },
+  "summary": {
+    "elapsed_seconds": 862.2579100131989,
+    "errors": {},
+    "symbols_attempted": 210,
+    "symbols_failed": 0,
+    "symbols_succeeded": 210,
+    "total_files": 7742,
+    "total_rows": 5575955
+  }
+}

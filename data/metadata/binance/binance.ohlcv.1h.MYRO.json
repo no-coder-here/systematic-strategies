@@ -1,0 +1,278 @@
+{
+  "binance_symbol": "MYROUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1709625600000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 640,
+      "sha256": "bdd4628d9cd6a4e62acbca614e9dd45ecd94926264be52911afe4426d8ba8988",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "1d8f9181610583769184ab64e3c93a801ee28dd8b3bd391bc40ea89d91d6d7ae",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "0cf4bebddbc949d6937d30b997a93825c0201f42423872fc6ed7fec3751dc4f8",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "1e475b5ef2d9f45353520d63a268970d9eb137057b8a38925e951830666280f1",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "c39be42ef6a6aad95e8d445bef6fa90bb051c73ab6e93acb2e2bb1f52a13504d",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "2da9f6692cf6c588442757289e151369f476b37a9a002097d996b5c1d406919f",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "bd86a42f61bb58454532e2b00abc15b9985404f9e0c62417c7b7b52076a98cad",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "c4190fa6b67aa84ae47c9f0ce271ff089326ff3837205f699dcad6cd8cafa8e0",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "3706f317ed3c6ebe1a887bd45bc26641a69d4104e3741784131e83e1c4c8abb8",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "1944bba5e41a7f4642064b08e820f758597e40f3bf95c229c410c7e077af089b",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "066c6e15ab33bcd2c67e24886b95c45d0b5cf3378c5c43570e02d4d7bf3db839",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "68a14a794df48b796152213419dd7b0bc6b7ee0e348b5a10fb5894bf9baf0d7e",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "a457c385e13ae5268262f34127ae97a86d62ab2c7dbf8e391fa924bf5c615198",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "f4d84b147efd70bd065265438f2a87592aac943029ed10ecd05438b69300eb06",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "4650dffe2b5f99050620683d227e6c9638bd721c07a046141bfa0887b63e3ad5",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "86d91c7e0b5feb34858c4ab23ec0f482658025081784e3861419b0283aaa44a2",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "b30fbc7bf3c01cb5d4a0de330514ca44e32aec8ffed0402078b96e8b179d4383",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "7ffc23bbf8f71c83e6a7a69721b6db0e245910bb59cd4357acca124808a1c670",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "7537cf2339828ee7b77535a03d85ed02c6d66214d683cc6423d36ba9020d7785",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "a5ddaa459ef4492a1d68a044d633e8bcbc8ef68c69fda5ac79780979f9441961",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "83eefee969dd6131a735516bec5edcff03e8176cdec4ed050beb5e346bc70853",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "5f0806d75357f1cf087d1f5c0b8dabe8075cf1c0084a08cedf86f9ecfe951fb0",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "042a15f5dbfdf3cdd9792615f180c27e6b906bc444e760ca37a20cebc0319dd5",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "6298da95a51a9ae4b3d14f2c7f1d5b2947ef5ee323cecf7ae9f011f2050af1b0",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "a18aaa8833d59804738cb063071f6e75ea6294930204bce04d7c6ae706326a48",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "f342a2f14ad1c4af8c52b208a961e861397d9be408483c90c74d046ca75bd03e",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "355f26fd5b9bfdaebdce331b451a03b7ad8be40c813988180a1c7e3e37da766b",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "23e4cf98b5ed050a8d3ff4f91dbbf0a19127aab1320d12a34c9222e9e18dd10d",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "06a814f96a2e0b41072676585441e351829ca5ecd4d8803f9d4489e419a879d0",
+      "symbol": "MYROUSDT",
+      "url": "data/futures/um/monthly/klines/MYROUSDT/1h/MYROUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.MYRO",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "MYRO",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:55:35.282432+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-03-05T08:00:00+00:00",
+  "unit_multiplier": 1
+}

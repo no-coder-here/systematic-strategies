@@ -1,0 +1,647 @@
+{
+  "binance_symbol": "NEARUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1602748800000,
+      "last_ts": 1604185200000,
+      "month": "2020-10",
+      "rows": 400,
+      "sha256": "c0c2cb2c2e1a9f7814486641c2970fad9c85271471b4cf5227304fc2ce75b5b0",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2020-10.zip"
+    },
+    {
+      "first_ts": 1604188800000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 720,
+      "sha256": "5f3903725491f8be3afb756138ed8eb1adab5bcfa27039da1eb9504cb9dd65c2",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "9fe58c4c5cb4a5a1c8a78d924d4e3d7420d1af85bcdbb54c583fc57583a78bbc",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "adef75185948da27915e9f3de5c644932aea4828f4b1a6eb554b97bf0dd75352",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "36b1059e1a90856b7a13e9692380b5fb3db7b065d18f6a16c74756a96a42b7aa",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "5468a64de1ac314871ed176e7601cf47ef0dfe20314753a1ab921593bc1b3da1",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "f3cd33e6abf5036ecfe57ef61feeeeb39361848e5a70e7612bdf96d351e57037",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "550a894f001e3e382779e6f94a315916a09ff58ffffba29d43f5d8d4485369ea",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "fc31035359ebe88fde2382949e54fa7f13b2450422740fa02a05072df16ca69f",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "4f515e8245ceede2b181b2dff96beb7f5cb1d5731a8e3903588f930420a0277a",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "d213a25157bcd587515d7eceec2e17a07a1929e470eadcd013c13a95b26db0bd",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "7321185345ecf5cf8a3af47698deb181277cbabc6ef2f19c49b180c5f7800cf1",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "844851203ba446dd447404ec3332d481b7227eb58402f7156fc966e40d160888",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "567a86bd7570893c3a69c402cdbf5ea4c9a342a2203e1f6f3b31adb27ef68e68",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "8854f37940646b15b116a9ece6060117663657b210400c3f74626f956150524f",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "4a96f31db834c8fe6bed0c86e4d72f682df763cd0a7532aa5477a2555fbb5365",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1645830000000,
+      "month": "2022-02",
+      "rows": 600,
+      "sha256": "474d81646bb1e509be256ea02ba7c212b04e9d4e18b111e5952607e168dffad2",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "4d9dafa1ac5910d1302880d52b270276399b1f7455d88a6b58093bfab776f025",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648944000000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 672,
+      "sha256": "0e22a50dfc1518fcc5cdee97f263deaf91a88db6043e45a8e28c17704b5574bd",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "c6d70bb01021e07dcc329730d15b8db13ccce79aaa91d5176f267a4a23e6ebab",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "f0898f1231c77e83c6376cc2659b36dbec05b6e0c9a2ed4b72b090279726b516",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "a8a59615465ae6fb1477183d4f613d44fd032b0979765b0b04b11d12961e2dd9",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "bdaa45ac8059753fe40ff27249ef1e18bdcf579c711adb9bbbd42699050e554b",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "daaf0a182d9b68473aed6dfce33819b38246cd9c223ced44d0fbab4fe13ffd1d",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "1011acafea2e2406aa63b0d42f2aa77062a013e0c4a98b1908dd3166eb2bdd1f",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "ad9d219894cae84c95caf2437edd05b0e61cc5ece67cc9d960cb59c07def6c1a",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "449e4b6f0d8441e63f8b25bc52559f3ce8368573e767416f63c47485e1371f25",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "79cc8fbaabec17e94ba4fc0d0a2cbb75bf5021c0070e941df6d05303cf914542",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "822e5d7a6626b1707477facf324128c145d5eee65c80bc9d506006bfed5cbff6",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "5de23c6bda2c6a4808f069aaaf3c3bac278c64eb5256324e3a96b0224a12bd9c",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "ef6b1215fd94aad9589733c3b198996451d04e8850887300871d4f8235ad2ca2",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "ae4f751d3e1f55c21da56217834ec993022b93bd62aebd4fc4efbb1798ebf218",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "6ca247377a260c42402ca1c34fb1d7227a860e802ff9f683bf86106ca5537b50",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "246a8dd512e90b10394356a92990dcdb8f88b58f1233aaff53a177b96e974d59",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "ca8136d10f10fe4d7cfb384637ccd8154f2f7c90ab3d4d60012d0b3ea80eb2be",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "01a027bdd72184e64ef10c3e1525b3cf57f43bb9b7c0b9da2454c43f99fde127",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "854016fcd5242ce7d3bce14eee05886c70fdfc294e268eab13d52e0bdc2532e8",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "24b833495aff5029398862d0880f8d609302f100d51a2624da0df0b3fb18ff75",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "863ce3de2b6c1c39dd2fde34015b56ff3dfb2922803a11096819769f83797600",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "734645c7843e7e332bb3cc60fcded0932e0dbfb0205a66b3100d108378e20b1a",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "bebec9d5c18d9ba8e0e03f41bdef050477c496c6bc40083bc05d856dd5ac0a5f",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "4c38f8f9e5df9aee17665dceec22635df3906e6e72d72c9f8c74fc671dc7fa0f",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "cbd764613380213cab7dda4144a9fbeff3e9d2d7bed5a0b29ad4beb6f839418a",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "238d4b36a547e817c22db684bed6e985d6b2ae099863942135b8fac65714118f",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "79a1d2e84a3a065c3b38ea007f79fb1bf023d7915575a61f342d06defa983513",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "68c18ac5989ae97192e95a41d38c111ad2ee88b757c1ce63f2fe6b33b9d2a648",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "24853bfa475fcf0c634315a5f1870c04fa26502d106438a76fbf99e57d7b0766",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "7673948257d5ff62893255da6a9385ababda99b9e8aa4fb7f6927801bd9ab199",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "bfb923f21a4b8d20e1fb0df827b294eaef84f9cc5c8e795f69efdeacc7cca257",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "dece23ef7537d7eb13dcd44b4f0bc35eb73a7f87b515d843a446ea27e99fdc74",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "e12d63a21a8d9537bdba62df2779fee0d7b1fe28382e2d778c1a1b6c8b7d08b6",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "1eb1a0c18f2a9d05182e7a64b66bb474b348ca19980fc621668dbd155adaf0d3",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "d81f1e70141212b6d875c5e64a208dba02a1ccd99bcdb30033c6365d232af934",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "aa8923905c08a7cbf4ead52cd2fc98c08dc82f5970a02a9cd9263ec8c16d8316",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "c900c44ae5c7989c0291b0b3faac500e2cdf4126c2fec8821cdb220f21b03643",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "c564ae2eb4f23db11cec93a60282e383f7749e4acc87cb573d3c30147490133d",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "940daa15380674b073409aa6dc541c96a4d06daf8fb886092d03137386a4cd8f",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "fff077789d0efe9a0e7f2c20f545f8985866c0d85ede33e5a1492140aaa2a154",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "3d1de1217b1c9be48bd9cae33df992c30af7712c820456673f2f33cb06677952",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "0e1e98aeec7979e5628dc8e371a0415e6331ac5cb1b34838fd8ebe5145085e64",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "c7a26bbb22e3cb5227397a008f433e993b996319c41a54fba7cef80df64eee6c",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "40350df2eff60ac6627f04a74055829f603f908fde426264de9d9944c9880f14",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "1af66c4c6ea595c9e84c11557370357b02ed9e43a76be3ffa27eb7d42972743e",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "5d039c41fd44b1bc1495e44e00897493373284a8e0f6ec8ef93807f0e81bde06",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "c0c5cc2bc125a2551d9a16f7587a04ba721f6251811a14fcd1c2fed2896f6cd7",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "d8b3fb90d5f3cd57b37d7765f0154819423b2f273e92b493413760f11ce6e009",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "c51354773e0925f80b9d2a4a2e95fee70b99de4273280605d8710c60b9be737f",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "3e182e25a143c7cc6edfe9c8f80936a72cfe179445473db38d587dad71c03f23",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "35007189d567423113a37529be636f0f289a0439f6679339f27ad52496d17dcf",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "fe15a70866032a00e073321c68d9efa93aefbee1044dd6c9486598329972ec67",
+      "symbol": "NEARUSDT",
+      "url": "data/futures/um/monthly/klines/NEARUSDT/1h/NEARUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.NEAR",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "NEAR",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:54:15.101669+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-10-15T08:00:00+00:00",
+  "unit_multiplier": 1
+}

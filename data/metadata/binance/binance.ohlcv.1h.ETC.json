@@ -1,0 +1,728 @@
+{
+  "binance_symbol": "ETCUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1579161600000,
+      "last_ts": 1580511600000,
+      "month": "2020-01",
+      "rows": 376,
+      "sha256": "132f21ebb7646eca494086e565bb3e62596dbbf2047cfdb6585f5153fcde9f2d",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2020-01.zip"
+    },
+    {
+      "first_ts": 1580515200000,
+      "last_ts": 1583017200000,
+      "month": "2020-02",
+      "rows": 696,
+      "sha256": "0d49928982f5027453d16520a5153cdf6af53b8071e6ea4a7a39b6c1c175a495",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2020-02.zip"
+    },
+    {
+      "first_ts": 1583020800000,
+      "last_ts": 1585695600000,
+      "month": "2020-03",
+      "rows": 744,
+      "sha256": "206fd2384a4fadde1238f973ae6fba0d2b64ea624d12e61e5768bc4a1a07b73f",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2020-03.zip"
+    },
+    {
+      "first_ts": 1585699200000,
+      "last_ts": 1588287600000,
+      "month": "2020-04",
+      "rows": 720,
+      "sha256": "55827629a3aac17421a3aef306618f884e2b9fba6f935bf4d1337a81c3938f9f",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2020-04.zip"
+    },
+    {
+      "first_ts": 1588291200000,
+      "last_ts": 1590966000000,
+      "month": "2020-05",
+      "rows": 744,
+      "sha256": "e90337feec3b1397e184b3f9c62d07123e1b4a7734093b2039c6154324125648",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2020-05.zip"
+    },
+    {
+      "first_ts": 1590969600000,
+      "last_ts": 1593558000000,
+      "month": "2020-06",
+      "rows": 720,
+      "sha256": "5c90471deea1c4f4dafa3a9bdea54ab4dcd9a48826153a75f70161fb4b69fcca",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2020-06.zip"
+    },
+    {
+      "first_ts": 1593561600000,
+      "last_ts": 1596236400000,
+      "month": "2020-07",
+      "rows": 744,
+      "sha256": "f96c46bd3ec281c700168abd78b2b682670a8e7a393443c6b479e1ccff990e1f",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2020-07.zip"
+    },
+    {
+      "first_ts": 1596240000000,
+      "last_ts": 1598914800000,
+      "month": "2020-08",
+      "rows": 744,
+      "sha256": "ea1b528432c56ded66f3d9f3299ba7d1794e19c67078630185d942e76183bd40",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2020-08.zip"
+    },
+    {
+      "first_ts": 1598918400000,
+      "last_ts": 1601506800000,
+      "month": "2020-09",
+      "rows": 720,
+      "sha256": "456ab5c9960d28711baba3ff06200d87193c5358d837e4aa09db0c62997a6ffa",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2020-09.zip"
+    },
+    {
+      "first_ts": 1601510400000,
+      "last_ts": 1604185200000,
+      "month": "2020-10",
+      "rows": 744,
+      "sha256": "5faac79e58d83174963a0b3b2a237a4fffcbbb5246e019f2be7cfabced92f312",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2020-10.zip"
+    },
+    {
+      "first_ts": 1604188800000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 720,
+      "sha256": "d71f05ff788bec28c6d1b195348f5f655a243a35c7941e0b98de62fc11b803e5",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "c2d6aed3ab765a4da6a4edf022c0a4d104d2554a4a5e8c92e1bd8ce2bb98f6b2",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "7ef5da268a034181c3cb0f0fe67b287462bca343a7b738601addef275074c4fc",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "73d22bf616b9cbc368f101343b488d4656681d9de8a733651166fd77b80af94e",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "72cb285e90445e52bc759b25f4ba6efdb6f53bcf979759666250fa10b95eac8c",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "67a369c9a51a110e29119010ba331e129769a12901bbf6ff7f87b82ac2eeb7a2",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "e789a33bbe01db82460c0c984c591fb4c80f2f4a414daa111401301f76db593a",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "ce3e5678f27ac71cd347f8c21ec9a562da0d89ab3de026a7916bb67f646b2bf1",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "e2e541621d9b4082c12ce06b56bd4a3458810f9a71f3c946892cd7f04b5523ad",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "f9744962b1d5fb21670f6afc08a014d025de916548233634c6f5fbe2998c8145",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "1aaf74773b91f58ba49f7fbfdc36ec5982d1d5f5b3c3a708b648954d43e05817",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "89eb0fb593e27c851fd4fe8c58039a5e6d55804335c5da9786dfde469aacd504",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "5e5ba2d26c570a159c681e3920ab8de98a52bbec55336975b111f9a0314879a4",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "44caa8abd14d225d7623a9acc1589380fa3cfd6690ad403930ba90b6458cb224",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "50051b0f69b3eac48f82d63b5ff77440c64535ff1fb6da928b6f67b322b6a5dc",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1646089200000,
+      "month": "2022-02",
+      "rows": 672,
+      "sha256": "39d5f3c6fcc810ab84d4c01cfa45b2b0e037899999fedc8c7742e246ddbfa49b",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "3bd78819767fafd2efa6228fde373da9dcf8a573f7fdbdf9b23ad5b68459feab",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648771200000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 720,
+      "sha256": "c4feb2f41ea3c381c78bc1f6d0abe9f8cd15d58b608a6737ef180675123d9040",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "040ea34c1b5bd4450e4eed1963f056dafc1b718b0fa3b2a5c8ce9dd6fb5b66fe",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "f732b3d3bc7f8d721ccb8a5cfa40e1c958075882dd2f6413f051c60f94e5df4b",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "1dfebf7701ab5c29b817a21099e723371595b0f15a1d4673c0f3a7b5d66daaf2",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "79bb17caaabd10e2175eb3f9279691e3881d20e6ebc8cff558b1ab338b24451c",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "fcd82db274d7ebf95bcdef12ac9a901f258cc6bf79321dee3e0dc7bf84981a53",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "daf1bb4f96abb667e0a3704e1b7ed009e976378b8a85a235a92e5f10af0a6f94",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "bf6921bc3c899f0277d33d4fc2b3cc2a74583196b6d96468f60bc5133bd0f2e7",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "182953bce21dd610cb92b3e910916c019d819d62f96fa90216c4e43c2ee29161",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "eb00d8a70c38c2de89278ee8927d454e98601c07d66cb8c7e34bfe48285937e6",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "3a56d8d96070ea4a8b22dc9a4281280fd769913b01956551e957756a7e18aad0",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "4585d31f77458d50f2eb4019e02e5cad0eb8829a9cc6a721142dd01cbfb17fca",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "2c9540e2794c4958be47f49aa4197e801364c4d207241a566519f6393b3254b3",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "4310f8fcdb7934e4ec9e6bf775985edc673b97b0d48be9b75c91660dee6d0009",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "12c19ae21abdc5f0e88ffa2730ce4e8ef61f28e6f85da9f2314e41e757d9b1d9",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "504ee527b038e5eba3a7da3d3b33043ae8416b6cc4ac545256ce22bff71c0d32",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "d4e83d394c76cf95e1fca780c1d081854753077478fead35e36ba693b1febbe5",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "1016d2773dbe5c16387df81a308242627889c3adec41c522dc9ac3e6bd486fcc",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "98a3d07da484402ddbd6f2f9edf7c14d6e9e970b10875c3535136eb45c5bb9b1",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "56556322e063782874f485979129ba54de7c43e180eacfefc26c14889cfb6202",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "d46bb46938d9a6f637ce3392ee6ee39c086d5d9cee73ecf16ca30f125f0cb41e",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "e8dde7eedb18badcafb4c5ec2217ac62bfb71c6dbec33130c76361aa94140558",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "736bdb2b4558ca22114b9cbca951239c83bdd85d6cd348fbd13f283526f1f385",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "41b5e521ad3b98ea13c3a24b88300b0b43be4eb8d08dc1d6324a068b5313d252",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "e272e5117304c70002d0c23304574f8e191f689ef5a4c0d888b7be315580ea3d",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "e5837a2c0a7ba2f3fd3be64bb5448e49ce9987819977ec5051bc573804297688",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "cdb5fbbe75857f38badb475cdbc96f24019f576bc2cab0e0facb42931b238c2f",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "488361f3b11b21952a74ddc4c73da38aa60abd7fa72f5f612cebc751404e4d23",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "d68e6d30c61cc32245eef77913b4c564fd88516353fa25dde4b472d9475379cf",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "6478ddb1a83a813cf4ac1c1a1b9079eaa3eb2ffaa269baafc86997def23c4046",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "cb8442774cd68ed0368e636ab9d43075734ec48cc1a6bad41cba1001c30c2db3",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "3d48c27408fd97ac79567ae477df5c9dbc3b2e9f6562fd61626fd5cd1767790f",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "5b937c08eb17772e74fb580bd4513bea86a4978e38c442d35883562c2c9d7806",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "0d638b3a1f81311932f1bdd1ca044b56b93d45001bd21d4e7111461131fc4feb",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "0295107674bbc9357f578e4d4bdd1435b92043b9db81667ac3801a920ba8f807",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "143270d068eb96e5b29790511dfedf920c9f2dbba144a4326cf256338adc77bd",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "f8d8214f90e695457b24f6a8448fa0f55953816a9c14b25d7ce8fb1a27878b1a",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "46d9145e8af9f9f431e157718828c043d5f6266077f783771558b7fa84ba2a45",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "a8e9ebe8adf00305e83e8d607ba3e87244b624254dd066e44815c55ce1de1d45",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "3a21941a80f140d3d662d939e094cb6045ed61f0cdf12c88cb9a86cd2735e9d4",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "c1f20c9d89cb2455218a23e705c03f4ec4e5ff9e505ce85de3c46dd3790c6c58",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "d908b6cd46ea099cbaca67339b997371fc0b1b8d7dc6d73c6a22c3b62c27121a",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "f5a60cdfa7f5d7722116533a3017f0ca1a6f162e6db968f63c92c5cd6af3ea82",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "840a9517b363c4bf3196cae46225d06107da26266060754ead376039207a43a6",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "9a4dd9633ba19167d93853da1b827345f50316792d0b873c7da2d96be34b3011",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "24b02f45e06ea78b0f035cd4d5ccdcb0b8d7f77dcae72e2f29d641dfcd3ba8d6",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "3a7b74acd22fc26067ea4bcff185ba71d8181e9255d19d655d095f28ea9a02ae",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "cd188df3acb3e6994cfad8675c768f6b5e7a81c7503d487da4922bccac675b3b",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "a4160cf16d2e37114433f72478a4eee0b5d08a5976bc7a68f481543f05d2c2ed",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "f39c668b103ace2f84cee85a7912e89bbfb145dce3c060d75a12149bf682737e",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "bfddddaf97af9e6c9f1b3cd2f07eb67961e64d84cc499f4c6f15bddab27d3cc2",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "616ff82c82950cc6bbda658bea02a8479a2cbacb08047b7eb9bb1479fe8520a1",
+      "symbol": "ETCUSDT",
+      "url": "data/futures/um/monthly/klines/ETCUSDT/1h/ETCUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ETC",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ETC",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:56:39.081634+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-01-16T08:00:00+00:00",
+  "unit_multiplier": 1
+}

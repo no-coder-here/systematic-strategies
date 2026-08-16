@@ -1,0 +1,152 @@
+{
+  "binance_symbol": "HYPEUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1748599200000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 38,
+      "sha256": "69d010e01af960c23568a8dfb1c4bca203134326b193d240ede52dc5c80c51fb",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "918e1d416503ada74e6b05f157cec19e6ea709fe4c79dc98a0e3d90f67ddf2c1",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "2831c94cb312e60233266d2ffa871b60b6342aeca03640e9f756c9644839c45c",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "35882743a9c55693ea10903dd39da10f65789cf5116d5ee69c4f187383a4baa9",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "2da500df93c3375d2095acaea949d2f64de930d802fa067fac9d89dff9c256e1",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "23e661deb2d71ae236015092a5c4d5423823d2f9b4d325dcf16deefdeeb6e833",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "87bcfbe0fa890242ade8b4bc6a5a1cdfd3bff8b0bc32dc9036c81013348ae053",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "df06c03c5dfa53d7bac1f561eef8aab3f9e3204680ea083f647f91652b08e2f8",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "c719764c59376bd1ee2be113e997d1daf6367600b2c6d3d7ef3e57f6e75f37e5",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "6da9701a8cb1d38ae714fae225288bc4073ddddd09f5cfaee17524d6bd226a41",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "ab528668de7852df4bdc932e9fdf7e2139d1768ab698fd9ed4f7613375965e26",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "931fbd4df43e91be2cc3a36f26f276b9a980edeeeace32faafe3544c52ea0531",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "a356e59b9a1969a9c8f04e1f648c3f4898b0ad6b538ddcc62f09baabaa671c4d",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "6c755f438b27d73b13a7e7f4bc6aa42b994ca6a00c3e2458cfc2864a16953785",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "ede5002061ecb940dec81ef9bac02d2b3e787b82b3b25e410cd0d8fa06ba046b",
+      "symbol": "HYPEUSDT",
+      "url": "data/futures/um/monthly/klines/HYPEUSDT/1h/HYPEUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.HYPE",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "HYPE",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:56:59.459406+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-05-30T10:00:00+00:00",
+  "unit_multiplier": 1
+}

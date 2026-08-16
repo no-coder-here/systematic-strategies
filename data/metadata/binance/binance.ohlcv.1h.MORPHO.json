@@ -1,0 +1,206 @@
+{
+  "binance_symbol": "MORPHOUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1732716000000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 82,
+      "sha256": "ed6ca3da39a00d48925b3deba8b7700e87387215bcf5b1b9261881799f34119a",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "409b6467ebefcd86d166a43b0902c49c9925887e8a8be1c51209dfbd6fb614b7",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "1d06e84194cdff88dffc662e8d5f0fdc36f0cef40455dfce97156afc368a8efd",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "56f5f4658670e880076cebb5413079f29996706d6d80f2c900a3338b260a7555",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "72a37974338de1432ea19ba64cbffcda50906d1ae0f2401b2f6e73bfb395fcbf",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "b1a96565ee3121bdfb036b3df28d916a49ff82c0907dd515137778314c1ae0f9",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "efb051c01cd8099e5a05c6c7588e07e8f748112b6e54b62616eb7b32e41aa9c7",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "3e394bec060af8a9ef02945be66278d7faeceb45c53736b71aab5c775f6bf261",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "fe7caf35bfbd0eb5c6772be5db9a0da451e93b5f9f339bff1aa8afdd4f636fb7",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "39d9a3591fa7ace7d2286245373284553feaed1b287c6ce94a5dbf1d8bcc9312",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "a38686db1358dc6ecac14870760be2d06f2ffd9e56d57ba3422bd1accd1df887",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "d0d20e2f25dee4ee791e0664c11cda37e314e20b8fffa8c3db38a1d041029477",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "9af59ed99232dbdb80b0ae4840b27c2398182caf4beff1efa3a1c6a2db64565f",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "7fc56224519f6bfc3dece7a4008143808b30275b91d137d00083688a732ab048",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "5af0c805e800e71d789617d0a3bada8d53bd93a0ea13feb6b712aae4b16378b4",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "e4b6f0498ae488b1cd2f12aafff99a1de202c36c0ad03fb9265e7852cb3a114a",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "2ed7f0c0134d8a0100c73fc255d98845259640bc4b42560fed5a9caee153595d",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "29b373e97f581935a396ad59d03a58f16a976e2f2e267011baa1776c0a8d1af4",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "a5b73a90ece8d0307847ef6c50f1b32e389f27415ca9e985a9980557e2237c53",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "a3d9a07cd9d7e0f84952ead7e1243ab0a4e6c280b75937a16a5cd74af330ced5",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "f02d119126ea1912cf7fd7820e000607cd27265357e3479dd7995e3fdbcc348e",
+      "symbol": "MORPHOUSDT",
+      "url": "data/futures/um/monthly/klines/MORPHOUSDT/1h/MORPHOUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.MORPHO",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "MORPHO",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:57:43.356050+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-11-27T14:00:00+00:00",
+  "unit_multiplier": 1
+}

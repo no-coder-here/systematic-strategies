@@ -1,0 +1,26 @@
+{
+  "binance_symbol": "GRAMUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1782979200000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 712,
+      "sha256": "a43310dc2322fbdaf43771f4b9e67a60c0fcb2590b7f64d5788573d8fa758728",
+      "symbol": "GRAMUSDT",
+      "url": "data/futures/um/monthly/klines/GRAMUSDT/1h/GRAMUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.GRAM",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "GRAM",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:58:37.751240+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2026-07-02T08:00:00+00:00",
+  "unit_multiplier": 1
+}

@@ -1,0 +1,197 @@
+{
+  "binance_symbol": "FARTCOINUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1734717600000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 270,
+      "sha256": "86354062fe87a49dbf9d1ab8896e04d3849f1a174c2f8cf1cc095f72337ab612",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "9fcc9a8013c204d59070ea01f04442084e8a1381882af79fb3987724549d2323",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "430b9b03e51e545540bccd31f67db7692eaab3afffa1f21ccd56973cb9453946",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "aecf064556204f494db36acbc7d50bcfe7b0e0d406c45a1686cec266cf4a4513",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "28e24ad65524d7e038666d7329d9e4077f85513a3ad7fbba50f31fdbc05c4c3f",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "d26d8d11264f4e8d78b4ba5b62ccdca64d05c732c3918c1de670a19d389ae75c",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "6318152034e21a0d87f61a0e7a09301aee2ea08e657fda64dc97b0a47da2662f",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "64f4b431342d7c8cc43843dc2acd00c9f98da72961ef4a21df5c847e28486be5",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "080428fe8170b07b07ef98b154200fbdef998ec909853a3131c317db821b765a",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "23a048029e17aa5dd6cd5e75c0954e9910df8947e85f6c7d84d3f171a36c9123",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "1b5e4fa29d30d1c7c2c26209c49d78a9d223fd4499ff77811c392d562b04e9d2",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "51337ef875377e19618074299e3f06bf93dca3f61e9aee6373c610043846030f",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "b7ed70682738bbab010fca681176a65133efbe6cff186907ff29d4308f63a662",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "394a1530664c12922902c0e79e03852f8e914ea69956698ed4f09ac2eb55d0d4",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "79e9e38184b22ededcfc4959ccd9548cd62a3f50db9658b13dc8fe351f92baf6",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "6099073ab65a438be3a81eeda525d5d3815a23ab421f1bc064f6b27906ecf6ff",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "ffb3ec7ef1be64e21ae81153a39a427c3dad82b2299c911233936a194574b809",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "b3b76ffe584535b65b95f3e4b58002623f9d717b5ab16e541991958f9b4a040a",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "2c40771753cb1d26156cd8d3532744b65bf4dc521388830d7c06b4cd4e66e59b",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "083701ba164412785a13c5e281cfbc9a9a26b146c268a65668204ec10aca801c",
+      "symbol": "FARTCOINUSDT",
+      "url": "data/futures/um/monthly/klines/FARTCOINUSDT/1h/FARTCOINUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.FARTCOIN",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "FARTCOIN",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:57:20.028354+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-12-20T18:00:00+00:00",
+  "unit_multiplier": 1
+}

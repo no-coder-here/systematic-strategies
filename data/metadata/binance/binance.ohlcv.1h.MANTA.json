@@ -1,0 +1,296 @@
+{
+  "binance_symbol": "MANTAUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1705586400000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 322,
+      "sha256": "75cdf14fc1ac69e7adaa6e2c3741628b1afc7523a0a269948636f0c989782fbb",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "efb29b719c2b4e3bf1725b23a03a4dc0ff7595404a581f22b26b1803880d1eec",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "a45cf9584af998e914341b01984b1f4d9caf43aa4745dd66dd56ed5509d1f46a",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "d08544884fb177b62b6376f94682b7d65b186b825b9a0c36ef25b001a763deaf",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "0129762bc63fce594c43b52515e467e6a9f0622dd259ab9a30130acdfb7978ef",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "76b693e3dbe0f9ffe72dee838befe7c074954a195359f3041be2819f27674683",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "4f2cf9f6e05d3e3d32821892431e10db8bc56085b5fb80798c01dc698c324b0d",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "ad5cd836107095c0330171e8972906ac0d4a663088287a2263636d4d39ef468d",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "40722d54035433a24c0591e269e8c437b52dcf998560f39587dea36c48980970",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "a5516b14c4b88a12b4bb975300e5116aa08cd4f8d7b156ceb9faeb375d4e8f4d",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "d85900ac9799c172de93cb99e80a004f1fadb8146fdacfaf650a40500bd47844",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "744c3896e2f583181d1aec87334d3364ac96e6533ecdd5d9b899ecc65c8f990d",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "dc6938f0264121326a78bd8193f06fe75b000308e410c123fbd955dd8f6e445a",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "86befb17effd47757060261d82319dcad66d3484a982f774ffa32962b20abd12",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "fc2897d34e242bdae2ebb9320185a37603676f870c0991b15c36bba73ddb4e70",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "c7612082e0b4ceb1135660f5600b100770d224baa17986b8bebf86b429a02427",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "6c0483d180ae0e4502da5e07ae342662ffd6550a336b4156b1f492a888abfc37",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "bf2a2d62a1829ea5161509a47dd8400f61e29f109919dd87abbfcb3418e2b61a",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "fa9cf23dd697eae887392faa687ddf21da00083f6f3630f140d6148ae9d171b7",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "f9e087dd182f57d988fa39b2db59446dba4e610a7e02cf33e7fd4d83c5841386",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "36c8999c760962c16b3debe7d89fd3e1ebae3e0a02e0ab949778cf379f1da79d",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "b8cef0ffd3469a2caa316f17224551efcbd3d4502ad6f5e7d2ae3c9edf2a9fe9",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "fdb12a109c92c7b4d537d88510cb2111912323776d56d20c5a0ae13a5a6c9f7a",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "f81f9657e3db5d55838b4ad0c62d38e63679dfe1b861883cbb4d2832456a1006",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "6ba5277c2fe7626feb9a5ffee45acc267ac395ae596b97ad074af32352692601",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "32053c9c13d09e0eb838425cce9ed5821c43befb2df812ed0283b5aa92b745a7",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "bfb6ca090e9aac3f182d0b65582ee3e474c673988241f02dfb8d138b1ff04716",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "66a9459e82a6d5076b8ab205d03aea947cf8529006632fc82a62acfb51cc7b93",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "7ac1d0c40745b5ce8e21253bc566caf9e04f5cad312dc775a320bce5e9b9ab78",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "dd6c9fcba8eca4b8633a41f7fd238de9821a7741a6fb1e658bd44f26c4dea373",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "79ac13326d66d5c266158e38c94f008b1ce230c625e27d005acc9243623c6176",
+      "symbol": "MANTAUSDT",
+      "url": "data/futures/um/monthly/klines/MANTAUSDT/1h/MANTAUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.MANTA",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "MANTA",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:54:59.132269+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2024-01-18T14:00:00+00:00",
+  "unit_multiplier": 1
+}

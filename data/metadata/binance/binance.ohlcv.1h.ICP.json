@@ -1,0 +1,584 @@
+{
+  "binance_symbol": "ICPUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1620702000000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 501,
+      "sha256": "f91cdb596cbc7c27170d2b654ee89adb3e6614cd58aa8a7c834f261bbf467399",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "21a7ec6b69c53f84e31390ddbea0c4dc7a3554fc9c88b79c547f82ccef001d2e",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "5240cd71daedefd6a0b206871fcabda3638f7c40fd0ab7638b998932b8309418",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "afb521105b96a3d507f5cf170f759aa6764aba030ebe9f06ec9c6e02d8fa29cc",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "f7811068995da04ec17e23cf8313831b5db76a7f0a0f57925cabe4befe9bb57e",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "f641bc487d47c0493d1feaaa136dc5ca5f79dd38abe4194160c8f923d592367c",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "85d8873ed9edc87b1c03e1d85c5ed50ff023b18bd68d1b416a273dfb72e64895",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "0486d3ca049cf4350c6b9fd9065bb6ddaab5108066d7056a856b241285fdbc9e",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "6bb63a93a8b0648b5f56cb2659b358652a0c1f2eaf37ebe4a31eb22ac6b7ee2e",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1646089200000,
+      "month": "2022-02",
+      "rows": 672,
+      "sha256": "55465d897cdabdb3f8bad629d26f82a1f2821e505879fb28bb098beda3dad5c1",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "4009ba606a99c6e28bd823e948049b9a8e610a215ca2b2939ec1d272ec157e79",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648771200000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 720,
+      "sha256": "cc323f3f29a569339d4a6b5b95eeead3139ba38b9287f5486a5c7ebd6dbcbf49",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "b18574229d5fce0a37513df25dd9d8e85a484b776050bef0ad1a4a2dc6c4f9a9",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "a57f62a7191afb2ca56953db145db5d2e49b00fe4bd6401f6857e8df4c77fed0",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "7b912fc6184eb9741a0d39ab25e0e3e911d14e5b69dc664dfab39300846422eb",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "d0c828d0828d323adf9392f3549ea0503813fe428aa1b86015564987ef36f4ef",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1664244000000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 94,
+      "sha256": "9d2b210a8935d7e09401c0d7dcf980bd873d95be7c51fc75524f509db9ff10d7",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "1928dfdd090009ca8df979275b530d19dd0405a3c31f3f320ef579ffda30bb18",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "9c9ed4fca8d35309455befaead4e1bd7b12ad740ca42203d2cb4321c73d86492",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "d937890c2514dc88e212d5d2627a94b06d5af43bfb71678e2621b82cb9a9d491",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "4488d604985216c127de18cf3f5b0dab64be6ff17000cb3416e88e4bda90c511",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "c6a34be6dd322420a5daaf2edac76399fe432caf091ffd9f41c22d55b835f40b",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "d94c599d337437aa8eb8ce4d60c1d1cc54337be112de755ca0d198c117081631",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "a0e5a020b4ac7eb575cbc56e8c759ec3075e873fbdf163188e5b1dde2190a8ae",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "66616da463b48ba36364d37d994693df1afcdc5aa667534aa1a107002f68ebb3",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "bf4fbed0d8ba396b5d3d139159066487eaf699d802f69cc7de24816def50df31",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "223c2122cf7737a917ca1c396a1840fcf102d19d91a9cb18f1407d16236d0249",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "db4bbd956fe037cc396aff406638a06766b26185c83586ea7ec11946cdb4d7dc",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "2c848bc8f4912007124ed4ea166a061108fcafdb9e5ace1eb082da1c0b153651",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "7d80f8d25be713ff1dcecb3b5961aa8d1e56a7be31888efa044b9347582e266b",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "e1118ec9eecd22204473d5d66136cec8b480c249422c1ee91b25348ad165f032",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "ba6f862b60379db9e1b821784eba7a4840a231d40c7204dfed027b23e83f4d23",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "2442cb79743eed5fbb4c679997d885d2dd1b23d395d9fdfbb3247395ff494420",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "981911c387951383e04d0d57e19b03731a397d334d471d47098125340ee59180",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "397f7c3506aac64d2650b4fc1ffef6f4223b5be74c876220efd3bf06961fd5e9",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "9ff160d30623fed88028e3a2b0c3cb5536526dc2b41cdb0e27bf58448e27aab2",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "93115b0269d012ec199e54bb980c7fa3318c661888e817d9b58f76aacfdf9aa9",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "59b8739d82d86bfb01ec0160acbd89affd0b4dc260fe9c0434aeece08d7cc6d6",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "297e6d3927ee11fa74a995a72050eec79a54738ee3768bc581da47c649702f0d",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "d6b92691f911d6a862d8fce5aee607aeceed394eb16940d81a4f59195c6d6c5a",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "c0503f50f7483f77a027b15e5a9f50af178507ba60ba98ea0846578d066c1590",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "5b47e5750d75246c15eb7d96c345afecaac3826b6c216e65662664e7aef43582",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "5f393081110a775644e7cdd0e9a4afb03beaad05977e1a06646cb05125f80fe7",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "c99beba0774272727ceb59290fdeb167c229597a57f9b82b6193ec925470fd1b",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "8ee7fa2804697e9ca7f109c77a358a3f106a1bee430e1156c7df531a225843a7",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "6be5c61658bc2a8f7432f2c6c5b2aae00dd3dd727f7de07567e6926e909a788e",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "d2d22f764b145c898b71c87b94192d342b9507b5b36d1057084a8bfd34b044ef",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "574b3822ed521a6d1fa7e12ca8dd8a833f614d5fd5a6a20e63a64fc8e01c5e08",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "05ba0f9d987d0fc664269087f5ad54b58c43da186d6b965a1c3482338529432a",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "9d7c3fe6175ad4775718b06b74c32f584b2d5b85215a607f4beb68b976fa9c01",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "4258add123c1d7fa9a01e8ab0e842d09a36667b5aef3d5c10e4f89fc98548c6e",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "bcda9f179e114fdf9a7bb58b04eadf08073bc9fd05aacfd28c97a8421060bce2",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "879c6ef11e74c3a1e4839c5d7645333a5f82df3b206b1a1f75f002ebee494921",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "7cff561bf0919784ad38c95f4defda8256d251ae27af845bd10ec4793c5cb4b0",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "264948c6f773500d559bdc352da1451322acd0d244046d2cc8bf7bfbc1229872",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "1022ea51eae9d94b330a388a4e5d8a13de1e48fd71ff510cd2426dfe5cb8fbd2",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "6678ce8e18646953d491dd8c4f46622c2eca0a2f2e79fb4050687c98ff3769ba",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "01bf313dcd44e7db24e6ea5596219ae005b7351ba16e22697a38b725e08b0c5d",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "35eb28d5c66cbd49bedc256a697f857b896ca29f42defb402ef1c2cb24eea07b",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "2b3fae9e0554f7036f9ec1d43bd09ffd709c13188d21abc7b365f7a66d673f2e",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "a0370a05b72cfd1d1130f0910b5d23f72632fc8fb3847c3b0d58b231668b7f81",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "8c1761f32cd12075f947a1dc0aca55864fb31a0f473ab64fe091bbbf50fdd814",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "4a640049e311238c8afeb6cfc4359b303bb83d64d610f30388a64c137baccfb1",
+      "symbol": "ICPUSDT",
+      "url": "data/futures/um/monthly/klines/ICPUSDT/1h/ICPUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ICP",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ICP",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T17:00:39.323431+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2021-05-11T03:00:00+00:00",
+  "unit_multiplier": 1
+}

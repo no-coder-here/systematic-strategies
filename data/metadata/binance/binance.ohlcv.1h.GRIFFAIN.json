@@ -1,0 +1,188 @@
+{
+  "binance_symbol": "GRIFFAINUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1735822800000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 707,
+      "sha256": "fb599e47269b87d4b14f76891aea6eb5fc8043b3be00a0a80984440391a2c535",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "b3233e4bba1702f7d0909e1f2d1c1484c5a57cb6a6cf64f970ef691ccd248142",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "49f4adbe54d2228619dba18c0c62f8d78cb5718157affbfca8f680d7ffa92c6d",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "fed40144f2070149cab18e11b28ce28c4ab6eec7946ac90d140946c974359ab8",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "7bc9dba83bef65519f7012dd8ecf3312c42d60cf97e49066f688efa823eb2afc",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "2744126fe3642123a3635bebe68a44fce73c11c20f17d362f8e8f9c9c2076596",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "cfff1a54bb75c1fb446dc24e33328e89e997e3cef23f897d41b4bf34ca3e6d31",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "1f37a9725d256413a0f186284ed8e145278103f967e2ff284fce6d448c69d37d",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "f1e4ab74c99d2a0801cf95337a0d1c7cf3f7178e689b495a692bc85698516f40",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "1ffc65122bceaa25a02b4f9e3aa492e70d4d779a977d7cf3e5fc43b504368e23",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "9dee17351efa983020f9cec558ef5cecae65c0f4766ce690a680936c80e08f78",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "3dcdaa78ecf36844974566bc25b43644a575a4f186789dc6bd3276349a9abec2",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "28c9e4c0b9c996541239485f98bdcafa0931a948bc404e8cc5c9c02bca02ab9e",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "d7dcf7dbf0a3a2d371393d87a9ccfc5dcea94d4cc3cabb08fe01525ae97e095a",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "a094f09c3c789a7fc7f13b5cc47d1a491bf3cda3e67c7004d1095a881406f847",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "33a52a51eba9bf4b9bd278e9803f119c3cd72bf194f2c175b23055a80ce4ab04",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "614b89bf88bdc1665f29d6fd96be276b0b86e5a1b099ab68effefb87a0e14fc5",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "5a5391cad9776aeff757e0f28932b38ac760146e244e6d12c5a076adb6200e90",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "fc5f1ddf284e45b32007480acfa7d0c2ccfcf93858f554978f1be26c86eed662",
+      "symbol": "GRIFFAINUSDT",
+      "url": "data/futures/um/monthly/klines/GRIFFAINUSDT/1h/GRIFFAINUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.GRIFFAIN",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "GRIFFAIN",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:57:31.343836+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2025-01-02T13:00:00+00:00",
+  "unit_multiplier": 1
+}

@@ -1,0 +1,719 @@
+{
+  "binance_symbol": "ATOMUSDT",
+  "checksum_manifest_entries": [
+    {
+      "first_ts": 1581076800000,
+      "last_ts": 1583017200000,
+      "month": "2020-02",
+      "rows": 540,
+      "sha256": "1d70fea6b1d6ea7c7ce34b9ebc1d401aa58bca59fcb8fda780e3952df0da4249",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2020-02.zip"
+    },
+    {
+      "first_ts": 1583020800000,
+      "last_ts": 1585695600000,
+      "month": "2020-03",
+      "rows": 744,
+      "sha256": "3fa337e93921254731a93a98838e5481c6530651d4772f17912f284376f90064",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2020-03.zip"
+    },
+    {
+      "first_ts": 1585699200000,
+      "last_ts": 1588287600000,
+      "month": "2020-04",
+      "rows": 720,
+      "sha256": "7db2c5fd578cb7236eca020d9f0d67eec30af6c59d504e40c2f6097c2808fa32",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2020-04.zip"
+    },
+    {
+      "first_ts": 1588291200000,
+      "last_ts": 1590966000000,
+      "month": "2020-05",
+      "rows": 744,
+      "sha256": "8cedd7016f4989236aad39cbaf274b035f32a91d56c8085da7c7706f8ae0af03",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2020-05.zip"
+    },
+    {
+      "first_ts": 1590969600000,
+      "last_ts": 1593558000000,
+      "month": "2020-06",
+      "rows": 720,
+      "sha256": "35f92942982dbdb091224bfb52de71c25b32cb237ca50fc6e45e533720030ffb",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2020-06.zip"
+    },
+    {
+      "first_ts": 1593561600000,
+      "last_ts": 1596236400000,
+      "month": "2020-07",
+      "rows": 744,
+      "sha256": "8ad048e851444e3dca542b477859149cac589d9e173a9c55bd0f3031264340da",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2020-07.zip"
+    },
+    {
+      "first_ts": 1596240000000,
+      "last_ts": 1598914800000,
+      "month": "2020-08",
+      "rows": 744,
+      "sha256": "aa45f605c194c88b6371593ee0e2c9f1e732489cd620db75c81b78e0fee92511",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2020-08.zip"
+    },
+    {
+      "first_ts": 1598918400000,
+      "last_ts": 1601506800000,
+      "month": "2020-09",
+      "rows": 720,
+      "sha256": "443e75e9f39217420426a0115b2150c66eb658e53247a99ed8c68f8ee07d2c54",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2020-09.zip"
+    },
+    {
+      "first_ts": 1601510400000,
+      "last_ts": 1604185200000,
+      "month": "2020-10",
+      "rows": 744,
+      "sha256": "1f0cdfcbd29543a14295dc7d2134845f7497c04b422b320dcdadc2b38820d313",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2020-10.zip"
+    },
+    {
+      "first_ts": 1604188800000,
+      "last_ts": 1606777200000,
+      "month": "2020-11",
+      "rows": 720,
+      "sha256": "8b01a9911f300fc833e158b99871e5d0dbc5f5127137163c7af7396d7f3fad87",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2020-11.zip"
+    },
+    {
+      "first_ts": 1606780800000,
+      "last_ts": 1609455600000,
+      "month": "2020-12",
+      "rows": 744,
+      "sha256": "540e6624330f7c021314a304bd06d1149aab54168cee6a0e03c50486257bbafc",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2020-12.zip"
+    },
+    {
+      "first_ts": 1609459200000,
+      "last_ts": 1612134000000,
+      "month": "2021-01",
+      "rows": 744,
+      "sha256": "877d07c014db8199eb1d5338e7cf90817a0d1f39d71641bca57d6fa37a12d4a6",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2021-01.zip"
+    },
+    {
+      "first_ts": 1612137600000,
+      "last_ts": 1614553200000,
+      "month": "2021-02",
+      "rows": 672,
+      "sha256": "59b9b6de433e1d796d08b3095bf3466c36f251128c7eb4a4f28e1d2c7216844e",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2021-02.zip"
+    },
+    {
+      "first_ts": 1614556800000,
+      "last_ts": 1617231600000,
+      "month": "2021-03",
+      "rows": 744,
+      "sha256": "b8d0bf3329ccba31bff0a918c98bb63d19afb53def6becff1fdac0d798283e6b",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2021-03.zip"
+    },
+    {
+      "first_ts": 1617235200000,
+      "last_ts": 1619823600000,
+      "month": "2021-04",
+      "rows": 720,
+      "sha256": "3f5842542a68f931f718635434d7aa53ddde8a4d22dcd48a42a7080d74d659b3",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2021-04.zip"
+    },
+    {
+      "first_ts": 1619827200000,
+      "last_ts": 1622502000000,
+      "month": "2021-05",
+      "rows": 744,
+      "sha256": "5b84bb11603bfc6562a92274110af5624bffcd8802e439a11143e13089f2b5e7",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2021-05.zip"
+    },
+    {
+      "first_ts": 1622505600000,
+      "last_ts": 1625094000000,
+      "month": "2021-06",
+      "rows": 720,
+      "sha256": "f4628892b4b6c3a3fdfde15aa22e55234fc38432742c4cb562fd3c583e613236",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2021-06.zip"
+    },
+    {
+      "first_ts": 1625097600000,
+      "last_ts": 1627772400000,
+      "month": "2021-07",
+      "rows": 744,
+      "sha256": "7ee65a4fda00b9be6c83ad4a81a4861d714b1a07ad3ddf0d6a0fdd7201e349f2",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2021-07.zip"
+    },
+    {
+      "first_ts": 1627776000000,
+      "last_ts": 1630450800000,
+      "month": "2021-08",
+      "rows": 744,
+      "sha256": "ded0137e96ae7a0ac08c3c6e08e4e4d1ee2ef937b02ba816a9e96d4cae8d22b6",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2021-08.zip"
+    },
+    {
+      "first_ts": 1630454400000,
+      "last_ts": 1633042800000,
+      "month": "2021-09",
+      "rows": 720,
+      "sha256": "effa2531af2e6197abcb750df1867d5b29c67fbb1892e0d5163317c2ea39c048",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2021-09.zip"
+    },
+    {
+      "first_ts": 1633046400000,
+      "last_ts": 1635721200000,
+      "month": "2021-10",
+      "rows": 744,
+      "sha256": "7f909cbe342d1b8e250062aad8b47d067cd94568ec49317761ccc0fcf61a8b9a",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2021-10.zip"
+    },
+    {
+      "first_ts": 1635724800000,
+      "last_ts": 1638313200000,
+      "month": "2021-11",
+      "rows": 720,
+      "sha256": "1a4ea55ec979d95f213abcc7e62bdeec8207145f6b7192232d34b333ad42faf0",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2021-11.zip"
+    },
+    {
+      "first_ts": 1638316800000,
+      "last_ts": 1640991600000,
+      "month": "2021-12",
+      "rows": 744,
+      "sha256": "719b721c60fc9644d22e84b4937056843c2f5f91dbd0dc50b5dabdf2d82a2ba2",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2021-12.zip"
+    },
+    {
+      "first_ts": 1640995200000,
+      "last_ts": 1643670000000,
+      "month": "2022-01",
+      "rows": 744,
+      "sha256": "0853a017a6476a611609a469778717fdf3fb9b1ada5d7ea855ea7a6ed04c6631",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2022-01.zip"
+    },
+    {
+      "first_ts": 1643673600000,
+      "last_ts": 1646089200000,
+      "month": "2022-02",
+      "rows": 672,
+      "sha256": "0f357c4f55f26b2b7dd357e79e6514b4df8c8f0835a1e80cf84f813e8bc2b1c0",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2022-02.zip"
+    },
+    {
+      "first_ts": 1646092800000,
+      "last_ts": 1648767600000,
+      "month": "2022-03",
+      "rows": 744,
+      "sha256": "662a6077764020fd6bdddfc52812fa362fd2b6fe8323621c2b945c5ea350bba1",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2022-03.zip"
+    },
+    {
+      "first_ts": 1648771200000,
+      "last_ts": 1651359600000,
+      "month": "2022-04",
+      "rows": 720,
+      "sha256": "9b28a11785b61be3f357fcad856411470abf683138cd9bb934b6ec9b7b79c8b0",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2022-04.zip"
+    },
+    {
+      "first_ts": 1651363200000,
+      "last_ts": 1654038000000,
+      "month": "2022-05",
+      "rows": 744,
+      "sha256": "fd61a7668ccc7a5dd8ff1778dd8bf843e4f291ac0e84502d727ed33bb30fcb1b",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2022-05.zip"
+    },
+    {
+      "first_ts": 1654041600000,
+      "last_ts": 1656630000000,
+      "month": "2022-06",
+      "rows": 720,
+      "sha256": "eba76da37a8530d0bc79f8a3624a2b96a3a17b866f013ad366704e8cb36068d9",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2022-06.zip"
+    },
+    {
+      "first_ts": 1656633600000,
+      "last_ts": 1659308400000,
+      "month": "2022-07",
+      "rows": 744,
+      "sha256": "aac3cbf07e71ede1fda643ab412b1348022f4ee1ed555be5a9aa539ead2a6fef",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2022-07.zip"
+    },
+    {
+      "first_ts": 1659312000000,
+      "last_ts": 1661986800000,
+      "month": "2022-08",
+      "rows": 744,
+      "sha256": "67a2d5d4488e8f8de92a3cd7d2094e9e9bf4b7fe312100172c8ae586cfe67d98",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2022-08.zip"
+    },
+    {
+      "first_ts": 1661990400000,
+      "last_ts": 1664578800000,
+      "month": "2022-09",
+      "rows": 720,
+      "sha256": "2ca2c55675cdf50cae5122f095e075f494de396efb1e74ec8d07d6060123f419",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2022-09.zip"
+    },
+    {
+      "first_ts": 1664582400000,
+      "last_ts": 1667257200000,
+      "month": "2022-10",
+      "rows": 744,
+      "sha256": "8c929e0ec60e07a18976e3fa375177e5ac7245bf3b031b823b6cbd22ad3a19c6",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2022-10.zip"
+    },
+    {
+      "first_ts": 1667260800000,
+      "last_ts": 1669849200000,
+      "month": "2022-11",
+      "rows": 720,
+      "sha256": "1d328db1324c24202924f13374a5d22c7a489f5b49d8e43114a05eca6d9e4556",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2022-11.zip"
+    },
+    {
+      "first_ts": 1669852800000,
+      "last_ts": 1672527600000,
+      "month": "2022-12",
+      "rows": 744,
+      "sha256": "a13c7452c21ffc1166690a231030fdffbd320bc64a875811e2648eb8d91c4fde",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2022-12.zip"
+    },
+    {
+      "first_ts": 1672531200000,
+      "last_ts": 1675206000000,
+      "month": "2023-01",
+      "rows": 744,
+      "sha256": "47dedd386d20f108efb50b8bf1e29e1fbe8a095ca5e216f5012c7f0c9229c743",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2023-01.zip"
+    },
+    {
+      "first_ts": 1675209600000,
+      "last_ts": 1677625200000,
+      "month": "2023-02",
+      "rows": 672,
+      "sha256": "418f4ae8fd7f3a338eedc78128609c37e19c900a82a38a1dc74e0adbfe1adae1",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2023-02.zip"
+    },
+    {
+      "first_ts": 1677628800000,
+      "last_ts": 1680303600000,
+      "month": "2023-03",
+      "rows": 744,
+      "sha256": "4494a2d61213a8a6e6ee5cf64dea525d4b6e2c0681922c769d112cc2584a4068",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2023-03.zip"
+    },
+    {
+      "first_ts": 1680307200000,
+      "last_ts": 1682895600000,
+      "month": "2023-04",
+      "rows": 720,
+      "sha256": "70caa95538b1ac05c50d1d5c3cb84213cde48857b27932b547c9a6a792b95b2c",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2023-04.zip"
+    },
+    {
+      "first_ts": 1682899200000,
+      "last_ts": 1685574000000,
+      "month": "2023-05",
+      "rows": 744,
+      "sha256": "809c0179884623aac435c45ed9530c3d7db7653f25ea8411d7229280f9e57ade",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2023-05.zip"
+    },
+    {
+      "first_ts": 1685577600000,
+      "last_ts": 1688166000000,
+      "month": "2023-06",
+      "rows": 720,
+      "sha256": "346ceb3fba918f959beb6a3c2f14ccee2afe55dbe02814ea1080ea04e7ade080",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2023-06.zip"
+    },
+    {
+      "first_ts": 1688169600000,
+      "last_ts": 1690844400000,
+      "month": "2023-07",
+      "rows": 744,
+      "sha256": "5cff45f5d74901ef4ded0ad055d164684e6fdfedee2e52a46594f4dad9a36cb1",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2023-07.zip"
+    },
+    {
+      "first_ts": 1690848000000,
+      "last_ts": 1693522800000,
+      "month": "2023-08",
+      "rows": 744,
+      "sha256": "0662a8878655e163c840536f22cc67190527b6cc6299874b987f28a20c4326eb",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2023-08.zip"
+    },
+    {
+      "first_ts": 1693526400000,
+      "last_ts": 1696114800000,
+      "month": "2023-09",
+      "rows": 720,
+      "sha256": "34d1227a659fcd0201f6f20f81eefcd2a321113c24bb22a641b9def177358d16",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2023-09.zip"
+    },
+    {
+      "first_ts": 1696118400000,
+      "last_ts": 1698793200000,
+      "month": "2023-10",
+      "rows": 744,
+      "sha256": "1435eb75ce7e152bf502b5f3332aa5845d49f63ed9009a68791e9e4bdb0d6b4a",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2023-10.zip"
+    },
+    {
+      "first_ts": 1698796800000,
+      "last_ts": 1701385200000,
+      "month": "2023-11",
+      "rows": 720,
+      "sha256": "11d089f3f4fcbbe04432b28a65e9bca13fd219d209889e86fe4ca192cd841315",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2023-11.zip"
+    },
+    {
+      "first_ts": 1701388800000,
+      "last_ts": 1704063600000,
+      "month": "2023-12",
+      "rows": 744,
+      "sha256": "e6b9f0ffafd5143510591dc104926152ade2569839511abaad0d7b67a5356274",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2023-12.zip"
+    },
+    {
+      "first_ts": 1704067200000,
+      "last_ts": 1706742000000,
+      "month": "2024-01",
+      "rows": 744,
+      "sha256": "3c265b6affa7319cb296a1d8dc62e07c726c30cfa49cdd2f9794777873b3be41",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2024-01.zip"
+    },
+    {
+      "first_ts": 1706745600000,
+      "last_ts": 1709247600000,
+      "month": "2024-02",
+      "rows": 696,
+      "sha256": "c2962904abb911949781a925a9c83572d57b92b5dac10c866c3c17965b000b66",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2024-02.zip"
+    },
+    {
+      "first_ts": 1709251200000,
+      "last_ts": 1711926000000,
+      "month": "2024-03",
+      "rows": 744,
+      "sha256": "ca4aa46571e7dff212aa0b3a88ebc2ad8e36e96a48dae6d8759f69068ab93f9d",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2024-03.zip"
+    },
+    {
+      "first_ts": 1711929600000,
+      "last_ts": 1714518000000,
+      "month": "2024-04",
+      "rows": 720,
+      "sha256": "c9c90bf2c9857c2145adf59973aa5adfdd73a0249aadca2e46154c4da395dbe5",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2024-04.zip"
+    },
+    {
+      "first_ts": 1714521600000,
+      "last_ts": 1717196400000,
+      "month": "2024-05",
+      "rows": 744,
+      "sha256": "fca493d2368d630c22ab45cece60aef04f23ab1f893af89e7874c125803dc6e2",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2024-05.zip"
+    },
+    {
+      "first_ts": 1717200000000,
+      "last_ts": 1719788400000,
+      "month": "2024-06",
+      "rows": 720,
+      "sha256": "5f8223272b9abb7e2c8f9f006177f41b40108dbabce044bd90d479b407081cda",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2024-06.zip"
+    },
+    {
+      "first_ts": 1719792000000,
+      "last_ts": 1722466800000,
+      "month": "2024-07",
+      "rows": 744,
+      "sha256": "7738a7336d4da61dd0735e6ad57bfafe5b71d64fa2edfc44ae309d7f19439e42",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2024-07.zip"
+    },
+    {
+      "first_ts": 1722470400000,
+      "last_ts": 1725145200000,
+      "month": "2024-08",
+      "rows": 744,
+      "sha256": "368b7ff2360e745b728b0abd9cc363e5a994d4c19a91cc85232c19cc44dd50b2",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2024-08.zip"
+    },
+    {
+      "first_ts": 1725148800000,
+      "last_ts": 1727737200000,
+      "month": "2024-09",
+      "rows": 720,
+      "sha256": "a41e29940efd0843bf1f7fd2029c5090b14db2384654cd730084ab0e868f6c96",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2024-09.zip"
+    },
+    {
+      "first_ts": 1727740800000,
+      "last_ts": 1730415600000,
+      "month": "2024-10",
+      "rows": 744,
+      "sha256": "2de69aab221a6dad13b574de50a2c75e62e4f1c62441c5c055d7fee7996522d0",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2024-10.zip"
+    },
+    {
+      "first_ts": 1730419200000,
+      "last_ts": 1733007600000,
+      "month": "2024-11",
+      "rows": 720,
+      "sha256": "7c39506abe30042f7c4e312d0d1216582df6ed230c5322e90ce80a6f59f2336a",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2024-11.zip"
+    },
+    {
+      "first_ts": 1733011200000,
+      "last_ts": 1735686000000,
+      "month": "2024-12",
+      "rows": 744,
+      "sha256": "21c043db3da0da5265387a6213f6e0e0329e310af92f7557503629cc42f6dd14",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2024-12.zip"
+    },
+    {
+      "first_ts": 1735689600000,
+      "last_ts": 1738364400000,
+      "month": "2025-01",
+      "rows": 744,
+      "sha256": "fb2e4180b6b522e6af6095931fdd4a9d3a280b11d8e93ee55881edbd13960863",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2025-01.zip"
+    },
+    {
+      "first_ts": 1738368000000,
+      "last_ts": 1740783600000,
+      "month": "2025-02",
+      "rows": 672,
+      "sha256": "cb674b3e5833783225da2370d6812152786f6d8059d99c10039fe6a8fb74f2ff",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2025-02.zip"
+    },
+    {
+      "first_ts": 1740787200000,
+      "last_ts": 1743462000000,
+      "month": "2025-03",
+      "rows": 744,
+      "sha256": "e322a8bd30761561a0d57ce07dafd142e6a7827b54896c82902a957502adc3e5",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2025-03.zip"
+    },
+    {
+      "first_ts": 1743465600000,
+      "last_ts": 1746054000000,
+      "month": "2025-04",
+      "rows": 720,
+      "sha256": "d1edd32ff344d89df9fb411eb91201d0578b1175bc7e09f9b4643e1a23ee8fea",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2025-04.zip"
+    },
+    {
+      "first_ts": 1746057600000,
+      "last_ts": 1748732400000,
+      "month": "2025-05",
+      "rows": 744,
+      "sha256": "3d18b8884ecd33ca549400efce2c9326c17568af6091d20b9393e2176c78c1fa",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2025-05.zip"
+    },
+    {
+      "first_ts": 1748736000000,
+      "last_ts": 1751324400000,
+      "month": "2025-06",
+      "rows": 720,
+      "sha256": "caabc5775ee5c6b74cbccf6486f99a9ccc1cf51d1fb1cbc2db97a3035eeac246",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2025-06.zip"
+    },
+    {
+      "first_ts": 1751328000000,
+      "last_ts": 1754002800000,
+      "month": "2025-07",
+      "rows": 744,
+      "sha256": "aaaae4920b4ee31d9e77172701202dc3eb1017c4152ea41acaef0a97d3aecd85",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2025-07.zip"
+    },
+    {
+      "first_ts": 1754006400000,
+      "last_ts": 1756681200000,
+      "month": "2025-08",
+      "rows": 744,
+      "sha256": "0269ce8fce85b616945f869bf797d3508c7cb19fda7d62f3bcd39a4fb0efa837",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2025-08.zip"
+    },
+    {
+      "first_ts": 1756684800000,
+      "last_ts": 1759273200000,
+      "month": "2025-09",
+      "rows": 720,
+      "sha256": "52b25597a3516384b47ad846cbf2bb4c1216891fb8f7b85ff16e30323b46e08e",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2025-09.zip"
+    },
+    {
+      "first_ts": 1759276800000,
+      "last_ts": 1761951600000,
+      "month": "2025-10",
+      "rows": 744,
+      "sha256": "1f021eb2d56466ee4c99f39ad748c5a07a98f1fe84f78d28c114ddad7b4e168b",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2025-10.zip"
+    },
+    {
+      "first_ts": 1761955200000,
+      "last_ts": 1764543600000,
+      "month": "2025-11",
+      "rows": 720,
+      "sha256": "68ff94e513f3af62ac8290597c11c2fb420d6d00233542a79a95830371997997",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2025-11.zip"
+    },
+    {
+      "first_ts": 1764547200000,
+      "last_ts": 1767222000000,
+      "month": "2025-12",
+      "rows": 744,
+      "sha256": "d7e00cc26e9c87b6ce78416c2643e27994d663668dfffdbd1982a6a9eaea7cfe",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2025-12.zip"
+    },
+    {
+      "first_ts": 1767225600000,
+      "last_ts": 1769900400000,
+      "month": "2026-01",
+      "rows": 744,
+      "sha256": "080ff3c798b68e951cc139b3407a0ff3dab12881b311c1af40504976e13ccd94",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2026-01.zip"
+    },
+    {
+      "first_ts": 1769904000000,
+      "last_ts": 1772319600000,
+      "month": "2026-02",
+      "rows": 672,
+      "sha256": "8db9c72462c525b17492dc6434d0c7e2a6a58f62c4b47fb555fb82838d9ba7e2",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2026-02.zip"
+    },
+    {
+      "first_ts": 1772323200000,
+      "last_ts": 1774998000000,
+      "month": "2026-03",
+      "rows": 744,
+      "sha256": "6cdb418d4d6b32a150e017a27e37deecf12bce9c4c84f6d353f17eb7dc9affc2",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2026-03.zip"
+    },
+    {
+      "first_ts": 1775001600000,
+      "last_ts": 1777590000000,
+      "month": "2026-04",
+      "rows": 720,
+      "sha256": "4c7652c00d1b2923497d90df4ddba875de759042e4ae564d3e07460b19657648",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2026-04.zip"
+    },
+    {
+      "first_ts": 1777593600000,
+      "last_ts": 1780268400000,
+      "month": "2026-05",
+      "rows": 744,
+      "sha256": "e208bb71d19dd0e3477f1e2f718e5430ac619b130bbb8f4b41bd7958cc75f832",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2026-05.zip"
+    },
+    {
+      "first_ts": 1780272000000,
+      "last_ts": 1782860400000,
+      "month": "2026-06",
+      "rows": 720,
+      "sha256": "f8402f0b08bfe83c8bdda09341ac36de0a5a4c703f1dab468f568c8884b9ca6e",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2026-06.zip"
+    },
+    {
+      "first_ts": 1782864000000,
+      "last_ts": 1785538800000,
+      "month": "2026-07",
+      "rows": 744,
+      "sha256": "106a2bc7a43e07bd28a4887a44ad58eaf8481391e36c36809d3139ee71507a50",
+      "symbol": "ATOMUSDT",
+      "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2026-07.zip"
+    }
+  ],
+  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "dataset_id": "binance.ohlcv.1h.ATOM",
+  "end_timestamp": "2026-07-31T23:00:00+00:00",
+  "excluded_backfill_bars": {},
+  "hl_symbol": "ATOM",
+  "native_or_proxy": "proxy",
+  "processing_version": "qr-data-001-v1.2",
+  "proxy_for": "Hyperliquid",
+  "retrieved_at": "2026-08-16T16:50:02.189913+00:00",
+  "source_venue": "Binance",
+  "start_timestamp": "2020-02-07T12:00:00+00:00",
+  "unit_multiplier": 1
+}
