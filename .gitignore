@@ -13,3 +13,8 @@ data/raw/
 data/processed/
 *.json.gz
 *.parquet
+
+# QR-INFRA-002 (experiment registry) — R§9/R§10.1: registry METADATA
+# (records/, history.jsonl) IS committed; large/binary artifact payloads
+# (dataset snapshots, equity curves, ...) are not.
+experiments/registry/artifacts/

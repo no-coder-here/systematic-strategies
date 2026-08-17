@@ -20,4 +20,5 @@ where = ["src"]
 testpaths = ["tests"]
 markers = [
     "integration: live Hyperliquid network validation (QR-DATA-001 D§11.3); skipped by default, run with --run-integration",
+    "slow: exercises the real offline QR-SMOKE-001 pipeline (QR-INFRA-002 R§17); not skipped by default, just slower (~15-30s).",
 ]

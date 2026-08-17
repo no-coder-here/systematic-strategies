@@ -118,9 +118,18 @@ Two more reusable specifics:
 ## Process failure worth not repeating: a killed subagent silently contaminated the tree
 
 A re-audit agent was killed by a watchdog mid-mutation and left a live half-splice in
-`pipeline.py`. Because `strategies/`, `experiments/` and `tests/qr_smoke_001/` are **untracked**,
-`git diff HEAD -- src docs` — the check I ran and trusted — is structurally incapable of seeing
-it. A later audit caught it only by re-running the tests and finding 4 failures.
+`pipeline.py`. Because `strategies/`, `experiments/` and `tests/qr_smoke_001/` were **untracked
+at that moment**, `git diff HEAD -- src docs` — the check I ran and trusted — is structurally
+incapable of seeing it. A later audit caught it only by re-running the tests and finding 4
+failures.
+
+> **STALE-CLAIM WARNING (corrected 2026-08-17).** Those paths were committed in `f7b73c2`, so
+> "most implementation code is untracked" is **no longer true**. I carried the stale claim
+> forward into the QR-INFRA-002 spec as a load-bearing rationale and the auditor measured it
+> false. The *procedural* lesson (a tracked-only diff is not a workspace-integrity check, and
+> untracked files must be covered by a hash manifest) survives; the *factual* claim does not.
+> Re-measure `git ls-files` / `git status --porcelain --untracked-files=all` before ever citing
+> tracked-vs-untracked state again.
 
 **Fix adopted: `docs/qr_smoke_001_baseline.sha256`, a SHA-256 manifest of all 19 implementation
 files, verified after every single mutation cycle rather than batched at the end.** Require this

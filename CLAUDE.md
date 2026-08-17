@@ -174,3 +174,30 @@ Auditor reports returned to Research Lead should be concise:
 - affected files/locations
 
 Do not return lengthy descriptions of every successful check.
+
+
+
+## Audit Workspace Integrity
+
+Before an implementation/audit or mutation-testing cycle begins, establish a
+
+workspace baseline covering BOTH tracked and untracked files in the work-order
+
+scope.
+
+At minimum:
+
+- record `git status --porcelain`
+
+- record/check hashes for relevant source/test files
+
+- after mutation testing, verify all files against the baseline
+
+- confirm no mutation artifact remains in tracked or untracked files
+
+`git diff` alone is not sufficient evidence of workspace restoration because
+
+it does not cover untracked files.
+
+An auditor must not return PASS if the workspace-integrity check fails.
+
