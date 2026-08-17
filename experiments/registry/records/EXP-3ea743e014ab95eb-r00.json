@@ -1,0 +1,201 @@
+{
+  "artifacts": [
+    {
+      "description": "Binance USD\u24c2-M BTC 1h OHLCV, full persisted span",
+      "kind": "dataset_snapshot",
+      "name": "binance_ohlcv_snapshot",
+      "path": "experiments/registry/artifacts/datasets/64c05d5bf73fe94a86664caa9a8b7d99826b16a7b7e2c3a6bec017e66a0924da.parquet",
+      "recorded_at": {
+        "$ts": "2026-08-17T20:21:38.431878+00:00"
+      },
+      "sha256": "1d014b01d944d0349c6096f0fccf71b9c688177c0ead75800e156bfa7185933b",
+      "size_bytes": 2897380
+    },
+    {
+      "description": null,
+      "kind": "equity_curve",
+      "name": "equity_curve",
+      "path": "experiments/registry/artifacts/equity_curves/window_b1.json",
+      "recorded_at": {
+        "$ts": "2026-08-17T20:21:38.545907+00:00"
+      },
+      "sha256": "ebc5e55f12ff1e8618b90b9370038c9a79ade573ea02dad1620c91a00d84f244",
+      "size_bytes": 2789878
+    }
+  ],
+  "backtest_config": {
+    "annualization_factor": 8760,
+    "compute_counterfactual": true,
+    "execution_lag": 1,
+    "execution_mode": "next_open",
+    "fee_bps": 4.5,
+    "frequency": "1h",
+    "funding_mode": "disabled",
+    "funding_notional_basis": "not_modelled",
+    "initial_capital": 1000000.0,
+    "mar_per_period": 0.0,
+    "max_gross_leverage": 1.05,
+    "risk_free_per_period": 0.0,
+    "slippage_bps": 1.0
+  },
+  "change_from_parent": "Binance USD\u24c2-M proxy prices for full 2020-2026 history; funding_mode=disabled -- Hyperliquid did not exist for most of the window, so there is no funding to charge",
+  "code": {
+    "code_fingerprint": "b0ad4f187eb4132c5955572081a3ecd25bfbb494533866387f1beb60638dd051",
+    "code_fingerprint_n_files": 47,
+    "code_scope_patterns": [
+      "src/**/*.py",
+      "strategies/**/*.py",
+      "experiments/**/*.py",
+      "scripts/**/*.py",
+      "conftest.py",
+      "pyproject.toml"
+    ],
+    "contract_versions": {
+      "backtest_contract": "1.5.1",
+      "data_contract": "1.4",
+      "data_processing_version": "qr-data-001-v1.3",
+      "registry_schema": "qr-infra-002-v1.3"
+    },
+    "dirty_summary": {},
+    "dirty_worktree": false,
+    "git_available": true,
+    "git_commit": "607e4cd012fc98d52c02576c482a029022c61719",
+    "untracked_code_files": 0
+  },
+  "config_family_hash": "7132ebd2f9690861e3001409455269dae33e3ebe6f4719f6c7174f2dd5690ad9",
+  "created_at": {
+    "$ts": "2026-08-17T20:21:38.545997+00:00"
+  },
+  "datasets": [
+    {
+      "content_hash": "64c05d5bf73fe94a86664caa9a8b7d99826b16a7b7e2c3a6bec017e66a0924da",
+      "content_hash_method": "col-buffer-v2",
+      "data_end": {
+        "$ts": "2026-07-31T23:00:00+00:00"
+      },
+      "data_start": {
+        "$ts": "2020-01-01T00:00:00+00:00"
+      },
+      "dataset_id": "binance.ohlcv.1h.BTC",
+      "dataset_span_end": {
+        "$ts": "2026-07-31T23:00:00+00:00"
+      },
+      "dataset_span_start": {
+        "$ts": "2020-01-01T00:00:00+00:00"
+      },
+      "dataset_version": null,
+      "eval_end": {
+        "$ts": "2026-07-31T23:00:00+00:00"
+      },
+      "eval_start": {
+        "$ts": "2020-01-05T03:00:00+00:00"
+      },
+      "field_type": "ohlcv",
+      "native_or_proxy": "proxy",
+      "processing_version": "qr-data-001-v1.2",
+      "provenance_notes": "code_version=26d784ecf2430b8588456bfc298940fc20da0a88; checksum_manifest_entries=79; excluded_backfill_bars={}",
+      "proxy_for": "Hyperliquid",
+      "retrieval_date": {
+        "$date": "2026-08-16"
+      },
+      "source_venue": "Binance",
+      "symbol_mapping": "BTC->BTCUSDT (hl_unit_multiplier=1, venue_unit_multiplier=1)",
+      "symbols": [
+        "BTC"
+      ]
+    }
+  ],
+  "exact_hash": "3ea743e014ab95ebbb0dbffc85260768d4c87a398f63eef68176424ea297fcbb",
+  "experiment_id": "EXP-3ea743e014ab95eb-r00",
+  "experiment_type": "pipeline_validation",
+  "frozen_spec_blob_sha": null,
+  "frozen_spec_commit": null,
+  "frozen_spec_ref": null,
+  "frozen_spec_sha256": null,
+  "hypothesis_id": null,
+  "manual_results_justification": null,
+  "n_configs_evaluated": 1,
+  "no_datasets_reason": null,
+  "notes": "QR-SMOKE-001 Window B1. (1) This record was created by RE-EXECUTING the frozen QR-SMOKE-001 pipeline (experiments/qr_smoke_001/pipeline.py) OFFLINE at registration time, 2026-08-17. (2) The ORIGINAL Window B1 execution's git commit and worktree state (from 2026-08-16/17) are NOT recoverable and are NOT claimed by this record -- the code identity recorded here is that of the RE-EXECUTION. (3) Hyperliquid candleSnapshot serves a rolling ~208-day window, so the persisted local parquet snapshot is the data of record; retrieval_date, processing_version and dataset span come from the persisted provenance sidecar, never re-fetched. (4) R\u00a720.10: an earlier v1.1 registration attempt (5 records, content_hash method col-buffer-v1) was discarded before any commit and re-executed under v1.2/col-buffer-v2 -- the v1.1 records were never committed, contained no research observation (experiment_type=pipeline_validation), and their code_fingerprint matched no state that existed anywhere (R\u00a720.7.3/R\u00a720.10).",
+  "parent_experiment_id": "EXP-3e26d06de1e95700-r00",
+  "reason_for_run": "R\u00a717 retrospective registration of QR-SMOKE-001 Window B1",
+  "recorded_via": "adapter",
+  "rerun_of": null,
+  "research_stage": "exploratory",
+  "results": {
+    "custom": {
+      "counterfactual_status": "COMPLETED",
+      "drag_comparable": true,
+      "first_frame_signal": true,
+      "funding_events_excluded": 0,
+      "funding_gap_tolerance_suspicious": false,
+      "max_gross_exposure": 1.0000000000000016,
+      "n_unexecuted_rebalances": 0,
+      "total_drag_return": 7.255929149524304
+    },
+    "metrics": {
+      "annualized_turnover": 425.254531564692,
+      "annualized_volatility": 0.4075646534255665,
+      "avg_turnover": 0.04854503784985068,
+      "cagr": 0.10986657321947235,
+      "calmar": 0.15537175928706215,
+      "downside_dev_ann": 0.28167476450716267,
+      "max_drawdown": -0.707120610100609,
+      "sharpe": 0.45942132524353596,
+      "sortino": 0.6647521070153759,
+      "total_return": 0.9844956681839521
+    },
+    "n_periods": 57596,
+    "rebalance_count": 2796,
+    "result_warnings": [
+      "FUNDING_NOT_MODELLED"
+    ],
+    "ruined": false
+  },
+  "run_executed_at": {
+    "$ts": "2026-08-17T20:21:38.545999+00:00"
+  },
+  "run_facts": {
+    "intended_eval_end": {
+      "$ts": "2026-07-31T23:00:00+00:00"
+    },
+    "intended_eval_start": {
+      "$ts": "2020-01-05T03:00:00+00:00"
+    },
+    "n_frame_bars": 57597,
+    "n_raw_bars": 57696,
+    "offline": true,
+    "runtime_env": {
+      "platform": "macOS-15.6.1-arm64-arm-64bit",
+      "python_version": "3.11.4",
+      "pythonhashseed": null
+    }
+  },
+  "run_seq": 0,
+  "schema_version": "qr-infra-002-v1.3",
+  "search_space_id": null,
+  "semantic_hash": "0471708e4c34910c272844e79513f40fdef97bb5fe829c919843918c4d061827",
+  "status": "COMPLETED",
+  "status_reason": null,
+  "strategy": {
+    "frequency": "1h",
+    "name": "qr_smoke_001",
+    "params": {
+      "sma_window": 100
+    },
+    "target_execution_venue": "Hyperliquid",
+    "version": "1.0"
+  },
+  "survivorship_safe": false,
+  "tags": [
+    "qr_smoke_001",
+    "window_b1"
+  ],
+  "universe_policy": "single_symbol_fixed:BTC",
+  "uses_proxy_data": true,
+  "warnings": [
+    "PROCESSING_VERSION_MISMATCH:binance.ohlcv.1h.BTC",
+    "PROXY_DATA",
+    "SURVIVORSHIP_UNSAFE"
+  ]
+}

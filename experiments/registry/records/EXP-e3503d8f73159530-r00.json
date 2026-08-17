@@ -1,0 +1,195 @@
+{
+  "artifacts": [],
+  "backtest_config": {
+    "annualization_factor": 8760,
+    "compute_counterfactual": true,
+    "execution_lag": 1,
+    "execution_mode": "next_open",
+    "fee_bps": 4.5,
+    "frequency": "1h",
+    "funding_mode": "required",
+    "funding_notional_basis": "period_start",
+    "initial_capital": 1000000.0,
+    "mar_per_period": 0.0,
+    "max_gross_leverage": 1.05,
+    "risk_free_per_period": 0.0,
+    "slippage_bps": 1.0
+  },
+  "change_from_parent": "same configuration as B2 with the evaluated frame starting 2024-01-01, before contiguous Hyperliquid funding coverage",
+  "code": {
+    "code_fingerprint": "b0ad4f187eb4132c5955572081a3ecd25bfbb494533866387f1beb60638dd051",
+    "code_fingerprint_n_files": 47,
+    "code_scope_patterns": [
+      "src/**/*.py",
+      "strategies/**/*.py",
+      "experiments/**/*.py",
+      "scripts/**/*.py",
+      "conftest.py",
+      "pyproject.toml"
+    ],
+    "contract_versions": {
+      "backtest_contract": "1.5.1",
+      "data_contract": "1.4",
+      "data_processing_version": "qr-data-001-v1.3",
+      "registry_schema": "qr-infra-002-v1.3"
+    },
+    "dirty_summary": {},
+    "dirty_worktree": false,
+    "git_available": true,
+    "git_commit": "607e4cd012fc98d52c02576c482a029022c61719",
+    "untracked_code_files": 0
+  },
+  "config_family_hash": "ad467902bd946e225a83c5ad657d06b67e9706c330edd6ca6eb19763358e9a58",
+  "created_at": {
+    "$ts": "2026-08-17T20:21:44.060900+00:00"
+  },
+  "datasets": [
+    {
+      "content_hash": "64c05d5bf73fe94a86664caa9a8b7d99826b16a7b7e2c3a6bec017e66a0924da",
+      "content_hash_method": "col-buffer-v2",
+      "data_end": {
+        "$ts": "2026-07-31T23:00:00+00:00"
+      },
+      "data_start": {
+        "$ts": "2023-12-27T21:00:00+00:00"
+      },
+      "dataset_id": "binance.ohlcv.1h.BTC",
+      "dataset_span_end": {
+        "$ts": "2026-07-31T23:00:00+00:00"
+      },
+      "dataset_span_start": {
+        "$ts": "2020-01-01T00:00:00+00:00"
+      },
+      "dataset_version": null,
+      "eval_end": {
+        "$ts": "2026-07-31T23:00:00+00:00"
+      },
+      "eval_start": {
+        "$ts": "2024-01-01T00:00:00+00:00"
+      },
+      "field_type": "ohlcv",
+      "native_or_proxy": "proxy",
+      "processing_version": "qr-data-001-v1.2",
+      "provenance_notes": "code_version=26d784ecf2430b8588456bfc298940fc20da0a88; checksum_manifest_entries=79; excluded_backfill_bars={}",
+      "proxy_for": "Hyperliquid",
+      "retrieval_date": {
+        "$date": "2026-08-16"
+      },
+      "source_venue": "Binance",
+      "symbol_mapping": "BTC->BTCUSDT (hl_unit_multiplier=1, venue_unit_multiplier=1)",
+      "symbols": [
+        "BTC"
+      ]
+    },
+    {
+      "content_hash": "3907308f3058431bf540969f6221b5934dddac6bf47abfcd6b5f67ebb435ae90",
+      "content_hash_method": "col-buffer-v2",
+      "data_end": {
+        "$ts": "2026-08-16T17:00:00.005000+00:00"
+      },
+      "data_start": {
+        "$ts": "2023-05-12T00:00:00.048000+00:00"
+      },
+      "dataset_id": "hyperliquid.funding.BTC",
+      "dataset_span_end": {
+        "$ts": "2026-08-16T17:00:00.005000+00:00"
+      },
+      "dataset_span_start": {
+        "$ts": "2023-05-12T00:00:00.048000+00:00"
+      },
+      "dataset_version": null,
+      "eval_end": null,
+      "eval_start": null,
+      "field_type": "funding_rate",
+      "native_or_proxy": "native",
+      "processing_version": "qr-data-001-v1.3",
+      "provenance_notes": "endpoint=fundingHistory; frequency=None; api_response_count=1; code_version=f9351a20a0be66aaaab779d2087cf07e434a50be; excluded_backfill_bars={}; coverage_segments=({'coverage_end': '2023-05-12T00:00:00.048000+00:00', 'coverage_start': '2023-05-12T00:00:00.048000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-12T08:00:00.388000+00:00', 'coverage_start': '2023-05-12T08:00:00.388000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-12T16:00:00.253000+00:00', 'coverage_start': '2023-05-12T16:00:00.253000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-13T00:00:00.278000+00:00', 'coverage_start': '2023-05-13T00:00:00.278000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-13T08:00:00.255000+00:00', 'coverage_start': '2023-05-13T08:00:00.255000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-13T16:00:00.054000+00:00', 'coverage_start': '2023-05-13T16:00:00.054000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-14T00:00:00.087000+00:00', 'coverage_start': '2023-05-14T00:00:00.087000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-14T08:00:00.271000+00:00', 'coverage_start': '2023-05-14T08:00:00.271000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-14T16:00:00.380000+00:00', 'coverage_start': '2023-05-14T16:00:00.380000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-15T00:00:00.374000+00:00', 'coverage_start': '2023-05-15T00:00:00.374000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-15T08:00:00.045000+00:00', 'coverage_start': '2023-05-15T08:00:00.045000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-15T16:00:00.409000+00:00', 'coverage_start': '2023-05-15T16:00:00.409000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-16T00:00:00.447000+00:00', 'coverage_start': '2023-05-16T00:00:00.447000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-16T08:00:00.126000+00:00', 'coverage_start': '2023-05-16T08:00:00.126000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-16T16:00:00.731000+00:00', 'coverage_start': '2023-05-16T16:00:00.731000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-17T00:00:00.067000+00:00', 'coverage_start': '2023-05-17T00:00:00.067000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-17T08:00:00.279000+00:00', 'coverage_start': '2023-05-17T08:00:00.279000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-17T16:00:00.024000+00:00', 'coverage_start': '2023-05-17T16:00:00.024000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-18T00:00:00.048000+00:00', 'coverage_start': '2023-05-18T00:00:00.048000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-18T08:00:00.038000+00:00', 'coverage_start': '2023-05-18T08:00:00.038000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-18T16:00:00.052000+00:00', 'coverage_start': '2023-05-18T16:00:00.052000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-19T00:00:00.026000+00:00', 'coverage_start': '2023-05-19T00:00:00.026000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-19T08:00:00.158000+00:00', 'coverage_start': '2023-05-19T08:00:00.158000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-19T16:00:00.396000+00:00', 'coverage_start': '2023-05-19T16:00:00.396000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-20T00:00:00.029000+00:00', 'coverage_start': '2023-05-20T00:00:00.029000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-20T08:00:00.111000+00:00', 'coverage_start': '2023-05-20T08:00:00.111000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-20T16:00:00.345000+00:00', 'coverage_start': '2023-05-20T16:00:00.345000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-21T00:00:00.095000+00:00', 'coverage_start': '2023-05-21T00:00:00.095000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-21T08:00:00.013000+00:00', 'coverage_start': '2023-05-21T08:00:00.013000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-21T16:00:00.088000+00:00', 'coverage_start': '2023-05-21T16:00:00.088000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-22T00:00:00.066000+00:00', 'coverage_start': '2023-05-22T00:00:00.066000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-22T08:00:00.290000+00:00', 'coverage_start': '2023-05-22T08:00:00.290000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-22T16:00:00.159000+00:00', 'coverage_start': '2023-05-22T16:00:00.159000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-23T00:00:00.022000+00:00', 'coverage_start': '2023-05-23T00:00:00.022000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-23T08:23:53.040000+00:00', 'coverage_start': '2023-05-23T08:23:53.040000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-23T16:00:00.079000+00:00', 'coverage_start': '2023-05-23T16:00:00.079000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-24T00:00:00.035000+00:00', 'coverage_start': '2023-05-24T00:00:00.035000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-24T08:00:00.002000+00:00', 'coverage_start': '2023-05-24T08:00:00.002000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-24T16:00:00.001000+00:00', 'coverage_start': '2023-05-24T16:00:00.001000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-25T00:00:00.233000+00:00', 'coverage_start': '2023-05-25T00:00:00.233000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-25T08:00:00.374000+00:00', 'coverage_start': '2023-05-25T08:00:00.374000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-25T16:00:00.209000+00:00', 'coverage_start': '2023-05-25T16:00:00.209000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-26T00:00:00.136000+00:00', 'coverage_start': '2023-05-26T00:00:00.136000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-26T08:00:00.044000+00:00', 'coverage_start': '2023-05-26T08:00:00.044000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-26T16:00:00.180000+00:00', 'coverage_start': '2023-05-26T16:00:00.180000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-27T00:00:00.015000+00:00', 'coverage_start': '2023-05-27T00:00:00.015000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-27T08:00:00.106000+00:00', 'coverage_start': '2023-05-27T08:00:00.106000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-27T16:00:00.044000+00:00', 'coverage_start': '2023-05-27T16:00:00.044000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-28T00:00:00.362000+00:00', 'coverage_start': '2023-05-28T00:00:00.362000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-28T08:00:00.081000+00:00', 'coverage_start': '2023-05-28T08:00:00.081000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-28T16:00:00.156000+00:00', 'coverage_start': '2023-05-28T16:00:00.156000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-29T00:00:00.082000+00:00', 'coverage_start': '2023-05-29T00:00:00.082000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-29T08:00:00.068000+00:00', 'coverage_start': '2023-05-29T08:00:00.068000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-29T16:00:00.081000+00:00', 'coverage_start': '2023-05-29T16:00:00.081000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-30T00:00:00.148000+00:00', 'coverage_start': '2023-05-30T00:00:00.148000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-30T08:00:00.206000+00:00', 'coverage_start': '2023-05-30T08:00:00.206000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-30T16:00:00.053000+00:00', 'coverage_start': '2023-05-30T16:00:00.053000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-31T00:00:00.047000+00:00', 'coverage_start': '2023-05-31T00:00:00.047000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-31T08:00:00.219000+00:00', 'coverage_start': '2023-05-31T08:00:00.219000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-05-31T16:00:00.323000+00:00', 'coverage_start': '2023-05-31T16:00:00.323000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-01T00:00:00.139000+00:00', 'coverage_start': '2023-06-01T00:00:00.139000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-01T08:00:00.067000+00:00', 'coverage_start': '2023-06-01T08:00:00.067000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-01T16:00:00.096000+00:00', 'coverage_start': '2023-06-01T16:00:00.096000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-02T00:00:00.428000+00:00', 'coverage_start': '2023-06-02T00:00:00.428000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-02T08:00:00.113000+00:00', 'coverage_start': '2023-06-02T08:00:00.113000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-02T16:00:00.038000+00:00', 'coverage_start': '2023-06-02T16:00:00.038000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-03T00:00:00.055000+00:00', 'coverage_start': '2023-06-03T00:00:00.055000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-03T08:00:00.071000+00:00', 'coverage_start': '2023-06-03T08:00:00.071000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-03T16:00:00.011000+00:00', 'coverage_start': '2023-06-03T16:00:00.011000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-04T00:00:00.341000+00:00', 'coverage_start': '2023-06-04T00:00:00.341000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-04T08:00:00.084000+00:00', 'coverage_start': '2023-06-04T08:00:00.084000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-04T16:00:00.195000+00:00', 'coverage_start': '2023-06-04T16:00:00.195000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-05T00:00:00.078000+00:00', 'coverage_start': '2023-06-05T00:00:00.078000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-05T08:00:00.375000+00:00', 'coverage_start': '2023-06-05T08:00:00.375000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-05T16:00:00.060000+00:00', 'coverage_start': '2023-06-05T16:00:00.060000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-06T00:00:00.279000+00:00', 'coverage_start': '2023-06-06T00:00:00.279000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-06T08:00:00.072000+00:00', 'coverage_start': '2023-06-06T08:00:00.072000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-06T16:00:00.128000+00:00', 'coverage_start': '2023-06-06T16:00:00.128000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-07T00:00:00.420000+00:00', 'coverage_start': '2023-06-07T00:00:00.420000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-07T08:00:00.037000+00:00', 'coverage_start': '2023-06-07T08:00:00.037000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-06-07T16:00:00.026000+00:00', 'coverage_start': '2023-06-07T16:00:00.026000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-07-02T19:00:00.235000+00:00', 'coverage_start': '2023-06-08T00:00:00.254000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2023-08-23T19:00:00.029000+00:00', 'coverage_start': '2023-07-02T21:00:00.180000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2024-08-15T12:00:00.001000+00:00', 'coverage_start': '2023-08-23T21:00:00.190000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'}, {'coverage_end': '2026-08-16T17:00:00.005000+00:00', 'coverage_start': '2024-08-15T14:00:00.074000+00:00', 'max_funding_gap_minutes': 90.0, 'source_venue': 'Hyperliquid', 'symbol': 'BTC'})",
+      "proxy_for": null,
+      "retrieval_date": {
+        "$date": "2026-08-16"
+      },
+      "source_venue": "Hyperliquid",
+      "symbol_mapping": "BTC",
+      "symbols": [
+        "BTC"
+      ]
+    }
+  ],
+  "exact_hash": "e3503d8f731595301032b41e721f620c98fa0f4e22f72593cf2047a89e60790f",
+  "experiment_id": "EXP-e3503d8f73159530-r00",
+  "experiment_type": "pipeline_validation",
+  "frozen_spec_blob_sha": null,
+  "frozen_spec_commit": null,
+  "frozen_spec_ref": null,
+  "frozen_spec_sha256": null,
+  "hypothesis_id": null,
+  "manual_results_justification": null,
+  "n_configs_evaluated": 1,
+  "no_datasets_reason": null,
+  "notes": "QR-SMOKE-001 Window B2-PRE. (1) This record was created by RE-EXECUTING the frozen QR-SMOKE-001 pipeline (experiments/qr_smoke_001/pipeline.py) OFFLINE at registration time, 2026-08-17. (2) The ORIGINAL Window B2-PRE execution's git commit and worktree state (from 2026-08-16/17) are NOT recoverable and are NOT claimed by this record -- the code identity recorded here is that of the RE-EXECUTION. (3) Hyperliquid candleSnapshot serves a rolling ~208-day window, so the persisted local parquet snapshot is the data of record; retrieval_date, processing_version and dataset span come from the persisted provenance sidecar, never re-fetched. (4) R\u00a720.10: an earlier v1.1 registration attempt (5 records, content_hash method col-buffer-v1) was discarded before any commit and re-executed under v1.2/col-buffer-v2 -- the v1.1 records were never committed, contained no research observation (experiment_type=pipeline_validation), and their code_fingerprint matched no state that existed anywhere (R\u00a720.7.3/R\u00a720.10).",
+  "parent_experiment_id": "EXP-a36d1093a0de8c5c-r00",
+  "reason_for_run": "R\u00a717 retrospective registration of QR-SMOKE-001 Window B2-PRE (measured pre-flight failure)",
+  "recorded_via": "manual",
+  "rerun_of": null,
+  "research_stage": "exploratory",
+  "results": null,
+  "run_executed_at": {
+    "$ts": "2026-08-17T20:21:44.060912+00:00"
+  },
+  "run_facts": {
+    "intended_eval_end": {
+      "$ts": "2026-07-31T23:00:00+00:00"
+    },
+    "intended_eval_start": {
+      "$ts": "2024-01-01T00:00:00+00:00"
+    },
+    "measured_funding_event_count": 28056,
+    "measured_funding_span_end": {
+      "$ts": "2026-08-16T17:00:00.005000+00:00"
+    },
+    "measured_funding_span_start": {
+      "$ts": "2023-05-12T00:00:00.048000+00:00"
+    },
+    "measured_last_coverage_segment_start": {
+      "$ts": "2024-08-15T14:00:00.074000+00:00"
+    },
+    "measured_n_coverage_segments": 85,
+    "measured_n_gaps_over_90min_tolerance": 84,
+    "n_frame_bars": 22632,
+    "n_raw_bars": 22731,
+    "offline": true,
+    "runtime_env": {
+      "platform": "macOS-15.6.1-arm64-arm-64bit",
+      "python_version": "3.11.4",
+      "pythonhashseed": null
+    }
+  },
+  "run_seq": 0,
+  "schema_version": "qr-infra-002-v1.3",
+  "search_space_id": null,
+  "semantic_hash": "4191068aa2ce2d99247f37321a1d56a42f68bbab2ac795e280420bac5adb76c5",
+  "status": "FAILED",
+  "status_reason": "DataIntegrityError: spec \u00a72.2 funding-coverage window rule violated for 'BTC': expected exactly ONE FundingCoverage record covering [Timestamp('2024-01-01 00:00:00+0000', tz='UTC'), Timestamp('2026-07-31 23:00:00+0000', tz='UTC')], found 0",
+  "strategy": {
+    "frequency": "1h",
+    "name": "qr_smoke_001",
+    "params": {
+      "sma_window": 100
+    },
+    "target_execution_venue": "Hyperliquid",
+    "version": "1.0"
+  },
+  "survivorship_safe": false,
+  "tags": [
+    "failed",
+    "qr_smoke_001",
+    "window_b2_pre"
+  ],
+  "universe_policy": "single_symbol_fixed:BTC",
+  "uses_proxy_data": true,
+  "warnings": [
+    "PROCESSING_VERSION_MISMATCH:binance.ohlcv.1h.BTC",
+    "PROXY_DATA",
+    "SURVIVORSHIP_UNSAFE"
+  ]
+}
