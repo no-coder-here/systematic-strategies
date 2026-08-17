@@ -1,0 +1,361 @@
+{
+  "crossvenue": {
+    "argmax_lag": 0,
+    "binance": {
+      "max_drawdown": -0.27371743038191165,
+      "realized_volatility": 0.2820293264291573,
+      "repeated_close_count": 0,
+      "total_return": -0.27371743038191165,
+      "trade_count": 215
+    },
+    "binance_transitions": {
+      "entries": 107,
+      "exits": 107
+    },
+    "differing_signal_detail": [
+      {
+        "binance": {
+          "close": 88744.6,
+          "relative_margin": 2.6254429308001915e-05,
+          "sma100": 88746.93
+        },
+        "hl": {
+          "close": 88751.0,
+          "relative_margin": 8.834483694288672e-05,
+          "sma100": 88743.16
+        },
+        "timestamp": "2026-01-27T03:00:00+00:00"
+      },
+      {
+        "binance": {
+          "close": 67498.9,
+          "relative_margin": 0.0001721213227214054,
+          "sma100": 67510.52
+        },
+        "hl": {
+          "close": 67518.0,
+          "relative_margin": 3.776913284297017e-05,
+          "sma100": 67515.45
+        },
+        "timestamp": "2026-02-20T12:00:00+00:00"
+      },
+      {
+        "binance": {
+          "close": 66094.1,
+          "relative_margin": 3.621977286723003e-05,
+          "sma100": 66096.494
+        },
+        "hl": {
+          "close": 66103.0,
+          "relative_margin": 6.6567219275358e-05,
+          "sma100": 66098.6
+        },
+        "timestamp": "2026-02-27T11:00:00+00:00"
+      },
+      {
+        "binance": {
+          "close": 80634.9,
+          "relative_margin": 5.738539419298669e-05,
+          "sma100": 80630.273
+        },
+        "hl": {
+          "close": 80631.0,
+          "relative_margin": 6.647125440682816e-05,
+          "sma100": 80636.36
+        },
+        "timestamp": "2026-05-10T00:00:00+00:00"
+      },
+      {
+        "binance": {
+          "close": 73841.0,
+          "relative_margin": 2.8196512846990494e-05,
+          "sma100": 73838.918
+        },
+        "hl": {
+          "close": 73835.0,
+          "relative_margin": 4.0087781406831965e-05,
+          "sma100": 73837.96
+        },
+        "timestamp": "2026-05-31T13:00:00+00:00"
+      },
+      {
+        "binance": {
+          "close": 73710.9,
+          "relative_margin": 1.1924824118210018e-05,
+          "sma100": 73711.77900000001
+        },
+        "hl": {
+          "close": 73717.0,
+          "relative_margin": 6.593215174597538e-05,
+          "sma100": 73712.14
+        },
+        "timestamp": "2026-05-31T20:00:00+00:00"
+      },
+      {
+        "binance": {
+          "close": 62170.8,
+          "relative_margin": 2.3885240827172138e-05,
+          "sma100": 62172.285
+        },
+        "hl": {
+          "close": 62181.0,
+          "relative_margin": 7.108785976967942e-05,
+          "sma100": 62176.58
+        },
+        "timestamp": "2026-06-10T14:00:00+00:00"
+      },
+      {
+        "binance": {
+          "close": 63862.9,
+          "relative_margin": 0.000175798050716736,
+          "sma100": 63851.675
+        },
+        "hl": {
+          "close": 63868.0,
+          "relative_margin": 2.630356062532787e-05,
+          "sma100": 63869.68
+        },
+        "timestamp": "2026-07-17T00:00:00+00:00"
+      },
+      {
+        "binance": {
+          "close": 64181.4,
+          "relative_margin": 6.128319149791026e-05,
+          "sma100": 64177.46699999999
+        },
+        "hl": {
+          "close": 64196.0,
+          "relative_margin": 6.853962618524147e-06,
+          "sma100": 64196.44
+        },
+        "timestamp": "2026-07-18T12:00:00+00:00"
+      }
+    ],
+    "hl": {
+      "max_drawdown": -0.27101943761977554,
+      "realized_volatility": 0.28313395508062833,
+      "repeated_close_count": 17,
+      "total_return": -0.27101943761977554,
+      "trade_count": 213
+    },
+    "hl_transitions": {
+      "entries": 106,
+      "exits": 106
+    },
+    "n_differing_signals": 9,
+    "rho_0": 0.9995067971714848,
+    "rho_by_lag": {
+      "-2": -0.01851116112860524,
+      "-1": -0.007634100200441346,
+      "0": 0.9995067971714848,
+      "1": -0.012243321770423749,
+      "2": -0.018903468017087536
+    },
+    "signal_agreement_rate": 0.9980053191489362
+  },
+  "window_a": {
+    "annualized_volatility": 0.28313395508062833,
+    "cagr_footnote": "suppressed per spec \u00a74.9 (meaningless / can raise OverflowError on short/long-af samples)",
+    "config": {
+      "execution_lag": 1,
+      "execution_mode": "next_open",
+      "fee_bps": 4.5,
+      "funding_mode": "required",
+      "funding_notional_basis": "period_start",
+      "max_gross_leverage": 1.05,
+      "slippage_bps": 1.0
+    },
+    "counterfactual_status": "COMPLETED",
+    "drag_comparable": true,
+    "first_frame_signal": false,
+    "frame_end": "2026-07-31T23:00:00+00:00",
+    "frame_start": "2026-01-25T00:00:00+00:00",
+    "funding_events_excluded": 23545,
+    "funding_gap_tolerance_suspicious": false,
+    "funding_modelled": true,
+    "funding_notional_basis": "period_start",
+    "leverage_breach": false,
+    "max_drawdown": -0.27101943761977554,
+    "max_gross_exposure": 1.0014497940818472,
+    "n_frame_bars": 4512,
+    "n_leverage_breach_periods": 0,
+    "n_periods": 4511,
+    "n_raw_bars": 4611,
+    "name": "A",
+    "provenance": {
+      "datasets": [
+        {
+          "dataset_id": "hyperliquid.ohlcv.1h.BTC",
+          "field_type": "ohlcv",
+          "native_or_proxy": "native",
+          "processing_version": "qr-data-001-v1.3",
+          "proxy_for": null,
+          "source_venue": "Hyperliquid"
+        },
+        {
+          "dataset_id": "hyperliquid.funding.BTC",
+          "field_type": "funding_rate",
+          "native_or_proxy": "native",
+          "processing_version": "qr-data-001-v1.3",
+          "proxy_for": null,
+          "source_venue": "Hyperliquid"
+        }
+      ],
+      "funding_modelled": true,
+      "funding_notional_basis": "period_start",
+      "target_execution_venue": "Hyperliquid",
+      "universe": {
+        "listing_data_source": "inferred_from_candle_activity",
+        "notes": "QR-SMOKE-001 A",
+        "survivorship_safe": false,
+        "universe_asof_policy": "point_in_time_inferred_from_first_last_native_trade",
+        "universe_source": "hyperliquid.info.meta"
+      },
+      "uses_proxy_data": false
+    },
+    "provenance_complete": true,
+    "ruined": false,
+    "sharpe": -2.0266252542287497,
+    "sortino": -2.9165762674660485,
+    "survivorship_safe": false,
+    "total_drag_return": 0.09789058511268967,
+    "total_return": -0.27101943761977554,
+    "trade_count": 213,
+    "unexecuted_rebalances": [],
+    "uses_proxy_data": false
+  },
+  "window_b1": {
+    "annualized_volatility": 0.4075646534255665,
+    "cagr_footnote": "suppressed per spec \u00a74.9 (meaningless / can raise OverflowError on short/long-af samples)",
+    "config": {
+      "execution_lag": 1,
+      "execution_mode": "next_open",
+      "fee_bps": 4.5,
+      "funding_mode": "disabled",
+      "funding_notional_basis": "not_modelled",
+      "max_gross_leverage": 1.05,
+      "slippage_bps": 1.0
+    },
+    "counterfactual_status": "COMPLETED",
+    "drag_comparable": true,
+    "first_frame_signal": true,
+    "frame_end": "2026-07-31T23:00:00+00:00",
+    "frame_start": "2020-01-05T03:00:00+00:00",
+    "funding_events_excluded": 0,
+    "funding_gap_tolerance_suspicious": false,
+    "funding_modelled": false,
+    "funding_notional_basis": "not_modelled",
+    "leverage_breach": false,
+    "max_drawdown": -0.707120610100609,
+    "max_gross_exposure": 1.0000000000000016,
+    "n_frame_bars": 57597,
+    "n_leverage_breach_periods": 0,
+    "n_periods": 57596,
+    "n_raw_bars": 57696,
+    "name": "B1",
+    "provenance": {
+      "datasets": [
+        {
+          "dataset_id": "binance.ohlcv.1h.BTC",
+          "field_type": "ohlcv",
+          "native_or_proxy": "proxy",
+          "processing_version": "qr-data-001-v1.2",
+          "proxy_for": "Hyperliquid",
+          "source_venue": "Binance"
+        }
+      ],
+      "funding_modelled": false,
+      "funding_notional_basis": "not_modelled",
+      "target_execution_venue": "Hyperliquid",
+      "universe": {
+        "listing_data_source": "inferred_from_candle_activity",
+        "notes": "QR-SMOKE-001 B1",
+        "survivorship_safe": false,
+        "universe_asof_policy": "point_in_time_inferred_from_first_last_native_trade",
+        "universe_source": "hyperliquid.info.meta"
+      },
+      "uses_proxy_data": true
+    },
+    "provenance_complete": true,
+    "ruined": false,
+    "sharpe": 0.45942132524353596,
+    "sortino": 0.6647521070153759,
+    "survivorship_safe": false,
+    "total_drag_return": 7.255929149524304,
+    "total_return": 0.9844956681839521,
+    "trade_count": 2796,
+    "unexecuted_rebalances": [],
+    "uses_proxy_data": true
+  },
+  "window_b2": {
+    "annualized_volatility": 0.30833675654600456,
+    "cagr_footnote": "suppressed per spec \u00a74.9 (meaningless / can raise OverflowError on short/long-af samples)",
+    "config": {
+      "execution_lag": 1,
+      "execution_mode": "next_open",
+      "fee_bps": 4.5,
+      "funding_mode": "required",
+      "funding_notional_basis": "period_start",
+      "max_gross_leverage": 1.05,
+      "slippage_bps": 1.0
+    },
+    "counterfactual_status": "COMPLETED",
+    "drag_comparable": true,
+    "first_frame_signal": true,
+    "frame_end": "2026-07-31T23:00:00+00:00",
+    "frame_start": "2024-08-15T15:00:00+00:00",
+    "funding_events_excluded": 10888,
+    "funding_gap_tolerance_suspicious": false,
+    "funding_modelled": true,
+    "funding_notional_basis": "period_start",
+    "leverage_breach": false,
+    "max_drawdown": -0.6455227867471687,
+    "max_gross_exposure": 1.0092543004052874,
+    "n_frame_bars": 17169,
+    "n_leverage_breach_periods": 0,
+    "n_periods": 17168,
+    "n_raw_bars": 17268,
+    "name": "B2",
+    "provenance": {
+      "datasets": [
+        {
+          "dataset_id": "binance.ohlcv.1h.BTC",
+          "field_type": "ohlcv",
+          "native_or_proxy": "proxy",
+          "processing_version": "qr-data-001-v1.2",
+          "proxy_for": "Hyperliquid",
+          "source_venue": "Binance"
+        },
+        {
+          "dataset_id": "hyperliquid.funding.BTC",
+          "field_type": "funding_rate",
+          "native_or_proxy": "native",
+          "processing_version": "qr-data-001-v1.3",
+          "proxy_for": null,
+          "source_venue": "Hyperliquid"
+        }
+      ],
+      "funding_modelled": true,
+      "funding_notional_basis": "period_start",
+      "target_execution_venue": "Hyperliquid",
+      "universe": {
+        "listing_data_source": "inferred_from_candle_activity",
+        "notes": "QR-SMOKE-001 B2",
+        "survivorship_safe": false,
+        "universe_asof_policy": "point_in_time_inferred_from_first_last_native_trade",
+        "universe_source": "hyperliquid.info.meta"
+      },
+      "uses_proxy_data": true
+    },
+    "provenance_complete": true,
+    "ruined": false,
+    "sharpe": -0.9565130654902627,
+    "sortino": -1.348185730609438,
+    "survivorship_safe": false,
+    "total_drag_return": 0.413105555064864,
+    "total_return": -0.4889147073911466,
+    "trade_count": 852,
+    "unexecuted_rebalances": [],
+    "uses_proxy_data": true
+  }
+}

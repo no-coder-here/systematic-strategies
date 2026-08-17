@@ -1,0 +1,25 @@
+{
+  "api_response_count": 1,
+  "code_version": "f9351a20a0be66aaaab779d2087cf07e434a50be",
+  "coverage_segments": [],
+  "dataset_id": "hyperliquid.ohlcv.1h.BTC",
+  "end_timestamp": "2026-08-16T17:00:00+00:00",
+  "endpoint": "candleSnapshot",
+  "excluded_backfill_bars": {},
+  "frequency": "1h",
+  "native_or_proxy": "native",
+  "processing_version": "qr-data-001-v1.3",
+  "request_windows": [
+    [
+      1546300800000,
+      1786903200000
+    ]
+  ],
+  "retrieved_at": "2026-08-16T18:48:50.161399+00:00",
+  "source_type": "ohlcv",
+  "source_venue": "Hyperliquid",
+  "start_timestamp": "2026-01-20T11:00:00+00:00",
+  "symbols": [
+    "BTC"
+  ]
+}

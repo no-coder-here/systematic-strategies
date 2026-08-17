@@ -26,6 +26,14 @@ Systematic-strategies repo, data layer (QR-DATA-001):
   `git diff`/`git checkout` are NOT usable as a mutation-testing safety net here; back up files to
   the scratchpad before mutating and restore with `cp`, then diff against the backup to confirm a
   clean revert.
+- As of the QR-SMOKE-001 audit (2026-08-16) real Hyperliquid-native data also exists:
+  `data/processed/hyperliquid/ohlcv/1h/BTC.parquet` + `data/processed/hyperliquid/funding/BTC.parquet`
+  + `data/metadata/hyperliquid/*.json` sidecars + verbatim raw archive under
+  `data/raw/hyperliquid/{candleSnapshot,fundingHistory}/BTC/...`. Fetched via
+  `HyperliquidProvider(offline=False, storage_base_dir="data", archive_raw_responses=True)`, not
+  ad-hoc requests. See [[qr_smoke_001_findings]] for the empirical-range-discovery method and the
+  sandbox networking gotcha (large HL API responses get truncated inside the command sandbox and
+  need `dangerouslyDisableSandbox: true`).
 - Root `conftest.py` gates `@pytest.mark.integration` tests behind `--run-integration`; this is the
   only skip mechanism in the data test suite (verified no other skip/xfail/env-guard patterns
   exist across `tests/data/*.py`).
