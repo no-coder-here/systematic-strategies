@@ -12,4 +12,4 @@
 - [Coverage is per-behaviour](feedback_coverage_per_behaviour.md) — "one test per mandated area" is not coverage; require one mutation per behaviour and ask what wasn't mutated
 - [QR-METHODOLOGY-001](project_qr_methodology_001.md) — research workflow v1.6 PASS WITH WARNINGS; hard-enforce only silent-corruption paths, judgement elsewhere; bootstrap OOS authorised, nothing sealed
 - [Subagent worktree isolation](ops_subagent_worktree_isolation.md) — agents get worktrees without gitignored data; run live-data steps yourself in the main tree
-- [QR-PREP-001](project_qr_prep_001.md) — pre-research cleanup; runner FAILED 3 audits (guarantee ≠ mechanism); corrected HL venue facts; accreting-archive poisoning
+- [QR-PREP-001](project_qr_prep_001.md) — PRE-RESEARCH PASS; OOS-001 sealed+spent (BTC-funding-only); procedural protection; base-class pytest.raises trap

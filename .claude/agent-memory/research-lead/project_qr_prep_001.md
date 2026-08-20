@@ -10,8 +10,9 @@ Sixth work order, 2026-08-18/19. Small cleanup pass before alpha research. Spec
 P§3 housekeeping, P§4 minimal runner, P§5 seal bootstrap OOS). Sits on
 [[project-qr-methodology-001]], [[project-qr-infra-002]], [[project-qr-data-001]].
 
-**Outcome: PRE-RESEARCH FAIL.** P§2/P§3 PASS. P§1 substantially done. **P§4 FAILED three
-independent audits** and its repair budget is exhausted. P§5 never executed. Nothing committed.
+**Outcome: PRE-RESEARCH PASS**, committed on branch `qr-prep-001` (commit `dde6a63`, 432 files).
+Route: P§4 FAILED three independent audits -> user authorised narrowing P§4.8 for *registration
+preconditions* -> fixes landed -> PASS. **OOS-001 is SEALED** (see below). Spec is at **v1.1**.
 
 ## P§4 runner — the blocking item, and why it kept failing
 
@@ -84,3 +85,37 @@ working tree. Residual: `code_version` is `null` in all 210 sidecars because an 
 its cwd inside a worktree I had deleted, so `git rev-parse HEAD` failed; needs one clean re-ingest,
 currently blocked because `list_available_months` (data.vision bucket listing) returns truncated
 chunked responses and does **not** retry `IncompleteRead`.
+
+## Final state (2026-08-20)
+
+**OOS-001 SEALED — the one-time bootstrap is SPENT.** Option A: eval
+`2025-08-01..2026-07-31` (8,760 hourly bars), dependency buffer from `2025-02-01`,
+`funding_coverage_end 2026-08-01T01:00Z`, `max_reveals=1`. 211 datasets / 2,587,789 rows under
+`research/oos/snapshots/` (untracked; hashes committed in `research/oos/protected_windows.json`).
+All 211 `col-buffer-v2` hashes distinct and recomputing exactly.
+**Two limitations that can never be repaired for this window** (`snapshot[]` is fixed at seal):
+proxy-priced, and **funding is BTC-only, so no multi-asset funding/carry strategy can use OOS-001.**
+A second bootstrap needs user authorisation (M§9.1.6) — build forward windows instead.
+
+**Protection is PROCEDURAL by explicit user decision (2026-08-20):** reserved dates stay on disk,
+ingestion untouched, no access-control infrastructure. The only mechanism is a narrow runner guard —
+refuses an `alpha_research` run whose window, **derived from `market_data.close.index`** and never
+from caller-declared `dataset_windows`, overlaps the CLOSED evaluation interval of any `SEALED`
+entry; fails closed on a malformed `protected_windows.json`. Verified against the real seal:
+inside/straddling/both exact boundaries refused, before/after allowed. **The dependency buffer is
+deliberately NOT guarded** (user scoped it to the evaluation interval), so M§9.6.5's
+buffer-as-side-channel concern is open.
+
+## Reusable defect class: a base-class `pytest.raises` does not discriminate
+
+`test_entry_missing_evaluation_end_is_refused` asserted `pytest.raises(ResearchRunnerError)`. A
+mutation defaulting a missing `evaluation_end` to `"2999-01-01"` **survived**, because the bogus
+huge window then raised `ProtectedWindowOverlapError` — a *subclass* — so the test passed for
+entirely the wrong reason. Two different failure modes were indistinguishable.
+**Fix: assert the specific type (or `not isinstance(..., TheOtherSubclass)`) plus a `match=` on the
+field name.** Generalises to any module with an exception hierarchy — see
+[[feedback-coverage-per-behaviour]] and [[feedback-mutation-proof-required]].
+
+I found this because a stalled agent left mutation M5 live in production code and the suite was
+still green. **After any agent crash mid-mutation-testing, do not trust green tests — diff the file
+and finish the mutation proof yourself.** See [[ops-subagent-worktree-isolation]].
