@@ -704,16 +704,17 @@
       "url": "data/futures/um/monthly/klines/ATOMUSDT/1h/ATOMUSDT-1h-2026-07.zip"
     }
   ],
-  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "code_version": null,
   "dataset_id": "binance.ohlcv.1h.ATOM",
   "end_timestamp": "2026-07-31T23:00:00+00:00",
   "excluded_backfill_bars": {},
   "hl_symbol": "ATOM",
+  "hl_unit_multiplier": 1,
   "native_or_proxy": "proxy",
-  "processing_version": "qr-data-001-v1.2",
+  "processing_version": "qr-data-001-v1.3",
   "proxy_for": "Hyperliquid",
-  "retrieved_at": "2026-08-16T16:50:02.189913+00:00",
+  "retrieved_at": "2026-08-18T18:34:38.173978+00:00",
   "source_venue": "Binance",
   "start_timestamp": "2020-02-07T12:00:00+00:00",
-  "unit_multiplier": 1
+  "venue_unit_multiplier": 1
 }

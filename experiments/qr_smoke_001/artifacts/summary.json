@@ -259,7 +259,7 @@
           "dataset_id": "binance.ohlcv.1h.BTC",
           "field_type": "ohlcv",
           "native_or_proxy": "proxy",
-          "processing_version": "qr-data-001-v1.2",
+          "processing_version": "qr-data-001-v1.3",
           "proxy_for": "Hyperliquid",
           "source_venue": "Binance"
         }
@@ -322,7 +322,7 @@
           "dataset_id": "binance.ohlcv.1h.BTC",
           "field_type": "ohlcv",
           "native_or_proxy": "proxy",
-          "processing_version": "qr-data-001-v1.2",
+          "processing_version": "qr-data-001-v1.3",
           "proxy_for": "Hyperliquid",
           "source_venue": "Binance"
         },

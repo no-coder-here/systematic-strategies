@@ -1,0 +1,1387 @@
+{
+  "elapsed_seconds": 255.28655099868774,
+  "errors": {},
+  "reconciled": {
+    "0G": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.14507,
+            "high": 0.1452,
+            "low": 0.14473,
+            "native_traded": true,
+            "open": 0.1452,
+            "trade_count": 77,
+            "volume": 20717.0
+          },
+          "old": {
+            "close": 0.14497,
+            "high": 0.1452,
+            "low": 0.14473,
+            "native_traded": true,
+            "open": 0.1452,
+            "trade_count": 68,
+            "volume": 9312.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "AAVE": {
+      "bars": [
+        {
+          "new": {
+            "close": 89.645,
+            "high": 89.736,
+            "low": 89.211,
+            "native_traded": true,
+            "open": 89.227,
+            "trade_count": 386,
+            "volume": 394.18
+          },
+          "old": {
+            "close": 89.682,
+            "high": 89.682,
+            "low": 89.211,
+            "native_traded": true,
+            "open": 89.227,
+            "trade_count": 359,
+            "volume": 383.64
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 4999
+    },
+    "ADA": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.17428,
+            "high": 0.17445,
+            "low": 0.17402,
+            "native_traded": true,
+            "open": 0.17417,
+            "trade_count": 341,
+            "volume": 519372.0
+          },
+          "old": {
+            "close": 0.17418,
+            "high": 0.17445,
+            "low": 0.17402,
+            "native_traded": true,
+            "open": 0.17417,
+            "trade_count": 326,
+            "volume": 515381.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5002
+    },
+    "AERO": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.40485,
+            "high": 0.40599,
+            "low": 0.40439,
+            "native_traded": true,
+            "open": 0.40599,
+            "trade_count": 210,
+            "volume": 91320.0
+          },
+          "old": {
+            "close": 0.40446,
+            "high": 0.40599,
+            "low": 0.40446,
+            "native_traded": true,
+            "open": 0.40599,
+            "trade_count": 145,
+            "volume": 65891.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "ALGO": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.078229,
+            "high": 0.078246,
+            "low": 0.077884,
+            "native_traded": true,
+            "open": 0.077884,
+            "trade_count": 208,
+            "volume": 70386.0
+          },
+          "old": {
+            "close": 0.078227,
+            "high": 0.078243,
+            "low": 0.077884,
+            "native_traded": true,
+            "open": 0.077884,
+            "trade_count": 154,
+            "volume": 57722.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 4998
+    },
+    "ALT": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.005877,
+            "high": 0.00588,
+            "low": 0.00587,
+            "native_traded": true,
+            "open": 0.005874,
+            "trade_count": 96,
+            "volume": 286173.0
+          },
+          "old": {
+            "close": 0.005871,
+            "high": 0.00588,
+            "low": 0.00587,
+            "native_traded": true,
+            "open": 0.005874,
+            "trade_count": 85,
+            "volume": 259612.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "ANIME": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.002373,
+            "high": 0.002376,
+            "low": 0.002372,
+            "native_traded": true,
+            "open": 0.002375,
+            "trade_count": 123,
+            "volume": 879320.0
+          },
+          "old": {
+            "close": 0.002374,
+            "high": 0.002376,
+            "low": 0.002372,
+            "native_traded": true,
+            "open": 0.002375,
+            "trade_count": 106,
+            "volume": 744329.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5001
+    },
+    "APE": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.12345,
+            "high": 0.12403,
+            "low": 0.12342,
+            "native_traded": true,
+            "open": 0.12403,
+            "trade_count": 93,
+            "volume": 14028.3
+          },
+          "old": {
+            "close": 0.12346,
+            "high": 0.12403,
+            "low": 0.12346,
+            "native_traded": true,
+            "open": 0.12403,
+            "trade_count": 84,
+            "volume": 12994.4
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "AR": {
+      "bars": [
+        {
+          "new": {
+            "close": 1.7775,
+            "high": 1.7797,
+            "low": 1.7749,
+            "native_traded": true,
+            "open": 1.7751,
+            "trade_count": 88,
+            "volume": 866.41
+          },
+          "old": {
+            "close": 1.7779,
+            "high": 1.7797,
+            "low": 1.7749,
+            "native_traded": true,
+            "open": 1.7751,
+            "trade_count": 79,
+            "volume": 793.81
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "ARB": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.07548,
+            "high": 0.07562,
+            "low": 0.0752,
+            "native_traded": true,
+            "open": 0.07521,
+            "trade_count": 116,
+            "volume": 82100.6
+          },
+          "old": {
+            "close": 0.07553,
+            "high": 0.07562,
+            "low": 0.0752,
+            "native_traded": true,
+            "open": 0.07521,
+            "trade_count": 106,
+            "volume": 78905.8
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "ASTER": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.60139,
+            "high": 0.60148,
+            "low": 0.60095,
+            "native_traded": true,
+            "open": 0.60147,
+            "trade_count": 127,
+            "volume": 12848.0
+          },
+          "old": {
+            "close": 0.6014,
+            "high": 0.60148,
+            "low": 0.60095,
+            "native_traded": true,
+            "open": 0.60147,
+            "trade_count": 120,
+            "volume": 12680.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "ATOM": {
+      "bars": [
+        {
+          "new": {
+            "close": 1.4362,
+            "high": 1.4543,
+            "low": 1.4101,
+            "native_traded": true,
+            "open": 1.413,
+            "trade_count": 339,
+            "volume": 33736.0
+          },
+          "old": {
+            "close": 1.4335,
+            "high": 1.4543,
+            "low": 1.4101,
+            "native_traded": true,
+            "open": 1.413,
+            "trade_count": 322,
+            "volume": 32956.16
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "AVNT": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.08862,
+            "high": 0.089067,
+            "low": 0.088377,
+            "native_traded": true,
+            "open": 0.088377,
+            "trade_count": 211,
+            "volume": 320063.0
+          },
+          "old": {
+            "close": 0.088622,
+            "high": 0.089067,
+            "low": 0.088377,
+            "native_traded": true,
+            "open": 0.088377,
+            "trade_count": 205,
+            "volume": 318796.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "AZTEC": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.012011,
+            "high": 0.012035,
+            "low": 0.011995,
+            "native_traded": true,
+            "open": 0.011999,
+            "trade_count": 108,
+            "volume": 130553.0
+          },
+          "old": {
+            "close": 0.012011,
+            "high": 0.012035,
+            "low": 0.011995,
+            "native_traded": true,
+            "open": 0.011999,
+            "trade_count": 93,
+            "volume": 111166.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 4515
+    },
+    "BANANA": {
+      "bars": [
+        {
+          "new": {
+            "close": 3.6157,
+            "high": 3.634,
+            "low": 3.6076,
+            "native_traded": true,
+            "open": 3.61,
+            "trade_count": 113,
+            "volume": 490.2
+          },
+          "old": {
+            "close": 3.6167,
+            "high": 3.634,
+            "low": 3.6076,
+            "native_traded": true,
+            "open": 3.61,
+            "trade_count": 101,
+            "volume": 437.1
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 4998
+    },
+    "BIO": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.024685,
+            "high": 0.02471,
+            "low": 0.024617,
+            "native_traded": true,
+            "open": 0.02471,
+            "trade_count": 151,
+            "volume": 144994.0
+          },
+          "old": {
+            "close": 0.024651,
+            "high": 0.02471,
+            "low": 0.024617,
+            "native_traded": true,
+            "open": 0.02471,
+            "trade_count": 136,
+            "volume": 127607.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5002
+    },
+    "BLUR": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.013121,
+            "high": 0.013156,
+            "low": 0.013115,
+            "native_traded": true,
+            "open": 0.013148,
+            "trade_count": 109,
+            "volume": 156897.0
+          },
+          "old": {
+            "close": 0.013121,
+            "high": 0.013156,
+            "low": 0.013115,
+            "native_traded": true,
+            "open": 0.013148,
+            "trade_count": 97,
+            "volume": 139397.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5002
+    },
+    "BOME": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.000774,
+            "high": 0.000774,
+            "low": 0.000764,
+            "native_traded": true,
+            "open": 0.000767,
+            "trade_count": 93,
+            "volume": 5109605.0
+          },
+          "old": {
+            "close": 0.000771,
+            "high": 0.000773,
+            "low": 0.000764,
+            "native_traded": true,
+            "open": 0.000767,
+            "trade_count": 89,
+            "volume": 5015387.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "BTC": {
+      "bars": [
+        {
+          "new": {
+            "close": 64733.0,
+            "high": 64795.0,
+            "low": 64617.0,
+            "native_traded": true,
+            "open": 64633.0,
+            "trade_count": 6549,
+            "volume": 1119.89852
+          },
+          "old": {
+            "close": 64733.0,
+            "high": 64795.0,
+            "low": 64617.0,
+            "native_traded": true,
+            "open": 64633.0,
+            "trade_count": 6257,
+            "volume": 1117.70092
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "CELO": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.058412,
+            "high": 0.058441,
+            "low": 0.058293,
+            "native_traded": true,
+            "open": 0.058308,
+            "trade_count": 100,
+            "volume": 48329.0
+          },
+          "old": {
+            "close": 0.058423,
+            "high": 0.058435,
+            "low": 0.058293,
+            "native_traded": true,
+            "open": 0.058308,
+            "trade_count": 91,
+            "volume": 45083.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 4999
+    },
+    "CHIP": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.026986,
+            "high": 0.027291,
+            "low": 0.026912,
+            "native_traded": true,
+            "open": 0.027119,
+            "trade_count": 172,
+            "volume": 556843.0
+          },
+          "old": {
+            "close": 0.027065,
+            "high": 0.027291,
+            "low": 0.026912,
+            "native_traded": true,
+            "open": 0.027119,
+            "trade_count": 163,
+            "volume": 543285.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 2865
+    },
+    "CRV": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.24041,
+            "high": 0.24191,
+            "low": 0.23827,
+            "native_traded": true,
+            "open": 0.23842,
+            "trade_count": 608,
+            "volume": 1620506.3
+          },
+          "old": {
+            "close": 0.2405,
+            "high": 0.24191,
+            "low": 0.23827,
+            "native_traded": true,
+            "open": 0.23842,
+            "trade_count": 598,
+            "volume": 1603834.5
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "DASH": {
+      "bars": [
+        {
+          "new": {
+            "close": 29.91,
+            "high": 29.968,
+            "low": 29.876,
+            "native_traded": true,
+            "open": 29.918,
+            "trade_count": 87,
+            "volume": 48.97
+          },
+          "old": {
+            "close": 29.911,
+            "high": 29.968,
+            "low": 29.876,
+            "native_traded": true,
+            "open": 29.918,
+            "trade_count": 83,
+            "volume": 46.74
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 4999
+    },
+    "DOT": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.75225,
+            "high": 0.7539,
+            "low": 0.74713,
+            "native_traded": true,
+            "open": 0.74802,
+            "trade_count": 354,
+            "volume": 17987.0
+          },
+          "old": {
+            "close": 0.75229,
+            "high": 0.7539,
+            "low": 0.74713,
+            "native_traded": true,
+            "open": 0.74802,
+            "trade_count": 340,
+            "volume": 17007.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 4999
+    },
+    "DYM": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.01453,
+            "high": 0.01453,
+            "low": 0.01446,
+            "native_traded": true,
+            "open": 0.01447,
+            "trade_count": 107,
+            "volume": 169339.4
+          },
+          "old": {
+            "close": 0.01452,
+            "high": 0.01453,
+            "low": 0.01446,
+            "native_traded": true,
+            "open": 0.01447,
+            "trade_count": 101,
+            "volume": 159007.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "EIGEN": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.1708,
+            "high": 0.1715,
+            "low": 0.1706,
+            "native_traded": true,
+            "open": 0.1709,
+            "trade_count": 114,
+            "volume": 16759.32
+          },
+          "old": {
+            "close": 0.1709,
+            "high": 0.1715,
+            "low": 0.1706,
+            "native_traded": true,
+            "open": 0.1709,
+            "trade_count": 110,
+            "volume": 16300.66
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 4999
+    },
+    "ENA": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.083484,
+            "high": 0.084081,
+            "low": 0.083416,
+            "native_traded": true,
+            "open": 0.083416,
+            "trade_count": 329,
+            "volume": 924691.0
+          },
+          "old": {
+            "close": 0.083543,
+            "high": 0.084081,
+            "low": 0.083416,
+            "native_traded": true,
+            "open": 0.083416,
+            "trade_count": 322,
+            "volume": 910279.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "ENS": {
+      "bars": [
+        {
+          "new": {
+            "close": 3.8633,
+            "high": 3.868,
+            "low": 3.8532,
+            "native_traded": true,
+            "open": 3.8585,
+            "trade_count": 140,
+            "volume": 557.28
+          },
+          "old": {
+            "close": 3.8633,
+            "high": 3.868,
+            "low": 3.8532,
+            "native_traded": true,
+            "open": 3.8585,
+            "trade_count": 136,
+            "volume": 542.19
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "ETC": {
+      "bars": [
+        {
+          "new": {
+            "close": 6.0929,
+            "high": 6.0966,
+            "low": 6.0687,
+            "native_traded": true,
+            "open": 6.0687,
+            "trade_count": 174,
+            "volume": 869.36
+          },
+          "old": {
+            "close": 6.0938,
+            "high": 6.0966,
+            "low": 6.0687,
+            "native_traded": true,
+            "open": 6.0687,
+            "trade_count": 169,
+            "volume": 853.57
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "ETH": {
+      "bars": [
+        {
+          "new": {
+            "close": 1915.5,
+            "high": 1916.6,
+            "low": 1910.0,
+            "native_traded": true,
+            "open": 1910.3,
+            "trade_count": 2611,
+            "volume": 5822.2603
+          },
+          "old": {
+            "close": 1915.4,
+            "high": 1916.6,
+            "low": 1910.0,
+            "native_traded": true,
+            "open": 1910.3,
+            "trade_count": 2538,
+            "volume": 5803.2316
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "ETHFI": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.4833,
+            "high": 0.48928,
+            "low": 0.48111,
+            "native_traded": true,
+            "open": 0.48324,
+            "trade_count": 1512,
+            "volume": 630125.6
+          },
+          "old": {
+            "close": 0.48361,
+            "high": 0.48928,
+            "low": 0.48111,
+            "native_traded": true,
+            "open": 0.48324,
+            "trade_count": 1488,
+            "volume": 621772.9
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "FARTCOIN": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.142,
+            "high": 0.14233,
+            "low": 0.14054,
+            "native_traded": true,
+            "open": 0.14055,
+            "trade_count": 457,
+            "volume": 1305410.2
+          },
+          "old": {
+            "close": 0.1416,
+            "high": 0.14233,
+            "low": 0.14054,
+            "native_traded": true,
+            "open": 0.14055,
+            "trade_count": 451,
+            "volume": 1303472.8
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5002
+    },
+    "FET": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.12152,
+            "high": 0.12176,
+            "low": 0.12122,
+            "native_traded": true,
+            "open": 0.12132,
+            "trade_count": 157,
+            "volume": 126486.0
+          },
+          "old": {
+            "close": 0.12154,
+            "high": 0.12176,
+            "low": 0.12122,
+            "native_traded": true,
+            "open": 0.12132,
+            "trade_count": 152,
+            "volume": 121856.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5002
+    },
+    "FIL": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.63369,
+            "high": 0.63486,
+            "low": 0.62906,
+            "native_traded": true,
+            "open": 0.63065,
+            "trade_count": 199,
+            "volume": 24379.6
+          },
+          "old": {
+            "close": 0.63436,
+            "high": 0.63486,
+            "low": 0.62906,
+            "native_traded": true,
+            "open": 0.63065,
+            "trade_count": 177,
+            "volume": 22806.7
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5001
+    },
+    "FOGO": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.008122,
+            "high": 0.008128,
+            "low": 0.008101,
+            "native_traded": true,
+            "open": 0.008106,
+            "trade_count": 119,
+            "volume": 258837.0
+          },
+          "old": {
+            "close": 0.008128,
+            "high": 0.008128,
+            "low": 0.008101,
+            "native_traded": true,
+            "open": 0.008106,
+            "trade_count": 115,
+            "volume": 253319.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "GAS": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.9416,
+            "high": 0.94259,
+            "low": 0.94069,
+            "native_traded": true,
+            "open": 0.94137,
+            "trade_count": 94,
+            "volume": 2108.1
+          },
+          "old": {
+            "close": 0.94156,
+            "high": 0.94259,
+            "low": 0.94069,
+            "native_traded": true,
+            "open": 0.94137,
+            "trade_count": 88,
+            "volume": 1932.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5002
+    },
+    "GMT": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.005928,
+            "high": 0.005942,
+            "low": 0.005917,
+            "native_traded": true,
+            "open": 0.005934,
+            "trade_count": 108,
+            "volume": 540866.0
+          },
+          "old": {
+            "close": 0.005926,
+            "high": 0.005942,
+            "low": 0.005917,
+            "native_traded": true,
+            "open": 0.005934,
+            "trade_count": 106,
+            "volume": 535029.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5001
+    },
+    "GOAT": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.012721,
+            "high": 0.012729,
+            "low": 0.012672,
+            "native_traded": true,
+            "open": 0.012672,
+            "trade_count": 112,
+            "volume": 161348.0
+          },
+          "old": {
+            "close": 0.012725,
+            "high": 0.012725,
+            "low": 0.012672,
+            "native_traded": true,
+            "open": 0.012672,
+            "trade_count": 107,
+            "volume": 154332.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 4998
+    },
+    "GRAM": {
+      "bars": [
+        {
+          "new": {
+            "close": 1.325,
+            "high": 1.3379,
+            "low": 1.3215,
+            "native_traded": true,
+            "open": 1.3352,
+            "trade_count": 453,
+            "volume": 85794.0
+          },
+          "old": {
+            "close": 1.3259,
+            "high": 1.3379,
+            "low": 1.3215,
+            "native_traded": true,
+            "open": 1.3352,
+            "trade_count": 450,
+            "volume": 85745.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 1154
+    },
+    "HEMI": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.006569,
+            "high": 0.006623,
+            "low": 0.00654,
+            "native_traded": true,
+            "open": 0.006579,
+            "trade_count": 177,
+            "volume": 1999607.0
+          },
+          "old": {
+            "close": 0.006586,
+            "high": 0.006623,
+            "low": 0.00654,
+            "native_traded": true,
+            "open": 0.006579,
+            "trade_count": 171,
+            "volume": 1949857.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "HYPE": {
+      "bars": [
+        {
+          "new": {
+            "close": 58.691,
+            "high": 58.749,
+            "low": 58.502,
+            "native_traded": true,
+            "open": 58.632,
+            "trade_count": 5843,
+            "volume": 90970.29
+          },
+          "old": {
+            "close": 58.684,
+            "high": 58.749,
+            "low": 58.502,
+            "native_traded": true,
+            "open": 58.632,
+            "trade_count": 5749,
+            "volume": 90290.83
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 4998
+    },
+    "HYPER": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.061894,
+            "high": 0.062164,
+            "low": 0.061812,
+            "native_traded": true,
+            "open": 0.061825,
+            "trade_count": 89,
+            "volume": 18793.0
+          },
+          "old": {
+            "close": 0.061926,
+            "high": 0.062164,
+            "low": 0.061812,
+            "native_traded": true,
+            "open": 0.061825,
+            "trade_count": 88,
+            "volume": 18579.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5001
+    },
+    "ICP": {
+      "bars": [
+        {
+          "new": {
+            "close": 2.2117,
+            "high": 2.2137,
+            "low": 2.2051,
+            "native_traded": true,
+            "open": 2.2058,
+            "trade_count": 91,
+            "volume": 7008.0
+          },
+          "old": {
+            "close": 2.2122,
+            "high": 2.2137,
+            "low": 2.2051,
+            "native_traded": true,
+            "open": 2.2058,
+            "trade_count": 90,
+            "volume": 6999.1
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "IMX": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.09955,
+            "high": 0.10018,
+            "low": 0.0984,
+            "native_traded": true,
+            "open": 0.09885,
+            "trade_count": 209,
+            "volume": 303288.3
+          },
+          "old": {
+            "close": 0.09945,
+            "high": 0.10018,
+            "low": 0.0984,
+            "native_traded": true,
+            "open": 0.09885,
+            "trade_count": 208,
+            "volume": 303164.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5001
+    },
+    "INIT": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.05095,
+            "high": 0.051215,
+            "low": 0.050729,
+            "native_traded": true,
+            "open": 0.051083,
+            "trade_count": 224,
+            "volume": 174231.0
+          },
+          "old": {
+            "close": 0.051006,
+            "high": 0.051215,
+            "low": 0.050729,
+            "native_traded": true,
+            "open": 0.051083,
+            "trade_count": 222,
+            "volume": 173622.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5001
+    },
+    "INJ": {
+      "bars": [
+        {
+          "new": {
+            "close": 4.0658,
+            "high": 4.0733,
+            "low": 4.0386,
+            "native_traded": true,
+            "open": 4.0502,
+            "trade_count": 122,
+            "volume": 4580.9
+          },
+          "old": {
+            "close": 4.0664,
+            "high": 4.0733,
+            "low": 4.0386,
+            "native_traded": true,
+            "open": 4.0502,
+            "trade_count": 121,
+            "volume": 4576.5
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "IOTA": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.032421,
+            "high": 0.032421,
+            "low": 0.032257,
+            "native_traded": true,
+            "open": 0.03228,
+            "trade_count": 96,
+            "volume": 66034.0
+          },
+          "old": {
+            "close": 0.032421,
+            "high": 0.032421,
+            "low": 0.032257,
+            "native_traded": true,
+            "open": 0.03228,
+            "trade_count": 95,
+            "volume": 65565.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 4998
+    },
+    "LAYER": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.059764,
+            "high": 0.059831,
+            "low": 0.059673,
+            "native_traded": true,
+            "open": 0.059673,
+            "trade_count": 79,
+            "volume": 25897.0
+          },
+          "old": {
+            "close": 0.059751,
+            "high": 0.059831,
+            "low": 0.059673,
+            "native_traded": true,
+            "open": 0.059673,
+            "trade_count": 77,
+            "volume": 25223.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5001
+    },
+    "LINK": {
+      "bars": [
+        {
+          "new": {
+            "close": 9.5115,
+            "high": 9.5235,
+            "low": 9.4516,
+            "native_traded": true,
+            "open": 9.4517,
+            "trade_count": 659,
+            "volume": 10094.2
+          },
+          "old": {
+            "close": 9.5231,
+            "high": 9.5235,
+            "low": 9.4516,
+            "native_traded": true,
+            "open": 9.4517,
+            "trade_count": 646,
+            "volume": 10034.2
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "LIT": {
+      "bars": [
+        {
+          "new": {
+            "close": 2.3895,
+            "high": 2.4013,
+            "low": 2.3839,
+            "native_traded": true,
+            "open": 2.385,
+            "trade_count": 1695,
+            "volume": 147202.0
+          },
+          "old": {
+            "close": 2.3893,
+            "high": 2.4013,
+            "low": 2.3839,
+            "native_traded": true,
+            "open": 2.385,
+            "trade_count": 1689,
+            "volume": 147034.0
+          },
+          "timestamp": "2026-08-18T18:00:00+00:00"
+        }
+      ],
+      "rows_checked": 5000
+    },
+    "PNUT": {
+      "bars": [
+        {
+          "new": {
+            "close": 0.04205,
+            "high": 0.04234,
+            "low": 0.04203,
+            "native_traded": true,
+            "open": 0.04222,
+            "trade_count": 99,
+            "volume": 126062.5
+          },
+          "old": {
+            "close": 0.04219,
+            "high": 0.04222,
+            "low": 0.04219,
+            "native_traded": true,
+            "open": 0.04222,
+            "trade_count": 4,
+            "volume": 1473.2
+          },
+          "timestamp": "2026-08-18T19:00:00+00:00"
+        }
+      ],
+      "rows_checked": 4999
+    }
+  },
+  "skipped": {},
+  "symbols_requested": [
+    "0G",
+    "AAVE",
+    "ADA",
+    "AERO",
+    "ALGO",
+    "ALT",
+    "ANIME",
+    "APE",
+    "AR",
+    "ARB",
+    "ASTER",
+    "ATOM",
+    "AVNT",
+    "AZTEC",
+    "BANANA",
+    "BIO",
+    "BLUR",
+    "BOME",
+    "BTC",
+    "CELO",
+    "CHIP",
+    "CRV",
+    "DASH",
+    "DOT",
+    "DYM",
+    "EIGEN",
+    "ENA",
+    "ENS",
+    "ETC",
+    "ETH",
+    "ETHFI",
+    "FARTCOIN",
+    "FET",
+    "FIL",
+    "FOGO",
+    "GAS",
+    "GMT",
+    "GOAT",
+    "GRAM",
+    "HEMI",
+    "HYPE",
+    "HYPER",
+    "ICP",
+    "IMX",
+    "INIT",
+    "INJ",
+    "IOTA",
+    "LAYER",
+    "LINK",
+    "LIT",
+    "PNUT"
+  ],
+  "total_bars_reconciled": 51
+}

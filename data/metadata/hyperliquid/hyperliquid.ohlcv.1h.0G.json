@@ -1,0 +1,26 @@
+{
+  "api_response_count": 1,
+  "code_version": "e0a2a5c3b12271e09965d248ce22bf3003f853d2",
+  "coverage_segments": [],
+  "dataset_id": "hyperliquid.ohlcv.1h.0G",
+  "end_timestamp": "2026-08-19T11:00:00+00:00",
+  "endpoint": "candleSnapshot",
+  "excluded_backfill_bars": {},
+  "frequency": "1h",
+  "native_or_proxy": "native",
+  "notes": "This dataset is an ACCRETING ARCHIVE of a rolling source (candleSnapshot serves ~209 days, docs/data_contract.md D\u00a71 F1/F2), NOT a mirror of the current API response, and therefore may extend earlier than any single API response. Existing persisted rows win on conflict (P\u00a71.3); conflicts_this_run=0; parquet_rewritten_this_run=True.",
+  "processing_version": "qr-data-001-v1.3",
+  "request_windows": [
+    [
+      1546300800000,
+      1787143161175
+    ]
+  ],
+  "retrieved_at": "2026-08-19T12:39:21.175118+00:00",
+  "source_type": "ohlcv",
+  "source_venue": "Hyperliquid",
+  "start_timestamp": "2026-01-22T11:00:00+00:00",
+  "symbols": [
+    "0G"
+  ]
+}

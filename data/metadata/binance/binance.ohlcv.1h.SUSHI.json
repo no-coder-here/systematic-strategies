@@ -641,16 +641,17 @@
       "url": "data/futures/um/monthly/klines/SUSHIUSDT/1h/SUSHIUSDT-1h-2026-07.zip"
     }
   ],
-  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "code_version": null,
   "dataset_id": "binance.ohlcv.1h.SUSHI",
   "end_timestamp": "2026-07-31T23:00:00+00:00",
   "excluded_backfill_bars": {},
   "hl_symbol": "SUSHI",
+  "hl_unit_multiplier": 1,
   "native_or_proxy": "proxy",
-  "processing_version": "qr-data-001-v1.2",
+  "processing_version": "qr-data-001-v1.3",
   "proxy_for": "Hyperliquid",
-  "retrieved_at": "2026-08-16T16:55:04.970245+00:00",
+  "retrieved_at": "2026-08-18T18:42:35.568763+00:00",
   "source_venue": "Binance",
   "start_timestamp": "2020-09-04T07:00:00+00:00",
-  "unit_multiplier": 1
+  "venue_unit_multiplier": 1
 }

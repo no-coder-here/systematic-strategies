@@ -18,3 +18,6 @@ data/processed/
 # (records/, history.jsonl) IS committed; large/binary artifact payloads
 # (dataset snapshots, equity curves, ...) are not.
 experiments/registry/artifacts/
+
+# Local salvage/scratch artifacts (not research outputs)
+artifacts/

@@ -7,6 +7,8 @@ merge), malformed body.
 
 from __future__ import annotations
 
+import http.client
+
 import pytest
 
 from data.hyperliquid.client import HyperliquidAPIError, HyperliquidClient
@@ -159,3 +161,34 @@ def test_identical_duplicate_across_pages_is_merged_without_error():
     assert len(merged) == 2
     assert merged[0]["t"] == 0
     assert merged[1]["t"] == HOUR_MS
+
+
+# ---------------------------------------------------------------------------
+# Repair-cycle-1 D3 -- http.client.IncompleteRead (truncated response body)
+# MUST be retried like the other transient transport errors already are.
+# ---------------------------------------------------------------------------
+
+
+def test_incomplete_read_is_retried_and_succeeds(scripted_client):
+    call_count = {"n": 0}
+
+    def handler(payload):
+        call_count["n"] += 1
+        if call_count["n"] == 1:
+            return http.client.IncompleteRead(b"partial")
+        return [candle(0, 100, 101, 99, 100, 1, 1)]
+
+    client, transport = scripted_client(handler)
+    result = client.fetch_candle_snapshot("BTC", "1h", 0, HOUR_MS)
+
+    assert len(result) == 1
+    assert call_count["n"] == 2  # first attempt failed transiently, second succeeded -- proves a retry occurred
+
+
+def test_incomplete_read_exhausts_retries_and_raises(scripted_client):
+    def handler(payload):
+        return http.client.IncompleteRead(b"partial")
+
+    client, transport = scripted_client(handler)
+    with pytest.raises(HyperliquidAPIError):
+        client.fetch_candle_snapshot("BTC", "1h", 0, HOUR_MS)

@@ -236,16 +236,17 @@
       "url": "data/futures/um/monthly/klines/ZKUSDT/1h/ZKUSDT-1h-2026-07.zip"
     }
   ],
-  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "code_version": null,
   "dataset_id": "binance.ohlcv.1h.ZK",
   "end_timestamp": "2026-07-31T23:00:00+00:00",
   "excluded_backfill_bars": {},
   "hl_symbol": "ZK",
+  "hl_unit_multiplier": 1,
   "native_or_proxy": "proxy",
-  "processing_version": "qr-data-001-v1.2",
+  "processing_version": "qr-data-001-v1.3",
   "proxy_for": "Hyperliquid",
-  "retrieved_at": "2026-08-16T16:56:27.458103+00:00",
+  "retrieved_at": "2026-08-18T18:45:38.274488+00:00",
   "source_venue": "Binance",
   "start_timestamp": "2024-06-17T11:00:00+00:00",
-  "unit_multiplier": 1
+  "venue_unit_multiplier": 1
 }

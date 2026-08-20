@@ -1,0 +1,790 @@
+{
+  "elapsed_seconds": 150.41662311553955,
+  "errors": {},
+  "repaired": {
+    "TAO": {
+      "new": {
+        "close": 191.51,
+        "high": 192.39,
+        "low": 191.43,
+        "native_traded": true,
+        "open": 191.82,
+        "trade_count": 538,
+        "volume": 466.961
+      },
+      "old": {
+        "close": 191.74,
+        "high": 191.88,
+        "low": 191.62,
+        "native_traded": true,
+        "open": 191.82,
+        "trade_count": 162,
+        "volume": 252.506
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "TIA": {
+      "new": {
+        "close": 0.29899,
+        "high": 0.30069,
+        "low": 0.29899,
+        "native_traded": true,
+        "open": 0.30019,
+        "trade_count": 95,
+        "volume": 10876.4
+      },
+      "old": {
+        "close": 0.29995,
+        "high": 0.30042,
+        "low": 0.29995,
+        "native_traded": true,
+        "open": 0.30019,
+        "trade_count": 22,
+        "volume": 3879.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "TRB": {
+      "new": {
+        "close": 13.097,
+        "high": 13.136,
+        "low": 13.097,
+        "native_traded": true,
+        "open": 13.109,
+        "trade_count": 129,
+        "volume": 118.83
+      },
+      "old": {
+        "close": 13.119,
+        "high": 13.123,
+        "low": 13.104,
+        "native_traded": true,
+        "open": 13.109,
+        "trade_count": 35,
+        "volume": 34.17
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "TRUMP": {
+      "new": {
+        "close": 1.3977,
+        "high": 1.403,
+        "low": 1.3976,
+        "native_traded": true,
+        "open": 1.4028,
+        "trade_count": 183,
+        "volume": 8878.9
+      },
+      "old": {
+        "close": 1.4007,
+        "high": 1.403,
+        "low": 1.4006,
+        "native_traded": true,
+        "open": 1.4028,
+        "trade_count": 52,
+        "volume": 2194.9
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "TRX": {
+      "new": {
+        "close": 0.33292,
+        "high": 0.33339,
+        "low": 0.33285,
+        "native_traded": true,
+        "open": 0.33339,
+        "trade_count": 173,
+        "volume": 62171.0
+      },
+      "old": {
+        "close": 0.33315,
+        "high": 0.33339,
+        "low": 0.33315,
+        "native_traded": true,
+        "open": 0.33339,
+        "trade_count": 41,
+        "volume": 15454.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "UMA": {
+      "new": {
+        "close": 0.31815,
+        "high": 0.31903,
+        "low": 0.31815,
+        "native_traded": true,
+        "open": 0.31884,
+        "trade_count": 82,
+        "volume": 4817.0
+      },
+      "old": {
+        "close": 0.31887,
+        "high": 0.31903,
+        "low": 0.31859,
+        "native_traded": true,
+        "open": 0.31884,
+        "trade_count": 16,
+        "volume": 836.9
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "UNI": {
+      "new": {
+        "close": 3.2922,
+        "high": 3.3006,
+        "low": 3.2826,
+        "native_traded": true,
+        "open": 3.2826,
+        "trade_count": 390,
+        "volume": 50832.5
+      },
+      "old": {
+        "close": 3.2852,
+        "high": 3.2905,
+        "low": 3.2826,
+        "native_traded": true,
+        "open": 3.2826,
+        "trade_count": 67,
+        "volume": 7258.9
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "USUAL": {
+      "new": {
+        "close": 0.00877,
+        "high": 0.0088,
+        "low": 0.00875,
+        "native_traded": true,
+        "open": 0.00879,
+        "trade_count": 102,
+        "volume": 234274.1
+      },
+      "old": {
+        "close": 0.00879,
+        "high": 0.0088,
+        "low": 0.00879,
+        "native_traded": true,
+        "open": 0.00879,
+        "trade_count": 27,
+        "volume": 59107.6
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "VINE": {
+      "new": {
+        "close": 0.006684,
+        "high": 0.006705,
+        "low": 0.006638,
+        "native_traded": true,
+        "open": 0.006699,
+        "trade_count": 37,
+        "volume": 109213.0
+      },
+      "old": {
+        "close": 0.006705,
+        "high": 0.006705,
+        "low": 0.006638,
+        "native_traded": true,
+        "open": 0.006699,
+        "trade_count": 10,
+        "volume": 31444.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "W": {
+      "new": {
+        "close": 0.00809,
+        "high": 0.00812,
+        "low": 0.00808,
+        "native_traded": true,
+        "open": 0.0081,
+        "trade_count": 121,
+        "volume": 901029.6
+      },
+      "old": {
+        "close": 0.00811,
+        "high": 0.00811,
+        "low": 0.00809,
+        "native_traded": true,
+        "open": 0.0081,
+        "trade_count": 29,
+        "volume": 132887.1
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "WCT": {
+      "new": {
+        "close": 0.03404,
+        "high": 0.034132,
+        "low": 0.03367,
+        "native_traded": true,
+        "open": 0.033975,
+        "trade_count": 296,
+        "volume": 462165.0
+      },
+      "old": {
+        "close": 0.033836,
+        "high": 0.033976,
+        "low": 0.033801,
+        "native_traded": true,
+        "open": 0.033975,
+        "trade_count": 73,
+        "volume": 107337.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "WIF": {
+      "new": {
+        "close": 0.13666,
+        "high": 0.13712,
+        "low": 0.13666,
+        "native_traded": true,
+        "open": 0.13706,
+        "trade_count": 119,
+        "volume": 13988.0
+      },
+      "old": {
+        "close": 0.13705,
+        "high": 0.1371,
+        "low": 0.13695,
+        "native_traded": true,
+        "open": 0.13706,
+        "trade_count": 37,
+        "volume": 3863.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "WLD": {
+      "new": {
+        "close": 0.32398,
+        "high": 0.32608,
+        "low": 0.32391,
+        "native_traded": true,
+        "open": 0.32562,
+        "trade_count": 663,
+        "volume": 434063.1
+      },
+      "old": {
+        "close": 0.32548,
+        "high": 0.32608,
+        "low": 0.32523,
+        "native_traded": true,
+        "open": 0.32562,
+        "trade_count": 130,
+        "volume": 36039.6
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "WLFI": {
+      "new": {
+        "close": 0.060589,
+        "high": 0.060618,
+        "low": 0.060441,
+        "native_traded": true,
+        "open": 0.060563,
+        "trade_count": 100,
+        "volume": 58226.0
+      },
+      "old": {
+        "close": 0.060501,
+        "high": 0.060576,
+        "low": 0.060441,
+        "native_traded": true,
+        "open": 0.060563,
+        "trade_count": 32,
+        "volume": 17337.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "XAI": {
+      "new": {
+        "close": 0.00718,
+        "high": 0.0072,
+        "low": 0.00712,
+        "native_traded": true,
+        "open": 0.00713,
+        "trade_count": 72,
+        "volume": 645211.6
+      },
+      "old": {
+        "close": 0.00716,
+        "high": 0.00716,
+        "low": 0.00712,
+        "native_traded": true,
+        "open": 0.00713,
+        "trade_count": 20,
+        "volume": 306211.4
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "XLM": {
+      "new": {
+        "close": 0.15415,
+        "high": 0.15471,
+        "low": 0.1541,
+        "native_traded": true,
+        "open": 0.15448,
+        "trade_count": 165,
+        "volume": 26129.0
+      },
+      "old": {
+        "close": 0.15459,
+        "high": 0.15465,
+        "low": 0.15441,
+        "native_traded": true,
+        "open": 0.15448,
+        "trade_count": 41,
+        "volume": 4620.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "XMR": {
+      "new": {
+        "close": 416.2,
+        "high": 417.76,
+        "low": 416.2,
+        "native_traded": true,
+        "open": 417.24,
+        "trade_count": 334,
+        "volume": 299.294
+      },
+      "old": {
+        "close": 417.58,
+        "high": 417.76,
+        "low": 417.1,
+        "native_traded": true,
+        "open": 417.24,
+        "trade_count": 64,
+        "volume": 33.303
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "YGG": {
+      "new": {
+        "close": 0.019028,
+        "high": 0.019163,
+        "low": 0.019019,
+        "native_traded": true,
+        "open": 0.019108,
+        "trade_count": 128,
+        "volume": 374086.0
+      },
+      "old": {
+        "close": 0.019098,
+        "high": 0.019126,
+        "low": 0.019098,
+        "native_traded": true,
+        "open": 0.019108,
+        "trade_count": 33,
+        "volume": 29375.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "ZEC": {
+      "new": {
+        "close": 509.73,
+        "high": 511.36,
+        "low": 507.31,
+        "native_traded": true,
+        "open": 507.42,
+        "trade_count": 2303,
+        "volume": 3238.02
+      },
+      "old": {
+        "close": 509.25,
+        "high": 509.84,
+        "low": 507.31,
+        "native_traded": true,
+        "open": 507.42,
+        "trade_count": 862,
+        "volume": 1444.04
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "ZEN": {
+      "new": {
+        "close": 3.844,
+        "high": 3.8778,
+        "low": 3.8424,
+        "native_traded": true,
+        "open": 3.8765,
+        "trade_count": 92,
+        "volume": 919.5
+      },
+      "old": {
+        "close": 3.8746,
+        "high": 3.8778,
+        "low": 3.8741,
+        "native_traded": true,
+        "open": 3.8765,
+        "trade_count": 13,
+        "volume": 80.07
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "ZETA": {
+      "new": {
+        "close": 0.02705,
+        "high": 0.02711,
+        "low": 0.02704,
+        "native_traded": true,
+        "open": 0.02705,
+        "trade_count": 113,
+        "volume": 73885.7
+      },
+      "old": {
+        "close": 0.02709,
+        "high": 0.0271,
+        "low": 0.02705,
+        "native_traded": true,
+        "open": 0.02705,
+        "trade_count": 27,
+        "volume": 23976.8
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "ZK": {
+      "new": {
+        "close": 0.007469,
+        "high": 0.007505,
+        "low": 0.007469,
+        "native_traded": true,
+        "open": 0.007494,
+        "trade_count": 130,
+        "volume": 354640.0
+      },
+      "old": {
+        "close": 0.007494,
+        "high": 0.007504,
+        "low": 0.007491,
+        "native_traded": true,
+        "open": 0.007494,
+        "trade_count": 42,
+        "volume": 118433.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "ZORA": {
+      "new": {
+        "close": 0.004788,
+        "high": 0.004814,
+        "low": 0.004785,
+        "native_traded": true,
+        "open": 0.004808,
+        "trade_count": 125,
+        "volume": 808602.0
+      },
+      "old": {
+        "close": 0.004803,
+        "high": 0.004808,
+        "low": 0.004799,
+        "native_traded": true,
+        "open": 0.004808,
+        "trade_count": 41,
+        "volume": 345999.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "ZRO": {
+      "new": {
+        "close": 0.77815,
+        "high": 0.77981,
+        "low": 0.77483,
+        "native_traded": true,
+        "open": 0.77981,
+        "trade_count": 260,
+        "volume": 27383.9
+      },
+      "old": {
+        "close": 0.77718,
+        "high": 0.77981,
+        "low": 0.77483,
+        "native_traded": true,
+        "open": 0.77981,
+        "trade_count": 95,
+        "volume": 14898.9
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "kBONK": {
+      "new": {
+        "close": 0.002341,
+        "high": 0.002349,
+        "low": 0.002338,
+        "native_traded": true,
+        "open": 0.002347,
+        "trade_count": 107,
+        "volume": 8388894.0
+      },
+      "old": {
+        "close": 0.002343,
+        "high": 0.002349,
+        "low": 0.002342,
+        "native_traded": true,
+        "open": 0.002347,
+        "trade_count": 22,
+        "volume": 199926.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "kFLOKI": {
+      "new": {
+        "close": 0.019962,
+        "high": 0.020049,
+        "low": 0.019955,
+        "native_traded": true,
+        "open": 0.020018,
+        "trade_count": 78,
+        "volume": 63449.0
+      },
+      "old": {
+        "close": 0.020008,
+        "high": 0.020024,
+        "low": 0.019993,
+        "native_traded": true,
+        "open": 0.020018,
+        "trade_count": 22,
+        "volume": 16501.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "kLUNC": {
+      "new": {
+        "close": 0.047552,
+        "high": 0.047881,
+        "low": 0.047416,
+        "native_traded": true,
+        "open": 0.04758,
+        "trade_count": 133,
+        "volume": 131019.0
+      },
+      "old": {
+        "close": 0.047555,
+        "high": 0.047834,
+        "low": 0.047555,
+        "native_traded": true,
+        "open": 0.04758,
+        "trade_count": 38,
+        "volume": 60409.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "kNEIRO": {
+      "new": {
+        "close": 0.06373,
+        "high": 0.06414,
+        "low": 0.06371,
+        "native_traded": true,
+        "open": 0.06414,
+        "trade_count": 104,
+        "volume": 32345.4
+      },
+      "old": {
+        "close": 0.06403,
+        "high": 0.06414,
+        "low": 0.06398,
+        "native_traded": true,
+        "open": 0.06414,
+        "trade_count": 25,
+        "volume": 6863.7
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "kPEPE": {
+      "new": {
+        "close": 0.002603,
+        "high": 0.002617,
+        "low": 0.0026,
+        "native_traded": true,
+        "open": 0.002615,
+        "trade_count": 212,
+        "volume": 36552022.0
+      },
+      "old": {
+        "close": 0.002609,
+        "high": 0.002617,
+        "low": 0.002609,
+        "native_traded": true,
+        "open": 0.002615,
+        "trade_count": 53,
+        "volume": 3587905.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "kSHIB": {
+      "new": {
+        "close": 0.004427,
+        "high": 0.004455,
+        "low": 0.004425,
+        "native_traded": true,
+        "open": 0.004455,
+        "trade_count": 92,
+        "volume": 777396.0
+      },
+      "old": {
+        "close": 0.004435,
+        "high": 0.004455,
+        "low": 0.004435,
+        "native_traded": true,
+        "open": 0.004455,
+        "trade_count": 26,
+        "volume": 354438.0
+      },
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    }
+  },
+  "skipped": {
+    "SKY": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "SNX": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "SOL": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "SOPH": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "SPX": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "STABLE": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "STBL": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "STRK": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "STX": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "SUI": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "SUPER": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "SUSHI": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "SYRUP": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T18:00:00+00:00"
+    },
+    "TNSR": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T19:00:00+00:00"
+    },
+    "TON": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-06-15T09:00:00+00:00"
+    },
+    "TST": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-05-25T09:00:00+00:00"
+    },
+    "TURBO": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T18:00:00+00:00"
+    },
+    "USTC": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-05-05T09:00:00+00:00"
+    },
+    "VIRTUAL": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T18:00:00+00:00"
+    },
+    "VVV": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T18:00:00+00:00"
+    },
+    "XPL": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T18:00:00+00:00"
+    },
+    "XRP": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-08-18T18:00:00+00:00"
+    },
+    "YZY": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-05-05T07:00:00+00:00"
+    },
+    "ZEREBRO": {
+      "reason": "no_conflict_nothing_to_repair",
+      "timestamp": "2026-05-05T09:00:00+00:00"
+    }
+  },
+  "symbols_requested": [
+    "SKY",
+    "SNX",
+    "SOL",
+    "SOPH",
+    "SPX",
+    "STABLE",
+    "STBL",
+    "STRK",
+    "STX",
+    "SUI",
+    "SUPER",
+    "SUSHI",
+    "SYRUP",
+    "TAO",
+    "TIA",
+    "TNSR",
+    "TON",
+    "TRB",
+    "TRUMP",
+    "TRX",
+    "TST",
+    "TURBO",
+    "UMA",
+    "UNI",
+    "USTC",
+    "USUAL",
+    "VINE",
+    "VIRTUAL",
+    "VVV",
+    "W",
+    "WCT",
+    "WIF",
+    "WLD",
+    "WLFI",
+    "XAI",
+    "XLM",
+    "XMR",
+    "XPL",
+    "XRP",
+    "YGG",
+    "YZY",
+    "ZEC",
+    "ZEN",
+    "ZEREBRO",
+    "ZETA",
+    "ZK",
+    "ZORA",
+    "ZRO",
+    "kBONK",
+    "kFLOKI",
+    "kLUNC",
+    "kNEIRO",
+    "kPEPE",
+    "kSHIB"
+  ]
+}

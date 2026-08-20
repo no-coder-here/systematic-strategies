@@ -9,9 +9,17 @@ metadata:
 v1.3 R§21, a deliberately narrow closure). All 4 production defects closed by independent
 measurement; 14/14 per-field identity mutations and 13/13 known survivors go RED; **zero survivors
 remain.** Registry suite 245 → 292; full suite 823 passed, 6 skipped. Residual non-blocking items
-are QR-INFRA-002-B in `docs/TODO.md`. **Nothing is committed and the smoke migration has NOT been
-run** — `experiments/registry/` holds only `README.md`, awaiting the user's authorization, and per
-R§20.7.4 the commit MUST precede the migration or the records' code fingerprint is unverifiable.
+are QR-INFRA-002-B in `docs/TODO.md`.
+
+**COMMITTED and migrated** (`607e4cd` code, `e0a2a5c` the five QR-SMOKE-001 records) in the
+correct order — code first, then registration, per R§20.7.4.
+
+> **SCHEMA IS NOW EXPENSIVE TO CHANGE.** `SCHEMA_VERSION = "qr-infra-002-v1.3"` and **five records
+> exist** under `experiments/registry/records/`. The earlier ruling that a version bump was "safe
+> because the registry was empty" is **no longer true** — a bump now re-hashes and orphans all
+> five. Any future work needing new per-experiment fields should layer *above* the registry using
+> existing fields (`hypothesis_id`, `search_space_id`, `n_configs_evaluated`, `frozen_spec_ref`,
+> `parent_experiment_id`, `research_stage`, `run_facts`) plus adjacent files, not amend R§4.
 
 Fourth work order: a local, auditable experiment registry so every research run is reproducible and
 permanently recorded. Infrastructure only. Spec: `docs/experiment_registry_spec.md` **v1.3 FROZEN**

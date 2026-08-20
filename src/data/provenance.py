@@ -96,6 +96,11 @@ class HyperliquidDatasetProvenance:
     code_version: Optional[str]
     excluded_backfill_bars: dict = field(default_factory=dict)  # symbol -> {"count", "start", "end"}
     coverage_segments: tuple = ()  # funding only; tuple of dicts, else empty
+    # QR-PREP-001 P§1.4 — free-text notes appended to the engine-facing
+    # `DatasetProvenance.notes` (e.g. the accreting-archive disclosure P§1.4
+    # requires). Optional/backward-compatible: absent in pre-P§1 sidecars,
+    # which `from_json_dict` reads back as `None`.
+    notes: Optional[str] = None
 
     def __post_init__(self) -> None:
         if self.native_or_proxy != "native":
@@ -109,6 +114,14 @@ class HyperliquidDatasetProvenance:
         """D§9.1 closing sentence — "MUST be emittable as a DatasetProvenance
         (§13.1) accepted by the engine unchanged."
         """
+        notes = (
+            f"endpoint={self.endpoint}; frequency={self.frequency}; "
+            f"api_response_count={self.api_response_count}; code_version={self.code_version}; "
+            f"excluded_backfill_bars={self.excluded_backfill_bars}; "
+            f"coverage_segments={self.coverage_segments}"
+        )
+        if self.notes:
+            notes = f"{notes}; {self.notes}"
         return DatasetProvenance(
             source_venue=self.source_venue,
             field_type=self.source_type,
@@ -118,12 +131,7 @@ class HyperliquidDatasetProvenance:
             processing_version=self.processing_version,
             retrieval_date=pd.Timestamp(self.retrieved_at).date(),
             symbol_mapping=",".join(self.symbols),
-            notes=(
-                f"endpoint={self.endpoint}; frequency={self.frequency}; "
-                f"api_response_count={self.api_response_count}; code_version={self.code_version}; "
-                f"excluded_backfill_bars={self.excluded_backfill_bars}; "
-                f"coverage_segments={self.coverage_segments}"
-            ),
+            notes=notes,
         )
 
     def to_json_dict(self) -> dict:
@@ -144,6 +152,7 @@ class HyperliquidDatasetProvenance:
             "code_version": self.code_version,
             "excluded_backfill_bars": self.excluded_backfill_bars,
             "coverage_segments": list(self.coverage_segments),
+            "notes": self.notes,
         }
 
     @staticmethod
@@ -165,6 +174,7 @@ class HyperliquidDatasetProvenance:
             code_version=d.get("code_version"),
             excluded_backfill_bars=d.get("excluded_backfill_bars", {}),
             coverage_segments=tuple(d.get("coverage_segments", [])),
+            notes=d.get("notes"),
         )
 
 

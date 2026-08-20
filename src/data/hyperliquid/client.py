@@ -7,6 +7,7 @@ authenticated/account endpoints, never places orders (repo-wide safety rule).
 
 from __future__ import annotations
 
+import http.client
 import json
 import time
 import urllib.error
@@ -79,13 +80,26 @@ class HyperliquidClient:
             return resp.read()
 
     def _post(self, payload: dict) -> object:
+        # Retries on transient transport/parse errors (D§2 retry contract):
+        # URLError/TimeoutError/OSError (network), JSONDecodeError/ValueError
+        # (malformed body), and http.client.IncompleteRead -- a truncated
+        # HTTP response body (observed live: 23/232 symbols failed a
+        # QR-PREP-001 P§1 backfill run on this exact error, uncaught before
+        # this fix). Anything else propagates immediately, unretried.
         body = json.dumps(payload).encode("utf-8")
         last_exc: Optional[Exception] = None
         for attempt in range(self._max_retries):
             try:
                 raw = self._send(body)
                 return json.loads(raw)
-            except (urllib.error.URLError, TimeoutError, json.JSONDecodeError, ValueError, OSError) as exc:
+            except (
+                urllib.error.URLError,
+                TimeoutError,
+                json.JSONDecodeError,
+                ValueError,
+                OSError,
+                http.client.IncompleteRead,
+            ) as exc:
                 last_exc = exc
                 if attempt + 1 < self._max_retries:
                     time.sleep(self._backoff_base * (2**attempt))

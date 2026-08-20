@@ -425,16 +425,17 @@
       "url": "data/futures/um/monthly/klines/LDOUSDT/1h/LDOUSDT-1h-2026-07.zip"
     }
   ],
-  "code_version": "26d784ecf2430b8588456bfc298940fc20da0a88",
+  "code_version": null,
   "dataset_id": "binance.ohlcv.1h.LDO",
   "end_timestamp": "2026-07-31T23:00:00+00:00",
   "excluded_backfill_bars": {},
   "hl_symbol": "LDO",
+  "hl_unit_multiplier": 1,
   "native_or_proxy": "proxy",
-  "processing_version": "qr-data-001-v1.2",
+  "processing_version": "qr-data-001-v1.3",
   "proxy_for": "Hyperliquid",
-  "retrieved_at": "2026-08-16T16:48:54.411943+00:00",
+  "retrieved_at": "2026-08-18T18:34:56.878999+00:00",
   "source_venue": "Binance",
   "start_timestamp": "2022-09-22T12:00:00+00:00",
-  "unit_multiplier": 1
+  "venue_unit_multiplier": 1
 }
